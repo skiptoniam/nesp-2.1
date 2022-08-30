@@ -21,11 +21,11 @@ library(stars)
 library(starsExtra)
 
 # Set your study name
-name <- "Abrolhos"                                                              # Change here
+name <- "Jurien-Two-Rocks"                                                              # Change here
 
 # Set CRS for bathymetry data
 wgscrs <- "+proj=longlat +datum=WGS84 +south"                                   # Latlong projection 
-sppcrs <- CRS("+proj=utm +zone=49 +south +datum=WGS84 +units=m +no_defs")       # UTM projection - check your UTM Zone!
+# sppcrs <- CRS("+proj=utm +zone=49 +south +datum=WGS84 +units=m +no_defs")       # UTM projection - check your UTM Zone!
 
 # This next section uses coarse GA bathymetry, replace if you have better bathymetry data (ie. multibeam or LiDAR)
 # Read in and merge GA coarse bathy tiles from https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/67703
@@ -34,7 +34,7 @@ cbaths      <- list.files("data/spatial/rasters/raw bathymetry",                
 cbathy      <- lapply(cbaths,                                                   # Loads all of the tiles
                  function(x){read.table(file = x, header = TRUE, sep = ",")})    
 cbathy      <- do.call("rbind", lapply(cbathy, as.data.frame))                  # Turns the list into a data frame
-cbathy      <- cbathy[cbathy$Z <= 0 & cbathy$X < 117, ]                         # Get rid of topography data above 0m, general crop to speed life up
+cbathy      <- cbathy[cbathy$Z <= 0, ]                         # Get rid of topography data above 0m, general crop to speed life up
 bath_r      <- terra::rast(cbathy)                                            # Convert to a raster
 crs(bath_r) <- wgscrs                                                           # Set the CRS
 plot(bath_r)                                                                    # Plot to check everything looks ok
@@ -42,16 +42,16 @@ plot(bath_r)                                                                    
 # Crop the bathymetry to the general study area
 # tbath <- projectRaster(bath_r, crs = sppcrs)
 # tbath_c <- crop(tbath, extent(c(105000, 165000, 6880000, 7000000)))
-tbath_c <- crop(bath_r, terra::ext(c(112.978992634, 113.622204887,-28.146712369, -27.081850499)))
+tbath_c <- crop(bath_r, terra::ext(c(114, 115.75,-32, -30)))
 plot(tbath_c)
 fbath_df <- as.data.frame(tbath_c, xy = TRUE)                                   # Convert this to a dataframe
 saveRDS(fbath_df, paste(paste0('data/spatial/rasters/',                         # Save it for use in the next scripts
                                name), 'ga_bathy.rds', sep = "_")) 
 
 # Calculate TERRA terrain derivatives
-preds.terra <- terra::terrain(tbath_c, neighbors = 8,
+preds <- terra::terrain(tbath_c, neighbors = 8,
                  v = c("slope", "aspect", "TPI", "TRI", "roughness"))           # Remove here as necessary
-preds.terra <- rast(list(tbath_c, preds.terra))                                             # Stack the derivatives with the bathymetry
+preds <- rast(list(tbath_c, preds))                                             # Stack the derivatives with the bathymetry
 
 # Calculate detrended bathymetry
 zstar <- st_as_stars(tbath_c)                                                   # Convert to a stars object
