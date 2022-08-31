@@ -21,7 +21,7 @@ library(stars)
 library(starsExtra)
 
 # Set your study name
-name <- "Jurien-Two-Rocks"                                                              # Change here
+name <- "Jurien-Two-Rocks"                                                      # Change here
 
 # Set CRS for bathymetry data
 wgscrs <- "+proj=longlat +datum=WGS84 +south"                                   # Latlong projection 
@@ -56,7 +56,7 @@ preds <- rast(list(tbath_c, preds))                                             
 # Calculate detrended bathymetry
 zstar <- st_as_stars(tbath_c)                                                   # Convert to a stars object
 detre <- detrend(zstar, parallel = 8)                                           # Detrend bathymetry - This usually runs quite slow!
-detre <- as(object = detre, Class = "SpatRaster")                                   # Convert it to a raster
+detre <- as(object = detre, Class = "SpatRaster")                               # Convert it to a raster
 names(detre) <- c("detrended", "lineartrend")
 preds <- rast(list(preds, detre))                                               # Make a rasterstack
 plot(preds)
