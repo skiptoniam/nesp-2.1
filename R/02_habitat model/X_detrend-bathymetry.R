@@ -19,37 +19,33 @@ library(terra)
 library(sf)
 library(stars)
 library(starsExtra)
+library(googledrive)
 
 # Set your study name
-name <- ""                                                                      # Change here
+name <- "nesp-2.1"                                                                      # Change here
 
 # Set CRS for bathymetry data
 wgscrs <- "+proj=longlat +datum=WGS84 +south"                                   # Latlong projection 
 
 # This next section uses coarse GA bathymetry, replace if you have better bathymetry data (ie. multibeam or LiDAR)
 # Read in and merge GA coarse bathy tiles from https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/67703
-cbaths      <- list.files("data/spatial/rasters/raw bathymetry",                # Bathymetry data too large for git stored here
-                          "*tile", full.names = TRUE) 
-cbathy      <- lapply(cbaths,                                                   # Loads all of the tiles
-                      function(x){read.table(file = x, header = TRUE, sep = ",")})    
-cbathy      <- do.call("rbind", lapply(cbathy, as.data.frame))                  # Turns the list into a data frame
-cbathy      <- cbathy[cbathy$Z <= 0, ]                                          # Get rid of topography data above 0m
-bath_r      <- terra::rast(cbathy)                                              # Convert to a raster
-crs(bath_r) <- wgscrs                                                           # Set the CRS
-plot(bath_r)                                                                    # Plot to check everything looks ok
-
-# Crop the bathymetry to the general study area
-# tbath_c <- crop(bath_r, terra::ext(c(114, 115.75,-32, -30)))                  # No need for cropping when you want all of aus...
-# plot(tbath_c)
+drive_download("ausbath_09_v4_prj_masked.tif", 
+               path = "data/spatial/rasters/raw bathymetry/ausbath_09_v4_prj_masked.tif",
+               overwrite = T)
+bath <- rast("data/spatial/rasters/raw bathymetry/ausbath_09_v4_prj_masked.tif")
+plot(bath)                                                                      # Plot to check everything looks ok
+bath_df <- as.data.frame(bath, na.rm = T, xy = T)                               # Trying to remove NAs to see if it fixes anything                   
+bath_r <- rast(bath_df)
+crs(bath_r) <- crs(bath)
+plot(bath_r)
 
 # Calculate detrended bathymetry
-zstar <- st_as_stars(tbath_c)                                                   # Convert to a stars object
-detre <- detrend(zstar, parallel = 8)                                           # Detrend bathymetry - This usually runs quite slow!
+zstar <- st_as_stars(bath_r)                                                    # Convert to a stars object
+detre <- detrend(zstar, parallel = 8)                                           # Detrend bathymetry - wish it had a progress bar
 detre <- as(object = detre, Class = "SpatRaster")                               # Convert it to a raster
 names(detre) <- c("detrended", "lineartrend")
-preds <- rast(detre)                                                            # Make a rasterstack 
-plot(preds)                                                                     # Check it 
-
+plot(detre[[1]])
+summary(detre[[1]])
 # Save the output
-preds <- wrap(preds)
-saveRDS(preds, paste(paste0('data/spatial/rasters/', name), 'spatial_covariates.rds', sep = "_"))
+terra::writeRaster(detre[[1]], "data/spatial/rasters/raw bathymetry/nesp-2.1_detrended-bathy_250m.tif",
+                   overwrite = T)
