@@ -15,6 +15,10 @@ library( fields)
 library( rasterVis)
 library( tidyverse)
 library(googledrive)
+library(terra)
+library(Rcpp)
+library(SpaDES)
+library(dplyr)
 
 set.seed( 66)
 
@@ -40,8 +44,13 @@ depth[is.na(depth)] <- -9999
 
 depth_class <- depth %>%
   mutate(bathClass = cut( depth$Depth, breaks = c(-99999,-251,-120,0),
-                          labels = c("outside","deep","shallow")))%>%
-  glimpse()
+                          labels = c("outside","deep","shallow")))
+
+# depth_class <- depth %>%
+#   mutate(bathClass = cut( depth$Depth, breaks = c(-99999,-251,0),
+#                           labels = c("outside","inside")))%>%
+#   glimpse()
+
 ##Check we don't have any NAs
 summary(depth_class$bathClass)
 
@@ -51,10 +60,14 @@ tabl <- table(depth_class$bathClass)
 ##define the inclusion probs for each class
 ncells          <- sum(!is.na(depth_class$bathClass))
 
-combined.levels <- data.frame( bathClass = c("outside","shallow","deep"), 
+combined.levels <- data.frame( bathClass = c("outside","shallow","deep"),
                                rel.import = c(0,
-                                            0.7,
-                                            0.3))
+                                            0.2,
+                                            0.8))
+
+# combined.levels <- data.frame( bathClass = c("outside","inside"),
+#                                rel.import = c(0,
+#                                               1.0))
 
 combined.levels$SampProb   <- tabl / ncells
 combined.levels$SampProb   <- as.numeric(combined.levels$SampProb)
@@ -82,14 +95,28 @@ design <- depth_class %>%
 inclProb_raster <- rasterFromXYZ(xyz = design[,c("Easting","Northing","incl.probs")])
 
 #inclProb25_raster <- aggregate( inclProb_raster, fact=5, fun= max)# only need to run in massive datasets
-plot(inclProb_raster)
+# plot(inclProb_raster)
 #Always a good idea to write out this raster incase things crash and you can re-read this in negating rerunning the above bit of code
 writeRaster(inclProb_raster,"data/spatial/rasters/raw bathymetry/National_Sampling_Master_1M_inclProb_raster_rug.tif", overwrite = T)
 
 # inclProb_raster <- raster("data/spatial/rasters/raw bathymetry/National_Sampling_Master_1M_inclProb_raster_rug.tif") # Read from raster
+rm(list=setdiff(ls(), "inclProb_raster")) # Remove all items apart from the inclusion probs - run faster
 #########################################Set up the sampling design##############################
 ##number of drops----
-n <- 100000 # set to what you want. For national model I think we'll need 10M points to be useful (enough samples) at park scales
+
+# Try and split the fucker in half to make it run
+# middle of the raster should be 296417 
+
+inclProb_split <- splitRaster(inclProb_raster, nx = 2, ny = 1)
+inclProb_west <- inclProb_split[[1]] # Need to run for eastern states [[2]]
+
+# If this is still too unbalanced - re run depth as a raster
+# Split into 2 tiles and run MBH on this
+
+n <- 200000 # set to what you want. For national model I think we'll need 10M points to be useful (enough samples) at park scales
+
+# 5 mil probably optimal - but won't run with that density
+# Subset raster to smaller size and run with the same relative density
 
 ##Run sampling design with quasiSamp.raster- faster than qausiSamp
 # e <- extent(-2500000,  -1500000, -3900000, -3500000)
@@ -97,14 +124,14 @@ n <- 100000 # set to what you want. For national model I think we'll need 10M po
 # plot(inclProb_c)
 
 samp <- quasiSamp.raster(n = n, 
-                         inclusion.probs = inclProb_raster, 
+                         inclusion.probs = inclProb_west, 
                          randStartType = 2, 
-                         nSampsToConsider = n*5000) # may need to up this value if not running at a national scale
-plot(inclProb_raster)
-points( samp[,c("x","y")], pch=20, cex=0.5, col = "red") 
+                         nSampsToConsider = n*500) # may need to up this value if not running at a national scale
+# plot(inclProb_raster)
+# points( samp[,c("x","y")], pch=20, cex=0.5, col = "red") 
 
 ## assign sampling order
-samp$DropC<-1:nrow(samp)
+samp$DropC <- 1:nrow(samp)
 
 ## Write out sampling file 
 write.csv(samp,"data/mbh-design/National_Sampling_Master.csv") # write out the each region
