@@ -135,8 +135,6 @@ rm(list=setdiff(ls(), "inclProb_raster")) # Remove all items apart from the incl
 # #########################################Set up the sampling design##############################
 # ##number of drops----
 # 
-# # Try and split the fucker in half to make it run
-# # middle of the raster should be 296417 
 # 
 # inclProb_split <- splitRaster(inclProb_raster, nx = 8, ny = 4)
 # inclProb_test <- inclProb_split[[7]] # Need to run for eastern states [[2]]
@@ -150,9 +148,6 @@ rm(list=setdiff(ls(), "inclProb_raster")) # Remove all items apart from the incl
 # # Subset raster to smaller size and run with the same relative density
 # 
 # ##Run sampling design with quasiSamp.raster- faster than qausiSamp
-# # e <- extent(-2500000,  -1500000, -3900000, -3500000)
-# # inclProb_c <- crop(inclProb_raster, e)
-# # plot(inclProb_c)
 
 n <- 200000
 
