@@ -24,11 +24,12 @@ wgscrs <- CRS("+proj=longlat +datum=WGS84")
 
 tifs.inv  <- list.files("data/spatial/rasters/", "investigator*", full.names = TRUE)
 preds.inv <- stack(tifs.inv)
+extent(preds.inv)
+preds.inv <- crop(preds.inv, extent(120.855, 121.18, -34.15, -33.895))
 plot(preds.inv)
 
 # Make cuts for Investigator
-n <- 70
-
+n <- 72                                                                         # Number of samples
 
 hist(preds.inv$investigator_roughness)
 roughness_qs <- c(0, 0.7, 0.9, 1)
@@ -89,37 +90,15 @@ samp <- quasiSamp.raster(n = n,
                        nSampsToConsider = 20000)
 
 plot(inp_overall)
-points( samp[,c("x","y")], pch=20, cex=1, col = "red")
-
-## check spread of sites
-# plot against inclusion probabilities
-plot(inp_overall)
-plot(tha_sites_sp, add = TRUE)
+points( samp[,c("x","y")], pch = 20, cex=1, col = "red")
 
 
-# get covariates
-preds <- readRDS("output/covariate_rasters.rds")
+## assign sampling order
+samp$DropC <- 1:nrow(samp)
+samp <- samp %>%
+  dplyr::mutate(sample = paste("INV-BV", 
+                               str_pad(row_number(), 2,                     
+                                       side = "left", pad = "0") , sep = "-"))
 
-site_covs <- cbind(tha_sites, extract(preds, tha_sites_sp))
-site_c_w  <- melt(site_covs, id.vars = 1:4)
-ggplot(site_c_w, aes(ID, value)) + 
-  geom_point(alpha = 3/5) +
-  geom_smooth() +
-  facet_wrap(~ variable, scales = "free")
-
-covdat <- readRDS("output/covariate_df.rds")
-covd_w <- melt(covdat[3:6])
-covd_w$source <- c("rasters")
-
-sitedat <- data.frame("variable" = site_c_w$variable, "value" = site_c_w$value, "source" = c("sites"))
-alldat  <- rbind(covd_w, sitedat)
-
-ggplot(alldat, aes(variable, value, colour = source)) + 
-  geom_violin() + 
-  facet_wrap(~ variable, scales = "free")
-
-hist(site_covs$site)
-hist(site_covs$depth)
-hist(site_covs$slope)
-
-
+## Write out sampling file 
+write.csv(samp,"data/mbh-design/Investigator_BRUVs.csv") # write out the each region

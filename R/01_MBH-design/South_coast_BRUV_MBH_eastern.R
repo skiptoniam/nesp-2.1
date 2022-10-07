@@ -24,6 +24,9 @@ wgscrs <- CRS("+proj=longlat +datum=WGS84")
 
 tifs  <- list.files("data/spatial/rasters/", "eastern*", full.names = TRUE)
 preds <- stack(tifs)
+preds$clumps <- clump(preds$eastern_Z, directions = 8)
+preds$clumps[preds$clumps %in% c(2, 3, 4, 5, 6 , 7, 8)] <- NA                   # lol
+preds <- mask(preds, preds$clumps)                                              # also
 plot(preds)
 
 # Make cuts for Daw
@@ -90,34 +93,14 @@ samp <- quasiSamp.raster(n = n,
 plot(inp_overall)
 points( samp[,c("x","y")], pch=20, cex=1, col = "red")
 
-## check spread of sites
-# plot against inclusion probabilities
-plot(inp_overall)
-plot(tha_sites_sp, add = TRUE)
+## assign sampling order
+samp$DropC <- 1:nrow(samp)
+samp <- samp %>%
+  dplyr::mutate(sample = paste("DAW-BV", 
+                               str_pad(row_number(), 2,                     
+                                       side = "left", pad = "0") , sep = "-"))
 
-# get covariates
-preds <- readRDS("output/covariate_rasters.rds")
-
-site_covs <- cbind(tha_sites, extract(preds, tha_sites_sp))
-site_c_w  <- melt(site_covs, id.vars = 1:4)
-ggplot(site_c_w, aes(ID, value)) + 
-  geom_point(alpha = 3/5) +
-  geom_smooth() +
-  facet_wrap(~ variable, scales = "free")
-
-covdat <- readRDS("output/covariate_df.rds")
-covd_w <- melt(covdat[3:6])
-covd_w$source <- c("rasters")
-
-sitedat <- data.frame("variable" = site_c_w$variable, "value" = site_c_w$value, "source" = c("sites"))
-alldat  <- rbind(covd_w, sitedat)
-
-ggplot(alldat, aes(variable, value, colour = source)) + 
-  geom_violin() + 
-  facet_wrap(~ variable, scales = "free")
-
-hist(site_covs$site)
-hist(site_covs$depth)
-hist(site_covs$slope)
+## Write out sampling file 
+write.csv(samp,"data/mbh-design/Eastern_BRUVs.csv") # write out the each region
 
 

@@ -27,7 +27,7 @@ sf_to_df <- function(data, park) {                                              
     dplyr::select(-geometry) %>%
     dplyr::arrange(DropC) %>%
     dplyr::slice_head(n = 100) %>%                                              # Take the top 100 rows
-    dplyr::mutate(sample = paste(park, 
+    dplyr::mutate(sample = paste(park,"DC", 
                                  str_pad(row_number(), 3,                       # Pad with more 0s when samples > 99
                                          side = "left", pad = "0") , sep = "-"))
   assign(paste(park, "MBH", sep = "_"), data.frame(temp), envir = .GlobalEnv)
