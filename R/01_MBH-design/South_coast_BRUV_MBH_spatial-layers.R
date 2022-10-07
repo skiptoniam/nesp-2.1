@@ -96,52 +96,7 @@ preds.eas[[3]] <- mask(preds.eas[[3]], preds.eas[[1]])
 preds.eas[[4]] <- mask(preds.eas[[4]], preds.eas[[1]])
 plot(preds.eas)
 
-# Make cuts for Investigator
-n <- 70
-detrended_qs <- c(0, 0.1, 0.9, 1)
-detrended_cuts   <- quantile(preds.inv$detrended, probs = detrended_qs)
-cat_detrended  <- cut(preds$detrended, breaks = detrended_cuts, na.rm = TRUE)
-plot(stack(preds$detrended, cat_detrended))
-detrended_split <- data.frame(zones = unique(cat_detrended),
-                          split = c(0.2, 0.4, 0.4))
-detrended_split$zbruv <- detrended_split$split * n
-rough_split
+# Write out the tifs
+writeRaster(preds.inv, paste0("data/spatial/rasters/investigator_",names(preds.inv), ".tif"), overwrite = T)
+writeRaster(preds.eas, paste0("data/spatial/rasters/eastern_",names(preds.eas), ".tif"), overwrite = T)
 
-##########################################Convert depth into a data.frame and generate strata##############################
-##convert to df
-depth               <- as.data.frame(depth, xy = T)
-colnames(depth)     <- c("Easting", "Northing", "Depth")
-depth[is.na(depth)] <- -9999
-
-design <- depth %>%
-  dplyr::mutate(incl.probs = ifelse(Depth == -9999, 0, 1))
-  
-inclProb_raster <- rasterFromXYZ(xyz = design[,c("Easting","Northing","incl.probs")])
-plot(inclProb_raster)
-#inclProb25_raster <- aggregate( inclProb_raster, fact=5, fun= max)# only need to run in massive datasets
-# plot(inclProb_raster)
-#Always a good idea to write out this raster incase things crash and you can re-read this in negating rerunning the above bit of code
-writeRaster(inclProb_raster,"data/spatial/rasters/raw bathymetry/south-coast_BRUV_inclprobs.tif", overwrite = T)
-# #########################################Set up the sampling design##############################
-n <- 25000*0.25
-
-samp <- quasiSamp.raster(n = n, 
-                         inclusion.probs = inclProb_raster, 
-                         randStartType = 2, 
-                         nSampsToConsider = n*100) # may need to up this value if not running at a national scale
-plot(inclProb_raster)
-points( samp[,c("x","y")], pch=20, cex=0.01, col = "red")
-
-## assign sampling order
-samp$DropC <- 1:nrow(samp)
-
-## Write out sampling file 
-write.csv(samp,"data/mbh-design/south-coast_BRUV_MBH.csv") # write out the each region
-
-## now we have sampling design. worth checking in arcmap or similar that you have enough sampling density to be useful for each AMP that we intend to visit
-
-# samp <- quasiSamp.raster(n = n, 
-#                          inclusion.probs = !is.na(inclProb_raster), 
-#                          randStartType = 2, 
-#                          nSampsToConsider = n*500)
-# points( samp[,c("x","y")], pch=20, cex=0.01, col = "red")
