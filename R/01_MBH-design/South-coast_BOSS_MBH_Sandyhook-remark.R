@@ -1,9 +1,9 @@
 ###
 # Project: NESP 2.1
 # Data:    GA 250m Bathymetry
-# Task:    Create an Esperance sampling plan biased off roughness
+# Task:    Create an Esperance sampling plan biased off roughness - Sandy Hook/Remark Islands
 # author:  Claude Spencer
-# date:    September 2022
+# date:    October 2022
 ##
 
 # Clear memory
@@ -18,25 +18,25 @@ library(dplyr)
 library(stars)
 library(starsExtra)
 
-set.seed(22)
+set.seed(43)
 
 wgscrs <- CRS("+proj=longlat +datum=WGS84")
 
-tifs  <- list.files("data/spatial/rasters/", "eastern*", full.names = TRUE)
-preds <- stack(tifs)
-preds$clumps <- clump(preds$eastern_Z, directions = 8)
-preds$clumps[preds$clumps %in% c(2, 3, 4, 5, 6 , 7, 8)] <- NA                   # lol
-preds <- mask(preds, preds$clumps)                                              # also
-plot(preds)
+tifs.san  <- list.files("data/spatial/rasters/", "sandyhook*", full.names = TRUE)
+preds.san <- stack(tifs.san)
+poly <- vect("data/mbh-design/Sandy-hook_sample-polys.shp")
+ext(poly)
+preds.san <- crop(preds.san, extent(121.941263871906, 122.042188660407, -34.0948639915441, -34.0146648292531))
+plot(preds.san)
 
-# Make cuts for Daw
-n <- 70
+# Make cuts for Investigator
+n <- 30                                                                         # Number of samples
 
-hist(preds$eastern_roughness)
+hist(preds.san$sandyhook_roughness)
 roughness_qs <- c(0, 0.7, 0.9, 1)
-roughness_cuts   <- quantile(preds$eastern_roughness, probs = roughness_qs)
-cat_roughness  <- cut(preds$eastern_roughness, breaks = roughness_cuts, na.rm = TRUE)
-plot(stack(preds$eastern_roughness, cat_roughness))
+roughness_cuts   <- quantile(preds.san$sandyhook_roughness, probs = roughness_qs)
+cat_roughness  <- cut(preds.san$sandyhook_roughness, breaks = roughness_cuts, na.rm = TRUE)
+plot(stack(preds.san$sandyhook_roughness, cat_roughness))
 roughness_split <- data.frame(zones = unique(cat_roughness),
                               split = c(0.2, 0.4, 0.4))
 roughness_split$zbruv <- roughness_split$split * n
@@ -91,16 +91,15 @@ samp <- quasiSamp.raster(n = n,
                          nSampsToConsider = 20000)
 
 plot(inp_overall)
-points( samp[,c("x","y")], pch=20, cex=1, col = "red")
+points( samp[,c("x","y")], pch = 20, cex=1, col = "red")
+
 
 ## assign sampling order
 samp$DropC <- 1:nrow(samp)
 samp <- samp %>%
-  dplyr::mutate(sample = paste("DAW-BV", 
+  dplyr::mutate(sample = paste("SAN-DC", 
                                str_pad(row_number(), 2,                     
                                        side = "left", pad = "0") , sep = "-"))
 
 ## Write out sampling file 
-write.csv(samp,"data/mbh-design/Eastern_BRUVs_MBH_wgs84.csv") # write out the each region
-
-
+write.csv(samp,"data/mbh-design/Sandyhook_MBH_wgs84.csv") # write out the each region

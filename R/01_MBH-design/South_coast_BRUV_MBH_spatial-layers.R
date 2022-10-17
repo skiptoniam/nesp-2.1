@@ -9,16 +9,12 @@
 # Clear memory
 rm(list=ls()) 
 
-library(MBHdesign)
 library(sf)
-library(sp)
 library(tidyverse)
 library(terra)
 library(dplyr)
 library(stars)
 library(starsExtra)
-
-set.seed(22)
 
 wgscrs <- "+proj=longlat +datum=WGS84"
 
@@ -50,10 +46,24 @@ eas.depth <- mask(depth, buffer(eas, width = 1000))
 eas.depth <- trim(eas.depth)
 plot(eas.depth)
 
+# Sandy Hook/Remark
+san <- vect("data/mbh-design/Sandy-hook_sample-polys.shp")
+san.depth <- mask(depth, buffer(san, width = 1000))
+san.depth <- trim(san.depth)
+san.depth <- clamp(san.depth, upper = 0, value = F)
+plot(san.depth)
+
+# Figure of Eight
+fig <- vect("data/mbh-design/Figure8_sample-polys.shp")
+fig.depth <- mask(depth, buffer(fig, width = 1000))
+fig.depth <- trim(fig.depth)
+fig.depth <- clamp(fig.depth, upper = 0, value = F)
+plot(fig.depth)
+
 # Get bathymetry derivatives to have a play with
 # Investigator Island
 # Roughness
-rough.inv <- terrain(inv.depth, v = c("roughness", "slope"))
+rough.inv <- terrain(inv.depth, v = c("roughness"))
 # Detrended bathymetry
 zstar <- st_as_stars(inv.depth)
 detre.inv <- detrend(zstar, parallel = 8)
@@ -76,7 +86,7 @@ plot(preds.inv)
 
 # Daw
 # Roughness
-rough.eas <- terrain(eas.depth, v = c("roughness", "slope"))
+rough.eas <- terrain(eas.depth, v = c("roughness"))
 # Detrended bathymetry
 zstar <- st_as_stars(eas.depth)
 detre.eas <- detrend(zstar, parallel = 8)
@@ -96,7 +106,43 @@ preds.eas[[3]] <- mask(preds.eas[[3]], preds.eas[[1]])
 preds.eas[[4]] <- mask(preds.eas[[4]], preds.eas[[1]])
 plot(preds.eas)
 
+# Sandy Hook
+# Roughness
+rough.sand <- terrain(san.depth, v = c("roughness"))
+# Detrended bathymetry
+zstar <- st_as_stars(san.depth)
+detre.san <- detrend(zstar, parallel = 8)
+detre.san <- as(object = detre.san, Class = "SpatRaster")
+names(detre.san) <- c("detrended", "lineartrend")
+plot(detre.san)
+
+# Stack em up
+preds.san <- rast(list(san.depth, rough.sand, detre.san[[1]]))
+plot(preds.san)
+summary(preds.san)
+
+# Sandy Hook
+# Roughness
+rough.fig <- terrain(fig.depth, v = c("roughness"))
+# Detrended bathymetry
+zstar <- st_as_stars(fig.depth)
+detre.fig <- detrend(zstar, parallel = 8)
+detre.fig <- as(object = detre.fig, Class = "SpatRaster")
+names(detre.fig) <- c("detrended", "lineartrend")
+plot(detre.fig)
+
+# Stack em up
+preds.fig <- rast(list(fig.depth, rough.fig, detre.fig[[1]]))
+plot(preds.fig)
+summary(preds.fig)
+
 # Write out the tifs
-writeRaster(preds.inv, paste0("data/spatial/rasters/investigator_",names(preds.inv), ".tif"), overwrite = T)
-writeRaster(preds.eas, paste0("data/spatial/rasters/eastern_",names(preds.eas), ".tif"), overwrite = T)
+writeRaster(preds.inv, paste0("data/spatial/rasters/investigator_",
+                              names(preds.inv), ".tif"), overwrite = T)
+writeRaster(preds.eas, paste0("data/spatial/rasters/eastern_",
+                              names(preds.eas), ".tif"), overwrite = T)
+writeRaster(preds.san, paste0("data/spatial/rasters/sandyhook_",
+                              names(preds.san), ".tif"), overwrite = T)
+writeRaster(preds.fig, paste0("data/spatial/rasters/figureeight_",
+                              names(preds.fig), ".tif"), overwrite = T)
 

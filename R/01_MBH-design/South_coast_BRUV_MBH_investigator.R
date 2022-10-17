@@ -101,4 +101,4 @@ samp <- samp %>%
                                        side = "left", pad = "0") , sep = "-"))
 
 ## Write out sampling file 
-write.csv(samp,"data/mbh-design/Investigator_BRUVs.csv") # write out the each region
+write.csv(samp,"data/mbh-design/Investigator_BRUVs_MBH_wgs84.csv") # write out the each region
