@@ -1,0 +1,2524 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.4.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="-34.613280386307999" minlon="120.870270074296997" maxlat="-33.610409788647900" maxlon="124.289800559482998"/></metadata>              
+<wpt lat="-34.212875669071103" lon="124.248680532018">
+  <name>DAW-DC-001</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>146</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.008782769746396" lon="124.167696459067997">
+  <name>DAW-DC-002</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>305</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.1040342671659" lon="124.103805234936004">
+  <name>DAW-DC-003</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>515</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.654094711650103" lon="124.130199232837995">
+  <name>DAW-DC-004</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>1164</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.085402760191798" lon="124.147558842364006">
+  <name>DAW-DC-005</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>1609</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.995712395308502" lon="124.256050177291996">
+  <name>DAW-DC-006</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>1772</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.8912468582635" lon="124.056244026887001">
+  <name>DAW-DC-007</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2137</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.627625242070202" lon="124.177707932013007">
+  <name>DAW-DC-008</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2249</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.7488971124234" lon="124.018245049384007">
+  <name>DAW-DC-009</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2625</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.291722718538402" lon="124.221879608641004">
+  <name>DAW-DC-010</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3070</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.8729860096729" lon="124.228807126103007">
+  <name>DAW-DC-011</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3223</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.188133662613801" lon="124.034392540172007">
+  <name>DAW-DC-012</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3432</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.990000366049699" lon="124.004893820180001">
+  <name>DAW-DC-013</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3588</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.810096295315702" lon="124.254003277044006">
+  <name>DAW-DC-014</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3708</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.733024434139899" lon="124.103451437001993">
+  <name>DAW-DC-015</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4081</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.168236196636002" lon="124.181749468381">
+  <name>DAW-DC-016</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4529</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.083880620831501" lon="124.289800559482998">
+  <name>DAW-DC-017</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4687</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.089669836233597" lon="124.008267725273001">
+  <name>DAW-DC-018</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4896</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.9743536776149" lon="124.093505538528007">
+  <name>DAW-DC-019</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5056</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.718979653388999" lon="124.217422293338004">
+  <name>DAW-DC-020</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5174</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.6104097886479" lon="124.079649745316999">
+  <name>DAW-DC-021</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5538</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.152914096487102" lon="124.276908953735003">
+  <name>DAW-DC-022</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5986</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.955718390369199" lon="124.137206298657006">
+  <name>DAW-DC-023</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>6145</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.271402877307899" lon="124.074957672072998">
+  <name>DAW-DC-024</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>6348</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.847132969782699" lon="123.999206889049006">
+  <name>DAW-DC-025</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>6502</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.826628672707599" lon="124.136485534075007">
+  <name>DAW-DC-026</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>7006</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.244980276528501" lon="124.122762086769995">
+  <name>DAW-DC-027</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>7453</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.841750512384699" lon="124.244611861742001">
+  <name>DAW-DC-028</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>7614</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0608045031709" lon="124.059468283778003">
+  <name>DAW-DC-029</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>7988</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.797283994361102" lon="124.181119731755999">
+  <name>DAW-DC-030</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8114</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.237497601491498" lon="124.214032764259002">
+  <name>DAW-DC-031</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8926</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.035909375664602" lon="124.171598476989004">
+  <name>DAW-DC-032</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9088</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.128419657950602" lon="124.065948377566997">
+  <name>DAW-DC-033</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9299</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.938061949410901" lon="124.032438811975993">
+  <name>DAW-DC-034</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9460</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.683243934667502" lon="124.288315572311006">
+  <name>DAW-DC-035</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9575</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.113997526239501" lon="124.173933237194007">
+  <name>DAW-DC-036</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10394</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.924405225671201" lon="124.275594274279001">
+  <name>DAW-DC-037</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10558</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.2591487312027" lon="124.011420081897995">
+  <name>DAW-DC-038</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10772</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.658742681057397" lon="124.242339574840003">
+  <name>DAW-DC-039</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>11040</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.3749302355195" lon="124.097464829996994">
+  <name>DAW-DC-040</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>11386</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.778721704156901" lon="124.021843466350006">
+  <name>DAW-DC-041</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>11426</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.895736583177097" lon="124.165430748768998">
+  <name>DAW-DC-042</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>12023</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.219484837287503" lon="124.102541401162995">
+  <name>DAW-DC-043</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>12230</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.6670361030571" lon="124.122547768944003">
+  <name>DAW-DC-044</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>12897</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.192849550609097" lon="124.147101398857004">
+  <name>DAW-DC-045</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13344</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0033103699623" lon="124.248887664319994">
+  <name>DAW-DC-046</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13502</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.923944634660799" lon="124.062808908348003">
+  <name>DAW-DC-047</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13874</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.744826719292199" lon="124.160283752165995">
+  <name>DAW-DC-048</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13990</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.638460900943997" lon="124.015890688886003">
+  <name>DAW-DC-049</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>14362</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.105642914356601" lon="124.252244169874999">
+  <name>DAW-DC-050</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>14805</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.986618585846202" lon="124.198821326740003">
+  <name>DAW-DC-051</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>14966</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.294703419964797" lon="124.020953409686996">
+  <name>DAW-DC-052</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>15173</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.875976310665301" lon="124.028684979149006">
+  <name>DAW-DC-053</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>15326</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.632841428360102" lon="124.257610533659005">
+  <name>DAW-DC-054</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>15451</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.743505153309101" lon="124.099242553856001">
+  <name>DAW-DC-055</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>15826</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.275874226161399" lon="124.184542759268993">
+  <name>DAW-DC-056</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>16272</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.017727830862903" lon="124.099074236487994">
+  <name>DAW-DC-057</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>16792</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.828143685073201" lon="124.200777295671003">
+  <name>DAW-DC-058</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>16916</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.726541735413399" lon="124.046125645939">
+  <name>DAW-DC-059</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>17284</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.193590552353001" lon="124.282812507496999">
+  <name>DAW-DC-060</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>17729</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0605280402524" lon="124.136990772822998">
+  <name>DAW-DC-061</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>17883</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.081400627225399" lon="124.086573639156995">
+  <name>DAW-DC-062</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>18096</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.965318889256103" lon="123.997575688948004">
+  <name>DAW-DC-063</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>18254</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.715532395421498" lon="124.288541546347005">
+  <name>DAW-DC-064</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>18373</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.615045953603399" lon="124.149948436358002">
+  <name>DAW-DC-065</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>18750</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.319365745725598" lon="124.028299742102007">
+  <name>DAW-DC-066</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19083</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.137762806573299" lon="124.126455614560996">
+  <name>DAW-DC-067</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19203</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.949252982295498" lon="124.244255321474995">
+  <name>DAW-DC-068</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19371</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.877123900348501" lon="124.086597470369">
+  <name>DAW-DC-069</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19738</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.268493723282603" lon="124.194944286155007">
+  <name>DAW-DC-070</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>20674</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.849732235218099" lon="124.201977637800994">
+  <name>DAW-DC-071</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>20828</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.170712370880302" lon="124.055453768359996">
+  <name>DAW-DC-072</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21037</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0484252686161" lon="124.034816859616996">
+  <name>DAW-DC-073</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21196</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.792009845979997" lon="124.265348452520001">
+  <name>DAW-DC-074</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21325</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.689411227766698" lon="124.094698728371995">
+  <name>DAW-DC-075</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21701</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.220594144078802" lon="124.160647109055006">
+  <name>DAW-DC-076</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22147</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.029222637909697" lon="124.275517428596004">
+  <name>DAW-DC-077</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22310</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.148839844676303" lon="124.009060856644993">
+  <name>DAW-DC-078</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22518</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.957761692138597" lon="124.127336155601">
+  <name>DAW-DC-079</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22680</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.671696653346103" lon="124.234700310910995">
+  <name>DAW-DC-080</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22799</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.1298902521713" lon="124.253209616345003">
+  <name>DAW-DC-081</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23612</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.939325285028303" lon="124.174230127219005">
+  <name>DAW-DC-082</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23774</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.253764123932598" lon="124.092814268208002">
+  <name>DAW-DC-083</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23989</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.772125230361603" lon="124.125518058175004">
+  <name>DAW-DC-084</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>24649</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.299423604927199" lon="124.133776726872995">
+  <name>DAW-DC-085</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>25086</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.899731922512402" lon="124.268217403063005">
+  <name>DAW-DC-086</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>25241</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0410510693129" lon="124.045206327821006">
+  <name>DAW-DC-087</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>25615</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.753681599192198" lon="124.172329401045999">
+  <name>DAW-DC-088</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>25731</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.679408239979502" lon="124.024860983002995">
+  <name>DAW-DC-089</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>26103</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.219017709411197" lon="124.219002998411">
+  <name>DAW-DC-090</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>26544</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.021975873681903" lon="124.205185842719004">
+  <name>DAW-DC-091</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>26710</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.111121902552902" lon="124.048211827515004">
+  <name>DAW-DC-092</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>26920</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.920336016252897" lon="124.008329731627001">
+  <name>DAW-DC-093</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27079</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.7377192143095" lon="124.257516778470006">
+  <name>DAW-DC-094</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27200</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.639884910304701" lon="124.118672041563997">
+  <name>DAW-DC-095</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27577</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.3500727263336" lon="124.086879824690996">
+  <name>DAW-DC-096</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27904</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.099222393673003" lon="124.194704950577005">
+  <name>DAW-DC-097</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28030</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.902431124326803" lon="124.103543288511005">
+  <name>DAW-DC-098</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28556</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.6175982218152" lon="124.230089885701005">
+  <name>DAW-DC-099</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28674</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.7621383949378" lon="124.055622343573006">
+  <name>DAW-DC-100</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>29050</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.163791788184398" lon="120.933545269492996">
+  <name>INV-DC-001</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>77</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.469464705570203" lon="121.044504290597004">
+  <name>INV-DC-002</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>142</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.009249460739397" lon="121.140519663652">
+  <name>INV-DC-003</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>391</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.107604284343097" lon="121.031252814797">
+  <name>INV-DC-004</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>636</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0426384869033" lon="121.058749371033002">
+  <name>INV-DC-005</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>1120</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.342634060231703" lon="120.946748934843995">
+  <name>INV-DC-006</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>1604</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.978545815351801" lon="120.940583714173002">
+  <name>INV-DC-007</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2040</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.312718752772803" lon="121.099734250398001">
+  <name>INV-DC-008</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2101</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.4861569578214" lon="121.113903973248995">
+  <name>INV-DC-009</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2327</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.946044291305903" lon="121.031936700293997">
+  <name>INV-DC-010</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2580</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.181164656137803" lon="120.947565028461995">
+  <name>INV-DC-011</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3555</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.479843939384999" lon="120.883985134167006">
+  <name>INV-DC-012</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3975</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.907875465841101" lon="121.120689167153003">
+  <name>INV-DC-013</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4039</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.338334078813197" lon="121.116016593547997">
+  <name>INV-DC-014</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4284</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.423451257686899" lon="120.978806073143005">
+  <name>INV-DC-015</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4524</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0565450951621" lon="120.908152889470998">
+  <name>INV-DC-016</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4953</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.167047461284703" lon="121.033566847030002">
+  <name>INV-DC-017</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5018</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.024346347823602" lon="121.002789265185001">
+  <name>INV-DC-018</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5493</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.321095205081001" lon="120.884568360936001">
+  <name>INV-DC-019</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5919</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.412538763530002" lon="121.071089710699994">
+  <name>INV-DC-020</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5983</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.959086901609503" lon="120.871881034305005">
+  <name>INV-DC-021</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>6402</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.264956705894697" lon="120.982443702843">
+  <name>INV-DC-022</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>6466</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.985925319564402" lon="121.088419386590004">
+  <name>INV-DC-023</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>6962</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.498873882726201" lon="120.917329805608006">
+  <name>INV-DC-024</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>7447</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.258536043236397" lon="121.064303057361997">
+  <name>INV-DC-025</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>7949</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.358543973321403" lon="121.100527730017006">
+  <name>INV-DC-026</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8196</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.082351114717099" lon="120.895200785512998">
+  <name>INV-DC-027</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8860</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.493330593091599" lon="121.009029994203004">
+  <name>INV-DC-028</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8921</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.129821744431403" lon="120.976671574392">
+  <name>INV-DC-029</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9423</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.356542511045802" lon="120.889826771291993">
+  <name>INV-DC-030</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9845</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.080384554073099" lon="121.122037065352004">
+  <name>INV-DC-031</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9904</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.2070611679246" lon="121.154967396974996">
+  <name>INV-DC-032</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10155</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.371754170907501" lon="120.972304902394001">
+  <name>INV-DC-033</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10389</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.928219391407197" lon="120.888694366907004">
+  <name>INV-DC-034</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10826</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.3341285580793" lon="121.035427412198004">
+  <name>INV-DC-035</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10887</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.442538876866401" lon="121.138814195839004">
+  <name>INV-DC-036</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>11123</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.970106757490797" lon="120.967505651926999">
+  <name>INV-DC-037</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>11380</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.171229884351803" lon="120.926135502172997">
+  <name>INV-DC-038</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>11803</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0183425883585" lon="121.152340262672993">
+  <name>INV-DC-039</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>12102</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.213617012831897" lon="121.011554203840006">
+  <name>INV-DC-040</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>12355</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.447307266561999" lon="120.943320235260003">
+  <name>INV-DC-041</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13338</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0091387299343" lon="120.920580602184003">
+  <name>INV-DC-042</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13771</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.100607580580203" lon="121.106587593312">
+  <name>INV-DC-043</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13835</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.054212515376101" lon="121.005532156688005">
+  <name>INV-DC-044</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>14317</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.362134007882801" lon="121.048162600877006">
+  <name>INV-DC-045</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>14801</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.2858802471563" lon="120.944146790391997">
+  <name>INV-DC-046</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>15292</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.9419877986778" lon="121.110020455707001">
+  <name>INV-DC-047</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>15783</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.150487914674201" lon="121.123080801003994">
+  <name>INV-DC-048</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>16037</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.176141137846599" lon="121.045393734347996">
+  <name>INV-DC-049</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>16757</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.918734247123602" lon="120.996541515841997">
+  <name>INV-DC-050</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>17243</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.108841370862599" lon="120.921014547934007">
+  <name>INV-DC-051</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>17661</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.450646377386299" lon="121.076093986659004">
+  <name>INV-DC-052</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>17724</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.161895027581899" lon="121.005049881408993">
+  <name>INV-DC-053</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>18218</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.028022913674199" lon="121.076741495741999">
+  <name>INV-DC-054</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>18705</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.231587782800403" lon="121.158415915969996">
+  <name>INV-DC-055</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>18956</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.394500992885298" lon="120.923997827682001">
+  <name>INV-DC-056</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19197</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.962828185094502" lon="120.945782559654006">
+  <name>INV-DC-057</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19634</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.270017087995697" lon="121.072611122742003">
+  <name>INV-DC-058</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19699</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.468812483794203" lon="121.099810805263999">
+  <name>INV-DC-059</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19932</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.002567422828903" lon="121.031380524973002">
+  <name>INV-DC-060</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>20188</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.195079186366499" lon="120.890724495618997">
+  <name>INV-DC-061</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>20604</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.239873497514502" lon="120.972615198925993">
+  <name>INV-DC-062</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21159</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.459816659407601" lon="120.870270074296997">
+  <name>INV-DC-063</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21597</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.317300423462299" lon="121.121871592183993">
+  <name>INV-DC-064</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21905</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.475035066170399" lon="120.952827181318995">
+  <name>INV-DC-065</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22142</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.038321008184802" lon="120.884553232878005">
+  <name>INV-DC-066</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22576</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.127170052145303" lon="121.070910641303001">
+  <name>INV-DC-067</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22641</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.077810415900302" lon="120.966984604063995">
+  <name>INV-DC-068</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23122</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.278882111580998" lon="120.925570764461">
+  <name>INV-DC-069</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23551</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.389310013004597" lon="121.051259817707006">
+  <name>INV-DC-070</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23609</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.916497798387297" lon="121.158405364843006">
+  <name>INV-DC-071</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23865</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.321267550140803" lon="121.011076281871993">
+  <name>INV-DC-072</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>24108</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.965618550238702" lon="121.071537781101995">
+  <name>INV-DC-073</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>24603</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.210945005630101" lon="121.105878843119001">
+  <name>INV-DC-074</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>25575</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.417476704941699" lon="121.128931297144007">
+  <name>INV-DC-075</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>25813</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.4776282454064" lon="121.014238292569999">
+  <name>INV-DC-076</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>26540</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.108675875426599" lon="120.950170328799999">
+  <name>INV-DC-077</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27043</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.408245056018799" lon="120.896286056010993">
+  <name>INV-DC-078</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27472</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.057417677366601" lon="121.105452864545001">
+  <name>INV-DC-079</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27534</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.255214718626199" lon="121.119837436699996">
+  <name>INV-DC-080</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27777</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.354499321347603" lon="120.990689456343006">
+  <name>INV-DC-081</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28025</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.986982557997202" lon="120.913658404806995">
+  <name>INV-DC-082</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28451</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.292800594906097" lon="121.024362206809002">
+  <name>INV-DC-083</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28518</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.501178197625997" lon="121.164032816797004">
+  <name>INV-DC-084</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28753</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.9275602137186" lon="121.005147336267996">
+  <name>INV-DC-085</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>29005</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.224936246724802" lon="120.893450665299">
+  <name>INV-DC-086</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>29421</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.075674213798699" lon="121.161446972125006">
+  <name>INV-DC-087</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>29723</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.192482412903701" lon="120.985035472495994">
+  <name>INV-DC-088</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>29971</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.9142345110401" lon="121.100520262952998">
+  <name>INV-DC-089</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>30470</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.349878850630702" lon="121.156773478402997">
+  <name>INV-DC-090</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>30724</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.429940549920303" lon="120.929273363112998">
+  <name>INV-DC-091</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>30959</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.070264523412298" lon="120.942033228400007">
+  <name>INV-DC-092</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>31396</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.154920397163998" lon="121.080421210961006">
+  <name>INV-DC-093</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>31460</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.011388754654099" lon="121.039985353499006">
+  <name>INV-DC-094</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>31945</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.415565489766301" lon="121.012265148938994">
+  <name>INV-DC-095</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>32434</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.270727655703602" lon="120.955776477136993">
+  <name>INV-DC-096</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>32927</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.998317602680402" lon="121.138633328911993">
+  <name>INV-DC-097</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>33409</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.110595847071203" lon="121.160383403094002">
+  <name>INV-DC-098</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>33657</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.233467706387799" lon="121.054465211091994">
+  <name>INV-DC-099</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>34374</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.369818615050697" lon="121.138076253822007">
+  <name>INV-DC-100</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>34621</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.467039242481697" lon="123.628302909623997">
+  <name>SAL-DC-001</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>213</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.299209179862899" lon="123.570573204865994">
+  <name>SAL-DC-002</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>939</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.224687790699903" lon="123.464800622183006">
+  <name>SAL-DC-003</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>1424</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.532833393099601" lon="123.491934533694007">
+  <name>SAL-DC-004</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>1922</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.086330161059998" lon="123.640323216905003">
+  <name>SAL-DC-005</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2158</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.147976958391503" lon="123.559843740138007">
+  <name>SAL-DC-006</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2895</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.322107819958603" lon="123.590944960279003">
+  <name>SAL-DC-007</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3133</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.378790312141099" lon="123.478347516588997">
+  <name>SAL-DC-008</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3859</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.587711368782102" lon="123.625974616313002">
+  <name>SAL-DC-009</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4106</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.525036261436597" lon="123.651706721720004">
+  <name>SAL-DC-010</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4595</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.162420843812598" lon="123.613362350708996">
+  <name>SAL-DC-011</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5076</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.226264136187602" lon="123.526114028292994">
+  <name>SAL-DC-012</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5801</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.405019482693199" lon="123.624771326258994">
+  <name>SAL-DC-013</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>6050</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.4619417975739" lon="123.515321581020004">
+  <name>SAL-DC-014</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>6776</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.178441459088702" lon="123.495348097488005">
+  <name>SAL-DC-015</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>7268</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.9859995819074" lon="123.588948690343003">
+  <name>SAL-DC-016</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>7426</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.253146823044602" lon="123.643143836790003">
+  <name>SAL-DC-017</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8012</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.5590402601661" lon="123.638578392930995">
+  <name>SAL-DC-018</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8510</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0879062132922" lon="123.585241894483005">
+  <name>SAL-DC-019</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8746</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.491504986934601" lon="123.593424527419003">
+  <name>SAL-DC-020</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8992</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.032727832328199" lon="123.603663746359004">
+  <name>SAL-DC-021</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9640</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.321886576762999" lon="123.510010267819993">
+  <name>SAL-DC-022</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9728</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.561506483005502" lon="123.518242458523005">
+  <name>SAL-DC-023</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10707</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.108152516170698" lon="123.605840486088994">
+  <name>SAL-DC-024</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10945</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.171106705999598" lon="123.505788474881001">
+  <name>SAL-DC-025</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>11691</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.353209670084503" lon="123.652613540161994">
+  <name>SAL-DC-026</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>11933</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.412597831635402" lon="123.539747341880997">
+  <name>SAL-DC-027</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>12667</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.613280386307999" lon="123.568212737348006">
+  <name>SAL-DC-028</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>12921</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.0476255897008" lon="123.469758396648999">
+  <name>SAL-DC-029</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13155</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.191106747778697" lon="123.639609089047994">
+  <name>SAL-DC-030</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13895</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.254293380771699" lon="123.542711358111006">
+  <name>SAL-DC-031</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>14615</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.4274947718527" lon="123.560938942278995">
+  <name>SAL-DC-032</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>14871</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.489044932804497" lon="123.480149186503994">
+  <name>SAL-DC-033</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>15607</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.010042267707" lon="123.547808880342998">
+  <name>SAL-DC-034</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>16246</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.345858139485799" lon="123.663061245389997">
+  <name>SAL-DC-035</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>16335</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.280744642200403" lon="123.614502986169001">
+  <name>SAL-DC-036</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>16815</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.111051071880503" lon="123.531222791518999">
+  <name>SAL-DC-037</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>17551</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.5159457298465" lon="123.597462659512999">
+  <name>SAL-DC-038</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>17792</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.353240705592299" lon="123.536000914403999">
+  <name>SAL-DC-039</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>18525</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.209350726895401" lon="123.476056269270998">
+  <name>SAL-DC-040</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19017</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.202470745204998" lon="123.570556089278">
+  <name>SAL-DC-041</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>20495</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.300978445596698" lon="123.596295796760998">
+  <name>SAL-DC-042</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>20737</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.437263426767998" lon="123.508086717302007">
+  <name>SAL-DC-043</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21482</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.543947221192703" lon="123.614125419201002">
+  <name>SAL-DC-044</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21725</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.507467508135498" lon="123.669677563913993">
+  <name>SAL-DC-045</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22212</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.1450805048527" lon="123.595694167662998">
+  <name>SAL-DC-046</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22703</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.317204266385303" lon="123.481338477901005">
+  <name>SAL-DC-047</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22944</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.278522515101102" lon="123.504670153036002">
+  <name>SAL-DC-048</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23433</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.384346487597597" lon="123.636554743060003">
+  <name>SAL-DC-049</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23676</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.520173103792203" lon="123.541884203909007">
+  <name>SAL-DC-050</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>24420</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.155072710891801" lon="123.468604346218001">
+  <name>SAL-DC-051</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>24914</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.233583981958098" lon="123.632148516292006">
+  <name>SAL-DC-052</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>25635</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.041635227159297" lon="123.576940341286999">
+  <name>SAL-DC-053</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>26365</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.470841012382799" lon="123.566310131872996">
+  <name>SAL-DC-054</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>26611</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.992211424564204" lon="123.639976667097997">
+  <name>SAL-DC-055</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27265</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.301870220085" lon="123.492601956765">
+  <name>SAL-DC-056</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27355</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.455908339814997" lon="123.661836595482001">
+  <name>SAL-DC-057</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28100</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.546178945610002" lon="123.529526953336003">
+  <name>SAL-DC-058</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28333</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.093234551406397" lon="123.623482446823999">
+  <name>SAL-DC-059</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28579</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.119948771161503" lon="123.543258316676003">
+  <name>SAL-DC-060</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>29308</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.027833306044897" lon="123.494359611896996">
+  <name>SAL-DC-061</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>29460</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.3327699484311" lon="123.628739424708002">
+  <name>SAL-DC-062</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>29543</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.392812277485604" lon="123.525536921961006">
+  <name>SAL-DC-063</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>30289</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.566401226940997" lon="123.550206360700997">
+  <name>SAL-DC-064</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>30538</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.106146905499998" lon="123.499399089652002">
+  <name>SAL-DC-065</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>30779</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.176187777987899" lon="123.657260237149004">
+  <name>SAL-DC-066</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>31520</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.213812877384399" lon="123.579124971810998">
+  <name>SAL-DC-067</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>32256</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.4110402038107" lon="123.595001131941999">
+  <name>SAL-DC-068</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>32505</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.471494926974103" lon="123.498142761214993">
+  <name>SAL-DC-069</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>33232</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.992901938013901" lon="123.533383584272002">
+  <name>SAL-DC-070</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>33865</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.258067243752102" lon="123.597348401424">
+  <name>SAL-DC-071</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>34436</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.066773254065403" lon="123.513052980596001">
+  <name>SAL-DC-072</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>35177</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.502376683245203" lon="123.634503762801003">
+  <name>SAL-DC-073</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>35422</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.019802987081" lon="123.650153324795994">
+  <name>SAL-DC-074</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>36069</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.570387336010903" lon="123.491375910455005">
+  <name>SAL-DC-075</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>37143</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.122134769134" lon="123.652926176243">
+  <name>SAL-DC-076</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>37385</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.149533709350699" lon="123.543523221092002">
+  <name>SAL-DC-077</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>38128</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.355907781692501" lon="123.574605099137003">
+  <name>SAL-DC-078</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>38368</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.4201459511781" lon="123.493608981823996">
+  <name>SAL-DC-079</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>39102</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.463028614007698" lon="123.648158540994004">
+  <name>SAL-DC-080</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>39822</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.2009010358042" lon="123.625697109569003">
+  <name>SAL-DC-081</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>40297</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.236270400679103" lon="123.515400630534003">
+  <name>SAL-DC-082</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>41021</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.439040323538002" lon="123.611648430686003">
+  <name>SAL-DC-083</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>41273</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.503062302332999" lon="123.527388283047003">
+  <name>SAL-DC-084</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>42002</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.137733590950702" lon="123.489752067717006">
+  <name>SAL-DC-085</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>42483</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.024276393496599" lon="123.598048250828995">
+  <name>SAL-DC-086</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>42635</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.294507324601298" lon="123.658450813971996">
+  <name>SAL-DC-087</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>43217</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.097919961895002" lon="123.574548338829999">
+  <name>SAL-DC-088</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>43939</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.525506795454497" lon="123.580281377692998">
+  <name>SAL-DC-089</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>44184</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.975088230384699" lon="123.625537844678007">
+  <name>SAL-DC-090</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>44841</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.360351429671603" lon="123.522327744210997">
+  <name>SAL-DC-091</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>44928</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.598396628027402" lon="123.508018812607006">
+  <name>SAL-DC-092</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>45908</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.048523122184399" lon="123.598861087293002">
+  <name>SAL-DC-093</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>46149</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.174215837300302" lon="123.511943247226995">
+  <name>SAL-DC-094</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>46902</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.983990566008103" lon="123.482630931710005">
+  <name>SAL-DC-095</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>47054</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.315186560084399" lon="123.646681891778002">
+  <name>SAL-DC-096</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>47138</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.451051699649703" lon="123.552086532725994">
+  <name>SAL-DC-097</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>47876</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.552623950159401" lon="123.584048848183997">
+  <name>SAL-DC-098</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>48128</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.086118986775901" lon="123.482028740312003">
+  <name>SAL-DC-099</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>48353</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.131931891012798" lon="123.639024627363">
+  <name>SAL-DC-100</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>49107</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04625" lon="121.97125">
+  <name>SAN-DC-01</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>1</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.01875" lon="122.02125">
+  <name>SAN-DC-02</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03375" lon="121.98375">
+  <name>SAN-DC-03</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.07875" lon="122.03375">
+  <name>SAN-DC-04</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.05125" lon="121.95125">
+  <name>SAN-DC-05</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02625" lon="122.00125">
+  <name>SAN-DC-06</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>6</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.01625" lon="121.96375">
+  <name>SAN-DC-07</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>7</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03125" lon="121.97375">
+  <name>SAN-DC-08</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02125" lon="122.01125">
+  <name>SAN-DC-09</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02625" lon="122.02875">
+  <name>SAN-DC-10</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.05875" lon="121.94375">
+  <name>SAN-DC-11</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>11</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04125" lon="121.98125">
+  <name>SAN-DC-12</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>12</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04125" lon="121.97375">
+  <name>SAN-DC-13</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.08375" lon="121.95875">
+  <name>SAN-DC-14</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>14</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02875" lon="121.98375">
+  <name>SAN-DC-15</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>15</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04625" lon="121.95125">
+  <name>SAN-DC-16</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>16</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02125" lon="122.00125">
+  <name>SAN-DC-17</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>17</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03625" lon="121.96375">
+  <name>SAN-DC-18</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>18</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.07125" lon="121.94375">
+  <name>SAN-DC-19</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.01875" lon="121.96875">
+  <name>SAN-DC-20</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>20</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.06625" lon="121.95625">
+  <name>SAN-DC-21</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.07375" lon="121.97125">
+  <name>SAN-DC-22</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03375" lon="122.03375">
+  <name>SAN-DC-23</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04375" lon="121.96625">
+  <name>SAN-DC-24</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>24</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.01625" lon="122.01625">
+  <name>SAN-DC-25</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>25</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02125" lon="121.98125">
+  <name>SAN-DC-26</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>26</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.06375" lon="121.94875">
+  <name>SAN-DC-27</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.05375" lon="122.02375">
+  <name>SAN-DC-28</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02875" lon="121.96125">
+  <name>SAN-DC-29</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>29</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03375" lon="121.97125">
+  <name>SAN-DC-30</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>30</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04375" lon="121.60125">
+  <name>FIG-DC-01</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>1</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02125" lon="121.64375">
+  <name>FIG-DC-02</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>2</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.01125" lon="121.60875">
+  <name>FIG-DC-03</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>3</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02875" lon="121.59625">
+  <name>FIG-DC-04</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>4</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.00875" lon="121.64875">
+  <name>FIG-DC-05</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>5</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04875" lon="121.59375">
+  <name>FIG-DC-06</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>6</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.00625" lon="121.59875">
+  <name>FIG-DC-07</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>7</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02375" lon="121.62125">
+  <name>FIG-DC-08</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>8</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04375" lon="121.62625">
+  <name>FIG-DC-09</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>9</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.01875" lon="121.60375">
+  <name>FIG-DC-10</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>10</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03375" lon="121.59375">
+  <name>FIG-DC-11</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>11</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.05125" lon="121.61375">
+  <name>FIG-DC-12</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>12</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02625" lon="121.65625">
+  <name>FIG-DC-13</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>13</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04125" lon="121.60875">
+  <name>FIG-DC-14</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>14</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.01625" lon="121.65125">
+  <name>FIG-DC-15</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>15</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.05375" lon="121.63875">
+  <name>FIG-DC-16</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>16</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02875" lon="121.61625">
+  <name>FIG-DC-17</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>17</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.99875" lon="121.61125">
+  <name>FIG-DC-18</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>18</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04125" lon="121.60125">
+  <name>FIG-DC-19</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>19</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04875" lon="121.62375">
+  <name>FIG-DC-20</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>20</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02625" lon="121.60125">
+  <name>FIG-DC-21</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>21</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04625" lon="121.60625">
+  <name>FIG-DC-22</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>22</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03625" lon="121.61625">
+  <name>FIG-DC-23</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>23</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04375" lon="121.64625">
+  <name>FIG-DC-24</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>24</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02125" lon="121.59375">
+  <name>FIG-DC-25</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>25</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.05125" lon="121.59875">
+  <name>FIG-DC-26</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>26</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.00375" lon="121.65625">
+  <name>FIG-DC-27</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>27</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03125" lon="121.59625">
+  <name>FIG-DC-28</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>28</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.00875" lon="121.63875">
+  <name>FIG-DC-29</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>29</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04625" lon="121.61875">
+  <name>FIG-DC-30</name>
+  <sym>xmblue</sym>
+  <extensions>
+    <ogr:DropC>30</ogr:DropC>
+  </extensions>
+</wpt>
+</gpx>

@@ -1,0 +1,998 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.4.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="-34.343750000000000" minlon="120.873750000000001" maxlat="-33.598750000000003" maxlon="124.293750000000003"/></metadata>              
+<wpt lat="-33.75375" lon="124.28125">
+  <name>DAW-BV-01</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>1</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.65875" lon="124.09625">
+  <name>DAW-BV-02</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>2</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.72125" lon="124.00625">
+  <name>DAW-BV-03</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>3</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.82625" lon="124.23625">
+  <name>DAW-BV-04</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>4</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.94125" lon="124.10375">
+  <name>DAW-BV-05</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>5</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.81375" lon="124.07625">
+  <name>DAW-BV-06</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>6</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.29125" lon="124.23875">
+  <name>DAW-BV-07</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>7</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.64125" lon="124.10625">
+  <name>DAW-BV-08</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>8</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.23875" lon="124.08875">
+  <name>DAW-BV-09</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>9</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.33125" lon="124.02125">
+  <name>DAW-BV-10</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>10</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.62875" lon="124.11625">
+  <name>DAW-BV-11</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>11</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.61375" lon="124.08875">
+  <name>DAW-BV-12</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>12</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.85875" lon="124.21125">
+  <name>DAW-BV-13</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>13</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.29625" lon="124.08375">
+  <name>DAW-BV-14</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>14</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.65125" lon="124.08125">
+  <name>DAW-BV-15</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>15</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.29125" lon="124.12125">
+  <name>DAW-BV-16</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>16</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.92875" lon="124.05625">
+  <name>DAW-BV-17</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>17</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.60875" lon="124.12625">
+  <name>DAW-BV-18</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>18</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.88625" lon="123.99875">
+  <name>DAW-BV-19</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>19</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.29875" lon="124.04125">
+  <name>DAW-BV-20</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>20</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.26625" lon="124.22625">
+  <name>DAW-BV-21</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>21</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.30625" lon="124.08625">
+  <name>DAW-BV-22</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>22</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.32625" lon="124.05625">
+  <name>DAW-BV-23</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>23</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.91125" lon="124.17375">
+  <name>DAW-BV-24</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>24</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.62375" lon="124.09375">
+  <name>DAW-BV-25</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>25</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.61875" lon="124.13125">
+  <name>DAW-BV-26</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>26</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.85375" lon="124.05375">
+  <name>DAW-BV-27</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>27</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.66125" lon="124.08375">
+  <name>DAW-BV-28</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>28</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.91625" lon="124.10625">
+  <name>DAW-BV-29</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>29</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.82875" lon="124.25875">
+  <name>DAW-BV-30</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>30</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.92375" lon="124.00125">
+  <name>DAW-BV-31</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>31</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.60375" lon="124.10375">
+  <name>DAW-BV-32</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>32</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.84875" lon="124.22625">
+  <name>DAW-BV-33</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>33</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.31375" lon="124.07625">
+  <name>DAW-BV-34</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>34</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.93125" lon="124.11625">
+  <name>DAW-BV-35</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>35</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.33625" lon="124.04625">
+  <name>DAW-BV-36</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>36</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95125" lon="124.02375">
+  <name>DAW-BV-37</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>37</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.82375" lon="124.06625">
+  <name>DAW-BV-38</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>38</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.69625" lon="124.00625">
+  <name>DAW-BV-39</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>39</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.26125" lon="124.21625">
+  <name>DAW-BV-40</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>40</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.86625" lon="124.02875">
+  <name>DAW-BV-41</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>41</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.93125" lon="124.08125">
+  <name>DAW-BV-42</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>42</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.33625" lon="123.99375">
+  <name>DAW-BV-43</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>43</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.77875" lon="124.22875">
+  <name>DAW-BV-44</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>44</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.84125" lon="124.23375">
+  <name>DAW-BV-45</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>45</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.28875" lon="124.21125">
+  <name>DAW-BV-46</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>46</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95875" lon="124.09875">
+  <name>DAW-BV-47</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>47</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02375" lon="123.99125">
+  <name>DAW-BV-48</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>48</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.29875" lon="124.10375">
+  <name>DAW-BV-49</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>49</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.26875" lon="124.23625">
+  <name>DAW-BV-50</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>50</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.22125" lon="124.02125">
+  <name>DAW-BV-51</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>51</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.64625" lon="124.10125">
+  <name>DAW-BV-52</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>52</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.32875" lon="124.06625">
+  <name>DAW-BV-53</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>53</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.20125" lon="124.12875">
+  <name>DAW-BV-54</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>54</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.94125" lon="124.09375">
+  <name>DAW-BV-55</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>55</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.00375" lon="124.00125">
+  <name>DAW-BV-56</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>56</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.34375" lon="124.02125">
+  <name>DAW-BV-57</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>57</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.21625" lon="124.02875">
+  <name>DAW-BV-58</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>58</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.64125" lon="124.11125">
+  <name>DAW-BV-59</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>59</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.60875" lon="124.29375">
+  <name>DAW-BV-60</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>60</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.82375" lon="124.26375">
+  <name>DAW-BV-61</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>61</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.59875" lon="124.09625">
+  <name>DAW-BV-62</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>62</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.76625" lon="124.25375">
+  <name>DAW-BV-63</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>63</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.30875" lon="124.07875">
+  <name>DAW-BV-64</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>64</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.92625" lon="124.11875">
+  <name>DAW-BV-65</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>65</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.33125" lon="124.03375">
+  <name>DAW-BV-66</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>66</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.91625" lon="124.16625">
+  <name>DAW-BV-67</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>67</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.25125" lon="124.07125">
+  <name>DAW-BV-68</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>68</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.61375" lon="124.12125">
+  <name>DAW-BV-69</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>69</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.84875" lon="124.04625">
+  <name>DAW-BV-70</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>70</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.96125" lon="121.08875">
+  <name>INV-BV-01</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>1</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.92375" lon="121.05875">
+  <name>INV-BV-02</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>2</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02375" lon="120.95625">
+  <name>INV-BV-03</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>3</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.99625" lon="121.07875">
+  <name>INV-BV-04</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>4</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03125" lon="120.92625">
+  <name>INV-BV-05</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>5</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.94625" lon="121.08875">
+  <name>INV-BV-06</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>6</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04875" lon="120.94125">
+  <name>INV-BV-07</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>7</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.96375" lon="121.10375">
+  <name>INV-BV-08</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>8</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.93625" lon="120.98375">
+  <name>INV-BV-09</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>9</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.97125" lon="121.07375">
+  <name>INV-BV-10</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>10</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03625" lon="120.94875">
+  <name>INV-BV-11</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>11</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02375" lon="120.99625">
+  <name>INV-BV-12</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>12</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.93875" lon="121.15875">
+  <name>INV-BV-13</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>13</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04375" lon="120.93375">
+  <name>INV-BV-14</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>14</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95875" lon="121.09625">
+  <name>INV-BV-15</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>15</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04875" lon="120.99875">
+  <name>INV-BV-16</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>16</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.99125" lon="120.90875">
+  <name>INV-BV-17</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>17</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03625" lon="121.10625">
+  <name>INV-BV-18</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>18</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.94125" lon="121.08625">
+  <name>INV-BV-19</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>19</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04375" lon="120.95375">
+  <name>INV-BV-20</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>20</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95875" lon="121.11625">
+  <name>INV-BV-21</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>21</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.97625" lon="120.93375">
+  <name>INV-BV-22</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>22</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.00375" lon="121.02125">
+  <name>INV-BV-23</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>23</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.92875" lon="121.03125">
+  <name>INV-BV-24</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>24</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.07125" lon="120.95125">
+  <name>INV-BV-25</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>25</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.94375" lon="120.97125">
+  <name>INV-BV-26</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>26</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.00125" lon="120.93125">
+  <name>INV-BV-27</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>27</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.01875" lon="120.94625">
+  <name>INV-BV-28</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>28</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95375" lon="121.04625">
+  <name>INV-BV-29</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>29</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.98125" lon="121.00625">
+  <name>INV-BV-30</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>30</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.93125" lon="121.14125">
+  <name>INV-BV-31</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>31</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.97375" lon="121.07875">
+  <name>INV-BV-32</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>32</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.94375" lon="121.12625">
+  <name>INV-BV-33</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>33</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03625" lon="121.05375">
+  <name>INV-BV-34</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>34</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95125" lon="120.97375">
+  <name>INV-BV-35</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>35</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.06375" lon="120.93875">
+  <name>INV-BV-36</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>36</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.97875" lon="121.10125">
+  <name>INV-BV-37</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>37</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03625" lon="121.06125">
+  <name>INV-BV-38</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>38</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.00875" lon="120.87875">
+  <name>INV-BV-39</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>39</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.92375" lon="121.04125">
+  <name>INV-BV-40</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>40</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02625" lon="121.00125">
+  <name>INV-BV-41</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>41</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.94875" lon="121.02625">
+  <name>INV-BV-42</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>42</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02375" lon="121.04625">
+  <name>INV-BV-43</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>43</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.99625" lon="120.92375">
+  <name>INV-BV-44</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>44</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95625" lon="120.87375">
+  <name>INV-BV-45</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>45</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04875" lon="121.01875">
+  <name>INV-BV-46</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>46</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.02125" lon="120.89875">
+  <name>INV-BV-47</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>47</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.93625" lon="121.06125">
+  <name>INV-BV-48</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>48</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03875" lon="120.95875">
+  <name>INV-BV-49</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>49</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95375" lon="121.12125">
+  <name>INV-BV-50</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>50</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.92625" lon="120.99875">
+  <name>INV-BV-51</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>51</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.96875" lon="121.09125">
+  <name>INV-BV-52</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>52</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.99625" lon="120.94375">
+  <name>INV-BV-53</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>53</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03125" lon="121.03625">
+  <name>INV-BV-54</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>54</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.94625" lon="120.95375">
+  <name>INV-BV-55</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>55</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.93625" lon="121.13625">
+  <name>INV-BV-56</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>56</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95625" lon="121.02375">
+  <name>INV-BV-57</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>57</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.04875" lon="120.95125">
+  <name>INV-BV-58</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>58</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.94875" lon="120.88625">
+  <name>INV-BV-59</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>59</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.00625" lon="120.96625">
+  <name>INV-BV-60</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>60</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95875" lon="121.15875">
+  <name>INV-BV-61</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>61</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.05625" lon="120.96625">
+  <name>INV-BV-62</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>62</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.97625" lon="121.03125">
+  <name>INV-BV-63</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>63</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95625" lon="121.10625">
+  <name>INV-BV-64</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>64</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.01375" lon="121.06625">
+  <name>INV-BV-65</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>65</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.92875" lon="120.98375">
+  <name>INV-BV-66</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>66</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.94375" lon="121.16625">
+  <name>INV-BV-67</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>67</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.96375" lon="121.07625">
+  <name>INV-BV-68</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>68</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.95375" lon="121.01625">
+  <name>INV-BV-69</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>69</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.06625" lon="120.93875">
+  <name>INV-BV-70</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>70</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-33.98125" lon="121.10125">
+  <name>INV-BV-71</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>71</ogr:DropC>
+  </extensions>
+</wpt>
+<wpt lat="-34.03375" lon="121.03875">
+  <name>INV-BV-72</name>
+  <sym>xmred</sym>
+  <extensions>
+    <ogr:DropC>72</ogr:DropC>
+  </extensions>
+</wpt>
+</gpx>
