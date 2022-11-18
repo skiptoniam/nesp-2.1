@@ -60,6 +60,12 @@ fig.depth <- trim(fig.depth)
 fig.depth <- clamp(fig.depth, upper = 0, value = F)
 plot(fig.depth)
 
+# Salisbury
+sal <- vect("data/mbh-design/Salisbury_sample-polys.shp")
+sal.depth <- mask(depth, buffer(sal, width = 1000))
+sal.depth <- trim(sal.depth)
+plot(sal.depth)
+
 # Get bathymetry derivatives to have a play with
 # Investigator Island
 # Roughness
@@ -136,6 +142,27 @@ preds.fig <- rast(list(fig.depth, rough.fig, detre.fig[[1]]))
 plot(preds.fig)
 summary(preds.fig)
 
+# Salibsury Island
+# Roughness
+rough.sal <- terrain(sal.depth, v = c("roughness"))
+# Detrended bathymetry
+zstar <- st_as_stars(sal.depth)
+detre.sal <- detrend(zstar, parallel = 8)
+detre.sal <- as(object = detre.sal, Class = "SpatRaster")
+names(detre.sal) <- c("detrended", "lineartrend")
+plot(detre.sal)
+
+# Stack em up
+preds.sal <- rast(list(sal.depth, rough.sal, detre.sal[[1]]))
+plot(preds.sal)
+summary(preds.sal)
+
+preds.sal <- mask(preds.sal, cwatr, inverse = T)
+preds.sal[[1]] <- clamp(preds.sal[[1]], lower = -90, value = F)
+preds.sal[[2]] <- mask(preds.sal[[2]], preds.sal[[1]])                          # Why am i like this...
+preds.sal[[3]] <- mask(preds.sal[[3]], preds.sal[[1]])
+plot(preds.sal)
+
 # Write out the tifs
 writeRaster(preds.inv, paste0("data/spatial/rasters/investigator_",
                               names(preds.inv), ".tif"), overwrite = T)
@@ -145,4 +172,6 @@ writeRaster(preds.san, paste0("data/spatial/rasters/sandyhook_",
                               names(preds.san), ".tif"), overwrite = T)
 writeRaster(preds.fig, paste0("data/spatial/rasters/figureeight_",
                               names(preds.fig), ".tif"), overwrite = T)
+writeRaster(preds.sal, paste0("data/spatial/rasters/salisbury_",
+                              names(preds.sal), ".tif"), overwrite = T)
 

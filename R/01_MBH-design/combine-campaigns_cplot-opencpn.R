@@ -6,6 +6,8 @@
 # date:    November 2022
 ##
 
+rm(list = ls())
+
 library(tidyverse)
 library(rgdal)
 library(gpx)
@@ -26,24 +28,31 @@ san.boss <- read.csv("data/mbh-design/Sandyhook_MBH_wgs84.csv") %>%
   dplyr::select(x, y, DropC, sample)
 fig.boss <- read.csv("data/mbh-design/Figureofeight_MBH_wgs84.csv") %>%
   dplyr::select(x, y, DropC, sample)
+sal.bruv <- read.csv("data/mbh-design/Salisbury_BRUVs_MBH_wgs84.csv") %>%
+  dplyr::select(x, y, DropC, sample)
 
 all.boss <- bind_rows(daw.boss, inv.boss, sal.boss,
                         san.boss, fig.boss) %>%
   glimpse()
 
-all.bruv <- bind_rows(daw.bruv, inv.bruv) %>%
+all.bruv <- bind_rows(daw.bruv, inv.bruv, sal.bruv) %>%
   glimpse()
 
 # Export to txt file ready for processing into cplot .MRK file
 cplot.bruv <- data.frame("mark" = c("mark"),
                              "PXYCSLM" = c("PXYCSLM"),
                              DDtolatlon(all.bruv[, 1:2]),
-                             "symbol" = c("Pink Star"),
+                             "symbol" = c("Black Star"),
                              "ptcode" = all.bruv$sample,
                              c(0))
 head(cplot.bruv)
 write.table(cplot.bruv , "output/MBH-design/2022-11_Esperance_bruv_cplot.txt", sep = " ", 
             col.names = FALSE, row.names = FALSE, quote = FALSE)
+
+min(cplot.bruv$x)
+max(cplot.bruv$x)
+min(cplot.bruv$y)
+max(cplot.bruv$y)
 
 # Export to txt file ready for processing into cplot .MRK file
 cplot.boss <- data.frame("mark" = c("mark"),
@@ -55,6 +64,7 @@ cplot.boss <- data.frame("mark" = c("mark"),
 head(cplot.boss)
 write.table(cplot.boss , "output/MBH-design/2022-11_Esperance_boss_cplot.txt", sep = " ", 
             col.names = FALSE, row.names = FALSE, quote = FALSE)
+
 
 # # couldn't figure out how to get this to work with the quotation marks so I just pasted manually
 # "TMQ CPlot Chart Type 2   ",
