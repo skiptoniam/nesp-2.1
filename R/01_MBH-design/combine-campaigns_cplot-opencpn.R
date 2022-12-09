@@ -31,6 +31,14 @@ fig.boss <- read.csv("data/mbh-design/Figureofeight_MBH_wgs84.csv") %>%
 sal.bruv <- read.csv("data/mbh-design/Salisbury_BRUVs_MBH_wgs84.csv") %>%
   dplyr::select(x, y, DropC, sample)
 
+
+bremer.boss <- readOGR("data/mbh-design/Bremer_MBH_wgs84_200.shp")
+bremer.boss <- read.csv("data/mbh-design/bremer_wgs84.csv") %>%
+  dplyr::select(-c(x,y)) %>%
+  rename(x = Longitude, y = Latitude, sample = Sample) %>%
+  dplyr::select(x, y, DropC, sample)
+
+
 all.boss <- bind_rows(daw.boss, inv.boss, sal.boss,
                         san.boss, fig.boss) %>%
   glimpse()
@@ -54,6 +62,10 @@ max(cplot.bruv$x)
 min(cplot.bruv$y)
 max(cplot.bruv$y)
 
+
+
+
+
 # Export to txt file ready for processing into cplot .MRK file
 cplot.boss <- data.frame("mark" = c("mark"),
                          "PXYCSLM" = c("PXYCSLM"),
@@ -64,6 +76,20 @@ cplot.boss <- data.frame("mark" = c("mark"),
 head(cplot.boss)
 write.table(cplot.boss , "output/MBH-design/2022-11_Esperance_boss_cplot.txt", sep = " ", 
             col.names = FALSE, row.names = FALSE, quote = FALSE)
+
+
+# Export to txt file ready for processing into cplot .MRK file
+bremer.cplot.boss <- data.frame("mark" = c("mark"),
+                                "PXYCSLM" = c("PXYCSLM"),
+                                DDtolatlon(bremer.boss[, 1:2]),
+                                "symbol" = c("Blue Star"),
+                                "ptcode" = bremer.boss$sample,
+                                c(0))
+head(bremer.cplot.boss)
+write.table(bremer.cplot.boss , "output/MBH-design/2022-12_Bremer_BOSS_cplot.txt", sep = " ", 
+            col.names = FALSE, row.names = FALSE, quote = FALSE)
+
+
 
 
 # # couldn't figure out how to get this to work with the quotation marks so I just pasted manually
