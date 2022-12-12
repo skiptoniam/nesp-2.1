@@ -13,7 +13,7 @@ library(googlesheets4)
 
 # Find valid timezone
 # Search for Perth, change to other location if the samples were not in WA.
-grep("Perth", OlsonNames(), value=TRUE)
+grep("Perth", OlsonNames(), value = TRUE)
 
 metadata.names <- c(system.number = NA_real_,
                     sample = NA_real_,
