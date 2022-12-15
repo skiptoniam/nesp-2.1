@@ -1,0 +1,194 @@
+CATAMI_L2_L3	CATAMI_L4	CATAMI_L5	Relief
+Ascidians			*
+Ascidians > Stalked			*
+Ascidians > Stalked	Solitary		*
+Ascidians > Stalked	Colonial		*
+Ascidians > Unstalked			*
+Ascidians > Unstalked	Solitary		*
+Ascidians > Unstalked	Colonial		*
+Bacterial mats > Cyanobacteria			*
+Bacterial mats > Other			*
+Bacterial mats			*
+Bryozoa > Hard	Branching		*
+Bryozoa > Hard	Encrusting		*
+Bryozoa > Hard	Fenestrate		*
+Bryozoa > Hard	Massive		*
+Bryozoa > Hard			*
+Bryozoa > Soft	Dendroid		*
+Bryozoa > Soft	Foliaceous		*
+Bryozoa > Soft			*
+Bryozoa			*
+Cnidaria > Colonial anemones	Corallimorphs		*
+Cnidaria > Colonial anemones	Zoanthids		*
+Cnidaria > Colonial anemones			*
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	*
+Cnidaria > Corals	Black & Octocorals	Encrusting	*
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	*
+Cnidaria > Corals	Black & Octocorals	Massive soft corals	*
+Cnidaria > Corals	Black & Octocorals	Organ pipe coral (Tubipora)	*
+Cnidaria > Corals	Black & Octocorals	Quill (seapen)	*
+Cnidaria > Corals	Black & Octocorals	Whip	*
+Cnidaria > Corals	Black & Octocorals		*
+Cnidaria > Corals	Stony corals	Bottlebrush	*
+Cnidaria > Corals	Stony corals	Branching	*
+Cnidaria > Corals	Stony corals	Colonial	*
+Cnidaria > Corals	Stony corals	Columnar	*
+Cnidaria > Corals	Stony corals	Corymbose	*
+Cnidaria > Corals	Stony corals	Digitate	*
+Cnidaria > Corals	Stony corals	Encrusting	*
+Cnidaria > Corals	Stony corals	Foliose / plate	*
+Cnidaria > Corals	Stony corals	Massive	*
+Cnidaria > Corals	Stony corals	Solitary	*
+Cnidaria > Corals	Stony corals	Staghorn	*
+Cnidaria > Corals	Stony corals	Sub-massive	*
+Cnidaria > Corals	Stony corals	Tabulate	*
+Cnidaria > Corals	Stony corals		*
+Cnidaria > Corals			*
+Cnidaria > Hydrocorals	Branching		*
+Cnidaria > Hydrocorals	Submassive / encrusting		*
+Cnidaria > Hydrocorals			*
+Cnidaria > Hydroids			*
+Cnidaria > True anemones	Flytrap		*
+Cnidaria > True anemones	Fourlobed		*
+Cnidaria > True anemones	Other anemones	Colonial	*
+Cnidaria > True anemones	Other anemones	Solitary	*
+Cnidaria > True anemones	Other anemones		*
+Cnidaria > True anemones			*
+Cnidaria > Tube anemones			*
+Cnidaria			*
+Echinoderms > Feather stars	Stalked crinoids		*
+Echinoderms > Feather stars	Unstalked crinoids		*
+Echinoderms > Feather stars			*
+Echinoderms > Ophiuroids	Basket stars		*
+Echinoderms > Ophiuroids	Brittle / snake stars		*
+Echinoderms > Ophiuroids			*
+Echinoderms > Sea cucumbers	Benthic		*
+Echinoderms > Sea cucumbers	Pelagic / swimming		*
+Echinoderms > Sea cucumbers			*
+Echinoderms > Sea stars			*
+Echinoderms > Sea urchins	Irregular urchins		*
+Echinoderms > Sea urchins	Regular urchins		*
+Echinoderms > Sea urchins			*
+Echinoderms			*
+General Unknown Biology			*
+Macroalgae > Articulated calcareous	Green	Articulated Calcareous Green	*
+Macroalgae > Articulated calcareous	Green		*
+Macroalgae > Articulated calcareous	Red	Articulated Calcareous Red	*
+Macroalgae > Articulated calcareous	Red	Corallina (Erect)	*
+Macroalgae > Articulated calcareous	Red		*
+Macroalgae > Articulated calcareous			*
+Macroalgae > Drift Algae			*
+Macroalgae > Encrusting	Brown		*
+Macroalgae > Encrusting	Green	Codium spp	*
+Macroalgae > Encrusting	Green		*
+Macroalgae > Encrusting	Red	Calcareous	*
+Macroalgae > Encrusting	Red	Non-calcareous	*
+Macroalgae > Encrusting	Red		*
+Macroalgae > Encrusting			*
+Macroalgae > Erect coarse branching	Brown	Drift	*
+Macroalgae > Erect coarse branching	Brown		*
+Macroalgae > Erect coarse branching	Green		*
+Macroalgae > Erect coarse branching	Red	Foliose	*
+Macroalgae > Erect coarse branching	Red		*
+Macroalgae > Erect coarse branching			*
+Macroalgae > Erect fine branching	Brown	Brown Understory Algae	*
+Macroalgae > Erect fine branching	Brown		*
+Macroalgae > Erect fine branching	Green		*
+Macroalgae > Erect fine branching	Red	Foliose	*
+Macroalgae > Erect fine branching	Red		*
+Macroalgae > Erect fine branching			*
+Macroalgae > Filamentous / filiform	Brown		*
+Macroalgae > Filamentous / filiform	Dark Red		*
+Macroalgae > Filamentous / filiform	Green		*
+Macroalgae > Filamentous / filiform	Mat algae		*
+Macroalgae > Filamentous / filiform	Red		*
+Macroalgae > Filamentous / filiform	Turfing Algae	Green turf	*
+Macroalgae > Filamentous / filiform	Turfing Algae	Red turf	*
+Macroalgae > Filamentous / filiform	Turfing Algae		*
+Macroalgae > Filamentous / filiform			*
+Macroalgae > Globose / saccate	Brown		*
+Macroalgae > Globose / saccate	Green		*
+Macroalgae > Globose / saccate	Red		*
+Macroalgae > Globose / saccate			*
+Macroalgae > Laminate	Brown		*
+Macroalgae > Laminate	Green		*
+Macroalgae > Laminate	Red		*
+Macroalgae > Laminate			*
+Macroalgae > Large canopy-forming	Brown	Unidentifiable	*
+Macroalgae > Large canopy-forming	Brown	Carpoglossum confluens	*
+Macroalgae > Large canopy-forming	Brown	Durvillaea potatorum	*
+Macroalgae > Large canopy-forming	Brown	Ecklonia radiata	*
+Macroalgae > Large canopy-forming	Brown	Lessonia corrugata	*
+Macroalgae > Large canopy-forming	Brown	Phyllospora comosa	*
+Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa	*
+Macroalgae > Large canopy-forming		Unidentifiable	*
+Macroalgae > Sheet-like / membraneous	Brown		*
+Macroalgae > Sheet-like / membraneous	Green		*
+Macroalgae > Sheet-like / membraneous	Red	Foliose	*
+Macroalgae > Sheet-like / membraneous	Red		*
+Macroalgae > Sheet-like / membraneous			*
+Macroalgae 			*
+Matrix > Bryozoa / Cnidaria / Creeping Sponge Matrix			*
+Matrix > Bryozoa / Cnidaria / Encrusting Sponge Matrix			*
+Matrix > Bryozoa / Cnidaria / Sponge Matrix			*
+Matrix > Bryozoa / Cnidaria Matrix			*
+Matrix > Encrusting/Turfing Algal Matrix			*
+Matrix > Mixed Sessile Invertebrate			*
+Matrix > Turf/Sediment/Silt matrix			*
+Matrix			*
+Seagrasses > Elliptical leaves	Halophila spp		*
+Seagrasses > Elliptical leaves	Unidentifiable		*
+Seagrasses > Strap-like leaves	Amphibolis sp. (Caab 63600903) 		*
+Seagrasses > Strap-like leaves	Thalassodendron sp. (CAAB 63618905)  		*
+Seagrasses > Strap-like leaves	Posidonia sp. (Caab 63600903) 		*
+Seagrasses > Strap-like leaves	Zostera sp. (Caab 63600903)		*
+Seagrasses > Strap-like leaves	Rupia sp. (Caab 63600903)		*
+Seagrasses > Strap-like leaves	Unidentifiable		*
+Seagrasses > 			*
+Sponges > Crusts	Creeping / ramose		*
+Sponges > Crusts	Encrusting		*
+Sponges > Crusts	Endolithic / bioeroding		*
+Sponges > Crusts			*
+Sponges > Cup-likes	Barrels		*
+Sponges > Cup-likes	Cups	Cup / goblet	*
+Sponges > Cup-likes	Cups	Incomplete cup / curled fan	*
+Sponges > Cup-likes	Cups	Tables / discs	*
+Sponges > Cup-likes	Cups		*
+Sponges > Cup-likes	Tubes and chimneys		*
+Sponges > Cup-likes			*
+Sponges > Erect forms	Branching		*
+Sponges > Erect forms	Laminar		*
+Sponges > Erect forms	Palmate		*
+Sponges > Erect forms	Simple		*
+Sponges > Erect forms	Stalked		*
+Sponges > Erect forms			*
+Sponges > Massive forms	Balls		*
+Sponges > Massive forms	Cryptic		*
+Sponges > Massive forms	Simple		*
+Sponges > Massive forms			*
+Sponges			*
+Substrate > Consolidated (hard)	Boulders		*
+Substrate > Consolidated (hard)	Cobbles		*
+Substrate > Consolidated (hard)	Rock		*
+Substrate > Consolidated (hard)			*
+Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic	*
+Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)	*
+Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)	*
+Substrate > Unconsolidated (soft)	Pebble / gravel		*
+Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)	*
+Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Fine sand (no shell fragments)	*
+Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Mud / silt (<64um)	*
+Substrate > Unconsolidated (soft)	Sand / mud (<2mm)		*
+Substrate > Unconsolidated (soft)			*
+Substrate			*
+Anthropogenic Debris			*
+Biota			*
+Unscorable			*
+			*
+			0. Flat substrate, sandy, rubble with few features. ~0 substrate slope
+			1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope
+			2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope
+			3. Good relief structure with some overhangs. >45 substrate slope
+			4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope
+			5. Exceptional structural complexity, numerous large holes and caves. Vertical wall. ~90 substrate slope
+			Unknown

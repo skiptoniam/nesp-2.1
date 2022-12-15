@@ -1,0 +1,1297 @@
+CATAMI_L2_L3	CATAMI_L4	CATAMI_L5	CATAMI_L6_L7	AMC	FieldOfView	Relief	uuid
+Ascidians				Unidentifiable	*	*	e786b999-7f40-4cd4-a431-85564dc498b6
+Ascidians > Stalked				Unidentifiable	*	*	8d346533-e63d-43e6-a48b-5f98b347f94c
+Ascidians > Stalked	Solitary			Unidentifiable	*	*	c5688a05-bbb6-4a3b-a2b3-ee7a906be89f
+Ascidians > Stalked	Colonial			Ascidian Stalked Purple Pyura Like	*	*	4297ea36-de28-4d89-8c5e-a32044f0f53c
+Ascidians > Stalked	Colonial			Ascidian Stalked Yellow Thorny Pyura like	*	*	c72a4ebf-8f43-4ec5-b10c-8833977f2879
+Ascidians > Stalked	Colonial			Ascidian Colonial Yellow Fingers	*	*	5a19d554-105e-4c8c-9a4f-0a7b08cb480f
+Ascidians > Stalked	Colonial			Small white stalked Scyozoa like	*	*	3309fa40-eac9-4005-aa27-559ef844b4f4
+Ascidians > Stalked	Colonial			Unidentifiable	*	*	0ceecb87-bfeb-42b7-8434-6ba19f242aa9
+Ascidians > Unstalked				Unidentifiable	*	*	bf6f5f57-9417-46e2-a5ac-25330a59a538
+Ascidians > Unstalked	Solitary			Unidentifiable	*	*	ca5ff6c8-c188-4ca6-b0c4-bf0912af3288
+Ascidians > Unstalked	Solitary			Ascidian Red Throated	*	*	a16ca0d6-f068-4b35-9ef9-af83d6543924
+Ascidians > Unstalked	Solitary			Ascidian Solitary 5	*	*	17aeccfb-5e4a-4c72-a59c-9025819a0cfb
+Ascidians > Unstalked	Solitary			Ascidian Solitary Grey	*	*	44096ca4-fe3f-47a9-8d66-e89f91506aa1
+Ascidians > Unstalked	Solitary			Ascidian Solitary Orange-Yellow	*	*	8a9990eb-edf6-41e0-8e08-82505149ef2d
+Ascidians > Unstalked	Solitary			Ascidian Solitary Yellow	*	*	a36e89bd-e5d5-4efd-b282-85933f174b50
+Ascidians > Unstalked	Solitary			Herdmania momus	*	*	945546da-60ef-4ee4-8802-10feec09ef33
+Ascidians > Unstalked	Solitary			Phallusia obesa (Caab 35002025)	*	*	22110766-b753-4323-a602-06108df26585
+Ascidians > Unstalked	Solitary			Ascidian Unknown Solitary	*	*	701621cd-b374-4fc7-8ad7-cdf2010b8cb5
+Ascidians > Unstalked	Colonial			Unidentifiable	*	*	06b9b6a9-f223-4aad-bd41-37d4db3e5e7f
+Ascidians > Unstalked	Colonial			Ascidian apricot colonial	*	*	ed73c07c-a9d1-44f5-aba5-18631bcbbd8f
+Ascidians > Unstalked	Colonial			Ascidian Clavelina Bluebells	*	*	6e00ad4b-684d-43c3-94d1-63f4c7b52535
+Ascidians > Unstalked	Colonial			Ascidian Clavelina Like (Blue)	*	*	269745f3-1783-4fce-b608-6efcf24c45c3
+Ascidians > Unstalked	Colonial			Ascidian Clavelina Like (White)	*	*	8c375447-cee5-418a-92fa-063c752fa5f2
+Ascidians > Unstalked	Colonial			Ascidian Colonial Purple	*	*	72e4eb01-85cd-4fef-81ba-291823861bb8
+Ascidians > Unstalked	Colonial			Ascidian Colonial Red	*	*	902f2f25-5fad-4681-8022-35271c41f308
+Ascidians > Unstalked	Colonial			Ascidian Colonial Yellow	*	*	b1224b13-b128-48f8-8502-7c8c889da49e
+Ascidians > Unstalked	Colonial			Ascidian white translucent colonial	*	*	9d2e2a2c-6644-4c15-b530-db10dea944af
+Ascidians > Unstalked	Colonial			Ascidian Orange	*	*	19fff66c-f09e-409a-a4b8-1e8456e34986
+Ascidians > Unstalked	Colonial			Ascidian Sycozoa Like	*	*	5530f4f0-841b-49a1-9ad9-911125979ce3
+Ascidians > Unstalked	Colonial			Ascidian Colonial Encrusting Purple	*	*	6d17c4bc-e341-4ae6-b4b6-dfd1dcbdf600
+Bacterial mats > Cyanobacteria				Unidentifiable	*	*	ec05133d-4d36-4f8f-9481-65b6781a0d62
+Bacterial mats > Other				Unidentifiable	*	*	954bbb23-7dc3-4893-8b86-683a04977b40
+Bacterial mats				Unidentifiable	*	*	b0b2a769-dda4-4cbe-854d-1088a261313a
+Bedforms > 2D	Ripples (<10cm height)			Unidentifiable	*	*	8b52aa9f-6b48-483d-bb15-cfd0e0b04045
+Bedforms > 2D	Waves (>10cm height)			Unidentifiable	*	*	f8f0be68-8462-452c-9150-cf1a6701ec48
+Bedforms > 2D				Unidentifiable	*	*	ec5650a3-921b-433e-b0e0-95cdbde4c740
+Bedforms > 3D	Ripples (<10cm height)			Unidentifiable	*	*	f9f606b9-0ac3-4d82-a982-0b3ffb0f5560
+Bedforms > 3D	Waves (>10cm height)			Unidentifiable	*	*	f06f37e8-7134-4e8f-90b3-597bbb66b32e
+Bedforms > 3D				Unidentifiable	*	*	281f74fa-8abb-4a6e-bfe7-4afe3e81ef75
+Bedforms > Bioturbated				Unidentifiable	*	*	309a7e62-80bc-422b-a31e-f2393fb01d33
+Bedforms > None				Unidentifiable	*	*	50ac6872-8ed5-40fe-809d-dc31da88a11f
+Bedforms				Unidentifiable	*	*	68307b13-c69b-4fbe-95fb-6bb4c165a299
+Bioturbation > Crawling traces	Complex trail			Unidentifiable	*	*	a0c16895-3f3c-4262-b4df-5e460450912d
+Bioturbation > Crawling traces	Crater row			Unidentifiable	*	*	f61b2e78-b1e5-4f47-bb2d-61af99c88571
+Bioturbation > Crawling traces	Disturbed trace			Unidentifiable	*	*	81413b2c-8d3e-4ba1-947a-3bb436abae40
+Bioturbation > Crawling traces	Mounded trail			Unidentifiable	*	*	6c5f3141-80e3-4df7-a9e2-d78f83faa81e
+Bioturbation > Crawling traces	Perforated trail			Unidentifiable	*	*	6f6546c4-e926-4ec8-a850-5026d1167c93
+Bioturbation > Crawling traces	Thick trail			Unidentifiable	*	*	b44eb9af-bbf5-4a02-8dbb-c38b5ac79412
+Bioturbation > Crawling traces	Thin trail			Unidentifiable	*	*	5ebae079-4c2b-4f25-9da0-57dd7c09ff89
+Bioturbation > Crawling traces				Unidentifiable	*	*	1e11a48a-ed3a-42ae-af38-00e512642f38
+Bioturbation > Dwelling traces	Burrow cluster			Unidentifiable	*	*	70ce4c71-cd51-43c6-9d51-e2ac0b6f661a
+Bioturbation > Dwelling traces	Crater cone			Unidentifiable	*	*	6a21ed9b-27da-4b4d-afa8-5fb31615d741
+Bioturbation > Dwelling traces	Elongate depression			Unidentifiable	*	*	c7ef6823-3815-4997-8062-03361f42cfce
+Bioturbation > Dwelling traces	Fractured mound			Unidentifiable	*	*	dd8b7a52-ee32-4ab4-ac29-71890e694d03
+Bioturbation > Dwelling traces	Large mound			Unidentifiable	*	*	d4d3aa2c-69db-4232-988a-e01f43787b90
+Bioturbation > Dwelling traces	Oblique burrow			Unidentifiable	*	*	b5e9cc3f-2f61-49b4-9df4-0fe5429deb4f
+Bioturbation > Dwelling traces	Paired burrow			Unidentifiable	*	*	1788986f-ab08-4af0-86f4-4f7bb9677fb3
+Bioturbation > Dwelling traces	Rounded crater ring			Unidentifiable	*	*	31275d0d-32f1-461c-bd6a-4c2d43ab1e99
+Bioturbation > Dwelling traces	Single burrow			Unidentifiable	*	*	97eae4fd-b934-4f34-9d8d-cfb44daa50e6
+Bioturbation > Dwelling traces	Small mound			Unidentifiable	*	*	e8c3fcd7-6b2f-47b5-a759-4696c14c7b5d
+Bioturbation > Dwelling traces	Spiked crater ring			Unidentifiable	*	*	93ff558b-123a-4674-abd3-0308c6370da5
+Bioturbation > Dwelling traces	Spotted mound			Unidentifiable	*	*	58ea6798-d793-42ea-9fb3-c63a05e0fc7b
+Bioturbation > Dwelling traces	Trapdoor burrow			Unidentifiable	*	*	a2004f52-7707-4c8b-8493-ca38ea763e19
+Bioturbation > Dwelling traces	Vertical burrow			Unidentifiable	*	*	e7239f56-d6b3-44b9-b937-e14e3abe9ab8
+Bioturbation > Dwelling traces				Unidentifiable	*	*	d909a4d2-bed0-4742-92ef-eafbc038161e
+Bioturbation > Feeding traces	Batoid feeding pit			Unidentifiable	*	*	8f1a7a66-6fd8-43c1-95aa-105693f07053
+Bioturbation > Feeding traces	Large rosette			Unidentifiable	*	*	a834e53f-2954-4549-8120-44e1901e6124
+Bioturbation > Feeding traces	Petal rosette			Unidentifiable	*	*	fc2e1cc6-6a63-4a78-ba93-f16f00ea89a9
+Bioturbation > Feeding traces	Pincushion rosette			Unidentifiable	*	*	c4502ac6-ec70-47ab-92da-3023126cf6ef
+Bioturbation > Feeding traces	Rayed mound			Unidentifiable	*	*	feb6aed4-1239-47b1-97a2-c8ccdd79f225
+Bioturbation > Feeding traces	Small rosette			Unidentifiable	*	*	e9c6d70e-167f-4cbb-ad5c-03f87985f5cc
+Bioturbation > Feeding traces				Unidentifiable	*	*	7de7ac12-a147-42d6-91c4-401597e8a054
+Bioturbation > Organism tests	Globule xenophyophore			Unidentifiable	*	*	d7926443-e7bd-4afa-a9f2-61c684d4f5d2
+Bioturbation > Organism tests	Lumpy xenophyophore			Unidentifiable	*	*	e91a4329-6c08-4f39-8d88-069539efb364
+Bioturbation > Organism tests				Unidentifiable	*	*	2dcad168-22a8-4b37-9b3f-c2bd2bda846b
+Bioturbation > Resting traces	Large depression			Unidentifiable	*	*	5953ed0b-e163-4aab-87d9-1e4d04beb1c2
+Bioturbation > Resting traces	Star impression			Unidentifiable	*	*	250e5d61-1a39-459d-8583-dc49eecfd591
+Bioturbation > Resting traces	Urchin trace			Unidentifiable	*	*	658402fc-264e-4703-947b-91f1a5f7225b
+Bioturbation > Resting traces				Unidentifiable	*	*	73afe691-38ce-4701-9c75-3acb511abc5c
+Bioturbation > Unknown origin	Fern			Unidentifiable	*	*	c134025d-87be-4f42-9e8f-a2cd565fa4ec
+Bioturbation > Unknown origin	Matchstick			Unidentifiable	*	*	ebb3b04b-9b85-438d-9e86-4fb5f462ed45
+Bioturbation > Unknown origin	Mesh			Unidentifiable	*	*	acbdf7cf-eeb1-4db1-9d68-8a0a9eeb1d56
+Bioturbation > Unknown origin	Ovoid pinnate			Unidentifiable	*	*	1fc070f6-1f1b-4ba8-a313-2bc09d40c664
+Bioturbation > Unknown origin	Pogostick			Unidentifiable	*	*	a64d6fdd-2a93-4c9e-ade2-e5d9b9ba2f98
+Bioturbation > Unknown origin	Round pinnate			Unidentifiable	*	*	2c003db8-ed98-4fa8-9f71-ee0fcc382e97
+Bioturbation > Unknown origin	Spider			Unidentifiable	*	*	61e76b55-5c34-4ab5-94e2-dbdae3ebbfbf
+Bioturbation > Unknown origin				Unidentifiable	*	*	147b5fdf-1ce3-4328-85aa-977ae64508b8
+Bioturbation > Waste casts	Coiled casts			Unidentifiable	*	*	a6f81b26-6901-4cc7-8665-188e1b393f69
+Bioturbation > Waste casts	Curly casts			Unidentifiable	*	*	e20fe3ef-7e18-4a6f-b788-60d29c1548ce
+Bioturbation > Waste casts	Mounded casts			Unidentifiable	*	*	3c9743ae-7a42-4b4a-a55c-4a3e201b1bfc
+Bioturbation > Waste casts	Nest casts			Unidentifiable	*	*	a453058f-79b8-415f-a9f2-a572925cd2fa
+Bioturbation > Waste casts	Round casts			Unidentifiable	*	*	7f0f4c3e-a7dd-4e68-9722-256f7fff8e02
+Bioturbation > Waste casts	Spirals			Unidentifiable	*	*	8a7d621d-8b82-49e6-b857-c81dd0c9754e
+Bioturbation > Waste casts	Switchbacks			Unidentifiable	*	*	f00c99d8-1889-4704-8cb9-4166cd2ec80a
+Bioturbation > Waste casts	Wavy casts			Unidentifiable	*	*	cadce1f0-095f-4e82-bb2e-92e19008c4aa
+Bioturbation > Waste casts				Unidentifiable	*	*	9dad2e5d-8399-4181-87a8-c53f32de2851
+Bioturbation				Unidentifiable	*	*	e786248b-9a09-45e6-92a9-5f6c7703e642
+Brachiopods				Unidentifiable	*	*	25504fb1-a43e-49bd-a44d-603ef82d2e11
+Bryozoa > Hard	Branching			Bryozoa Stumpy Hard	*	*	d27f84a9-b966-4029-bb1c-4b7de292b607
+Bryozoa > Hard	Branching			Hornera robusta like	*	*	c36ef1bb-0ac4-49e4-bc78-32d60f1e97fc
+Bryozoa > Hard	Branching			Unidentifiable	*	*	d0e9bccc-372b-445f-81b7-c454df6ec03d
+Bryozoa > Hard	Encrusting			Agariciidae	*	*	fba449f1-8404-468a-b618-51784212df57
+Bryozoa > Hard	Encrusting			Astrocoeniidae	*	*	4468bbfa-3b0b-4d6b-a497-e86d189697bc
+Bryozoa > Hard	Encrusting			Unidentifiable	*	*	dd3f83b6-046e-43bd-b7cf-395fe498b939
+Bryozoa > Hard	Fenestrate			Bryozoa Adeona Grisea	*	*	ca663668-10bd-4142-8dab-5fd8beadb790
+Bryozoa > Hard	Fenestrate			Bryozoa Celleporaria Like	*	*	0a4aca2c-3ff8-494d-b439-ecbee056140b
+Bryozoa > Hard	Fenestrate			Bryozoa Hard Sparce	*	*	75f74a35-23a6-4da3-99ce-be9c23cd4fce
+Bryozoa > Hard	Fenestrate			Bryozoa Lace	*	*	ce197f7d-4c2c-4c67-80fb-a9ebbbc20a11
+Bryozoa > Hard	Fenestrate			Bryozoa orange lace	*	*	262ad112-25b4-44ca-bbfd-e8037bfccda9
+Bryozoa > Hard	Fenestrate			Bryozoa Purple Lettuce- retired. use Adeona Grisea	*	*	1f6cee1e-5a75-4c75-b31c-8028af87e8c1
+Bryozoa > Hard	Fenestrate			Bryozoa Steginoprella Like	*	*	ffe74a1b-a996-4c4a-8081-100d5650f724
+Bryozoa > Hard	Fenestrate			Bryozoa White Lace Fan	*	*	4a3f6be5-c95d-4076-ac02-1a0b3dcaf28f
+Bryozoa > Hard	Fenestrate			Bryozoan thick orange filly	*	*	414d5526-3bb3-444f-bd93-73876d234b6b
+Bryozoa > Hard	Fenestrate			Unidentifiable	*	*	124e9dc2-e4d8-42b7-ab5f-8e285a974a94
+Bryozoa > Hard	Massive			Unidentifiable	*	*	610bbf41-31ff-4422-af2f-bad825a39311
+Bryozoa > Hard				Unidentifiable	*	*	dddcfb40-64dc-45b6-b3a6-b297ddb302cc
+Bryozoa > Soft	Dendroid			Bryozoa Soft Dendroid Red-Brown 	*	*	6c664c29-f2b2-4b85-829b-7cea7525d086
+Bryozoa > Soft	Dendroid			Unidentifiable	*	*	ef975b5b-e1eb-4d58-9e47-d66abcb04c57
+Bryozoa > Soft	Foliaceous			Bryozoa Soft Amathia Like	*	*	d1b22529-fd73-45c6-9bbb-3c6ebbaba8cb
+Bryozoa > Soft	Foliaceous			Bryozoa Soft Beige Fluffy	*	*	ad1ec5ed-d074-44b8-b534-35c5524a2fde
+Bryozoa > Soft	Foliaceous			Bryozoa Soft Dark Red	*	*	50b89e6d-106a-42d0-99b1-b923a07776f5
+Bryozoa > Soft	Foliaceous			Bryozoa Soft Grey Pink	*	*	3104ec33-e79f-4aec-84af-5f3381f7a8f4
+Bryozoa > Soft	Foliaceous			Bryozoa Soft Orange	*	*	bc8b2dda-7e4e-44b6-a2d2-430cbb2bfc06
+Bryozoa > Soft	Foliaceous			Bryozoa Soft Orthoscuticella Like	*	*	3d27a30c-bc72-4723-8fa7-ab2252e1a672
+Bryozoa > Soft	Foliaceous			Bryozoa Soft Pinky White	*	*	eea7fd5f-ee5f-4aa8-ab41-012ff6e38392
+Bryozoa > Soft	Foliaceous			Bryozoa Unknown Soft	*	*	a4ea1748-edeb-4427-b1aa-c06febfec4ed
+Bryozoa > Soft	Foliaceous			Unidentifiable	*	*	5764d798-b9cc-4a62-9b4b-2f4fc065536a
+Bryozoa > Soft	Foliaceous			Retiflustra like	*	*	22b06141-78c3-46d1-968d-01927aa2ea1f
+Bryozoa > Soft				Unidentifiable	*	*	a1feffe9-b859-4a18-8203-574d1a78ae42
+Bryozoa				Unidentifiable	*	*	7369e38e-79f6-4672-9d55-6d94e50a5d33
+Chain				Unidentifiable	*	*	b1e2d8fe-6d6f-4aff-9c7c-8aa7c86eb945
+Cnidaria > Colonial anemones	Corallimorphs			Corallimorphs	*	*	94afde26-0dae-4886-983f-39fb492b9a72
+Cnidaria > Colonial anemones	Zoanthids			Epizoanthus spp	*	*	adf10167-8304-47a9-a2e4-6f988f67b784
+Cnidaria > Colonial anemones	Zoanthids			Parazoanthus spp	*	*	2c437f93-ef80-4b92-8fa4-33ff468d4108
+Cnidaria > Colonial anemones	Zoanthids			Zoanthids	*	*	14609ace-afc4-49ce-9ddc-856110e25f3d
+Cnidaria > Colonial anemones				Unidentifiable	*	*	a34df8cc-f98d-4df5-a967-ac398ac0f0b3
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Alcyoniidae	*	*	43846a83-7f7a-40e0-af2f-d8b2593e902d
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Alcyonium spp	*	*	b1abf313-9ae1-4301-98d4-bb322f5efe09
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Black tip soft coral	*	*	355ae4c5-fe14-41e5-b63c-1c2334cef64c
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Cespitularia spp	*	*	c8695032-a208-4dd0-8be5-844540096b34
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Dendronephthya spp	*	*	d73301f1-ae74-40f1-84b5-69e09b27bed7
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Efflatounaria spp	*	*	c5a54e7c-f79c-4dd2-8591-b4ee22a5114d
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Lemnalia spp	*	*	2be9e851-44d2-48d6-921c-af9328a742d5
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Nephthea spp	*	*	9a372c68-332d-49b1-8a99-78a90badec2d
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Nephtheidae	*	*	5b6ce7eb-6eff-4127-be35-6f981c37aca3
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Scleronephthya spp	*	*	cf42665a-c71f-4d41-ade2-e01d852b8172
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Sinularia	*	*	04b61c9b-3472-4409-8453-f88906f1ead8
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Soft Blue	*	*	b6136aed-1904-42b5-9361-23f1a275ff7a
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Soft Capnella Like	*	*	21b51335-46a1-4c44-be95-8c616c37de5f
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Soft Dark Red	*	*	6135e3e5-6f53-4b6d-a336-f8e306a89fb6
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Soft Pink	*	*	9dbba44a-499c-46de-81ad-a2d5377765ec
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Soft Purple	*	*	2787b933-e321-44b2-b844-965d375537c9
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Soft white	*	*	fb8ae55d-11ac-4624-92bf-9b541513ce2d
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Stereonephthya spp	*	*	0bd63321-fde3-42ce-8aaa-f06b6bdd438f
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Xenia spp	*	*	ec4a225e-ae9b-4d3c-aa30-e50ed262bb3b
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Xeniidae	*	*	23e74107-4625-45d2-8384-38dcf9cda811
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Arborescent	Unidentifiable	*	*	505f4186-3e53-4691-ba80-6dd8c0fa519c
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Digitate	Paralemnalia spp	*	*	c32288f4-f5f7-4403-baf8-2f7000b02368
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Digitate	Unidentifiable	*	*	ffa17a2e-be32-4390-bbc5-a0ea5b6aec07
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Mushroom	Anthomastus Like Coral	*	*	be191f96-ebbb-4e90-90ab-121167ee3b7e
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Mushroom	Sinularia	*	*	710a92bd-acc2-4a0c-a34a-8ef5e2409867
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy > Mushroom	Unidentifiable	*	*	aeb87493-2a2d-4aea-a3b3-8addc6be4309
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Fleshy	Unidentifiable	*	*	2645f293-73d6-49f2-bc97-cf8ddd27e8f7
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Arborescent	Black thin branching (Ellisellidae)	*	*	8abebf36-48b1-4c72-a0e5-6f97a1f7ab01
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Arborescent	Bramble Acabaria Sp	*	*	90c0355c-01a1-434a-8337-8538a81a712d
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Arborescent	Bramble Asperaxis karenae	*	*	caaba343-51fe-4ea4-adfa-96324d16e851
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Arborescent	Large Black Coral White Feathers 	*	*	9fa2a473-f8c4-4765-b3f4-7d049d5417c7
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Arborescent	Orange thin branching (Ellisellidae)	*	*	a13abd90-11e1-4fe8-b53a-c7737dd3c7f0
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Arborescent	Orange Tree like	*	*	5c4cad22-0295-4d82-ab79-702ac5761501
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Arborescent	Paragorgia like Red	*	*	fc560b1e-eebc-48f3-a246-ba646212ad7f
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Arborescent	Telopathes tasmaniensis	*	*	06af4ea7-7315-43c0-8bd2-019e328a00ae
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Arborescent	Unidentifiable	*	*	7ea450cc-89bb-4757-99ce-5ffe50dc456f
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Bottle-brush (Complex)	Bottle-brush Thin Purplish White	*	*	c11fa8a5-9b57-4276-b48a-d2a38478139d
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Bottle-brush (Complex)	Antipathes	*	*	1ea6e2a9-ad95-42f3-ab78-28840011e35f
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Bottle-brush (Complex)	Branching Grey Octocoral	*	*	b38d8788-8a27-4dc1-afce-b1c89e43ab6e
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Bottle-brush (Complex)	Unidentifiable	*	*	4f1d60d0-4b8a-4fad-a1b6-4bb48c8eb6f3
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Bottle-brush (Simple)	Carijoa like	*	*	0646800b-0dba-4147-a140-c8d9f99dc12c
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Bottle-brush (Simple)	Unidentifiable	*	*	cab4a7dd-9e59-4ba8-9242-3a5414ccd47b
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Bottle-brush	Unidentifiable	*	*	fb60a038-d25e-4e96-9912-0a3e5b17fe50
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Bushy	Antipathes	*	*	263ca622-e875-4170-a8b5-371ed9505dec
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Bushy	Orange bushy	*	*	bfbf0ad5-8638-47bb-891b-9969b597a3ba
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy > Bushy	Unidentifiable	*	*	b9893717-1b45-48e3-a941-06460603933e
+Cnidaria > Corals	Black & Octocorals	Branching (3D)	Non-fleshy	Unidentifiable	*	*	927df05e-cab6-4ccd-868b-8d23e7a7fbff
+Cnidaria > Corals	Black & Octocorals	Branching (3D)		Unidentifiable	*	*	fc5f3012-c74d-43fb-9fbb-813c223501ba
+Cnidaria > Corals	Black & Octocorals	Encrusting		Alcyoniidae	*	*	0b581d87-194f-4050-b03e-7e18c613c719
+Cnidaria > Corals	Black & Octocorals	Encrusting		Anthelia spp	*	*	36cbbf14-18ef-460b-acd1-08b1793752a1
+Cnidaria > Corals	Black & Octocorals	Encrusting		Briareidae	*	*	eac09843-5e43-4a8a-bccc-2585ebac529e
+Cnidaria > Corals	Black & Octocorals	Encrusting		Briareum spp	*	*	645d2ea4-b8a4-4990-94f6-a051c7570b42
+Cnidaria > Corals	Black & Octocorals	Encrusting		Cladiella spp	*	*	b635ce48-6791-44dd-978e-8dd582d82f4e
+Cnidaria > Corals	Black & Octocorals	Encrusting		Clavularia like	*	*	87268352-902c-4d9c-a62e-71ac3277c1f3
+Cnidaria > Corals	Black & Octocorals	Encrusting		Erythropodium hicksoni 	*	*	ad035d91-5880-42a9-adf9-03205090729c
+Cnidaria > Corals	Black & Octocorals	Encrusting		Erythropodium spp	*	*	8cd8c7c2-5a54-46c3-968e-672301251621
+Cnidaria > Corals	Black & Octocorals	Encrusting	Lobate	Alcyoniidae	*	*	fabf56fc-b683-4e96-b074-e0af9a6f9858
+Cnidaria > Corals	Black & Octocorals	Encrusting	Lobate	Lobophytum spp	*	*	b6fc55dc-e2d6-4d46-ad7c-b9b4bb820a38
+Cnidaria > Corals	Black & Octocorals	Encrusting	Lobate	Sinularia	*	*	91ed1111-ae47-408e-b6e9-5c2a73cb5f56
+Cnidaria > Corals	Black & Octocorals	Encrusting	Lobate	Unidentifiable	*	*	20202273-08c3-417a-ad19-cd4f003550ed
+Cnidaria > Corals	Black & Octocorals	Encrusting		Pachyclavularia spp	*	*	64bdcfc2-781e-4a15-9236-2fcb34b42ef7
+Cnidaria > Corals	Black & Octocorals	Encrusting	Ridged/Folded	Lobophytum spp	*	*	18742616-bb63-4858-ab66-1f0293df83e6
+Cnidaria > Corals	Black & Octocorals	Encrusting	Ridged/Folded	Ridged/Folded	*	*	9ea1d70d-7773-428d-9d28-6cef8281941e
+Cnidaria > Corals	Black & Octocorals	Encrusting		Sinularia	*	*	65abb448-c916-4107-a116-8269eb61f7b3
+Cnidaria > Corals	Black & Octocorals	Encrusting		Sympodium spp	*	*	2c198932-aa15-4005-a0db-efe0b5ef56a1
+Cnidaria > Corals	Black & Octocorals	Encrusting		Tubiporidae	*	*	ca974acd-979d-4d96-97f9-55a9a7129981
+Cnidaria > Corals	Black & Octocorals	Encrusting		Xeniidae	*	*	e72bc627-427a-4cad-a890-19e302b3cff1
+Cnidaria > Corals	Black & Octocorals	Encrusting		Unidentifiable	*	*	4428f714-d74c-4c1b-beb9-c8770a1b6cdb
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Antipathes	*	*	6c610484-a495-4b8a-86d5-03fa9a96e52a
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Black fine branching	*	*	897ff1f2-fdc2-42c4-aaf4-9782e9f5324f
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Blackish Red Complex Fern	*	*	52e35f1d-b4cf-4257-b247-b4d63ae50fc1
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Dark purple octocoral	*	*	70a39e70-ed05-499c-b596-4299e1df325a
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Gorgonian Black Fan	*	*	e038a764-7cc7-485f-9e47-a94b3b7236f7
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Gorgonian Dark Red Pteronisis like	*	*	c51e0ee2-efe9-468e-af14-eaca2b8331ac
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Gorgonian orange 2D sparse branching	*	*	aaf949e6-32fe-490a-975d-12154684077f
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Gorgonian pale orange	*	*	6af1cf0c-ed4e-44c7-ab30-362f58ec7487
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Gorgonian Pink	*	*	d8298655-4a92-485b-84b7-b700a4522f2f
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Gorgonian Pink Pteronisis like	*	*	357f4442-e8de-4130-aa0c-cb55c07f9648
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Gorgonian Red Mopsella like	*	*	dc45699c-0fe8-4a63-9a41-6f9c9c4f6870
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Gorgonian Red Pteronisis like	*	*	c402feaa-f91e-4b9e-b0f2-f453f9957028
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Grey fan	*	*	8f43278b-e6c6-4df0-89dd-d0e64f73ac62
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Peach fan	*	*	a6c77cfc-a3fe-4e04-96d4-277070b48456
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Complex	Unidentifiable	*	*	085635da-62a5-417d-b4ff-aee95da3abbb
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Simple	Blackish Fern Branch	*	*	62b11c5a-1ae4-498f-a450-74bcb1f6c021
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond > Simple	Unidentifiable	*	*	39c6cc49-75e5-4a76-b0ad-a9f75253cd9d
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Fern-frond	Unidentifiable	*	*	09a80d80-0883-4770-a64c-da2151aaaa0f
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Rigid	Rigid Gorgonian Fan Orange	*	*	b725ef53-932c-4c35-a916-4f9826a127e1
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Rigid	Thin branching grey	*	*	b2a9c66f-fe93-422a-8132-ccc49aa2687a
+Cnidaria > Corals	Black & Octocorals	Fan (2D)	Rigid	Unidentifiable	*	*	bcf666d2-9f59-4df1-8678-4b1672a5365e
+Cnidaria > Corals	Black & Octocorals	Fan (2D)		Unidentifiable	*	*	dca69d17-221c-4b18-a2a6-761ba10f24b4
+Cnidaria > Corals	Black & Octocorals	Massive soft corals		Alcyoniidae	*	*	0f9ac1e9-e5d1-4c58-866a-0366e4ecf40d
+Cnidaria > Corals	Black & Octocorals	Massive soft corals	Lobate	Asterospicularia spp	*	*	e944862e-5f48-403a-b6aa-ec081876e481
+Cnidaria > Corals	Black & Octocorals	Massive soft corals	Lobate	Asterospiculariidae	*	*	0c3cc850-dd95-400c-94d7-1f46b06595ad
+Cnidaria > Corals	Black & Octocorals	Massive soft corals	Lobate	Capnella spp	*	*	9feae884-25e6-4b56-b09b-e1576c33e140
+Cnidaria > Corals	Black & Octocorals	Massive soft corals	Lobate	Nephtheidae	*	*	9f3ae66a-d8da-4c9b-8387-21d5f8d72da6
+Cnidaria > Corals	Black & Octocorals	Massive soft corals	Lobate	Unidentifiable	*	*	e436d9e6-7c25-46b8-9d3c-c2adc8774330
+Cnidaria > Corals	Black & Octocorals	Massive soft corals		Sarcophyton spp	*	*	8260ced9-5f0b-4c26-ab43-e625e6f9982f
+Cnidaria > Corals	Black & Octocorals	Organ pipe coral (Tubipora)	Encrusting	Tubipora musica	*	*	cfda0fa3-9c42-4fd1-8ed4-e1efc5497d99
+Cnidaria > Corals	Black & Octocorals	Organ pipe coral (Tubipora)	Encrusting	Unidentifiable	*	*	45571389-1052-442d-89c8-f7b6311e3b85
+Cnidaria > Corals	Black & Octocorals	Organ pipe coral (Tubipora)		Tubiporidae	*	*	1ef0b87a-1705-4a07-8972-fbe78c791fdf
+Cnidaria > Corals	Black & Octocorals	Quill (seapen)		Unidentifiable	*	*	f4944c33-a9e8-4060-8992-7d0e5c678535
+Cnidaria > Corals	Black & Octocorals	Whip	Sea Whip	Black Cirrhipathes sp	*	*	cefe9be0-bf52-4778-ac99-0429515d9e9c
+Cnidaria > Corals	Black & Octocorals	Whip	Sea Whip	Cirrhipathes	*	*	8d842e5b-b237-4ed0-a3d3-104491a2f934
+Cnidaria > Corals	Black & Octocorals	Whip	Sea Whip	Junceella spp	*	*	d16672f6-422b-4128-ab99-2856820db532
+Cnidaria > Corals	Black & Octocorals	Whip	Sea Whip	Primnoella australasiae	*	*	e2c4bc30-035b-45aa-abaa-8f70d182f65d
+Cnidaria > Corals	Black & Octocorals	Whip	Sea Whip	Small spiral whip	*	*	cfc1b89e-c06e-4688-acbf-a23478eebd82
+Cnidaria > Corals	Black & Octocorals	Whip	Sea Whip	Unidentifiable	*	*	f814b3de-e207-4c30-9742-6c468131f8dc
+Cnidaria > Corals	Black & Octocorals	Whip		Unidentifiable	*	*	75b90cfd-8b8f-4211-a850-de4072f4515e
+Cnidaria > Corals	Black & Octocorals			Unidentifiable	*	*	7728b17d-ab8f-43f6-a94e-6d66aacfc1e5
+Cnidaria > Corals	Black & Octocorals			Unidentifiable	*	*	c97fc3de-68ff-4db3-97bc-86596ae6b034
+Cnidaria > Corals	Black & Octocorals			Unidentifiable	*	*	be1e80c1-0869-4bec-992e-4c6fb4b5727e
+Cnidaria > Corals	Black & Octocorals			Unidentifiable	*	*	1601da5e-58a1-40f9-b4cd-40eb39ee47f7
+Cnidaria > Corals	Stony corals	Bottlebrush		Unidentifiable	*	*	181e680e-5bd3-4939-a1c6-346f2e4ac9a9
+Cnidaria > Corals	Stony corals	Branching	Acropora	Acropora	*	*	ad12f88d-5935-40df-850f-f19fad59a759
+Cnidaria > Corals	Stony corals	Branching		Acropora acuminata	*	*	912d8f47-248e-4df4-a37a-15ca8496fe3c
+Cnidaria > Corals	Stony corals	Branching		Acropora austera	*	*	cfdf3ffe-f65a-41d3-a7cc-4426d68a9932
+Cnidaria > Corals	Stony corals	Branching		Acropora florida	*	*	4c1c914b-b553-4379-9694-b529863f6f77
+Cnidaria > Corals	Stony corals	Branching		Acropora horrida	*	*	ad0986bc-1239-4306-8189-fcd1d8ceb510
+Cnidaria > Corals	Stony corals	Branching		Acropora lovelli	*	*	546b0630-60c3-4ddb-b34f-b31f1a83f687
+Cnidaria > Corals	Stony corals	Branching		Acropora palmerae	*	*	a737fe8d-1f67-44cb-b891-6954104f918f
+Cnidaria > Corals	Stony corals	Branching		Acropora sarmentosa	*	*	618197bd-0ca3-4151-877c-0a5e1591553b
+Cnidaria > Corals	Stony corals	Branching		Acropora tortuosa	*	*	0f3b8ec4-9a47-41ab-91c4-aabe13aba0a1
+Cnidaria > Corals	Stony corals	Branching		Acroporidae	*	*	c9ea8afc-beae-4170-b6cb-3e290c99ee2f
+Cnidaria > Corals	Stony corals	Branching		Agariciidae	*	*	730ca6b0-db18-4ec0-9cea-1beb947c8b1a
+Cnidaria > Corals	Stony corals	Branching		Alveopora catalai	*	*	35b39d0d-0cf7-4b46-825b-8d88e3df5cb1
+Cnidaria > Corals	Stony corals	Branching		Alveopora verrilliana	*	*	704cf37c-9e08-4c88-8168-aa815862fade
+Cnidaria > Corals	Stony corals	Branching		Astreopora	*	*	8b09b56e-bc74-40c6-ad08-34e4675de639
+Cnidaria > Corals	Stony corals	Branching		Australogyra zelli	*	*	ca8f08ca-8d8f-4f17-80dd-05b9a18f0d83
+Cnidaria > Corals	Stony corals	Branching		Echinopora horrida	*	*	91aa4a5d-c76c-420c-849a-f709d8727e57
+Cnidaria > Corals	Stony corals	Branching		Isopora	*	*	280e7101-ca97-48bf-9f8e-a73ff466e1a0
+Cnidaria > Corals	Stony corals	Branching		Leptoseris	*	*	81a84688-1af1-4b34-ab68-e04e275c973f
+Cnidaria > Corals	Stony corals	Branching		Leptoseris papyracea	*	*	744381a2-d32f-4b0d-8a59-4f20f5877688
+Cnidaria > Corals	Stony corals	Branching		Merulinidae	*	*	a0b59a0c-1ad3-46ba-b023-f4eb7cbffda2
+Cnidaria > Corals	Stony corals	Branching		Pocillopora	*	*	6e52cd45-a36f-4219-8bf5-b8107834df7a
+Cnidaria > Corals	Stony corals	Branching		Pocillopora aliciae	*	*	5aa26e94-3e6c-4ab8-85a6-b065791fce09
+Cnidaria > Corals	Stony corals	Branching		Pocillopora damicornis	*	*	8d8058c5-48a0-4289-9e28-85a89ec5e55a
+Cnidaria > Corals	Stony corals	Branching		Pocillopora danae	*	*	13fff0d2-2471-4755-80f8-a6b6fd99bb77
+Cnidaria > Corals	Stony corals	Branching		Pocillopora verrucosa	*	*	ade3159d-9e5d-450e-920e-1499490c0cb1
+Cnidaria > Corals	Stony corals	Branching		Pocilloporidae	*	*	91fa5ae1-b459-4e87-8b28-c20384d9a9df
+Cnidaria > Corals	Stony corals	Branching		Seriatopora	*	*	3101f7bd-e1db-4124-a797-0be816fdf805
+Cnidaria > Corals	Stony corals	Branching		Seriatopora caliendrum	*	*	c22e5d09-1c3c-433e-b768-63a4df6de460
+Cnidaria > Corals	Stony corals	Branching		Seriatopora hystrix	*	*	0aa98879-6fe3-4986-a102-a5ca98f000e3
+Cnidaria > Corals	Stony corals	Branching		Stylophora pistillata	*	*	bc941433-cdb6-4a19-a6a5-6057854a562f
+Cnidaria > Corals	Stony corals	Branching		Unidentifiable	*	*	20f2c224-cb62-423e-99b1-9cc3a7bbbb9e
+Cnidaria > Corals	Stony corals	Colonial		Dendrophylliidae	*	*	33be929a-7e7e-48d4-965a-5606599ccf3e
+Cnidaria > Corals	Stony corals	Colonial	Free-living	Heteropsammia cochlea	*	*	f23c2974-c5eb-454a-acc1-83e3d970ae47
+Cnidaria > Corals	Stony corals	Colonial	Free-living	Unidentifiable	*	*	b23b1a86-e8b3-4a34-ae02-92288cc63433
+Cnidaria > Corals	Stony corals	Colonial		Unidentifiable	*	*	d21eb619-0e1d-4a74-9d4e-672d017f1cd0
+Cnidaria > Corals	Stony corals	Columnar		Acroporidae	*	*	4ac8899d-6ebf-42bd-8d50-63fc06eebad0
+Cnidaria > Corals	Stony corals	Columnar		Isopora	*	*	fad9dafe-1cfc-41df-afdf-58d0595d2024
+Cnidaria > Corals	Stony corals	Columnar		Isopora elizabethensis	*	*	da86f0bf-f84e-4805-a4e6-a4f739409c44
+Cnidaria > Corals	Stony corals	Columnar		Merulinidae	*	*	38537172-9e66-4f2c-9189-035301eae9c2
+Cnidaria > Corals	Stony corals	Columnar		Scapophyllia cylindrica	*	*	5343c7ab-612a-46fa-a9ec-232cf2d1d3e6
+Cnidaria > Corals	Stony corals	Columnar		Unidentifiable	*	*	b3ff2524-f394-4496-add1-0bc5f47c3780
+Cnidaria > Corals	Stony corals	Corymbose		Acropora	*	*	e6878c37-7d1e-4c67-bd8a-59f33ca4735a
+Cnidaria > Corals	Stony corals	Corymbose		Acropora aculeus	*	*	68d7826c-3c1f-4d63-8bc7-3dd820e9c350
+Cnidaria > Corals	Stony corals	Corymbose		Acropora anthocercis	*	*	862c4fe2-ba48-484c-b061-f0b4b2adce0b
+Cnidaria > Corals	Stony corals	Corymbose		Acropora aspera	*	*	bf5d88e4-9c7d-4432-9dfa-7f54f1aa4c82
+Cnidaria > Corals	Stony corals	Corymbose		Acropora cerealis	*	*	2f063570-dc79-496c-9698-a76477c07897
+Cnidaria > Corals	Stony corals	Corymbose		Acropora dendrum	*	*	3d2d64d7-e0b0-454a-81f2-678f4ec0b4f1
+Cnidaria > Corals	Stony corals	Corymbose		Acropora divaricata	*	*	ac3578f2-8c92-47c7-bd7a-10ebc28da1da
+Cnidaria > Corals	Stony corals	Corymbose		Acropora latistella	*	*	42358e4f-5a5a-4c3c-a8cc-e4db93321d64
+Cnidaria > Corals	Stony corals	Corymbose		Acropora listeri	*	*	aa090e7a-44b3-49f3-8a73-33381dc1f19d
+Cnidaria > Corals	Stony corals	Corymbose		Acropora loripes	*	*	0a674947-c085-4556-bd18-457cad68a566
+Cnidaria > Corals	Stony corals	Corymbose		Acropora lutkeni	*	*	c619e7ca-a881-442d-83c2-8256ed3f3217
+Cnidaria > Corals	Stony corals	Corymbose		Acropora millepora	*	*	673d9cf9-bf3d-40a4-8b91-eebb09ad5784
+Cnidaria > Corals	Stony corals	Corymbose		Acropora nana	*	*	0c62d08b-ed00-42a3-8ab7-9b38c1658127
+Cnidaria > Corals	Stony corals	Corymbose		Acropora nasuta	*	*	5952079e-68b9-4488-811b-86f4f77309d0
+Cnidaria > Corals	Stony corals	Corymbose		Acropora polystoma	*	*	757bfe44-a434-40e5-81b2-f696ae8c8caf
+Cnidaria > Corals	Stony corals	Corymbose		Acropora secale	*	*	b6654ef9-f966-467c-a96a-1040d256b974
+Cnidaria > Corals	Stony corals	Corymbose		Acropora selago	*	*	948c9952-baa2-4972-aed6-70b40668a047
+Cnidaria > Corals	Stony corals	Corymbose		Acropora tenuis	*	*	622365b5-4748-43b9-abeb-d7ea2602b02a
+Cnidaria > Corals	Stony corals	Corymbose		Acropora valida	*	*	845f7173-8262-4a34-b926-7c426e8deaa1
+Cnidaria > Corals	Stony corals	Corymbose		Acropora verweyi	*	*	c90e209b-8797-441d-85ce-f6efa517463e
+Cnidaria > Corals	Stony corals	Corymbose		Acropora willisae	*	*	d9648c1b-2f1b-4020-b47d-2d2091c20ea3
+Cnidaria > Corals	Stony corals	Corymbose		Acroporidae	*	*	aa8f3c1b-8398-4d8f-9925-788255cbd9b9
+Cnidaria > Corals	Stony corals	Corymbose		Unidentifiable	*	*	17deab4e-7b4f-445c-9480-b2b9e0dff61e
+Cnidaria > Corals	Stony corals	Digitate		Acropora	*	*	0dbad94d-0ecf-488f-a83b-64d98d625b37
+Cnidaria > Corals	Stony corals	Digitate		Acropora chesterfieldensis	*	*	13f2026b-9ce5-4882-bcdc-b968b8894bb2
+Cnidaria > Corals	Stony corals	Digitate		Acropora digitifera	*	*	cb18017d-df74-48c5-9ef0-080e63e5d0ea
+Cnidaria > Corals	Stony corals	Digitate		Acropora gemmifera	*	*	068e85a7-9a6e-43a2-89b6-d629903053ec
+Cnidaria > Corals	Stony corals	Digitate		Acropora humilis	*	*	2cd19eb3-adfb-436a-8858-189d15994ea8
+Cnidaria > Corals	Stony corals	Digitate		Acropora monticulosa	*	*	c243178c-d27c-4629-a7a0-776bd9203231
+Cnidaria > Corals	Stony corals	Digitate		Acropora samoensis	*	*	002f96af-085c-4cb6-9d2e-9fdfa6be127a
+Cnidaria > Corals	Stony corals	Digitate		Acroporidae	*	*	ffbc41b0-9b11-48b0-8c50-8084a52ef4ac
+Cnidaria > Corals	Stony corals	Digitate		Tubastraea	*	*	dfbbea61-41b6-4e40-9e68-a2b808280c97
+Cnidaria > Corals	Stony corals	Digitate		Unidentifiable	*	*	a557406c-59c4-4f3e-b760-f9c5bc1de083
+Cnidaria > Corals	Stony corals	Encrusting		Acropora	*	*	7bddabdb-80cf-412d-aaa7-405439844f28
+Cnidaria > Corals	Stony corals	Encrusting		Acropora palmerae	*	*	9c823a93-e05d-4f57-ac50-d84cf8e493e1
+Cnidaria > Corals	Stony corals	Encrusting		Acroporidae	*	*	dc179853-77dd-4196-a465-97fbbf014bd8
+Cnidaria > Corals	Stony corals	Encrusting		Alveopora	*	*	aab56ff9-efd1-4941-bd2e-c54ba5061bd0
+Cnidaria > Corals	Stony corals	Encrusting		Alveopora allingi	*	*	025a4b41-d5fd-4a17-8568-5511afb5bbec
+Cnidaria > Corals	Stony corals	Encrusting		Astrea curta	*	*	9662070c-8eb7-4553-8408-05689361639a
+Cnidaria > Corals	Stony corals	Encrusting		Astreopora	*	*	48c55f8c-4914-41dd-a6c2-7e75dcfe5ed2
+Cnidaria > Corals	Stony corals	Encrusting		Astreopora cucullata	*	*	f21564d8-5e8f-4121-9459-2618756ae4df
+Cnidaria > Corals	Stony corals	Encrusting		Astreopora moretonensis	*	*	49654fc8-5993-48d7-9f8b-0ae287697005
+Cnidaria > Corals	Stony corals	Encrusting		Astreopora ocellata	*	*	ec78803a-2ace-4bbe-8581-5325250c10d1
+Cnidaria > Corals	Stony corals	Encrusting	Columnar	Platygyra	*	*	096274a4-35c6-404c-8e37-bc43c51ee445
+Cnidaria > Corals	Stony corals	Encrusting	Columnar	Unidentifiable	*	*	569c1db9-74f0-4d88-87ef-c5174a82820e
+Cnidaria > Corals	Stony corals	Encrusting		Coscinaraea	*	*	5ad80d1a-9a5e-473d-a7f0-417de84c2cb2
+Cnidaria > Corals	Stony corals	Encrusting		Coscinaraea columna	*	*	f8eda245-756f-4890-a41d-58003ad16cf2
+Cnidaria > Corals	Stony corals	Encrusting		Coscinaraea mcneilli	*	*	db42582e-a9b9-4b93-95dc-ee83ec3d0e52
+Cnidaria > Corals	Stony corals	Encrusting		Coscinaraeidae	*	*	c4db0477-563a-469f-ad4b-532d604895ae
+Cnidaria > Corals	Stony corals	Encrusting		Cycloseris wellsi	*	*	66fc06d1-3963-479f-a1aa-70e0643c1bf3
+Cnidaria > Corals	Stony corals	Encrusting		Dendrophylliidae	*	*	19a2faf2-84a6-47e4-b4bd-10c47b9625b4
+Cnidaria > Corals	Stony corals	Encrusting		Dipsastraea	*	*	726b7348-149a-4a34-994c-1d8b81f5e586
+Cnidaria > Corals	Stony corals	Encrusting		Echinophyllia	*	*	3437dab2-b1a2-4094-aba2-7b7a9ea29ba5
+Cnidaria > Corals	Stony corals	Encrusting		Echinophyllia aspera	*	*	dc8a6319-832d-42f2-86a3-e30310deaf3d
+Cnidaria > Corals	Stony corals	Encrusting		Echinophyllia orpheensis	*	*	f7a8ac09-41ad-4a85-b57a-dd1f7a830995
+Cnidaria > Corals	Stony corals	Encrusting		Euphyllia	*	*	6b76c9e8-4d73-4ca9-b2af-8494ff43fc0d
+Cnidaria > Corals	Stony corals	Encrusting		Euphyllia ancora	*	*	e5deef90-f2c1-4822-a33e-8cbf7309b746
+Cnidaria > Corals	Stony corals	Encrusting		Euphylliidae	*	*	0f0ed6de-81f2-4355-a71b-9c5864cd7385
+Cnidaria > Corals	Stony corals	Encrusting		Favites	*	*	d340cdc1-d109-4f39-8029-74ac8b06a4e7
+Cnidaria > Corals	Stony corals	Encrusting		Favites flexuosa	*	*	b6cd1bb5-b40d-49e7-bef3-c6b23d893cb0
+Cnidaria > Corals	Stony corals	Encrusting		Fungiidae	*	*	fa77eeba-a813-4a34-be7a-5cf03545502c
+Cnidaria > Corals	Stony corals	Encrusting		Goniastrea	*	*	f4b444c2-5c01-4686-a4fa-7eb8df6e7774
+Cnidaria > Corals	Stony corals	Encrusting		Goniopora	*	*	2421cb9b-c82c-4edd-91b5-d30ffabfa45c
+Cnidaria > Corals	Stony corals	Encrusting		Isopora	*	*	576be2e7-d0ef-41d1-86a4-d6582485a254
+Cnidaria > Corals	Stony corals	Encrusting		Isopora cuneata	*	*	6dd80a0c-a010-4310-9e74-8181e086e91c
+Cnidaria > Corals	Stony corals	Encrusting		Leptastrea	*	*	c27ca61e-e076-4a03-b1c1-7a967f0d9497
+Cnidaria > Corals	Stony corals	Encrusting		Leptastrea bewickensis	*	*	e33892c5-b1d0-43f0-979e-0bc8dcfe25bf
+Cnidaria > Corals	Stony corals	Encrusting		Leptastrea inaequalis	*	*	26636ecc-db21-49da-b7db-d4c35e7e6209
+Cnidaria > Corals	Stony corals	Encrusting		Leptastrea pruinosa	*	*	d0b7a3b9-15e3-4da0-b26d-03b06871b22a
+Cnidaria > Corals	Stony corals	Encrusting		Leptastrea purpurea	*	*	b43ff46a-07df-49b6-87ac-9b68e0179344
+Cnidaria > Corals	Stony corals	Encrusting		Leptastrea transversa	*	*	dd563704-df5e-48ce-9d49-03427ff383ed
+Cnidaria > Corals	Stony corals	Encrusting		Leptoseris	*	*	3c5a35de-cd32-441a-b644-480ef3bd7876
+Cnidaria > Corals	Stony corals	Encrusting		Leptoseris explanata	*	*	86d39f6f-6489-48d1-845a-f280e771b607
+Cnidaria > Corals	Stony corals	Encrusting		Leptoseris hawaiiensis	*	*	1b4f3b3b-007d-409c-a25b-ceb108a38ae0
+Cnidaria > Corals	Stony corals	Encrusting		Leptoseris scabra	*	*	00f2aad6-feba-47f0-8854-b01d4c74b744
+Cnidaria > Corals	Stony corals	Encrusting		Lobophyllia	*	*	3e9d2e20-dacf-4e52-8394-75ff47ba7858
+Cnidaria > Corals	Stony corals	Encrusting		Lobophyllia radians	*	*	00ad09cb-9044-4d0e-8d89-d6cba3c664f6
+Cnidaria > Corals	Stony corals	Encrusting		Lobophylliidae	*	*	632e1a0b-3155-443f-b65f-ed8b5b96b8b0
+Cnidaria > Corals	Stony corals	Encrusting		Merulinidae	*	*	eb9bafb1-cfff-4b1b-b7dd-1cabe86e7bc6
+Cnidaria > Corals	Stony corals	Encrusting		Montipora	*	*	2dc7f7dd-a4c0-4a89-bcbc-6b55e253b3c9
+Cnidaria > Corals	Stony corals	Encrusting		Montipora caliculata	*	*	235fa324-798b-4934-ba0c-fba22c84673c
+Cnidaria > Corals	Stony corals	Encrusting		Montipora efflorescens	*	*	67296b32-e024-4b27-a5eb-85b9d9c05494
+Cnidaria > Corals	Stony corals	Encrusting		Montipora foveolata	*	*	f20b2f1b-5897-41e5-b6be-13c2d15e6056
+Cnidaria > Corals	Stony corals	Encrusting		Montipora hoffmeisteri	*	*	7502796e-922d-4d89-b6d8-402a19fe8ee5
+Cnidaria > Corals	Stony corals	Encrusting		Montipora incrassata	*	*	66660617-116f-4107-b0cb-173e8660f64e
+Cnidaria > Corals	Stony corals	Encrusting		Montipora nodosa	*	*	cdc4e213-d64a-43fb-bfb4-6951a1061be7
+Cnidaria > Corals	Stony corals	Encrusting		Montipora spongodes	*	*	8fa01a1f-4e44-4e29-9ea3-c501341f1e36
+Cnidaria > Corals	Stony corals	Encrusting		Montipora spumosa	*	*	3a4d34f5-6c4c-402b-88cc-1afc09e1ff79
+Cnidaria > Corals	Stony corals	Encrusting		Mycedium	*	*	67f60557-771f-424f-9316-00f19756d40e
+Cnidaria > Corals	Stony corals	Encrusting		Mycedium elephantotus	*	*	8075dc8a-3475-4d42-9a9d-f7eb70434ced
+Cnidaria > Corals	Stony corals	Encrusting		Platygyra	*	*	313bbb78-9700-4bc3-b3c3-d0ff306c1caa
+Cnidaria > Corals	Stony corals	Encrusting		Platygyra/Paragoniastrea	*	*	f7b2e832-d1ea-4f68-bd87-b2e82191d806
+Cnidaria > Corals	Stony corals	Encrusting		Plesiastrea versipora	*	*	2120e48a-aed2-456c-8536-b0008857659b
+Cnidaria > Corals	Stony corals	Encrusting		Plesiastreidae	*	*	ab16fb3e-fe2d-4c77-84cf-ca6f5b4dd791
+Cnidaria > Corals	Stony corals	Encrusting		Porites	*	*	d3a1c655-809a-437c-97ca-c90f3751480f
+Cnidaria > Corals	Stony corals	Encrusting		Scleractinia incertae sedis	*	*	f27fa7f4-21a9-42be-bfa1-19309a59d2b1
+Cnidaria > Corals	Stony corals	Encrusting		Stylocoeniella	*	*	1c009c2a-e7aa-47c1-9dc2-7401a66d81d8
+Cnidaria > Corals	Stony corals	Encrusting		Stylocoeniella armata	*	*	518bce18-9c5f-4fc8-8985-0c33fbca7ae2
+Cnidaria > Corals	Stony corals	Encrusting		Stylocoeniella guentheri	*	*	4e11e887-9c3c-41d9-b9ca-acb9be7e55cd
+Cnidaria > Corals	Stony corals	Encrusting		Turbinaria	*	*	fa8ac12d-f4c2-4a60-bf79-79075e9fc3e3
+Cnidaria > Corals	Stony corals	Encrusting		Turbinaria radicalis	*	*	ba6332f5-2d92-4fb0-9eda-90c06bd29718
+Cnidaria > Corals	Stony corals	Encrusting		Turbinaria stellulata	*	*	1dadac91-de5e-4ac3-b81c-72999bb0ccb6
+Cnidaria > Corals	Stony corals	Encrusting		Unidentifiable	*	*	cf8505e8-1bde-4aa2-bf75-353fdd7fbf81
+Cnidaria > Corals	Stony corals	Foliose / plate		Astreopora	*	*	3cc511f2-3865-40e8-b923-d301f6a3f965
+Cnidaria > Corals	Stony corals	Foliose / plate		Dendrophylliidae	*	*	d24eea23-111a-44bb-bc77-2648441dd56f
+Cnidaria > Corals	Stony corals	Foliose / plate		Echinophyllia	*	*	169a4dea-a247-43d7-8111-3087a778987c
+Cnidaria > Corals	Stony corals	Foliose / plate		Echinopora	*	*	d6dd5587-4b9e-439d-899d-8d1dafdb3879
+Cnidaria > Corals	Stony corals	Foliose / plate		Echinopora gemmacea	*	*	296d2aa9-35d7-4d5c-9bcd-7a32d18bd341
+Cnidaria > Corals	Stony corals	Foliose / plate		Echinopora lamellosa	*	*	09ccd3ce-5de2-416c-a0d0-07f2ea35d21a
+Cnidaria > Corals	Stony corals	Foliose / plate		Fungiidae	*	*	c30086e4-3cb3-4cf1-a85c-d2a1d0f9546e
+Cnidaria > Corals	Stony corals	Foliose / plate		Merulina ampliata	*	*	5d1034de-0165-4f1c-89ce-a31e2d514620
+Cnidaria > Corals	Stony corals	Foliose / plate		Merulinidae	*	*	e60d9cca-1775-4ee0-9310-8e191e2b7212
+Cnidaria > Corals	Stony corals	Foliose / plate		Montipora	*	*	1e5455e9-992e-495e-9d7c-26dabd9bf92b
+Cnidaria > Corals	Stony corals	Foliose / plate		Montipora aequituberculata	*	*	73e4eadf-85dd-45be-a414-cb4c7bff9fa4
+Cnidaria > Corals	Stony corals	Foliose / plate		Montipora capricornis	*	*	5ba44773-ba94-46ae-963f-4a13e8437ad7
+Cnidaria > Corals	Stony corals	Foliose / plate		Montipora monasteriata	*	*	d6e16785-c8cc-484c-9f28-63bbc782ae1b
+Cnidaria > Corals	Stony corals	Foliose / plate		Montipora turtlensis	*	*	5c4ece91-8def-4456-a015-da1ec80a6c8b
+Cnidaria > Corals	Stony corals	Foliose / plate		Mycedium	*	*	a6cd7762-49df-4c73-8d03-34ce9c24020f
+Cnidaria > Corals	Stony corals	Foliose / plate		Mycedium/Echinophyllia	*	*	b10c3d5d-c6ce-4c47-8063-b2a436655c91
+Cnidaria > Corals	Stony corals	Foliose / plate		Oxypora	*	*	13aac7c4-219c-4c25-834c-49bdfe16d3df
+Cnidaria > Corals	Stony corals	Foliose / plate		Podabacia	*	*	ea481cfe-6040-47f1-8a94-bc876e045468
+Cnidaria > Corals	Stony corals	Foliose / plate		Podabacia crustacea	*	*	ea16b4ec-92af-4f44-ae60-508329762bfd
+Cnidaria > Corals	Stony corals	Foliose / plate		Turbinaria	*	*	daad8761-b564-4f3b-8698-b041e1e6576c
+Cnidaria > Corals	Stony corals	Foliose / plate		Turbinaria frondens	*	*	a3f8d49a-9506-4d5e-8f66-470ed70c5ad0
+Cnidaria > Corals	Stony corals	Foliose / plate		Turbinaria heronensis	*	*	0be71224-2fb9-4e62-a5ac-aeb2a829a954
+Cnidaria > Corals	Stony corals	Foliose / plate		Turbinaria mesenterina	*	*	84e555d4-330b-4367-ae1f-4929ec4dd23c
+Cnidaria > Corals	Stony corals	Foliose / plate		Turbinaria patula	*	*	72301420-11fc-48b8-9b68-64e92e9edc93
+Cnidaria > Corals	Stony corals	Foliose / plate		Turbinaria peltata	*	*	f2f1e78e-633b-4da9-8e82-172b9ebe361b
+Cnidaria > Corals	Stony corals	Foliose / plate		Turbinaria reniformis	*	*	faf164ce-8447-41a9-84ff-9f04a342046c
+Cnidaria > Corals	Stony corals	Foliose / plate		Echinophyllia/Oxypora	*	*	28d44287-9079-49d0-bbef-160c6fb0f830
+Cnidaria > Corals	Stony corals	Foliose / plate		Foliose / plate	*	*	ac4ef51c-7175-4755-80e5-b3c413776092
+Cnidaria > Corals	Stony corals	Massive		Platygyra verweyi	*	*	16299a4a-106e-46d7-a2f0-cc73be0a4b7e
+Cnidaria > Corals	Stony corals	Massive		Platygyra/Paragoniastrea	*	*	3fb3de1f-9553-4037-afd5-d5eea9ea61a3
+Cnidaria > Corals	Stony corals	Massive		Unidentifiable	*	*	1378aa53-d706-44a4-ad3c-6e1300798e0c
+Cnidaria > Corals	Stony corals	Solitary	Attached	Unidentifiable	*	*	f25649b6-7ad1-4dd3-9444-d560acf9a55d
+Cnidaria > Corals	Stony corals	Solitary	Free-living	Unidentifiable	*	*	de44de44-bddc-4812-b3e7-06760d5c3904
+Cnidaria > Corals	Stony corals	Solitary		Homophyllia australis	*	*	f7dc9fed-bd22-4670-ad2d-d715e5ce760c
+Cnidaria > Corals	Stony corals	Solitary		Lobophylliidae	*	*	ef56360c-6e92-4905-95bd-7c3ad7be3f28
+Cnidaria > Corals	Stony corals	Solitary	Mushroom (Fungiidae)	Coral Orange Solitary (Caryophyllia like)	*	*	f3375774-79b3-49e0-93bb-6ca161d1bcb9
+Cnidaria > Corals	Stony corals	Solitary	Mushroom (Fungiidae)	Cycloseris distorta	*	*	31642708-6b3f-4245-a1cd-110f15283c2e
+Cnidaria > Corals	Stony corals	Solitary	Mushroom (Fungiidae)	Fungia paumotensis	*	*	642349e5-e363-41bd-8d03-203197a8f9b4
+Cnidaria > Corals	Stony corals	Solitary	Mushroom (Fungiidae)	Fungia scutaria	*	*	122efc5f-823c-412f-a317-7dc6a028e27d
+Cnidaria > Corals	Stony corals	Solitary	Mushroom (Fungiidae)	Fungiidae	*	*	96156420-7a50-40ae-a615-4bc119db2896
+Cnidaria > Corals	Stony corals	Solitary	Mushroom (Fungiidae)	Pleuractis granulosa	*	*	5ebefc92-300a-4a07-9d36-505d9aa3a459
+Cnidaria > Corals	Stony corals	Solitary	Mushroom (Fungiidae)	Unidentifiable	*	*	7c9e46a1-bceb-44c3-b063-2f2dfb4d8452
+Cnidaria > Corals	Stony corals	Solitary		Podabacia	*	*	e3414bbc-4a5b-40d5-a905-0191105e58c5
+Cnidaria > Corals	Stony corals	Solitary		Unidentifiable	*	*	337e32dd-160c-47de-bd74-869baca701a7
+Cnidaria > Corals	Stony corals	Staghorn		Acropora	*	*	6ec857e3-1349-4bf1-8c34-c7862fca8824
+Cnidaria > Corals	Stony corals	Staghorn		Acropora abrotanoides/robusta	*	*	cb28098c-1ba5-4d4b-8fa5-ec80996de83b
+Cnidaria > Corals	Stony corals	Staghorn		Acropora intermedia	*	*	34293ad7-b061-481e-a622-028d06f0fffd
+Cnidaria > Corals	Stony corals	Staghorn		Acropora muricata	*	*	438863b3-8721-4a96-af16-ffd98e986c01
+Cnidaria > Corals	Stony corals	Staghorn		Acropora pulchra	*	*	029993d0-8280-4321-910a-839b4a1be82d
+Cnidaria > Corals	Stony corals	Staghorn		Acropora yongei	*	*	d23a2fda-d015-4863-b3e0-542697fd9c64
+Cnidaria > Corals	Stony corals	Staghorn		Acroporidae	*	*	7296329f-5644-440c-aa40-e60dbb8dfe01
+Cnidaria > Corals	Stony corals	Staghorn		Unidentifiable	*	*	e7287a70-7f9d-4b02-a527-70f0eab25a69
+Cnidaria > Corals	Stony corals	Sub-massive		Acanthastrea	*	*	f4c09829-57d4-4b45-bab9-9f07a3158733
+Cnidaria > Corals	Stony corals	Sub-massive		Acanthastrea echinata	*	*	45dd7258-37a4-4020-bdac-061c8b4464ac
+Cnidaria > Corals	Stony corals	Sub-massive		Acanthastrea hemprichii	*	*	1c976efc-0524-407a-8be3-ce0e761f2226
+Cnidaria > Corals	Stony corals	Sub-massive		Acroporidae	*	*	f09d35ba-d863-4c7d-a4ae-816e5520305a
+Cnidaria > Corals	Stony corals	Sub-massive		Alveopora	*	*	8262f1ae-e5c2-40af-9a2c-6be526d2f0d9
+Cnidaria > Corals	Stony corals	Sub-massive		Alveopora spongiosa	*	*	dbc098a5-c93f-4ae9-9321-3ea8189e760c
+Cnidaria > Corals	Stony corals	Sub-massive		Astreopora	*	*	f79a1aa8-3ba3-4c1c-9ab3-1a950483d642
+Cnidaria > Corals	Stony corals	Sub-massive		Astreopora listeri	*	*	4fca8e93-352c-4a3f-9e16-ba86609dc516
+Cnidaria > Corals	Stony corals	Sub-massive		Astreopora myriophthalma	*	*	692d0a65-d34e-49b8-9b0a-151a21bcd39b
+Cnidaria > Corals	Stony corals	Sub-massive		Coelastrea palauensis	*	*	8ec85fb6-e56b-45c5-8e4e-07bc454572ba
+Cnidaria > Corals	Stony corals	Sub-massive		Coeloseris mayeri	*	*	e2ae1502-f84e-433d-a65c-10e57c551d5c
+Cnidaria > Corals	Stony corals	Sub-massive		Coscinaraea	*	*	546c52ad-2e76-4ef5-b001-9a0e95580427
+Cnidaria > Corals	Stony corals	Sub-massive		Coscinaraea exesa	*	*	868fdbb2-f3f8-4ade-96db-8cf96c3fd9bf
+Cnidaria > Corals	Stony corals	Sub-massive		Cyphastrea	*	*	25853d3d-b7a2-413c-b652-52067057f48c
+Cnidaria > Corals	Stony corals	Sub-massive		Cyphastrea chalcidicum	*	*	071de6c0-8516-4b1d-8ab5-6ac51999d265
+Cnidaria > Corals	Stony corals	Sub-massive		Cyphastrea microphthalma	*	*	467b5ae9-cc05-48f7-ab7e-dda613e1e118
+Cnidaria > Corals	Stony corals	Sub-massive		Cyphastrea serailia / salae	*	*	b6a2a58a-6ae5-47d0-84c1-b79adc23b164
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea	*	*	7cfb6587-1ebc-4919-81a8-915eef48e888
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea amicorum	*	*	a8c1c814-4edd-45d0-8b6a-5f60772457b4
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea danai	*	*	a91eb822-18cf-4afc-9f91-bb1636a16285
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea favus	*	*	e1196221-0e3e-45c4-a91d-62a4607771bb
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea laxa	*	*	0dd72c66-025a-4d7f-aa5c-cd9989ba38ab
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea lizardensis	*	*	9f703324-4927-436e-85b2-76d33084d124
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea maritima	*	*	0befb181-2ccb-4ba3-a1b3-4b37755ae081
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea matthaii	*	*	bccbe575-fddf-4ad8-bd67-e90ddbbdf81e
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea maxima	*	*	3449dcd8-4817-4af2-a7c7-c70ee8e55d7c
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea pallida	*	*	14edd0c7-b0a6-4e28-b30b-734febc9d423
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea rotumana	*	*	f21984a2-bad3-48df-b490-38bb31e1c8fd
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea speciosa	*	*	a403b3ab-1e5b-4bba-b16e-7362cef76e6b
+Cnidaria > Corals	Stony corals	Sub-massive		Dipsastraea stelligera	*	*	a44dcbb0-20b1-421c-85c5-78be11ba42d5
+Cnidaria > Corals	Stony corals	Sub-massive		Favites	*	*	f753698a-5a2c-498e-9f46-953c630622c9
+Cnidaria > Corals	Stony corals	Sub-massive		Favites abdita	*	*	e78ccb5a-9cc6-447e-89df-48c24c8713b7
+Cnidaria > Corals	Stony corals	Sub-massive		Favites chinensis	*	*	72451ecb-752a-4bb0-a91f-70d4014d2a3c
+Cnidaria > Corals	Stony corals	Sub-massive		Favites halicora	*	*	f4e546f2-98f8-446c-ba08-97af223f7267
+Cnidaria > Corals	Stony corals	Sub-massive		Favites magnistellata	*	*	e507f72d-70dd-4512-bb31-88fd67c61062
+Cnidaria > Corals	Stony corals	Sub-massive		Favites pentagona	*	*	eedbf548-d544-4559-b3b7-07534a2dc864
+Cnidaria > Corals	Stony corals	Sub-massive		Favites valenciennesi	*	*	6b3971e6-8f2d-4eaf-b016-cee599f26187
+Cnidaria > Corals	Stony corals	Sub-massive		Goniastrea	*	*	5468b05e-50b3-479c-a5e0-ed223c166b86
+Cnidaria > Corals	Stony corals	Sub-massive		Goniastrea edwardsi	*	*	1c18d065-8eb6-4562-8ba3-d58157a792a4
+Cnidaria > Corals	Stony corals	Sub-massive		Goniastrea favulus	*	*	0ebcc4d8-e3d2-4103-874d-108043681191
+Cnidaria > Corals	Stony corals	Sub-massive		Goniastrea pectinata	*	*	0ed474a3-b485-4af8-9af1-9e55aaf49039
+Cnidaria > Corals	Stony corals	Sub-massive		Goniopora	*	*	34cf89f7-1391-47f4-b997-4e52ff7c537b
+Cnidaria > Corals	Stony corals	Sub-massive		Goniopora columna	*	*	ceedfee5-d682-488f-a641-43854151a86e
+Cnidaria > Corals	Stony corals	Sub-massive		Goniopora djiboutiensis	*	*	4dbc40ea-c1d0-465d-9116-c81a71287ecc
+Cnidaria > Corals	Stony corals	Sub-massive		Goniopora lobata	*	*	3f214e9b-b096-44a4-a700-416e34be1386
+Cnidaria > Corals	Stony corals	Sub-massive		Goniopora minor	*	*	4b34195d-f8c8-4b8b-9f08-5425e9e5c0c5
+Cnidaria > Corals	Stony corals	Sub-massive		Goniopora norfolkensis	*	*	8ad5a954-5fb7-45d1-8185-f46bda932c26
+Cnidaria > Corals	Stony corals	Sub-massive		Goniopora stokesi	*	*	8d3e9437-4306-4413-81f0-2db4e7cd2c51
+Cnidaria > Corals	Stony corals	Sub-massive		Goniopora tenuidens	*	*	ed6bd849-310d-460f-8e75-08c8d331e8d2
+Cnidaria > Corals	Stony corals	Sub-massive		Homophyllia	*	*	2dcc6824-ed6f-42b0-a692-937077798cd4
+Cnidaria > Corals	Stony corals	Sub-massive		Homophyllia bowerbanki	*	*	927809f5-55f4-4176-91cb-4581160cfcd5
+Cnidaria > Corals	Stony corals	Sub-massive		Homophyllia hillae	*	*	cd3fb22d-3acc-4937-83cc-a33b036f2675
+Cnidaria > Corals	Stony corals	Sub-massive		Hydnophora	*	*	9db0b281-e886-4188-9054-ed685b6eb3a4
+Cnidaria > Corals	Stony corals	Sub-massive		Hydnophora exesa	*	*	da6814a6-7104-4a8c-b8b9-cb97d06ce281
+Cnidaria > Corals	Stony corals	Sub-massive		Hydnophora microconos	*	*	0d1f4f5d-f7b3-4e89-b955-e5e20bb8e554
+Cnidaria > Corals	Stony corals	Sub-massive		Hydnophora pilosa	*	*	55515cc5-660d-419d-a964-5c2635699538
+Cnidaria > Corals	Stony corals	Sub-massive		Isopora	*	*	8bc7673c-7389-4618-b1f7-194922aafc68
+Cnidaria > Corals	Stony corals	Sub-massive		Isopora cuneata/palifera	*	*	8c25ba84-426e-46ab-b8b4-252fd3e6f196
+Cnidaria > Corals	Stony corals	Sub-massive		Leptoria	*	*	01d6e317-76ba-4fb4-9158-9933a528d0f4
+Cnidaria > Corals	Stony corals	Sub-massive		Leptoria phrygia	*	*	5941ad57-87ba-4442-bda7-7c3e879f47f2
+Cnidaria > Corals	Stony corals	Sub-massive		Lobophyllia	*	*	9eb16c94-5a06-4151-afea-322745b5fd79
+Cnidaria > Corals	Stony corals	Sub-massive		Lobophyllia diminuta	*	*	707b3dd1-4f27-4bfb-9439-d1fb2ed346fd
+Cnidaria > Corals	Stony corals	Sub-massive		Lobophyllia hemprichii	*	*	54761d52-42f7-4889-b172-283181786057
+Cnidaria > Corals	Stony corals	Sub-massive		Lobophyllia pachysepta	*	*	5570ff11-99dc-4852-8e22-7db9477091c0
+Cnidaria > Corals	Stony corals	Sub-massive		Lobophyllia valenciennesii	*	*	276fbe77-16e5-403a-b0e3-dad007e15c73
+Cnidaria > Corals	Stony corals	Sub-massive		Lobophyllia vitiensis	*	*	638d3aa3-3922-4394-af18-fe1968289d49
+Cnidaria > Corals	Stony corals	Sub-massive		Lobophyllidae	*	*	8a70ac95-4432-40e4-9fec-cc9f89475297
+Cnidaria > Corals	Stony corals	Sub-massive		Micromussa lordhowensis	*	*	8dbb37d4-868a-41bd-96d7-301caedc6439
+Cnidaria > Corals	Stony corals	Sub-massive		Montipora	*	*	f73d41a2-6415-4b1b-aedc-1d59e8059e7e
+Cnidaria > Corals	Stony corals	Sub-massive		Montipora angulata	*	*	96951c0c-c07e-4d44-ae93-12596aa4e2c1
+Cnidaria > Corals	Stony corals	Sub-massive		Montipora danae	*	*	a4969384-1ccc-414b-9e7a-46fdcb6e7bcd
+Cnidaria > Corals	Stony corals	Sub-massive		Montipora mollis	*	*	30aa8a95-5964-4a22-9f6a-e8d7683eee96
+Cnidaria > Corals	Stony corals	Sub-massive		Montipora turgenscens	*	*	9662f85f-0d97-4c2f-b5ab-61bae65f7767
+Cnidaria > Corals	Stony corals	Sub-massive		Montipora venosa	*	*	0ea4d027-d561-42aa-8e8c-0555f5f42099
+Cnidaria > Corals	Stony corals	Sub-massive		Oulophyllia	*	*	c2f15b56-dc97-4140-83bc-275e9a352f59
+Cnidaria > Corals	Stony corals	Sub-massive		Oulophyllia bennettae	*	*	aafefefb-5bf5-47c1-837c-fd8efa217841
+Cnidaria > Corals	Stony corals	Sub-massive		Oulophyllia crispa	*	*	c21fbcae-74cb-430b-a64b-f7ab52790c5e
+Cnidaria > Corals	Stony corals	Sub-massive		Paragoniastrea	*	*	7c417f66-9dd7-4fa9-852b-e7be822821ab
+Cnidaria > Corals	Stony corals	Sub-massive		Paragoniastrea australensis	*	*	20f84804-1863-4255-8aa3-3931ab9b1f9e
+Cnidaria > Corals	Stony corals	Sub-massive		Paragoniastrea russelli	*	*	b2946503-bf9b-4212-afaa-2f6a3caeb6f8
+Cnidaria > Corals	Stony corals	Sub-massive		Pavona	*	*	7dbef170-1b85-4485-9574-3b358f98c16a
+Cnidaria > Corals	Stony corals	Sub-massive		Pavona decussata	*	*	8ceb8726-e1ca-4012-90bf-6a662bf396e8
+Cnidaria > Corals	Stony corals	Sub-massive		Pavona duerdeni	*	*	f8174aa9-7c1c-45f8-9d8a-02e3465848a7
+Cnidaria > Corals	Stony corals	Sub-massive		Pavona explanulata	*	*	c6804453-35bd-4109-90c3-f271cc971f9d
+Cnidaria > Corals	Stony corals	Sub-massive		Pavona maldivensis	*	*	294a43a3-363c-4c32-9880-21b0a8a3db2c
+Cnidaria > Corals	Stony corals	Sub-massive		Pavona minuta	*	*	80860b77-bcdd-4fbd-8c1d-ff19a1b030aa
+Cnidaria > Corals	Stony corals	Sub-massive		Pavona varians	*	*	a51ca2f0-d123-4b49-b162-52baad152131
+Cnidaria > Corals	Stony corals	Sub-massive		Pavona venosa	*	*	6be61df4-c09b-408b-af1c-6dbef24995cd
+Cnidaria > Corals	Stony corals	Sub-massive		Pectinia	*	*	1aab1491-2dac-4e4d-bc64-5c25ba1e2031
+Cnidaria > Corals	Stony corals	Sub-massive		Pectinia lactuca	*	*	fa0c2fab-2a5f-4333-b627-1cedb4e532f2
+Cnidaria > Corals	Stony corals	Sub-massive		Platygyra	*	*	b4396be6-35e3-405c-83a9-b4b9556d548c
+Cnidaria > Corals	Stony corals	Sub-massive		Platygyra contorta	*	*	5d705097-c7fc-4296-8461-582cd45504a6
+Cnidaria > Corals	Stony corals	Sub-massive		Platygyra daedalea	*	*	f95fd350-38fe-47c2-aafc-4d3eeaa938b7
+Cnidaria > Corals	Stony corals	Sub-massive		Platygyra lamellina	*	*	9ed7574b-bd4a-421a-825c-77c4123b868c
+Cnidaria > Corals	Stony corals	Sub-massive		Platygyra pini	*	*	dc709c83-0053-4990-be70-1a282c919d3f
+Cnidaria > Corals	Stony corals	Sub-massive		Platygyra sinensis	*	*	b0d6feb5-3693-486d-b037-f5c158fd589d
+Cnidaria > Corals	Stony corals	Sub-massive		Platygyra/Paragoniastrea	*	*	5934ff90-757c-4282-abd6-233e60097b9d
+Cnidaria > Corals	Stony corals	Sub-massive		Porites cylindrica	*	*	1b3193d5-b9ec-4fdb-a2e6-11f9838e74a1
+Cnidaria > Corals	Stony corals	Sub-massive		Porites heronensis	*	*	3e3a0e21-3bd5-4ee8-98e6-d3d9aad6e067
+Cnidaria > Corals	Stony corals	Sub-massive		Porites lichen	*	*	233596bd-c3e6-4b11-94be-20829486bd7f
+Cnidaria > Corals	Stony corals	Sub-massive		Porites lutea	*	*	85a22240-fffb-437e-829d-97842da4d689
+Cnidaria > Corals	Stony corals	Sub-massive		Poritidae	*	*	9886c391-65e9-4b53-b835-be677f82ac98
+Cnidaria > Corals	Stony corals	Sub-massive		Psammocora	*	*	eb70e50e-ab14-451b-b0f0-a012f5592707
+Cnidaria > Corals	Stony corals	Sub-massive		Psammocora contigua	*	*	f5a8b137-78d2-497f-a035-29ff322b33de
+Cnidaria > Corals	Stony corals	Sub-massive		Psammocora superficialis	*	*	56fd96ea-b235-485f-862a-b9e6ea1f7417
+Cnidaria > Corals	Stony corals	Sub-massive		Porites solida	*	*	e530500b-9b4f-4c49-941d-95fa6e4a027b
+Cnidaria > Corals	Stony corals	Sub-massive		Porites	*	*	987fe4ce-1654-4146-97d8-08cb5cce767f
+Cnidaria > Corals	Stony corals	Sub-massive		Psammocora albopicta	*	*	7c68c0a4-084e-4040-9d8d-78fee0722379
+Cnidaria > Corals	Stony corals	Sub-massive		Psammocora nierstraszi	*	*	53a92c21-e9ff-412d-975d-4d3c71416d34
+Cnidaria > Corals	Stony corals	Sub-massive		Psammocora profundacella	*	*	d650feea-1fb3-47d6-bdf0-ca2ac82e4eb5
+Cnidaria > Corals	Stony corals	Sub-massive		Blastomussa merleti	*	*	b91bd41c-6094-4092-bdb0-3ab13fd7c2a7
+Cnidaria > Corals	Stony corals	Sub-massive		Blastomussa wellsi	*	*	53519275-248f-45da-b4e7-bf9242c7c356
+Cnidaria > Corals	Stony corals	Sub-massive		Blastomussa	*	*	c2a82820-d928-4802-8996-9cbd124d63f8
+Cnidaria > Corals	Stony corals	Sub-massive		Agariciidae	*	*	72348c9e-13c3-419b-abd3-d93cc84c56d6
+Cnidaria > Corals	Stony corals	Sub-massive		Coscinaraeidae	*	*	37840447-aef4-455f-b7b8-111cb26c2cb6
+Cnidaria > Corals	Stony corals	Sub-massive		Merulinidae	*	*	aec73bfd-926f-4bff-88f8-366812e65889
+Cnidaria > Corals	Stony corals	Sub-massive		Psammocoridae	*	*	a8811e33-0e0c-464e-a1de-dc195a0b0645
+Cnidaria > Corals	Stony corals	Sub-massive		Scleractinia incertae sedis	*	*	ed9f7904-503c-4fe5-ab22-93b25ae54f69
+Cnidaria > Corals	Stony corals	Sub-massive		Unidentifiable	*	*	49cec15b-4698-4783-8467-1d06791c9b9b
+Cnidaria > Corals	Stony corals	Tabulate		Acropora	*	*	2f80d5b1-4fab-4a4c-9e74-8eabfa8ba6ac
+Cnidaria > Corals	Stony corals	Tabulate		Acropora clathrata	*	*	8027a9ec-2bbb-41fa-b6d4-0decbce8ba77
+Cnidaria > Corals	Stony corals	Tabulate		Acropora cytherea	*	*	09ec7e3a-5230-4d35-8287-dde565dbf336
+Cnidaria > Corals	Stony corals	Tabulate		Acropora donei	*	*	4c367e27-3922-4cf2-846c-de70312e563c
+Cnidaria > Corals	Stony corals	Tabulate		Acropora glauca	*	*	85665842-5b9c-4c05-baa7-fb02de4296db
+Cnidaria > Corals	Stony corals	Tabulate		Acropora granulosa	*	*	644db4d0-81dd-4ecb-8dfe-1587278ead87
+Cnidaria > Corals	Stony corals	Tabulate		Acropora hyacinthus	*	*	384724f4-f3d1-48b6-8499-30dc0d1a08ea
+Cnidaria > Corals	Stony corals	Tabulate		Acropora paniculata	*	*	a796d468-f614-413c-a1d9-f44bc63c11d8
+Cnidaria > Corals	Stony corals	Tabulate		Acropora solitaryensis	*	*	d11660fc-113b-4008-8377-c6582102943a
+Cnidaria > Corals	Stony corals	Tabulate		Acropora subulata	*	*	f527de8d-dc21-4428-84f9-33cfafc48dfb
+Cnidaria > Corals	Stony corals	Tabulate		Acroporidae	*	*	044d2e84-9853-4f3c-9427-6bddeab714f4
+Cnidaria > Corals	Stony corals	Tabulate		Astreopora	*	*	690f931f-fec2-4597-b95b-7c08003cc3e4
+Cnidaria > Corals	Stony corals	Tabulate		Unidentifiable	*	*	7f423a25-d3c4-49cd-998b-170e72ba1414
+Cnidaria > Corals	Stony corals			Unidentifiable	*	*	87f255b9-2445-479d-bf67-aef310840f95
+Cnidaria > Corals				Unidentifiable	*	*	baf3bf82-b85e-420a-bf95-2d271f8b6244
+Cnidaria > Hydrocorals	Branching			Unidentifiable	*	*	68fdb876-e0ac-417d-8ef7-02ab49af2d0c
+Cnidaria > Hydrocorals	Branching			Unidentifiable	*	*	01ef574d-d979-4bd3-be71-714aa682c5aa
+Cnidaria > Hydrocorals	Branching			Unidentifiable	*	*	d53b4497-c4a9-48f2-83b1-9c4175a45afb
+Cnidaria > Hydrocorals	Submassive / encrusting			Unidentifiable	*	*	e7e174f1-9983-46cb-b9ba-4aec34651fe3
+Cnidaria > Hydrocorals				Unidentifiable	*	*	ce74a1ca-6a4c-405b-800d-b06d42b5a6a5
+Cnidaria > Hydroids				Distichopora	*	*	1604b46a-e782-4403-9dc3-894d8ef9a9d9
+Cnidaria > Hydroids				Dusky grey bushy	*	*	56c581e1-ac0e-4a94-9e38-8881cc5885e5
+Cnidaria > Hydroids				Hydroid Blond Tip Feathers	*	*	a26c3df1-c24c-47fd-b650-04e8066c7484
+Cnidaria > Hydroids				Hydroid Branching Black Feathers	*	*	7d7824bf-0cb4-4624-aef9-0c6231c24c31
+Cnidaria > Hydroids				Hydroid Branching White Feathers	*	*	636ffca4-8ec1-49de-8349-741b500ebd50
+Cnidaria > Hydroids				Hydroid Brown Feathers	*	*	d965497e-f302-4e99-9e85-f4c59a4f85e1
+Cnidaria > Hydroids				Hydroid Brown Fern	*	*	71e90c0a-9904-4dc4-aae1-d533c0e7173e
+Cnidaria > Hydroids				Hydroid complex white	*	*	cd160d5a-7d12-4bfc-8f7e-64300598e26b
+Cnidaria > Hydroids				Hydroid Dark Grey	*	*	c4ff9371-59a7-4376-bed2-0610928b2846
+Cnidaria > Hydroids				Hydroid Dark Red Feathers	*	*	8250939e-1492-4267-8321-72084e253b20
+Cnidaria > Hydroids				Hydroid Orange 2D	*	*	fae73420-f67f-449e-bd63-2934ab2476ce
+Cnidaria > Hydroids				Hydroid Red-Brown Mossy	*	*	8231db55-7c8d-4b40-925a-aa1d73a6a30b
+Cnidaria > Hydroids				Hydroid Scarlet Feather (Halopteris glutinosa like)	*	*	9fd16aeb-2ddf-4a56-ba29-6a1456c14353
+Cnidaria > Hydroids				Hydroid Small Red	*	*	4c6b0bfb-4075-4ba5-ab6b-ffe8ef2e1f1f
+Cnidaria > Hydroids				Hydroid White	*	*	4580f616-e671-453e-9bd8-4885187b86f6
+Cnidaria > Hydroids				Hydroid White 2D	*	*	e3270391-9980-4da9-9a95-82f42e9bd379
+Cnidaria > Hydroids				Hydroid Yellowish	*	*	8eb01aa0-f056-47c0-9b75-aad755e6e1fe
+Cnidaria > Hydroids				Stylasteridae	*	*	2892e1e8-f9b0-48c3-abd2-688ec8676e19
+Cnidaria > Hydroids				Hydroid Branching Brown Feathers	*	*	28a18b57-ceff-45c2-820f-339aefbddecb
+Cnidaria > Hydroids				Hydroid Branching Golden Feathers	*	*	1ff74a27-8c96-43c9-a51a-3c33cda57ca8
+Cnidaria > Hydroids				Unidentifiable	*	*	28f61808-4d93-480d-95c5-2eb4856cd6fe
+Cnidaria > True anemones	Flytrap			Unidentifiable	*	*	049f968e-16a6-4c46-b4ce-49b5bc58a41a
+Cnidaria > True anemones	Fourlobed			Unidentifiable	*	*	2c2440ca-6c63-45ec-9ac1-1789cf5a5a5d
+Cnidaria > True anemones	Other anemones	Colonial		Unidentifiable	*	*	9315f699-20d5-41da-8d9e-f926cf2416f4
+Cnidaria > True anemones	Other anemones	Solitary		Unidentifiable	*	*	624581fc-d3ea-4044-83f2-4ea6ee75b360
+Cnidaria > True anemones	Other anemones			Entacmaea quadricolor	*	*	c0643df7-edc3-437e-a27c-b1318ddc181c
+Cnidaria > True anemones	Other anemones			Grey Striated Edwardsia Like	*	*	0211089e-18f4-49d0-978e-a54a166127e0
+Cnidaria > True anemones	Other anemones			Heteractis crispa	*	*	ceb1e55c-dbe6-440e-89e6-074e9344a959
+Cnidaria > True anemones	Other anemones			Red Sand Anemone	*	*	25151624-2c3f-405a-874e-2eb6d2f7b8a4
+Cnidaria > True anemones	Other anemones			Unidentifiable	*	*	c54c3cd3-27c0-4d74-8cca-0b3e58dce04b
+Cnidaria > True anemones				Unidentifiable	*	*	87da4253-d88a-4085-bce6-e87ac751a688
+Cnidaria > Tube anemones				Unidentifiable	*	*	ebf872c4-d66f-4404-b146-d44b9e73d40e
+Cnidaria				Unidentifiable	*	*	534102fe-f903-43a0-b97b-80e777c2c97a
+Crustacea > Barnacles	Acorn			Unidentifiable	*	*	b40bd2fc-2577-4717-8765-a6b40d177783
+Crustacea > Barnacles	Stalked			Unidentifiable	*	*	49fd2886-d9ea-4bab-b4af-61b438c7b9bd
+Crustacea > Barnacles				Unidentifiable	*	*	e205829a-3fce-439e-b7d2-cbb210e5bc5d
+Crustacea > Crabs	King crabs			Unidentifiable	*	*	89842593-97e1-49c9-8b1f-24aa8e88ed34
+Crustacea > Crabs	Porcelain crabs			Unidentifiable	*	*	a242fafb-a7e7-4374-8b18-c2e7c2760ed8
+Crustacea > Crabs	True crabs			Unidentifiable	*	*	388fca03-8ccd-489e-b314-eccb0e6283d6
+Crustacea > Crabs				Unidentifiable	*	*	3b7ab2d5-fe83-4ebd-b2a0-e65ea7fec1c0
+Crustacea > Hermit crabs	With anemones			Unidentifiable	*	*	9067da98-d100-48fa-ab67-5658178b284a
+Crustacea > Hermit crabs	With shell or stone home 			Unidentifiable	*	*	d1dd009a-48a4-4dd3-949a-64dc9221d3d2
+Crustacea > Hermit crabs				Unidentifiable	*	*	db04934f-e77b-4177-a5f5-90af6aaee40d
+Crustacea > Lobsters	Rock lobsters			Jasus edwardsii	*	*	9503e49f-c2b7-45c6-9241-865ead0c292b
+Crustacea > Lobsters	Rock lobsters			Unidentifiable	*	*	dbdb7b43-d79a-40d2-a394-b16b2cdf4b46
+Crustacea > Lobsters	Slipper lobsters / bugs			Unidentifiable	*	*	68dea34f-dae6-4851-8176-6b30d2172ecd
+Crustacea > Lobsters	Squat lobsters			Squat Lobster Eumundia like	*	*	9998c2a4-c8e0-4278-bcd0-4c002c4ec223
+Crustacea > Lobsters	Squat lobsters			Unidentifiable	*	*	a28dd492-bad9-40c5-8787-431059b06610
+Crustacea > Lobsters	True lobsters			Unidentifiable	*	*	edb09d65-e88f-4153-9f39-d95c5d7b6d64
+Crustacea > Lobsters				Unidentifiable	*	*	04e38c0e-877c-419c-9821-d909c48b6064
+Crustacea > Prawns / shrimps / mysids				Unidentifiable	*	*	f24cfd60-3eed-4db3-9b74-b6c8fbc2ce78
+Crustacea				Unidentifiable	*	*	17b660de-834f-4c20-a4ce-47c1057060bc
+Echinoderms > Feather stars	Stalked crinoids			Unidentifiable	*	*	e42d30c1-29bc-4b0b-9336-baf15da22975
+Echinoderms > Feather stars	Unstalked crinoids			Oxycomanthus bennetti	*	*	eb4fca6b-ad4b-4a0a-9f41-5e1e1eb0d005
+Echinoderms > Feather stars	Unstalked crinoids			Cenolia trichoptera	*	*	b582bedd-5f93-4504-bf24-cc64a7d2b384
+Echinoderms > Feather stars	Unstalked crinoids			Unidentifiable	*	*	82c1c5e9-070e-4089-b5f3-3c814850fcd0
+Echinoderms > Feather stars				Unidentifiable	*	*	548274ca-b172-4a1e-9fbf-652c5f35dd78
+Echinoderms > Ophiuroids	Basket stars			Unidentifiable	*	*	222b5f1c-d29d-4429-a1f2-631d1404d763
+Echinoderms > Ophiuroids	Brittle / snake stars			Unidentifiable	*	*	7693da8e-f9ce-4292-bb6e-ffd14c5baa30
+Echinoderms > Ophiuroids				Unidentifiable	*	*	bc2e6d9e-b145-40aa-9412-2649e5cac040
+Echinoderms > Sea cucumbers	Benthic			Unidentifiable	*	*	531890e9-ba7e-408c-a9b9-daa6edba5cf0
+Echinoderms > Sea cucumbers	Pelagic / swimming			Unidentifiable	*	*	3a9f5764-b87c-4550-9a8d-4dd0e800b37a
+Echinoderms > Sea cucumbers				Unidentifiable	*	*	e307099e-9323-4edc-bf35-987c713021b5
+Echinoderms > Sea stars				Unidentifiable	*	*	e0b9fa0e-688f-41cf-9219-86955cd32624
+Echinoderms > Sea urchins	Irregular urchins			Unidentifiable	*	*	3ea5341b-eca9-44bf-84d5-ee760a963887
+Echinoderms > Sea urchins	Regular urchins			Centrostephanus rodgersii	*	*	7fd0ca1d-3838-48dd-9e46-fc00059387fc
+Echinoderms > Sea urchins	Regular urchins			Diadema spp	*	*	48506c59-62f1-49ed-90c7-8d5a6fefada2
+Echinoderms > Sea urchins	Regular urchins			Phyllacanthus parvispinus	*	*	0a373b46-b202-4531-8c45-072e1149bb15
+Echinoderms > Sea urchins	Regular urchins			Tripneustes gratilla	*	*	bb2f97ee-a81f-45aa-b096-31205a3664cc
+Echinoderms > Sea urchins	Regular urchins			Unidentifiable	*	*	8cf5a09b-67b0-44c4-8f3b-91f0790cccbd
+Echinoderms > Sea urchins				Unidentifiable	*	*	2378521d-adaa-4bb3-bd91-3c08feb2c85f
+Echinoderms				Unidentifiable	*	*	29c5a720-b828-42bb-b754-d9df3e77ed08
+Fishes > Bony fishes	Brachionichthyidae			Brachionichthyidae	*	*	e3623d64-332f-49f9-b205-612e6c18b3d8
+Fishes > Bony fishes				Caesioperca lepidoptera (Caab 37311002)	*	*	fc28cc32-8c0e-486f-8964-0643e810d230
+Fishes > Bony fishes				Caesioperca spp	*	*	a4910768-7da3-4614-a711-76b394e538c7
+Fishes > Bony fishes				Centroberyx gerrardi (CAAB 37258004)	*	*	cb220982-301d-4df4-8e45-c439a23a10d3
+Fishes > Bony fishes				Cheilodactylus nigripes (Caab 37377001)	*	*	b1f20754-a5a0-4c6f-9a3f-bbbff27d8cad
+Fishes > Bony fishes				Chilomycterus reticulatus (CAAB 37 469014)	*	*	fdacdf9f-065a-41d0-912a-6123567ca209
+Fishes > Bony fishes				Helicolenus percoides (Caab 37287001)	*	*	1fe9714f-2e05-404d-a119-4e8b54ae2aa5
+Fishes > Bony fishes				Myripristis spp (CAAB 37 261901)	*	*	dac22dc6-96a9-4d9e-b4f2-d299ac87c228
+Fishes > Bony fishes				Nemadactylus macropterus	*	*	c2e35bd5-2675-43e7-a407-430bea560aaf
+Fishes > Bony fishes				Neosebastes scorpaenoides (Caab 37287005)	*	*	05bcdf03-3c40-4caf-9737-1b85830226de
+Fishes > Bony fishes				Parequula melbournensis (Caab 37349001)	*	*	a127ebe4-ced1-4540-92c9-0f3e7861d3b2
+Fishes > Bony fishes				Pseudophycis spp (Caab 37224006)	*	*	4f5b98e9-93a9-4535-9799-192a1a056330
+Fishes > Bony fishes				Pterygotrigla polyommata (Caab 37288006)	*	*	f82f4491-caf7-41b6-b9bb-0e9854873fcc
+Fishes > Bony fishes				Scorpaena papillosa (CAAB 37287008)	*	*	08ab8b67-406e-40e0-9760-dfd375fcdc54
+Fishes > Bony fishes				Solegnathus spinosissimus (caab code 37282029)	*	*	186cbb90-d4f7-4dc1-b11b-d8106dacdd11
+Fishes > Bony fishes				Upeneichthys vlamingii (Caab 37355029)	*	*	4577ed86-c396-4d2e-9723-c0b036e27185
+Fishes > Bony fishes				Pempheris multiradiata (CAAB 37357001)	*	*	7834798e-8524-4d6e-bf54-d0a1812a11db
+Fishes > Bony fishes				Aracana aurita (Caab 37466003)	*	*	7aa4ffbc-8cdf-4796-8d89-27b8f0585a6b
+Fishes > Bony fishes				Caesioperca rasor (Caab 37311003)	*	*	2f8e186e-962c-4cb6-90ad-9d5d0fa8b9ff
+Fishes > Bony fishes				Paratrachichthys macleayi (Caab 37255003)	*	*	b74991df-206f-41bc-9d31-fc276c446182
+Fishes > Bony fishes				Parapercis allporti (Caab 37390001)	*	*	7aba9cac-8008-402f-911f-e744d661d5ad
+Fishes > Bony fishes				Latropiscis purpurissatus (Caab 37117001)	*	*	79bfb952-3b8a-44e7-8d6c-7fa12866a8c4
+Fishes > Bony fishes				Capropygia unistriata (Caab 37466011)	*	*	8393bee7-e7ac-42c8-8514-5059ad3b71a4
+Fishes > Bony fishes				Unidentifiable	*	*	194ba19d-645c-4e77-80f9-db8c3aef28fa
+Fishes > Eels				Unidentifiable	*	*	0d942cc3-c14f-414b-b664-877d6b668d52
+Fishes > Elasmobranchs	Chimaeras			Unidentifiable	*	*	3514c640-70a0-4a4d-952d-1bc8da1beff5
+Fishes > Elasmobranchs	Rays & skates			Dentiraja lemprieri	*	*	658c22fa-4f6d-4a70-8d6e-383a379ff794
+Fishes > Elasmobranchs	Rays & skates			Dipturus cerva	*	*	9aaffa53-b264-41e4-961b-76a6f7a5d85c
+Fishes > Elasmobranchs	Rays & skates			Spiniraja whitleyi	*	*	00d2dd45-8d88-4843-8fd6-22dc08733b55
+Fishes > Elasmobranchs	Rays & skates			Urolophus cruciatus (Caab 37038002)	*	*	53e0351c-2590-4eeb-a03a-2c6018d99965
+Fishes > Elasmobranchs	Rays & skates			Urolophus paucimaculatus (Caab 37038004)	*	*	c8cc333b-6b06-4e3b-8922-bbd2681a53d0
+Fishes > Elasmobranchs	Rays & skates			Unidentifiable	*	*	ee249b4c-8a38-480f-9670-ce7e7586f787
+Fishes > Elasmobranchs	Sharks			Asymbolus rubiginosus (Caab 37015902)	*	*	ddd358be-64d1-4757-8600-3e380d7a4944
+Fishes > Elasmobranchs	Sharks			Cephaloscyllium laticeps (caab code 37015001)	*	*	5f970c7d-22d6-407a-b2ff-9ca577fcc077
+Fishes > Elasmobranchs	Sharks			Heterodontus portusjacksoni (Caab 37007001)	*	*	407cfe6e-d61f-4d7a-a606-234c11e2e076
+Fishes > Elasmobranchs	Sharks			Unidentifiable	*	*	09fc3cb0-be87-4678-81e1-030c740b96fc
+Fishes > Elasmobranchs				Unidentifiable	*	*	c33d4030-6509-4f9e-ad77-47b374eb4020
+Fishes				Unidentifiable	*	*	df3f3e60-679f-46a7-a9a2-0ac962d7e728
+Fishing line (mono) 				Unidentifiable	*	*	990548c6-2c4a-44f1-8497-9c7e17405d3e
+General Unknown Biology				Unidentifiable	*	*	0757b67a-90cf-49d7-940c-13e08e42cf79
+Jellies > Ctenophores				Unidentifiable	*	*	7ba2fafa-a1b7-45a5-af97-be20ec766fc8
+Jellies > Cubozoa				Unidentifiable	*	*	74c1e62d-47d1-41f4-b998-a751c4e49084
+Jellies > Hydromedusae				Unidentifiable	*	*	8c6a33bd-5d8c-4d23-8d0b-c4fb995f05f7
+Jellies > Pyrosomes				Unidentifiable	*	*	f4d68f43-ec4d-49c7-8748-e27e8edc5a61
+Jellies > Salps				Unidentifiable	*	*	3f60a84d-18bf-40de-ac10-3f02bdb57cd5
+Jellies > Scyphozoa				Unidentifiable	*	*	784237d0-9312-473a-ad3d-7cf7e7b38300
+Jellies > Siphonophores				Unidentifiable	*	*	5a571876-e5f9-4601-8cb6-e7b07fbb2513
+Jellies				Unidentifiable	*	*	70acdbe1-b328-4ab1-9ce9-25062a73e23e
+Macroalgae > Articulated calcareous	Green	Articulated Calcareous Green		Unidentifiable	*	*	b108212c-dd09-4894-b70b-32f9411abe33
+Macroalgae > Articulated calcareous	Green			Unidentifiable	*	*	04532156-9881-4fde-b271-6754368a1c06
+Macroalgae > Articulated calcareous	Green			Unidentifiable	*	*	f670bb16-5841-4163-8420-9d8058e6aa9b
+Macroalgae > Articulated calcareous	Red	Articulated Calcareous Red		Unidentifiable	*	*	2b778995-31e2-43dd-ad57-18f4bec3e445
+Macroalgae > Articulated calcareous	Red	Corallina (Erect)		Unidentifiable	*	*	323d4295-f37a-4239-8ad7-0bf80a8b516c
+Macroalgae > Articulated calcareous	Red			Unidentifiable	*	*	ecb14351-bf2b-4c4e-83aa-6ac5e5f553b6
+Macroalgae > Articulated calcareous	Red			Unidentifiable	*	*	5d7802ca-6d9c-4d11-9179-445d47d90d1b
+Macroalgae > Articulated calcareous	Red			Unidentifiable	*	*	cd85a334-81b4-4ab3-88b2-97dd25005552
+Macroalgae > Articulated calcareous				Unidentifiable	*	*	0c790a8c-21de-4b7b-85c5-2165e66e086e
+Macroalgae > Drift Algae				Unidentifiable	*	*	92c7bca7-7594-45cd-822b-c45d516ac0d7
+Macroalgae > Encrusting	Brown			Unidentifiable	*	*	7e55945a-a20d-418f-80ad-e699d3a17310
+Macroalgae > Encrusting	Green	Codium spp		Unidentifiable	*	*	ca9aeb8d-5ea7-4f1e-9cb1-1486e06ff6de
+Macroalgae > Encrusting	Green			Unidentifiable	*	*	ed03a98a-5ce8-44c2-a3aa-02ce2b137886
+Macroalgae > Encrusting	Red	Calcareous		Unidentifiable	*	*	38ff4da2-6907-4f18-8c51-c274abdd9e8f
+Macroalgae > Encrusting	Red	Non-calcareous		Sonderopelta spp / Peyssonnelia spp	*	*	53ada2c0-42ff-4520-a3ad-c0310c23bc32
+Macroalgae > Encrusting	Red	Non-calcareous		Unidentifiable	*	*	39b9655d-6560-4f82-abc3-e1a4600da196
+Macroalgae > Encrusting	Red			Unidentifiable	*	*	76039813-a25c-4182-8bd2-864556f64139
+Macroalgae > Encrusting				Unidentifiable	*	*	26c4d263-1a25-4a9a-aec3-1dc146c02fe9
+Macroalgae > Erect coarse branching	Brown	Drift		Unidentifiable	*	*	4289a243-950f-4997-9c23-aa27d9f65fca
+Macroalgae > Erect coarse branching	Brown			Dictyopteris muelleri	*	*	21914e04-3b51-4a1a-aea6-93b150b41c55
+Macroalgae > Erect coarse branching	Brown			Sargassum spp	*	*	c39bf962-9680-4a32-bad3-3b9e32164a02
+Macroalgae > Erect coarse branching	Brown			Unidentifiable	*	*	feb64949-53b0-4055-925e-d6796030899b
+Macroalgae > Erect coarse branching	Green			Caulerpa cactoides	*	*	6c7e7660-9a9a-4979-ba54-4dbc0c281ea3
+Macroalgae > Erect coarse branching	Green			Caulerpa spp	*	*	2027d710-95fa-4163-a2e3-4b258eeff559
+Macroalgae > Erect coarse branching	Green			Codium spp	*	*	51128eae-ff91-46f6-814e-1621b531b8c5
+Macroalgae > Erect coarse branching	Green			Unidentifiable	*	*	5d0e66b4-fffd-4d38-9b3d-e60c986fa8eb
+Macroalgae > Erect coarse branching	Red	Foliose		Pterocladia spp	*	*	09388e9b-9c77-4e8b-a41b-2ff60ccc2c60
+Macroalgae > Erect coarse branching	Red	Foliose		Unidentifiable	*	*	d02aae8a-0c44-4669-9b35-e3e2e2049db5
+Macroalgae > Erect coarse branching	Red			Osmundaria prolifera	*	*	3007b5cd-2d24-47aa-8c93-3524a6800250
+Macroalgae > Erect coarse branching	Red			Unidentifiable	*	*	25e7d07a-8d31-408c-a955-279d2d13454e
+Macroalgae > Erect coarse branching				Unidentifiable	*	*	a8fd9f65-0576-40e4-b8d2-5398504d4ee0
+Macroalgae > Erect fine branching	Brown	Brown Understory Algae		Dictyota dichotoma	*	*	040c0fa1-7403-46c5-8253-91314c45f13c
+Macroalgae > Erect fine branching	Brown	Brown Understory Algae		Dictyotaceae spp	*	*	36f24977-dbae-4c6f-9e35-27640b321ef5
+Macroalgae > Erect fine branching	Brown	Brown Understory Algae		Hormophysa spp	*	*	054c0b45-58ff-4dd8-9062-1ff256fca520
+Macroalgae > Erect fine branching	Brown	Brown Understory Algae		Turbinaria spp	*	*	d6f5e021-b0d9-4d68-ac6d-577e81e6d3c4
+Macroalgae > Erect fine branching	Brown	Brown Understory Algae		Zonaria spp	*	*	6ddea9fc-192d-431b-9608-f953ba9cae9b
+Macroalgae > Erect fine branching	Brown	Brown Understory Algae		Unidentifiable	*	*	3c54e266-821b-4109-9ad1-203c3b0fb9e4
+Macroalgae > Erect fine branching	Brown			Unidentifiable	*	*	c74da860-dd7c-4828-85b2-50268b9796bc
+Macroalgae > Erect fine branching	Green			Caulerpa obscura	*	*	80044e9b-d7e1-487f-a156-0d4c8cf5c731
+Macroalgae > Erect fine branching	Green			Caulerpa spp	*	*	ea588c15-7718-4ac5-9b52-d8e4b527756d
+Macroalgae > Erect fine branching	Green			Caulerpa taxifolia	*	*	cdac2826-b3f6-4088-be69-b72c4506cae8
+Macroalgae > Erect fine branching	Green			Unidentifiable	*	*	1e297403-5758-485d-b4fe-d0e6eb3ad35b
+Macroalgae > Erect fine branching	Red	Foliose		Callophycus spp	*	*	805d89ad-6038-4e72-a5b8-93515966a84b
+Macroalgae > Erect fine branching	Red	Foliose		Hypnea spp	*	*	fea78beb-5c4d-4101-8d3d-401983f66e21
+Macroalgae > Erect fine branching	Red	Foliose		Lenormandia marginata	*	*	450366ad-789c-43b0-80c7-17abc35d11c4
+Macroalgae > Erect fine branching	Red	Foliose		Plocamium spp	*	*	62006ed0-049c-4e4d-86e1-22872d0662db
+Macroalgae > Erect fine branching	Red	Foliose		Unidentifiable	*	*	aea2a834-8deb-4f2e-bc54-588faf338e93
+Macroalgae > Erect fine branching	Red			Asparagopsis spp	*	*	3ad59a03-9559-46ff-8d8e-6192e57f1d3e
+Macroalgae > Erect fine branching	Red			Unidentifiable	*	*	6b45b98c-47ad-4043-a6f0-e8afbb110eba
+Macroalgae > Erect fine branching				Unidentifiable	*	*	e84c7bd3-4086-4f76-b088-19bdab6be81b
+Macroalgae > Filamentous / filiform	Brown			Unidentifiable	*	*	5218a2f0-aa3b-4d94-b41a-c81d497a4c4e
+Macroalgae > Filamentous / filiform	Dark Red			Unidentifiable	*	*	a9b830eb-0a90-4415-bf52-f06c4cde1315
+Macroalgae > Filamentous / filiform	Green			Chlorodesmis fastigiata	*	*	b595c13f-6bf7-4627-b322-a10bc5be71c5
+Macroalgae > Filamentous / filiform	Green			Cladophoropsis spp	*	*	78b77fd6-4efd-4454-a453-71170b9702c1
+Macroalgae > Filamentous / filiform	Green			Unidentifiable	*	*	0f25aebe-60d8-4e09-b45e-c9e9a15f51ac
+Macroalgae > Filamentous / filiform	Mat algae			Unidentifiable	*	*	18f9513d-a46f-41db-ae3e-2ec7d1165723
+Macroalgae > Filamentous / filiform	Red			Unidentifiable	*	*	ed2c3bbc-0a66-4474-89af-428a4f04fee6
+Macroalgae > Filamentous / filiform	Turfing Algae	Green turf		Unidentifiable	*	*	f4a5a794-842c-4771-ac27-95407dd78154
+Macroalgae > Filamentous / filiform	Turfing Algae	Red turf		Unidentifiable	*	*	e649b6b0-4efe-4478-936b-eb8cc2cc2368
+Macroalgae > Filamentous / filiform	Turfing Algae			Unidentifiable	*	*	dbe5c336-c844-4891-946b-cea23434fdba
+Macroalgae > Filamentous / filiform				Unidentifiable	*	*	7b38f4bd-0356-47d5-8698-8bc3051bb991
+Macroalgae > Globose / saccate	Brown			Unidentifiable	*	*	f64e1fc5-7f3c-4ebb-b4ac-0a622ad65b31
+Macroalgae > Globose / saccate	Green			Boergesenia spp	*	*	f25aa588-70c9-4632-926f-3412d8713f39
+Macroalgae > Globose / saccate	Green			Caulerpa racemosa	*	*	f17e247b-5e40-42a6-859c-b2e5c3d934c0
+Macroalgae > Globose / saccate	Green			Codium spp	*	*	544eb532-37ee-4897-870b-fbbf65d978a2
+Macroalgae > Globose / saccate	Green			Dictyosphaeria spp	*	*	c73fbcec-8e40-42d6-ba2e-e54d592d00c1
+Macroalgae > Globose / saccate	Green			Spongocladia spp	*	*	13e2874d-1fd5-4c58-b353-3b805b2d10ee
+Macroalgae > Globose / saccate	Green			Volonia macrophysa	*	*	a55ea901-67f5-44df-bb37-98b9953e21d0
+Macroalgae > Globose / saccate	Green			Unidentifiable	*	*	7b62f03d-05bc-4a1d-b9ce-cdf4d8b88e5d
+Macroalgae > Globose / saccate	Red			Unidentifiable	*	*	a15c6cc0-8717-480f-a5ef-c783104df24d
+Macroalgae > Globose / saccate				Unidentifiable	*	*	a9194335-dc05-4925-bd75-f5a06048a3d8
+Macroalgae > Laminate	Brown			Lobophora spp	*	*	65e89694-1a25-4728-8cd0-55031bf276fe
+Macroalgae > Laminate	Brown			Unidentifiable	*	*	034d0345-e73a-4f81-b5ed-a7cd76043268
+Macroalgae > Laminate	Green			Unidentifiable	*	*	13270188-083a-4b8f-ac40-bf5c2457b065
+Macroalgae > Laminate	Red			Sonderopelta spp / Peyssonnelia spp	*	*	fc6d483c-048e-4a33-a2a0-bd93bbd6781c
+Macroalgae > Laminate	Red			Unidentifiable	*	*	8e829e44-428b-4d01-81c5-468d11e0a5d3
+Macroalgae > Laminate				Unidentifiable	*	*	8233c3f9-792a-4b2e-a010-8d6a41476a98
+Macroalgae > Large canopy-forming	Brown			Unidentifiable	*	*	0ab69a15-d221-4a4a-b2bd-6d113af97ce3
+Macroalgae > Large canopy-forming	Brown			Carpoglossum confluens	*	*	2d913c20-2fc4-4d16-a831-8be9e202b232
+Macroalgae > Large canopy-forming	Brown			Durvillaea potatorum	*	*	e437666b-7aa5-4d06-986e-7022482897c5
+Macroalgae > Large canopy-forming	Brown			Ecklonia radiata	*	*	5b3ca3b9-20c0-4a7f-a08e-14ebd493f9cf
+Macroalgae > Large canopy-forming	Brown			Lessonia corrugata	*	*	4786cf58-2115-43e3-a51e-1fa2b328f9ec
+Macroalgae > Large canopy-forming	Brown			Phyllospora comosa	*	*	35a5793c-57d9-44d4-a2da-f34c6ffe0f5a
+Macroalgae > Large canopy-forming	Brown			Scytothalia dorycarpa	*	*	af25767b-31d5-4f04-a546-4560bc2fc099
+Macroalgae > Large canopy-forming	Brown			Unidentifiable	*	*	ec77a168-fc23-49b4-a450-52f461199245
+Macroalgae > Large canopy-forming				Unidentifiable	*	*	e939714f-a182-4323-8456-0839ba739caa
+Macroalgae > Sheet-like / membraneous	Brown			Padina spp	*	*	d5e73c73-2e42-49ca-b512-353cadb8993e
+Macroalgae > Sheet-like / membraneous	Brown			Stypopodium spp	*	*	f07da46f-a92a-453c-8e43-8b996b9b3cda
+Macroalgae > Sheet-like / membraneous	Brown			Unidentifiable	*	*	0578e947-b44b-4429-b655-df32d9a77b1a
+Macroalgae > Sheet-like / membraneous	Green			Ulvaceae spp	*	*	34d68f78-0742-41cb-9236-429b3aba1628
+Macroalgae > Sheet-like / membraneous	Green			Unidentifiable	*	*	16f82185-5dfb-469f-89ca-f629664561e0
+Macroalgae > Sheet-like / membraneous	Red	Foliose		Unidentifiable	*	*	874df159-a865-4445-886e-7a57c702bcfd
+Macroalgae > Sheet-like / membraneous	Red			Unidentifiable	*	*	f4f5ba0e-6b4a-4595-b253-a925f4510758
+Macroalgae > Sheet-like / membraneous				Unidentifiable	*	*	c462abb5-c011-48f9-8214-4d99e33aa1fd
+Macroalgae 				Unidentifiable	*	*	7d82df0e-16d9-45a7-b65b-f16cfb87b0ff
+Matrix > Bryozoa / Cnidaria / Creeping Sponge Matrix				Unidentifiable	*	*	284a1365-23fd-489e-9282-3b9accd00b42
+Matrix > Bryozoa / Cnidaria / Encrusting Sponge Matrix				Unidentifiable	*	*	2a2c3b05-a4c4-4c0f-b9a8-3b1cfe1211d0
+Matrix > Bryozoa / Cnidaria / Sponge Matrix				Unidentifiable	*	*	529314a0-dcef-464f-aa91-858ebd2b5150
+Matrix > Bryozoa / Cnidaria Matrix				Unidentifiable	*	*	64e14508-e2ce-453a-b284-1d6c04ff5df0
+Matrix > Encrusting/Turfing Algal Matrix				Unidentifiable	*	*	2403a96f-8060-4a10-89bc-c2fa6844c13f
+Matrix > Mixed Sessile Invertebrate				Unidentifiable	*	*	ac2bffe6-092d-44b5-ae7b-bd0036495dae
+Matrix > Turf/Sediment/Silt matrix				Unidentifiable	*	*	2aa3ed85-dcd8-499d-80a5-769881a0d582
+Matrix				Unidentifiable	*	*	fd4177cb-3124-49da-984e-56e0e1d21099
+Molluscs > Bivalves	Scallop			Mimachlamys asperrima	*	*	9f71d15e-e894-4eec-a33c-3fae918d5d3e
+Molluscs > Bivalves	Scallop			Pecten fumatus	*	*	e6a23827-ad00-458a-b272-e1886e2a3776
+Molluscs > Bivalves	Scallop			Unidentifiable	*	*	cfafebfb-77e9-489b-9cb0-2b3d00fe727c
+Molluscs > Bivalves				Unidentifiable	*	*	74025069-25a3-44a7-9572-839d3a09ea0d
+Molluscs > Cephalopods	Cuttlefish			Unidentifiable	*	*	946c6774-fc38-474b-bea3-1cf3d4049a55
+Molluscs > Cephalopods	Octopods			Unidentifiable	*	*	e0538bda-deab-4582-8b9d-5173e08006b4
+Molluscs > Cephalopods	Squid			Unidentifiable	*	*	b178a7e7-ba99-4013-b5ba-b19cefcb230f
+Molluscs > Cephalopods				Unidentifiable	*	*	6d558c33-9c26-4d6e-adf7-4f9eb5195f5b
+Molluscs > Chitons				Unidentifiable	*	*	5217e631-a373-4246-ae0d-fb4e06bc89ac
+Molluscs > Gastropods	Abalone			Unidentifiable	*	*	28bdc704-a92a-4747-b565-2d6b3c4e5b80
+Molluscs > Gastropods	Cowries			Unidentifiable	*	*	8c8b14b4-2973-434d-9df9-477c8c3d6a0f
+Molluscs > Gastropods	Cowries black Zoila like			Unidentifiable	*	*	a2f793fe-7719-4b76-a5ca-963e0be6834c
+Molluscs > Gastropods	Nz Screw Shell			Unidentifiable	*	*	c7c0f860-1b07-4b89-bed2-7ef00f798e19
+Molluscs > Gastropods	Spindle Shell			Unidentifiable	*	*	f985d9bd-a0b1-4ea8-a682-e3d3e82e1bfd
+Molluscs > Gastropods	Volute			Unidentifiable	*	*	4fee0ba7-729e-4baa-8a4a-5a2f3d751218
+Molluscs > Gastropods				Unidentifiable	*	*	94e60440-7348-484d-b224-1b4e9c8c33e2
+Molluscs				Unidentifiable	*	*	e1102d1f-d8dd-4d48-88a6-d70c71a3635d
+Relief > Flat				Unidentifiable	*	*	66d2fe92-8fa4-4a27-9186-dd460cf481a1
+Relief > High	High (>3m)			Unidentifiable	*	*	2ff049c9-4a8d-4704-b80f-71b884888fae
+Relief > High	Wall			Unidentifiable	*	*	e530ef6e-1316-4ca4-bb0a-ddea8f33d9ef
+Relief > High				Unidentifiable	*	*	e6e28bad-d931-4046-80d2-279986ac75ed
+Relief > Low / moderate	Low (<1m)			Unidentifiable	*	*	d37adeae-8873-469a-9fa6-94b8ab4a76ca
+Relief > Low / moderate	Moderate (1-3m)			Unidentifiable	*	*	34a47bb8-1df9-4166-9f56-115e8607c02a
+Relief > Low / moderate				Unidentifiable	*	*	0c42d1e7-a7c0-4ba3-a285-8a81161a973e
+Relief				Unidentifiable	*	*	be80fc8c-4550-431a-9e04-82658476f242
+Replicate PQ				Unidentifiable	*	*	8a4c6e1b-66a1-48a2-b1d8-a36d6af483ef
+Rope				Unidentifiable	*	*	a12e1532-1bde-49bc-b60f-721718c0bb0d
+Sea spiders				Unidentifiable	*	*	c924cbeb-e77d-4cd5-b4b3-ca5ceaf10483
+Seagrasses > Elliptical leaves				Halophila spp	*	*	3f032b5c-937f-4420-aace-7a8fd4538601
+Seagrasses > Elliptical leaves				Unidentifiable	*	*	c84f746f-623d-480a-8e8c-e2c8af1fd706
+Seagrasses > Strap-like leaves				Amphibolis sp. (Caab 63600903) 	*	*	3128cf45-7123-4596-a615-d9ab0740ee4d
+Seagrasses > Strap-like leaves				Thalassodendron sp. (CAAB 63618905)  	*	*	4b8bffad-b3c2-4537-b2c6-778bed8a8397
+Seagrasses > Strap-like leaves				Posidonia sp. (Caab 63600903) 	*	*	61d2ba7e-808c-4531-aff4-654d74ea3301
+Seagrasses > Strap-like leaves				Zostera sp. (Caab 63600903)	*	*	73c608d0-282a-4c06-bfbe-c700df1ac6a6
+Seagrasses > Strap-like leaves				Rupia sp. (Caab 63600903)	*	*	60a9dcf5-d313-400d-906d-efaac85e887d
+Seagrasses > Strap-like leaves				Unidentifiable	*	*	0846b7c3-7470-4d10-95ce-19659e5430a1
+Seagrasses > 				Unidentifiable	*	*	7170cd36-faa5-42de-876c-c2d8bdafec50
+Sponges > Crusts	Creeping / ramose			Creeping Fat White	*	*	cce1108f-3a58-4e52-bbf2-a34e6fdc3042
+Sponges > Crusts	Creeping / ramose			Ramose Single Cream	*	*	5014f63b-ee28-4065-8b1b-cc543fb5c005
+Sponges > Crusts	Creeping / ramose			Repent Complex Brown	*	*	4b085ce2-1d99-4650-9621-3df7a78784f7
+Sponges > Crusts	Creeping / ramose			Repent Lumpy Shapeless Grey	*	*	48eacbd5-4e13-40aa-898c-d4431ff37202
+Sponges > Crusts	Creeping / ramose			Repent Orange	*	*	55be4f5b-87ef-430a-b76f-759e84643659
+Sponges > Crusts	Creeping / ramose			Repent Purple	*	*	9b93bce2-ec03-4f0d-b598-d4e3d81572df
+Sponges > Crusts	Creeping / ramose			Repent Simple Brown	*	*	504163bc-e394-47d2-b6b4-8ac58d4bbfee
+Sponges > Crusts	Creeping / ramose			Repent Yellow	*	*	d4ffae75-8e09-47cb-a927-feb04c038a25
+Sponges > Crusts	Creeping / ramose			Repent Yellow Thick	*	*	60a6e748-456b-4d04-bb35-d2075bafd381
+Sponges > Crusts	Creeping / ramose			White Tempura	*	*	9cf5a2b0-d1be-453c-af84-a1c7dd44587b
+Sponges > Crusts	Creeping / ramose			Unidentifiable	*	*	9a398d55-054c-4cb1-a24b-7848a65aed7b
+Sponges > Crusts	Encrusting			Encrusting Brown Oscula	*	*	886a1505-07a0-41c3-9b38-0a3691228612
+Sponges > Crusts	Encrusting			Encrusting dark red	*	*	99355d70-d0de-401a-a24d-a2702eb13386
+Sponges > Crusts	Encrusting			Encrusting Fluorescent Orange	*	*	4ebbc8af-b54a-4761-b0d0-6ee4066fedd1
+Sponges > Crusts	Encrusting			Encrusting Green Oscula	*	*	c5731106-4a03-4b96-9ea9-92828d17fec1
+Sponges > Crusts	Encrusting			Encrusting Grey Rugose	*	*	7a1d0e2b-ddb2-4788-83fe-aff8a1d7626a
+Sponges > Crusts	Encrusting			Encrusting grey smooth	*	*	0aacd26f-c566-41be-bbc8-42279306b116
+Sponges > Crusts	Encrusting			Encrusting nippled sponge	*	*	7a705872-6202-47fb-9440-6193093fc757
+Sponges > Crusts	Encrusting			Encrusting Orange	*	*	40124c15-03ef-4014-ad77-097fd5cd35e4
+Sponges > Crusts	Encrusting			Encrusting Orange Lumpy	*	*	9376d17e-bc7a-4a09-9e09-00129654ac6e
+Sponges > Crusts	Encrusting			Encrusting Orange Papillate	*	*	90411f92-d55c-49b3-9547-9d2dd9a8bf7c
+Sponges > Crusts	Encrusting			Encrusting orange spikey 	*	*	ba48c984-d55f-4429-943c-0ea342826d09
+Sponges > Crusts	Encrusting			Encrusting Orange White Speckles	*	*	992920be-b275-4aa9-9565-a82f1efa3409
+Sponges > Crusts	Encrusting			Encrusting Pink Lumpy	*	*	1ef7c6e1-99d6-438d-8849-9da3e08a77ae
+Sponges > Crusts	Encrusting			Encrusting Yellow Smooth	*	*	89682d20-a5fe-4eba-b97c-2f3a36f07942
+Sponges > Crusts	Encrusting			Encrusting Brown	*	*	c165ff2e-d72c-4a02-a071-31e33a3a15c4
+Sponges > Crusts	Encrusting			Encrusting White	*	*	0679eccb-cf9e-410f-be00-4aa5fa63fec8
+Sponges > Crusts	Encrusting			Encrusting Green	*	*	e8d6b4fb-0d72-4cf9-b2ff-e52ccbe92781
+Sponges > Crusts	Encrusting			Encrusting Beige Oscula	*	*	a77e2db1-89ad-455e-af8c-642d293e3ea4
+Sponges > Crusts	Encrusting			Encrusting Beige Smooth	*	*	e2eb3722-fe92-4b03-bd69-b63487401359
+Sponges > Crusts	Encrusting			Encrusting Black	*	*	3ac31f27-72de-44f9-af30-44bb86599a75
+Sponges > Crusts	Encrusting			Encrusting Black Lumpy	*	*	fc726dc8-1b96-40fc-b5a3-fb09f9457170
+Sponges > Crusts	Encrusting			Encrusting Black Papillate	*	*	b8613098-d319-4bfa-b044-bf8bc2668c15
+Sponges > Crusts	Encrusting			Encrusting Black Thick	*	*	78069445-873b-41b6-99ae-56a39264561c
+Sponges > Crusts	Encrusting			Encrusting Orange Beige	*	*	5cf2a45d-0366-4063-ade9-3b9ae490d2c0
+Sponges > Crusts	Encrusting			Encrusting Orange Fluffy	*	*	4d302da7-364d-4b3a-9473-6e4b91b3d9ae
+Sponges > Crusts	Encrusting			Encrusting Orange Nodular	*	*	7e90e798-d1c0-446a-a41c-0a65df112abe
+Sponges > Crusts	Encrusting			Encrusting Papillate Pink White	*	*	45b99139-37d8-4add-91b9-60b8d7d99069
+Sponges > Crusts	Encrusting			Encrusting Purple Lumpy	*	*	f953e8f3-70c5-442b-8fcc-5aa85834c33f
+Sponges > Crusts	Encrusting			Encrusting Purple Oscula	*	*	495815fa-3227-4a3b-994b-4fb3ac27208f
+Sponges > Crusts	Encrusting			Encrusting White Granular	*	*	122eed25-1c64-4a58-a1a1-d7e5801224ab
+Sponges > Crusts	Encrusting			Encrusting White Lumpy	*	*	95c8793d-7068-4255-9006-50f223d07ecd
+Sponges > Crusts	Encrusting			Encrusting Yellow Thick	*	*	22c95d92-13f5-4d41-82dd-54d1a262164b
+Sponges > Crusts	Encrusting			Encrusting Yellow Orange Thick	*	*	00de5e86-0cad-4015-b980-28fe0a0abb21
+Sponges > Crusts	Encrusting			Encrusting Yellow Rough	*	*	3d976040-5987-4bea-8dbe-64a3ee1a988f
+Sponges > Crusts	Encrusting			Encrusting Papillate Suberites Like	*	*	d660ae49-8948-4eff-abc9-fc89b95777e5
+Sponges > Crusts	Encrusting			Encrusting Papillate Yellow	*	*	69a401e4-09d7-4cd0-a706-34d05048a2a8
+Sponges > Crusts	Encrusting			Encrusting Papillate Black	*	*	684baf86-fc87-4f00-a9f3-d2334e831b8f
+Sponges > Crusts	Encrusting			Encrusting Blue	*	*	b5ea5cbe-7c90-4a3d-9e49-a27bbc360d31
+Sponges > Crusts	Encrusting			Encrusting Light Orange	*	*	e389d8d9-97e9-4ca6-a17c-ecc7287d1588
+Sponges > Crusts	Encrusting			Unidentifiable	*	*	f220cc5a-00ce-43dd-a3f6-155343d14d5a
+Sponges > Crusts	Endolithic / bioeroding			Unidentifiable	*	*	8c1ab623-0134-4da4-a577-e9ecfe7d5b2e
+Sponges > Crusts				Unidentifiable	*	*	75d97c75-471c-4376-8de2-bbbc9cfecaed
+Sponges > Cup-likes	Barrels			Barrel Black	*	*	c16d471d-0771-48cf-afc4-1311a7c97fb3
+Sponges > Cup-likes	Barrels			Barrel Brown	*	*	bfb420a6-434f-4f80-8c17-b578d6ce4aa4
+Sponges > Cup-likes	Barrels			Barrel Grey Rough Outer	*	*	a99c8fe5-7df1-4f07-9d0d-ab222acb6559
+Sponges > Cup-likes	Barrels			Barrel Massive Donut	*	*	747f2364-0b4d-4e6e-8783-28052335fc90
+Sponges > Cup-likes	Barrels			Barrel Orange Oscula	*	*	a338e84a-d1c5-445c-a273-983aace3918a
+Sponges > Cup-likes	Barrels			Barrel Orange Rotund	*	*	fe78d4f7-8d6a-48b1-b506-d1d484de561e
+Sponges > Cup-likes	Barrels			Barrel Pink Lumpy	*	*	dd2c894b-143f-4dcb-b23c-cb0b4daac40d
+Sponges > Cup-likes	Barrels			Barrel Pink Mouth	*	*	8d73667b-20b5-433c-b0af-8350caad0542
+Sponges > Cup-likes	Barrels			Barrel Pink-White Smooth Mouth	*	*	e978c6f9-e934-4d98-a649-82326a7f41f4
+Sponges > Cup-likes	Barrels			Barrel Purple Thick	*	*	60143380-c75f-4e46-b658-55829f922472
+Sponges > Cup-likes	Barrels			Barrel red rippled base	*	*	1f1b04df-e31b-4065-9a2e-aca182888904
+Sponges > Cup-likes	Barrels			Barrel Red Thick Wall	*	*	4a06bedf-5262-465f-89bb-aebcd3285779
+Sponges > Cup-likes	Barrels			Barrel Thick Blue	*	*	abd532fd-0fe5-4ba7-9489-24dc46c64eb4
+Sponges > Cup-likes	Barrels			Barrel Thick Pink	*	*	ec39b018-d64e-4da2-9e16-493024b6b956
+Sponges > Cup-likes	Barrels			Barrel Thick Yellow	*	*	c7628496-e7ab-43df-852f-3b56ca3e3052
+Sponges > Cup-likes	Barrels			Barrel White	*	*	f9297580-52d8-4934-83bc-50cd808ccb71
+Sponges > Cup-likes	Barrels			Tubular Pale Orange	*	*	fe99b81c-59bf-4f46-b1b4-df01005e3937
+Sponges > Cup-likes	Barrels			Tubular Tan Singular	*	*	1df85fd7-c049-45c0-bd1e-efb033a6b8f0
+Sponges > Cup-likes	Barrels			Unidentifiable	*	*	d3b62c69-cdaf-4f75-9693-90298acfae77
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Beige Shallow Irregular	*	*	32418772-799f-464b-b4fe-9d2b61655ea3
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Beige Thick	*	*	b7519f97-5dd7-4b91-a84c-ebe5566755f8
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Black Smooth	*	*	3b16374a-8693-4444-9308-c8ffa073d1d9
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Blue	*	*	12735c56-687e-46fb-9782-8928b8e787c6
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Blue Thick	*	*	8fcc3d5b-0fa3-4461-8ada-aa9a4172f096
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Brown Irregular	*	*	54978fb2-a94e-45a6-904e-59f24a3d6ec2
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Green Thick	*	*	96b7f554-c752-47cc-ac0f-2b68b0496fe2
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Lavender Thin Smooth	*	*	17b31048-00bd-4196-863e-2a2ad9fdeffe
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Light Pink Flat Thick	*	*	66e3a33a-3a89-4be8-b653-d701d39f5d94
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Orange 	*	*	4bdf3851-671f-4166-a7f2-30050f02ab43
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Pink Thick	*	*	666e6a73-2565-4b24-bb2e-fb6cb9298144
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Pink Thin Smooth	*	*	1d99716e-2feb-497a-b689-de61759fa0f7
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Red	*	*	67be3541-d04b-4151-a37e-41747e8526d2
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Red Smooth	*	*	bb53eeb8-2611-4755-972b-1dc037636f45
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Red Smooth Bleached	*	*	2a8eaec7-2c1e-4eb0-95c6-c2380bff0457
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Red Thick	*	*	a91029cb-6ef1-4c63-8379-a3648b2d7fc8
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Red White Thick Spiky 	*	*	c33370d0-5a79-49dd-97a8-742e5e8e95a9
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Stalked Purple	*	*	0c1ed648-f622-441b-976a-f6604ff54156
+Sponges > Cup-likes	Cups	Cup / goblet		Cup White	*	*	74404caa-541e-4f61-8ed2-aa8bc68d4514
+Sponges > Cup-likes	Cups	Cup / goblet		Cup White Frilly	*	*	bf8e6501-081a-41d0-9b8a-903f6cdec5c9
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Yellow	*	*	55742af8-b4f8-40d0-97ed-45d359f18afb
+Sponges > Cup-likes	Cups	Cup / goblet		Cup Yellow Thick	*	*	e693cf3c-2a8b-4827-b343-6592f983f241
+Sponges > Cup-likes	Cups	Cup / goblet		Small Beige Cup	*	*	9c160119-aa28-44da-981b-49ac68c15b60
+Sponges > Cup-likes	Cups	Cup / goblet		Unidentifiable	*	*	5faa8917-63fc-4146-996c-bfb81a9eb5a8
+Sponges > Cup-likes	Cups	Incomplete cup / curled fan		Cup Stalked Blue	*	*	2caca43f-6290-4d83-b03d-de4bcbfe8526
+Sponges > Cup-likes	Cups	Incomplete cup / curled fan		Cup Stalked Brown	*	*	b6b2a9d4-5875-48d9-bc96-f068b437479a
+Sponges > Cup-likes	Cups	Incomplete cup / curled fan		Fan Orange Frilly	*	*	ffa81e60-974a-432b-bd90-4d54970ff1e6
+Sponges > Cup-likes	Cups	Incomplete cup / curled fan		Fan Pink	*	*	7cc06859-22db-47d6-9b1a-becbf4929d0a
+Sponges > Cup-likes	Cups	Incomplete cup / curled fan		Spikey orange lace fan	*	*	5fe59a06-73fa-4161-ad55-3217074e4171
+Sponges > Cup-likes	Cups	Incomplete cup / curled fan		Unidentifiable	*	*	3c53e2fe-3b3a-46e6-a26a-c148b3805214
+Sponges > Cup-likes	Cups	Tables / discs		Unidentifiable	*	*	1313f964-47c6-4e8c-a0d3-767ee24266d9
+Sponges > Cup-likes	Cups			Plate Sponge Strepsichordaia calciformis	*	*	f5738f09-a637-4718-8c91-4e8f17cb9268
+Sponges > Cup-likes	Cups			White Crowned Cup	*	*	6c75ab12-d307-4496-ad39-8c296f10912f
+Sponges > Cup-likes	Cups			Unidentifiable	*	*	8639e2bf-9c59-43e9-abda-16fb7a1c430c
+Sponges > Cup-likes	Tubes and chimneys			Chimmey Grey Rough Small Oscula	*	*	5f125eb4-62af-4dea-b938-65fa65256e0e
+Sponges > Cup-likes	Tubes and chimneys			Chimney Yellow Single Rough	*	*	2fc456d9-aeb9-46a7-b1f9-3e6b8aa1d6ca
+Sponges > Cup-likes	Tubes and chimneys			Large Pink Tubular Colony	*	*	50ce46fb-09dc-4892-bcb2-1c815c8f052c
+Sponges > Cup-likes	Tubes and chimneys			Tube Solitary Purple	*	*	c22ea30b-f7ec-400d-a39c-f60b7716cc0e
+Sponges > Cup-likes	Tubes and chimneys			Tube White Lumpy	*	*	83fcbc0a-2247-46f4-bb95-7b7b0b38b369
+Sponges > Cup-likes	Tubes and chimneys			Tubular Orange Ridged	*	*	4ba08304-17ab-4264-98e7-72fcd2ba85dc
+Sponges > Cup-likes	Tubes and chimneys			Tubular Tall Rough Yellow Single	*	*	05944af9-db24-4eac-96de-2c923f6546d3
+Sponges > Cup-likes	Tubes and chimneys			Tubular White cluster	*	*	7c9e1da4-4e38-4c0b-aca6-5fe2c08c1dfa
+Sponges > Cup-likes	Tubes and chimneys			Tubular White Colony	*	*	d5da1326-f435-44f6-b06b-88986419bfa4
+Sponges > Cup-likes	Tubes and chimneys			Yellow Chimneys	*	*	8b49cfa4-eec4-4bab-bf62-abd71fef9735
+Sponges > Cup-likes	Tubes and chimneys			Yellow rough tube	*	*	d60577f8-9a73-4323-9ab1-aa7439631283
+Sponges > Cup-likes	Tubes and chimneys			Chimney Grey Single	*	*	71294795-71d2-4826-b51d-695c06deff40
+Sponges > Cup-likes	Tubes and chimneys			Chimney White Round	*	*	f7dbaff3-d5e1-43bd-907f-8cc2e930b6ef
+Sponges > Cup-likes	Tubes and chimneys			Chimney White Tall	*	*	26241609-8189-46c7-9dbc-f0b1232e8e42
+Sponges > Cup-likes	Tubes and chimneys			Chimney Yellow Large	*	*	00b34203-f580-49d3-9853-e802b94dcc03
+Sponges > Cup-likes	Tubes and chimneys			Tube Beige Irregular	*	*	b05d5843-8f40-4a88-bb19-1aa919e0f787
+Sponges > Cup-likes	Tubes and chimneys			Tubes Beige Prostrate	*	*	ded86d04-72c6-466f-8595-1cf9783ef521
+Sponges > Cup-likes	Tubes and chimneys			Tubes Orange Irregular	*	*	122cf6fe-e3ee-47cf-ae79-76efd83669f6
+Sponges > Cup-likes	Tubes and chimneys			Tubes Orange White Tips	*	*	2669d300-71b0-4ce1-ac43-c9aaffc6cd90
+Sponges > Cup-likes	Tubes and chimneys			Tubes Pink Cluster	*	*	9916c730-6625-41f4-9909-14d3483dfc28
+Sponges > Cup-likes	Tubes and chimneys			Tubes White Fan	*	*	0f87629f-8a2a-493d-8914-f382f7cd915a
+Sponges > Cup-likes	Tubes and chimneys			Tubes White Large Oscula	*	*	227b7bb3-486a-40ab-957d-621c7a4fcf39
+Sponges > Cup-likes	Tubes and chimneys			Tubular Pink Thorny	*	*	b8602f48-ff8e-458b-b7cc-a435950fd674
+Sponges > Cup-likes	Tubes and chimneys			Tubular Pink	*	*	2002038f-e577-42fe-a890-29f74ca5b884
+Sponges > Cup-likes	Tubes and chimneys			Tubular Blue	*	*	d342d507-f813-40ec-8f95-408efb77bd38
+Sponges > Cup-likes	Tubes and chimneys			Tubular Sycon	*	*	6b7add1f-ca3d-42a0-aa4f-c263da1cc9c7
+Sponges > Cup-likes	Tubes and chimneys			Tubular Solitary	*	*	08d0102b-2f43-407e-a7d6-32f8bcda09de
+Sponges > Cup-likes	Tubes and chimneys			Tubular Fuzzy	*	*	8778d8d0-f65d-4079-8211-f1f3f8b1c4b7
+Sponges > Cup-likes	Tubes and chimneys			Tubular Apricot	*	*	ed3bb5de-f98c-4dc5-87fa-6255423a9555
+Sponges > Cup-likes	Tubes and chimneys			Tubular Tan	*	*	32750b18-0681-4ea5-a6e7-4d9561ac7b66
+Sponges > Cup-likes	Tubes and chimneys			Tubular White Thorny	*	*	251caee3-0129-49e0-987a-2aff95fcdfd8
+Sponges > Cup-likes	Tubes and chimneys			Tubular Orange	*	*	9c99864f-15d8-4dfb-a075-a335275d7c0a
+Sponges > Cup-likes	Tubes and chimneys			Tubular Apricot Community	*	*	820dc626-9332-4f3c-b469-49650443d6ee
+Sponges > Cup-likes	Tubes and chimneys			Unidentifiable	*	*	946cd4eb-1417-43c5-b14c-d9bee8df092e
+Sponges > Cup-likes				Unidentifiable	*	*	d3936f5b-f42e-4885-b955-bda7223be01b
+Sponges > Erect forms	Branching			Arborescent Orange / Brown Fingers	*	*	eba2eea6-3897-4ef6-8ab4-fb2599a8e365
+Sponges > Erect forms	Branching			Arborescent yellow thin	*	*	64870a7c-8e68-4657-8cf2-8e685f2d96ef
+Sponges > Erect forms	Branching			Branching Cream Thick	*	*	e906b7f4-cc7c-4fbb-8642-f9084edd4a66
+Sponges > Erect forms	Branching			Branching Dark Purple	*	*	e85a7f75-d99d-45b6-8eea-b29720ae014b
+Sponges > Erect forms	Branching			Branching Orange Fingers	*	*	534cfd57-41eb-4c3d-9aef-1c45750df522
+Sponges > Erect forms	Branching			Branching Pink Stumpy	*	*	314946c0-4e1d-4635-9f21-45d80010c8c0
+Sponges > Erect forms	Branching			Branching Purple Stumpy	*	*	feb77133-57da-4316-b9aa-744e4180b6b8
+Sponges > Erect forms	Branching			Branching White Fine	*	*	c2d4960b-9990-4c0f-a81a-b15f07f3c1d5
+Sponges > Erect forms	Branching			Branching Yellow Stumpy	*	*	4573699d-a11a-41b5-a74f-6f76c7bc00c5
+Sponges > Erect forms	Branching			Branching Yellow Thick Pointed	*	*	64767337-92f8-44a7-9657-920d9ca79588
+Sponges > Erect forms	Branching			Branching Yellow Thorny	*	*	a9f36adf-7387-421d-aae8-705061f65fd8
+Sponges > Erect forms	Branching			Orange white patches	*	*	eb7605c1-ca80-4aba-a64a-3048a761c419
+Sponges > Erect forms	Branching			Yellow branching column	*	*	e13ffde6-615b-4506-96a1-7f10e32a5c8a
+Sponges > Erect forms	Branching			Arborescent Brown Thorny	*	*	74e4151c-cd83-42c5-a0f2-011285d1f659
+Sponges > Erect forms	Branching			Arborescent Orange	*	*	9e1657a3-4b1a-44f0-b028-d2571c43fa6b
+Sponges > Erect forms	Branching			Arborescent Black	*	*	ac800c75-307b-41a0-8ca6-f9807babc8f2
+Sponges > Erect forms	Branching			Arborescent White Short	*	*	fac5810a-1365-4758-ae4c-5d09e44e8e13
+Sponges > Erect forms	Branching			Arborescent Stumpy Grey	*	*	28010e31-fcdf-4a29-85b9-91d254a4d5c1
+Sponges > Erect forms	Branching			Arborescent Grey	*	*	742e83dd-6a15-4893-b08e-f3342f12f9a9
+Sponges > Erect forms	Branching			Arborescent White	*	*	1d82fb58-31e5-4b9f-8eb9-079e15d053d9
+Sponges > Erect forms	Branching			Arborescent Yellow	*	*	3392709b-275c-42ef-a6c5-0159d4f795d1
+Sponges > Erect forms	Branching			Arborescent Purple	*	*	8981126f-be29-4fc9-acf4-131bc4c8a6f0
+Sponges > Erect forms	Branching			Arborescent Tan	*	*	24be31e1-6670-486c-a39d-2a86ab57fa5e
+Sponges > Erect forms	Branching			Arborescent Orange Thin	*	*	a5b1053d-d1f6-4a2b-bf01-b607fd1feb02
+Sponges > Erect forms	Branching			Arborescent Purple Irregular	*	*	066e0047-ca69-4d03-ac19-e3074cf91fd8
+Sponges > Erect forms	Branching			Branching Orange	*	*	fa3200c8-ac76-42d3-824a-3e11771636d0
+Sponges > Erect forms	Branching			Branching Brown Short	*	*	c8557f39-1c32-4683-9009-3a17d717859b
+Sponges > Erect forms	Branching			Branching Purple	*	*	b04eb959-6fc5-4069-9001-151068ef0c8d
+Sponges > Erect forms	Branching			Branching Brown Thin	*	*	344916dc-bcd9-4d59-a354-619f2fb6d71d
+Sponges > Erect forms	Branching			Branching Cream	*	*	54b7f374-53a0-40da-a58d-de85fc1c8635
+Sponges > Erect forms	Branching			Branching Beige Fine	*	*	65776ff6-868c-459b-8678-18fc24b01f2b
+Sponges > Erect forms	Branching			Branching Beige Frilly	*	*	be05375d-0448-4aaa-a981-77b81b8a7ddb
+Sponges > Erect forms	Branching			Branching Beige Spindles	*	*	460065a1-20c4-46a9-b645-3863df96761a
+Sponges > Erect forms	Branching			Branching Beige Stumpy	*	*	9c47271e-08e8-4f9a-a114-3ba59e30ba1b
+Sponges > Erect forms	Branching			Branching Black Fingers	*	*	58ca8bb7-2a30-4c38-a4eb-6751f599c0b7
+Sponges > Erect forms	Branching			Branching Gray Fine Repent Like	*	*	38236488-52dd-4a61-9b22-eea18e1c4950
+Sponges > Erect forms	Branching			Branching Grey Repent Like	*	*	8395c784-af0e-440b-9e6a-59381fb1a3fc
+Sponges > Erect forms	Branching			Branching Grey Stumpy	*	*	bc2b18ab-d5c3-4931-9d62-05877ff4217e
+Sponges > Erect forms	Branching			Branching Grey Thorny	*	*	ef4b17db-397b-4009-9b72-57a9152ce5e3
+Sponges > Erect forms	Branching			Branching Orange Frilly	*	*	1bc5dd68-07bb-47e5-99db-303829b509a3
+Sponges > Erect forms	Branching			Arborescent Purple Thin	*	*	dbbc158a-aa8b-44a7-ab42-b3961d8a5c37
+Sponges > Erect forms	Branching			Branching Orange Long Fine	*	*	072b4ca4-511d-4562-93c0-ac8ebbef0d66
+Sponges > Erect forms	Branching			Branching Orange Lumpy	*	*	69702610-26bb-4c47-b9ff-be03ef0dac16
+Sponges > Erect forms	Branching			Branching Orange Prostrate	*	*	fc439f9c-3014-40d0-8125-ac5c0e7b0d79
+Sponges > Erect forms	Branching			Branching Purple Remose Like	*	*	ee3d65ca-e48a-4b25-a0d2-f76c9400dec3
+Sponges > Erect forms	Branching			Branching White Pointed	*	*	f599b1f6-4b7d-4162-a303-4c771a25a482
+Sponges > Erect forms	Branching			Branching White Stubby	*	*	48a704d7-e779-431e-a780-b3fe160a2087
+Sponges > Erect forms	Branching			Branching White Thorny Lumps	*	*	601015ef-64fe-4fd5-a4eb-1b8df32a3a68
+Sponges > Erect forms	Branching			Fan Brown	*	*	03a781cd-f905-4873-82f3-18cedc03a3cc
+Sponges > Erect forms	Branching			Lumpy Purple Stumps	*	*	895912d2-4bd4-40fa-ad0a-de6d9e8843e0
+Sponges > Erect forms	Branching			Tubular Orange Thorny	*	*	94adf0a4-2065-4ebe-8f19-c956723969cc
+Sponges > Erect forms	Branching			Tubular Pink Small Oscula	*	*	96fa5106-bfbc-48c6-8c34-4f2ab627110c
+Sponges > Erect forms	Branching			Yellow French Fries	*	*	0cd8414f-d424-49ab-9577-62999e9e5003
+Sponges > Erect forms	Branching			Unidentifiable	*	*	187963d4-38bf-40ca-919e-023cf2bdb3a7
+Sponges > Erect forms	Laminar			Dark Purple Laminar	*	*	4d3e7180-907c-4116-b2b6-db3c8ae1733f
+Sponges > Erect forms	Laminar			Elephant ear	*	*	fd06be06-8f0e-4cdf-8e74-b42e7ea406bc
+Sponges > Erect forms	Laminar			Fan Blue Thick	*	*	9cd91fe1-c47f-4a98-b563-e3dcbf634250
+Sponges > Erect forms	Laminar			Fan Brown Thin	*	*	62a659c5-48fd-49da-bc63-28ae68e84712
+Sponges > Erect forms	Laminar			Fan Brown Thin Blade	*	*	7ed1220b-7ca7-4c6c-9709-372a8b30c796
+Sponges > Erect forms	Laminar			Fan Cream	*	*	02303dd6-a479-45c6-a679-65acd4c199bf
+Sponges > Erect forms	Laminar			Fan Light Pink Lumpy	*	*	50a2a626-1c0e-4d61-be03-ff189c491273
+Sponges > Erect forms	Laminar			Fan Orange	*	*	64ffd97d-321b-4580-9c96-3366bbd8e97c
+Sponges > Erect forms	Laminar			Fan Orange Flat	*	*	db0b21fb-8d57-47d7-b53d-9e635d495e35
+Sponges > Erect forms	Laminar			Fan Orange Thick	*	*	025a6c63-8715-4ffd-b2fc-a81f98d4892e
+Sponges > Erect forms	Laminar			Fan Orange Thin Blade	*	*	60318e17-8c00-43ad-85b5-f2b97b01c5ce
+Sponges > Erect forms	Laminar			Fan Orange Thorny	*	*	27a288b8-234d-40f9-919a-801f3a297d75
+Sponges > Erect forms	Laminar			Fan Peach	*	*	334cec04-7dbb-44bb-976e-53ba775d78f0
+Sponges > Erect forms	Laminar			Fan Peach Thick	*	*	3ef9afcc-b1ca-47f4-97d4-fa71d3161a2b
+Sponges > Erect forms	Laminar			Fan Pink Textured Surface	*	*	804dfe86-aee8-40c5-b514-5f8d94147a63
+Sponges > Erect forms	Laminar			Fan Thick Large Oscula	*	*	55d97dd4-04c5-4b1e-81d7-f1c53eb6de03
+Sponges > Erect forms	Laminar			Fan Thick Pink	*	*	5f2d0a51-1fc0-4593-b9c5-f832e7955c7b
+Sponges > Erect forms	Laminar			Fan White Frilly	*	*	cd90b60e-e3c0-4070-ae92-51783183bed5
+Sponges > Erect forms	Laminar			Fan White Riffled	*	*	82104353-3446-4e4b-8bf3-0e28b969b408
+Sponges > Erect forms	Laminar			Fan White Thick	*	*	6090fb24-5a10-44f1-a875-37ac63a8aaf5
+Sponges > Erect forms	Laminar			Fan White Thin	*	*	899eb05c-c9cf-4b8e-b89f-0e9a79adbce6
+Sponges > Erect forms	Laminar			Fan Yellow	*	*	58e54686-9372-44ec-8572-64cff810612f
+Sponges > Erect forms	Laminar			Fan Yellow Thick	*	*	27667b2b-bfa4-4756-b264-ffe3f2151f9b
+Sponges > Erect forms	Laminar			Laminar Apricot Stalked	*	*	29d11990-70fd-4018-8fdb-8063a8eb0ffc
+Sponges > Erect forms	Laminar			Laminar Blue Spikey	*	*	96d80dfd-3ae9-4729-87f3-78c0240c5d47
+Sponges > Erect forms	Laminar			Laminar Brown Ruffle	*	*	90d014ac-6b20-4edc-b673-7f497084edc2
+Sponges > Erect forms	Laminar			Laminar Grey Fungi	*	*	b65f62f9-3005-470b-93b2-ba3f544593cf
+Sponges > Erect forms	Laminar			Laminar Grey Rough	*	*	97fe8d33-d3f5-4855-be8a-5268324ff20b
+Sponges > Erect forms	Laminar			Laminar Grey Thick Irregular	*	*	da726718-140d-4a62-bc3a-fc2bd15c1f24
+Sponges > Erect forms	Laminar			Laminar Grey Thin Folded	*	*	fcb0ac41-09d1-422d-88b8-e8f349b24a59
+Sponges > Erect forms	Laminar			Laminar Peach Irregular	*	*	5a90b6e9-6e24-4025-8ed4-505c8b3bc283
+Sponges > Erect forms	Laminar			Laminar Red Frilly	*	*	3780b74a-1e25-40ad-9238-4ebb5f8f2aa0
+Sponges > Erect forms	Laminar			Laminar Red Tight Frilly	*	*	4c870a39-d042-4748-83a4-4bd47db5f4a3
+Sponges > Erect forms	Laminar			Laminar Terracotta Fan Thick	*	*	a48df044-e3b8-4da7-8cea-8ad8e64ce184
+Sponges > Erect forms	Laminar			Laminar White Thin	*	*	ab2945a6-1c23-4c2e-b6ac-8de5cf523226
+Sponges > Erect forms	Laminar			Laminar Yellow Foam	*	*	85af5019-b7c5-44cd-ad32-63bb20efa9c4
+Sponges > Erect forms	Laminar			Laminar Yellow Frilly	*	*	7b9683de-34c4-44b4-9b32-29201772df59
+Sponges > Erect forms	Laminar			Laminar Yellow Irregular	*	*	b6174f5c-66d3-4f41-b811-b5236ca63910
+Sponges > Erect forms	Laminar			Simple Thorny Yellow Fan	*	*	841ca008-0bbc-4095-bc9c-c5c2da3f21af
+Sponges > Erect forms	Laminar			Yellow Fan with Side Tubes	*	*	0d827c8b-e7cc-49eb-b0a6-d8d6d284bbde
+Sponges > Erect forms	Laminar			Laminar Yellow Fine	*	*	80f70c06-27a0-4e2e-897d-8f2500ced5eb
+Sponges > Erect forms	Laminar			Laminar Grey Round Stalk	*	*	abd13806-ddf0-4858-8ffb-b80ade2cbea3
+Sponges > Erect forms	Laminar			Laminar Orange Irregular	*	*	5612dd90-5114-4533-9342-7c0ba2f7975e
+Sponges > Erect forms	Laminar			Laminar Orange Surface Pores	*	*	0579dca9-73c4-4e32-9609-65c1ce5abbae
+Sponges > Erect forms	Laminar			Laminar White Irregular	*	*	7d54f846-f066-420f-8cbc-3e7a3fd0dede
+Sponges > Erect forms	Laminar			Laminar White Small	*	*	48de74de-90ae-4438-b30d-207a4a240f17
+Sponges > Erect forms	Laminar			Unidentifiable	*	*	c92b956d-7f8c-4bcb-98f8-4cc5737e7395
+Sponges > Erect forms	Palmate			Arborescent Brown Thick	*	*	7c266d9b-e14f-42e3-b7ac-134a0a202b8e
+Sponges > Erect forms	Palmate			Arborescent Orange Fan	*	*	2007db88-6930-42bb-928b-3a619ea9fe3b
+Sponges > Erect forms	Palmate			Arborescent Orange Flat	*	*	2bc0abbd-cba0-4d21-8807-29f1baf8b2e3
+Sponges > Erect forms	Palmate			Arborescent White Flat	*	*	ffbe5f97-cd77-449e-915d-18b7e76e0731
+Sponges > Erect forms	Palmate			Arborescent Yellow Flat	*	*	c33d8dd2-e9d4-4018-89a4-139ea1fa2cd3
+Sponges > Erect forms	Palmate			Fan White Thin	*	*	011209c4-6fbb-4995-8d4f-150a8700bced
+Sponges > Erect forms	Palmate			Orange Flat Pronghorn	*	*	c7a6fbe7-a99b-4751-a8db-a6a6dac5ec0f
+Sponges > Erect forms	Palmate			Palmate Beige Flat	*	*	ef014009-1c12-48a2-b0c9-0fc4c09588b9
+Sponges > Erect forms	Palmate			Palmate Grey	*	*	ea0b8dd8-a0a3-44e0-812f-76abc98abe48
+Sponges > Erect forms	Palmate			Palmate Grey Fingers	*	*	21675e3a-def6-4239-8952-e3a6ce80eed7
+Sponges > Erect forms	Palmate			Palmate Grey Stalked Fingers	*	*	d23ec66a-23bd-4c2a-aa0d-b50127cf514d
+Sponges > Erect forms	Palmate			Palmate Orange Flat	*	*	fa47d31f-11cf-4ee2-b798-ab6681f7a4f4
+Sponges > Erect forms	Palmate			Palmate Purple	*	*	0dc9760b-c37d-4b45-b2e0-cee81cc8d86f
+Sponges > Erect forms	Palmate			Palmate Violet	*	*	29accbd2-89e7-46a6-bbe3-2fcf60d8dfe4
+Sponges > Erect forms	Palmate			Palmate White Thorny	*	*	a2c681dd-6179-4a9b-b1aa-7b77edf3e41b
+Sponges > Erect forms	Palmate			Unidentifiable	*	*	d4e1a08e-7123-47ab-92d3-2ba8533d2842
+Sponges > Erect forms	Simple			Simple Erect Cream	*	*	74c3404e-055a-4714-91ce-dcbd9ad860d3
+Sponges > Erect forms	Simple			Simple Erect Orange	*	*	a563af07-ecb2-4908-badc-0c5404230e22
+Sponges > Erect forms	Simple			Simple Erect Pink	*	*	723eb6cb-8bdd-4f6e-a333-8e07a6fc0b8a
+Sponges > Erect forms	Simple			Simple Erect White	*	*	f5f5e551-8e6b-4ac7-bb82-a31a5ab9b0b8
+Sponges > Erect forms	Simple			Unidentifiable	*	*	97aab209-dd6a-4961-90bd-829d5393f539
+Sponges > Erect forms	Stalked			Dagwood dog	*	*	c9b389b9-d22d-45ec-afb7-e0ef7ee80ef2
+Sponges > Erect forms	Stalked			Stalked Red-Orange Sausage	*	*	4b4a69f7-ebdd-4fed-af0f-2522e18865a2
+Sponges > Erect forms	Stalked			Stalked White Lumpy	*	*	c4d1a084-1d28-4ca0-8027-c98b84e5fdcb
+Sponges > Erect forms	Stalked			Stalked White Thorny	*	*	0f2b3bb2-0667-4045-878b-fa49efdae817
+Sponges > Erect forms	Stalked			Stalked White-pink Club	*	*	5ef69789-8f94-4518-b7dc-f2ea41d9ae00
+Sponges > Erect forms	Stalked			Unidentifiable	*	*	a03d273f-0b65-4bd3-b391-f2541d5a154b
+Sponges > Erect forms				Unidentifiable	*	*	ff82c24a-2eca-4601-b727-9b59c199a804
+Sponges > Massive forms	Balls			Ball Papillate Brown	*	*	3e4d8f0f-f00e-49ac-bb90-a394e5c80cdc
+Sponges > Massive forms	Balls			Ball Pink Oscula	*	*	50eed80c-868a-490d-9471-c7d8babf339f
+Sponges > Massive forms	Balls			Ball white	*	*	2bd15824-9d71-4a15-90b2-9994a0c8be28
+Sponges > Massive forms	Balls			Ball Yellow Papillate Irregular	*	*	f76b5ca5-c7a5-427a-9733-578748b427b2
+Sponges > Massive forms	Balls			Globular Blue	*	*	6ad31eaa-f7ca-4cae-af1e-33a0a1054b4b
+Sponges > Massive forms	Balls			Globular Grey	*	*	23b316a6-395f-471c-8942-a14af28e6d59
+Sponges > Massive forms	Balls			Globular Grey Tethya Like	*	*	077e003f-9b65-4d96-8444-46e85c79c277
+Sponges > Massive forms	Balls			Globular Orange	*	*	5a1b4610-ccba-4ac8-b726-77d87a3805d2
+Sponges > Massive forms	Balls			Globular Orange Tethya Like	*	*	bb2bcfd1-8c94-43ac-ba81-440c291ded0b
+Sponges > Massive forms	Balls			Globular Pink Tethya Like	*	*	9f9bdafd-7cf6-4a5f-86dd-b0f88eda5fdd
+Sponges > Massive forms	Balls			Globular White Tethya Like	*	*	0096bd0e-5b0c-4bba-ad3f-550b912d318e
+Sponges > Massive forms	Balls			Knobby Yellow Ball	*	*	f81dbc7a-d702-4d78-8786-11b817822d10
+Sponges > Massive forms	Balls			Papillate Black Ball	*	*	adefbda5-43ac-413d-be90-50bf0cbc4f05
+Sponges > Massive forms	Balls			Papillate Light Orange	*	*	fed67ece-c606-4848-87fd-19a98f7608ce
+Sponges > Massive forms	Balls			Papillate Orange Ball	*	*	885ff29b-d24c-4239-bebe-8dc83a08d370
+Sponges > Massive forms	Balls			Red Spikey Ball	*	*	165e7cd3-33f6-48ec-9150-d2dcaafb8b00
+Sponges > Massive forms	Balls			Smooth Orange Ball	*	*	7546e35f-1add-4993-a910-19980c6bd057
+Sponges > Massive forms	Balls			Yellow Smooth Ball	*	*	98c8529c-aa49-47ce-be6e-b1b92d6933ff
+Sponges > Massive forms	Balls			Yellow Smooth Large Oscula	*	*	1cefdf5f-ff57-42be-84af-7016b6fd0199
+Sponges > Massive forms	Balls			Unidentifiable	*	*	2403ae8d-46de-4e63-b763-b1177e18d009
+Sponges > Massive forms	Cryptic			Cryptic Black Wrinkly	*	*	0388e462-90d3-49c2-8aaf-c213042e9a1c
+Sponges > Massive forms	Cryptic			Cryptic Lavender Tubes	*	*	2a197fed-71a6-48ee-b1b7-d49ac0118cc4
+Sponges > Massive forms	Cryptic			Cryptic Orange Short Tubes	*	*	7aaa0eb6-db4e-410a-beb8-3f9f09c06a5e
+Sponges > Massive forms	Cryptic			Cryptic Orange Tubes	*	*	58798c35-71ba-437e-8892-5575bd55e9e4
+Sponges > Massive forms	Cryptic			Cryptic Purple Brain	*	*	3598fab7-a9a5-41d9-b520-2f5833d8ca92
+Sponges > Massive forms	Cryptic			Cryptic Red	*	*	2ff1179b-19b5-4a9c-b238-59e7e76c3b64
+Sponges > Massive forms	Cryptic			Cryptic Short Yellow Tubes	*	*	dacfd9e4-2c5c-4eb9-b8a8-27b5d55469cb
+Sponges > Massive forms	Cryptic			Cryptic Spiky White Massive	*	*	79871c2e-0d6a-4396-b53f-3b9fe76c5422
+Sponges > Massive forms	Cryptic			Unidentifiable	*	*	106774ad-7700-4665-91bc-e1f39541bca3
+Sponges > Massive forms	Simple			Massive Purple Complex Branching	*	*	0f4f3e2b-fe96-48f5-86f6-f22ccdfd9cbf
+Sponges > Massive forms	Simple			Bramble Sponge Yellow	*	*	e49f2540-5db0-4d27-a29e-eddf821f2daa
+Sponges > Massive forms	Simple			Bronze Bumpy Oscula Massive Laminar like	*	*	0fe4a619-20ca-4405-b84c-9955fea56faf
+Sponges > Massive forms	Simple			Creme brulee	*	*	0b85f782-fa1f-4011-822f-d0301204ce4b
+Sponges > Massive forms	Simple			Irregular Sand Sponge Yellow	*	*	2aba70af-f19b-4fde-8f10-a9d012718e01
+Sponges > Massive forms	Simple			Light Yellow Oscula Laminar Like	*	*	374659be-8efc-4034-89d1-0c58d69e3f5d
+Sponges > Massive forms	Simple			Light yellow with white tentacles	*	*	46b82781-8bff-43d7-887a-f657894d4253
+Sponges > Massive forms	Simple			Lumpy Opaque Yellow	*	*	b803896b-3f21-4de6-96ec-75b62ff40a77
+Sponges > Massive forms	Simple			Lumpy Orange	*	*	c9bb51a6-b745-481f-ba8a-257255f94103
+Sponges > Massive forms	Simple			Lumpy Pink	*	*	909999ac-c5bd-4d2c-88c0-268bbc553fe6
+Sponges > Massive forms	Simple			Lumpy White	*	*	d4b5e589-8134-4b5e-b61f-600a41f87744
+Sponges > Massive forms	Simple			Lumpy Yellow	*	*	9153009c-9533-48a6-8ce2-455cd13702e5
+Sponges > Massive forms	Simple			Massive Beige Brain	*	*	8a16e589-e56b-42ca-8b7a-df834c93af41
+Sponges > Massive forms	Simple			Massive Black Oscula Papillate	*	*	3733b055-f183-452d-8921-fd3d129723a3
+Sponges > Massive forms	Simple			Massive Brown	*	*	7cc379c0-1151-4aad-8fc7-e9b20309c86d
+Sponges > Massive forms	Simple			Massive Dark Grey	*	*	80f47776-e5ae-475c-ba02-587c89833be3
+Sponges > Massive forms	Simple			Massive Grey Clam Shaped	*	*	ed04e0d8-e5da-4d36-aed5-fa781b571411
+Sponges > Massive forms	Simple			Massive pink bronze warts	*	*	83c736e3-4f43-4d83-8751-f7822b8437ca
+Sponges > Massive forms	Simple			Massive Purple Irregular	*	*	30bb1703-712a-4dbf-bb4e-5c43a37a615e
+Sponges > Massive forms	Simple			Massive Purple Laminar Oscula	*	*	0b8f9a86-c4b2-4cbb-9ee8-f299e13cea8b
+Sponges > Massive forms	Simple			Massive Red Brain	*	*	eae70323-71a6-4925-9dcb-d33c3c72bf6c
+Sponges > Massive forms	Simple			Massive Red Irregular	*	*	8d3a6770-2d74-41e5-9fca-3d24541ec3ba
+Sponges > Massive forms	Simple			Massive Rounded Purple Oscula	*	*	163f46b9-0e5b-467a-911d-d77f0b3df7e7
+Sponges > Massive forms	Simple			Massive Shapeless	*	*	01c872e6-c934-4a09-80b1-6552d8603905
+Sponges > Massive forms	Simple			Massive Walled Brown	*	*	8127febd-fb71-41e0-a184-6c0712d883ab
+Sponges > Massive forms	Simple			Massive White Clam Like	*	*	e04670b6-0184-4e7e-8786-070e76ca04af
+Sponges > Massive forms	Simple			Massive White Holey	*	*	9d888855-165d-4f06-97ae-fdd424c74a47
+Sponges > Massive forms	Simple			Massive White Papillate	*	*	881a288c-13df-4998-8373-1a7eb2966d9e
+Sponges > Massive forms	Simple			Massive White Small Oscula	*	*	78ab2d2d-22fa-4b08-bf6d-6d9903acc8c3
+Sponges > Massive forms	Simple			Massive Yellow Lumpy Wave	*	*	847d7048-2e25-448c-b9bd-36a75e423521
+Sponges > Massive forms	Simple			Massive Yellow Papillate	*	*	658ad77c-0f7e-4a23-a1b4-f50da82d445b
+Sponges > Massive forms	Simple			Simple Beige Labyrinth	*	*	fe56653a-b176-45a0-b98c-3bbf2c1b0803
+Sponges > Massive forms	Simple			Simple Grey Lumpy Thorny	*	*	567a7b23-e398-4566-ac59-4606a1e3b883
+Sponges > Massive forms	Simple			Simple Purple Oscula	*	*	0d342764-65a8-4579-ab51-2a886941d547
+Sponges > Massive forms	Simple			Simple White Labyrinth	*	*	22a80d75-56ef-43ec-a7ef-2acb46b04269
+Sponges > Massive forms	Simple			Simple Yellow Honeycomb	*	*	bd3633ee-187d-42b2-87f4-a67a65cb418d
+Sponges > Massive forms	Simple			Smooth Black Massive	*	*	aab73240-b478-4bd8-a563-d280014c0aaa
+Sponges > Massive forms	Simple			Spikey cream massive	*	*	2ad18aa8-3470-4cfc-8659-86163c41cada
+Sponges > Massive forms	Simple			Spikey pink massive	*	*	aea249b7-42b4-4f0c-a060-702fadcfd9f4
+Sponges > Massive forms	Simple			Yellow Papillate Polymastia like	*	*	f59d15ee-3aac-4235-9ce2-8d8b935b1c1b
+Sponges > Massive forms	Simple			Massive Purple	*	*	d8e7ca1d-c213-42de-88d1-d577728fb49f
+Sponges > Massive forms	Simple			Massive White Lumpy	*	*	c8e9be84-89f3-4aa6-9abf-8f6d514dbdc4
+Sponges > Massive forms	Simple			Massive Orange Holey	*	*	edf4f990-bf44-415d-9350-861ba7674bda
+Sponges > Massive forms	Simple			Massive Yellow Shapeless	*	*	aabe7b8c-ead8-4d86-9cd0-c1bc57057920
+Sponges > Massive forms	Simple			Massive Peach Irregular	*	*	7ccd3623-eda3-47b0-bce3-ce2adfed5e39
+Sponges > Massive forms	Simple			Massive Pink	*	*	7723a8d1-b860-430d-a1be-378cef201883
+Sponges > Massive forms	Simple			Massive Yellow Frilly	*	*	867550e5-8ba7-4f30-bba8-899b9f4d045a
+Sponges > Massive forms	Simple			Massive Yellow Holey	*	*	56b14203-c6d2-45e5-a4cb-5077980805c4
+Sponges > Massive forms	Simple			Massive Orange Ribbon	*	*	c894c618-729b-4756-b5ec-86938bb845a3
+Sponges > Massive forms	Simple			Massive Blue Lumpy	*	*	2a54d652-1ef8-4625-b8e0-48f8f4d30b36
+Sponges > Massive forms	Simple			Massive Orange	*	*	de9c865d-9da7-4af5-ae0b-5ac1a3537204
+Sponges > Massive forms	Simple			Massive Velvet	*	*	e3ccaaa3-60a3-43b9-9085-49ee1b735b40
+Sponges > Massive forms	Simple			Massive Blue	*	*	43a640e1-8a76-42c1-85b6-f0da3d5a5cc8
+Sponges > Massive forms	Simple			Massive Red Oscula	*	*	793a98d4-6d5e-4848-b7b9-7649d56fdb61
+Sponges > Massive forms	Simple			Massive White	*	*	4dd093aa-f0d1-4a80-8d6f-24b048a970e9
+Sponges > Massive forms	Simple			Massive Beige Nodular	*	*	08ced795-1bfd-4851-ba70-7b11a4ccaf34
+Sponges > Massive forms	Simple			Massive Beige Shapeless	*	*	33880231-e6ba-41de-aef9-7346e9501d52
+Sponges > Massive forms	Simple			Massive Beige Thick Crust	*	*	e982da4f-ca88-4201-9140-103eb08a5ba9
+Sponges > Massive forms	Simple			Massive Blue Shapeless	*	*	3cb89711-a085-4ebf-bfbf-acb4df8f01f9
+Sponges > Massive forms	Simple			Massive Blue Thick Crust	*	*	a76e0ff3-280d-4b12-84fb-86a1de4f8872
+Sponges > Massive forms	Simple			Massive Cream Papillate	*	*	cfa28cc4-d451-4a42-bb0d-4b206787d3ef
+Sponges > Massive forms	Simple			Massive Grey Laminar Like	*	*	de466fd2-a1a1-4af0-845a-dae981eb62eb
+Sponges > Massive forms	Simple			Massive Peach Shapeless Oscula	*	*	75685b71-be7e-4445-a69a-7141cd353c88
+Sponges > Massive forms	Simple			Massive Purple Chunks	*	*	09ddf10f-222f-4fda-806b-db4a4096f41f
+Sponges > Massive forms	Simple			Massive Red	*	*	0dc2e15e-5623-4930-b8e9-8ed23c8e4239
+Sponges > Massive forms	Simple			Massive Red White Shapeless	*	*	68d90651-93c4-4ee2-9526-dc41a21bed33
+Sponges > Massive forms	Simple			Massive White Shapeless	*	*	b5df2e8e-36a3-4c09-9412-038f01c09e6e
+Sponges > Massive forms	Simple			Massive Yellow Irregular Ball	*	*	d3f2ede1-bf5f-467b-9015-fd5135586b57
+Sponges > Massive forms	Simple			Massive Orange Ball	*	*	6f3cb962-2c78-49f7-b592-c67d1f43b993
+Sponges > Massive forms	Simple			Simple Beige Honeycomb	*	*	2e9645fa-05ba-48ba-a2ec-279790543173
+Sponges > Massive forms	Simple			Simple Beige Irregular Oscula	*	*	000e7fa2-7507-4d8e-9742-9512b88d5bd7
+Sponges > Massive forms	Simple			Simple Beige Laminar Like	*	*	321a3b6c-34cc-4286-bd78-88ffd26a8726
+Sponges > Massive forms	Simple			Simple Beige Lumpy	*	*	5a9660ca-f810-4555-888c-459de07c12e3
+Sponges > Massive forms	Simple			Simple Beige Lumpy Shapeless	*	*	7bf5721a-b52a-4f80-a9ee-f2f65cd5ac0c
+Sponges > Massive forms	Simple			Simple Beige Shapeless	*	*	987eb33d-c154-4cee-a04b-be528985ddf7
+Sponges > Massive forms	Simple			Simple Beige Small	*	*	607d2cd4-78a9-4d94-8761-ad56c5e5d4c9
+Sponges > Massive forms	Simple			Simple Beige Small Oscula	*	*	954c822c-3232-4361-8877-1e105be6508d
+Sponges > Massive forms	Simple			Simple Beige Smooth	*	*	9a3f2511-b9b1-49a7-a8b5-1cd6029d9900
+Sponges > Massive forms	Simple			Simple Beige Tube Like	*	*	1012d7eb-786d-4704-8dd7-d7b7fa451daf
+Sponges > Massive forms	Simple			Simple Blue Shapeless	*	*	0ac525e3-598d-4139-b9c9-86dc4245625f
+Sponges > Massive forms	Simple			Simple Blue Shapeless Oscula	*	*	a0f2e6ef-8815-47f8-9dad-d7468da31f6a
+Sponges > Massive forms	Simple			Simple Grey Brain	*	*	723af339-b194-482d-a934-52cf4e38f329
+Sponges > Massive forms	Simple			Simple Grey Creep	*	*	8b7f6ee7-6a5d-4c2e-8931-060c0de3dcd5
+Sponges > Massive forms	Simple			Simple Grey Doughnut	*	*	0b789148-73e2-4814-a4eb-3e2ed1a93477
+Sponges > Massive forms	Simple			Simple Orange Confused	*	*	b9c42477-1032-4ea7-9a87-509c4dff7e65
+Sponges > Massive forms	Simple			Simple Orange Globes	*	*	a6469549-856f-4574-80d4-cfc041a40294
+Sponges > Massive forms	Simple			Simple Orange Rough	*	*	a0e6f2e7-2f3b-4b74-be2a-83fb0ef16ba7
+Sponges > Massive forms	Simple			Simple Orange Smooth	*	*	ffc1468f-f7a2-46fb-95dd-432ccc805bc0
+Sponges > Massive forms	Simple			Simple Pink Irregular	*	*	01c96531-c11d-4f2a-b2a5-911983e75e09
+Sponges > Massive forms	Simple			Simple Pink Oscula	*	*	81d82dba-ed9e-499c-aaa8-9f609e226a3c
+Sponges > Massive forms	Simple			Simple Purple Furrowed	*	*	fc216a91-47e7-4b03-8f59-9fcfe58720b5
+Sponges > Massive forms	Simple			Simple Purple Shapeless	*	*	9b6c5cd5-a2c2-42e8-a8c4-5d2546d8e6d6
+Sponges > Massive forms	Simple			Simple Red Ball Like	*	*	4ac10be5-836b-4bfe-8f4d-dcae92ceccc1
+Sponges > Massive forms	Simple			Simple White Rough	*	*	7a198ad4-3b1f-4bb0-8d16-af1e71aff612
+Sponges > Massive forms	Simple			Simple Yellow Lumpy	*	*	c36afd1b-92a6-41de-ab43-199cf1fb0116
+Sponges > Massive forms	Simple			Simple Yellow Rough	*	*	cfd081c8-c077-4cd9-bc50-467d73519e8b
+Sponges > Massive forms	Simple			Yellow Shapeless Smooth	*	*	3324ee1f-5f3e-461e-82f9-c5bb94651c7a
+Sponges > Massive forms	Simple			Simple Red Globes	*	*	9c9d275e-1c0b-480e-84d7-9aae8b787b83
+Sponges > Massive forms	Simple			Massive Dark Purple	*	*	061ec551-f4fe-4c9d-ab46-69615422c436
+Sponges > Massive forms	Simple			Smooth Grey Globes	*	*	29da83a7-3c8a-434b-84a3-bfd944ab94b7
+Sponges > Massive forms	Simple			Yellow Oscula Laminar like	*	*	7af7d248-ecd0-4051-b16b-d5fc039ef439
+Sponges > Massive forms	Simple			Massive Yellow Knobby	*	*	77f13bd0-63b0-4cde-bde1-6100d4b04a77
+Sponges > Massive forms	Simple			Massive Royal Blue	*	*	6b39aa68-dd13-4390-a61e-d3182d69ab2c
+Sponges > Massive forms	Simple			Unidentifiable	*	*	35ba3d26-c825-4344-837d-41dd9d1ecd68
+Sponges > Massive forms	Simple			Massive red yellow	*	*	e8bf7a2f-80ff-4401-bfe9-630d589129bb
+Sponges > Massive forms				Unidentifiable	*	*	f887e4af-0e22-45b9-954b-af299aad3b99
+Sponges				Unidentifiable	*	*	fc2d93b5-1385-4d48-9c3e-97a9a3412ec1
+Substrate > Consolidated (hard)	Boulders			Unidentifiable	*	*	9473aa42-574a-4d36-a703-27c0b1f2d0ba
+Substrate > Consolidated (hard)	Cobbles			Unidentifiable	*	*	38eaa150-2e5f-4458-a784-472bfc698f30
+Substrate > Consolidated (hard)	Rock			Unidentifiable	*	*	904f435e-736b-476b-bb98-a1d833e44fff
+Substrate > Consolidated (hard)				Unidentifiable	*	*	714237d8-1e55-4241-abac-1f04119fff3d
+Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic	Barnacle plates	Unidentifiable	*	*	8f3a011a-6537-4fa2-8095-0b6619ae70d9
+Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic	Coquina / shellhash	Unidentifiable	*	*	8dabade0-57af-431e-a43a-70669a50245e
+Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic	Coral rubble	Unidentifiable	*	*	6918e92b-3ba3-4c39-939c-ac023a0853f0
+Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic	Rhodoliths	Unidentifiable	*	*	b797f4c1-d21e-4ecb-8def-95f258580cda
+Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic	Screwshells	Unidentifiable	*	*	4c714916-2d6b-42e4-97fd-dc3d49c8da35
+Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic		Unidentifiable	*	*	069626e9-3007-4a72-9f2e-4f700c577369
+Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)		Unidentifiable	*	*	4ba0757e-c4a4-4747-a0ad-0e5271d500da
+Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)		Unidentifiable	*	*	ade1eb55-9b7c-4641-9404-cd83ee388aed
+Substrate > Unconsolidated (soft)	Pebble / gravel			Unidentifiable	*	*	82ecc53f-597e-441a-ad45-9d67ed0cbc1d
+Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)		Unidentifiable	*	*	15d00e66-d16c-4ffa-9790-144b7e4bc2da
+Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Fine sand (no shell fragments)		Unidentifiable	*	*	0c3b116b-2536-47da-9843-2a63596ace3e
+Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Mud / silt (<64um)		Unidentifiable	*	*	fbaafe5a-2435-4f5f-b0ff-5484468a9635
+Substrate > Unconsolidated (soft)	Sand / mud (<2mm)			Unidentifiable	*	*	93a15ab7-1f28-4fd7-9696-5a6ee2eaf0e2
+Substrate > Unconsolidated (soft)				Unidentifiable	*	*	5921fc48-a49d-4548-a721-8cb91357675e
+Substrate				Unidentifiable	*	*	b4e48c79-32ca-4e27-8f56-c20597b33095
+Worms > Acorn worms				Unidentifiable	*	*	a83e3b87-aa64-4c6e-86a8-0ed976ba4603
+Worms > Echiura				Unidentifiable	*	*	0b949388-e315-4626-98e3-51646bfd5068
+Worms > Flatworms				Flatworm White sp1	*	*	605eab3b-8bba-4df2-9dcb-ccbac52f0f59
+Worms > Flatworms				Unidentifiable	*	*	f3ccc6eb-5bc6-4e19-ab63-27588cdada72
+Worms > Penisworms				Unidentifiable	*	*	b11df4a6-dfe3-4d29-9a13-5baef8d829ca
+Worms > Polychaetes	Other polychaetes			Unidentifiable	*	*	0751d7fb-5f50-4160-b03e-03a6c3e0baf6
+Worms > Polychaetes	Tube worms			Fanworm Sabella Like	*	*	6252b853-8b50-4949-8fd3-8e79ede3b982
+Worms > Polychaetes	Tube worms			Tube Worm sp1	*	*	613a2613-fc40-4c90-b6c5-77a783f1a03c
+Worms > Polychaetes	Tube worms			Unidentifiable	*	*	6995e427-ae22-4134-8a49-d30d69c09bc3
+Worms > Polychaetes				Unidentifiable	*	*	31ebbfd5-0a84-4485-9701-65c85c1da4ec
+Worms > Sipuncula				Unidentifiable	*	*	2901506e-090e-4776-8940-4be5a27450ec
+Worms				Unidentifiable	*	*	ba4ae9b5-8f9f-4aa1-8ab3-a30bdc506809
+Anthropogenic Debris				Unidentifiable	*	*	d3a25ca9-df51-4b65-88b4-5013d7d0f284
+Biota				Unidentifiable	*	*	b5b668fe-cf90-4d7b-b455-2a772b5d5484
+Physical				Unidentifiable	*	*	15d7d234-ac11-42b9-be72-7cc9b2bb75f4
+Unscorable				Unidentifiable	*	*	2a00a85e-6675-4d69-ab4f-197992dcead7
+					Facing Up	*	
+					Facing Down	*	
+					Limited	*	
+					Open	*	
+					*	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	
+					*	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	
+					*	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope	
+					*	3. Good relief structure with some overhangs. >45 substrate slope	
+					*	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	
+					*	"5. Exceptional structural complexity, numerous large holes and caves. Vertical wall. ~90 substrate slope"	
+					*	Unknown	
