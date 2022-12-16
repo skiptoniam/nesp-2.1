@@ -1,0 +1,113 @@
+"","system.number","sample","latitude","longitude","date","time","local.time","site","location","status","zone","depth","observer","successful.count","successful.length","video.notes"
+"1","1","INV-BV-25","-34.0702583331943","120.949816666908","2022-11-03","2022-11-03 00:40:47","2022-11-03 08:40:48",NA,"Investigator Island","No-take","National Park Zone","50.5",NA,"No",NA,"Facing up"
+"2","2","INV-BV-70","-34.0664416668911","120.938576666697","2022-11-03","2022-11-03 00:45:22","2022-11-03 08:45:23",NA,"Investigator Island","No-take","National Park Zone","64.4",NA,NA,NA,NA
+"3","3","INV-BV-36","-34.06377338592","120.938630831515","2022-11-03","2022-11-03 00:49:27","2022-11-03 08:49:28",NA,"Investigator Island","No-take","National Park Zone","49.7",NA,NA,NA,NA
+"4","4","INV-BV-62","-34.0563453775125","120.966310513466","2022-11-03","2022-11-03 01:01:53","2022-11-03 09:01:54",NA,"Investigator Island","No-take","National Park Zone","66.4",NA,NA,NA,NA
+"5","5","INV-BV-58","-34.0488050376148","120.951268807938","2022-11-03","2022-11-03 01:07:51","2022-11-03 09:07:51",NA,"Investigator Island","No-take","National Park Zone","60.3",NA,NA,NA,NA
+"6","6","INV-BV-07","-34.0488600003479","120.941249999982","2022-11-03","2022-11-03 01:12:31","2022-11-03 09:12:31",NA,"Investigator Island","No-take","National Park Zone","57.7",NA,NA,NA,NA
+"7","7","INV-BV-14","-34.0435949998926","120.933791666369","2022-11-03","2022-11-03 01:23:16","2022-11-03 09:23:17",NA,"Investigator Island","No-take","National Park Zone","53.8",NA,NA,NA,NA
+"8","8","INV-BV-20","-34.043726027804","120.953696282211","2022-11-03","2022-11-03 01:32:12","2022-11-03 09:32:12",NA,"Investigator Island","No-take","National Park Zone","57.9",NA,NA,NA,NA
+"9","1","INV-BV-49","-34.0385897561485","120.95902010642","2022-11-03","2022-11-03 03:07:39","2022-11-03 11:07:39",NA,"Investigator Island","No-take","National Park Zone","46.8",NA,"No",NA,NA
+"10","2","INV-BV-11","-34.0360399999373","120.948586666672","2022-11-03","2022-11-03 03:12:21","2022-11-03 11:12:21",NA,"Investigator Island","No-take","National Park Zone","45.5",NA,NA,NA,"Bait bag obscured"
+"11","3","INV-BV-05","-34.0311130776963","120.926351184077","2022-11-03","2022-11-03 03:20:04","2022-11-03 11:20:04",NA,"Investigator Island","No-take","National Park Zone","58.9",NA,NA,NA,"32 not recording on retrieve (did ont record at all - no right camera)"
+"12","4","INV-BV-47","-34.0215681081378","120.898485094519","2022-11-03","2022-11-03 03:29:08","2022-11-03 11:29:08",NA,"Investigator Island","No-take","National Park Zone","55.5",NA,"No",NA,NA
+"13","5","INV-BV-28","-34.0188182454056","120.946418628547","2022-11-03","2022-11-03 03:45:41","2022-11-03 11:45:42",NA,"Investigator Island","No-take","National Park Zone","51.4",NA,NA,NA,NA
+"14","6","INV-BV-03","-34.0237500002686","120.956250000324","2022-11-03","2022-11-03 03:51:27","2022-11-03 11:51:28",NA,"Investigator Island","No-take","National Park Zone","60.7",NA,NA,NA,NA
+"15","7","INV-BV-60","-34.006363807412","120.966288349333","2022-11-03","2022-11-03 04:00:57","2022-11-03 12:00:57",NA,"Investigator Island","No-take","National Park Zone","59.1",NA,NA,NA,NA
+"16","8","INV-BV-27","-34.0013103158781","120.930907255942","2022-11-03","2022-11-03 04:11:57","2022-11-03 12:11:58",NA,"Investigator Island","No-take","National Park Zone","48.8",NA,NA,NA,NA
+"17","1","INV-BV-53","-33.9963224156762","120.944001616054","2022-11-03","2022-11-03 06:23:38","2022-11-03 14:23:39",NA,"Investigator Island","No-take","National Park Zone","51.7",NA,NA,NA,NA
+"18","2","INV-BV-44","-33.9961836806707","120.923785196773","2022-11-03","2022-11-03 06:31:31","2022-11-03 14:31:31",NA,"Investigator Island","No-take","National Park Zone","50.2",NA,NA,NA,NA
+"19","3","INV-BV-17","-33.9912499998495","120.908750000438","2022-11-03","2022-11-03 06:37:22","2022-11-03 14:37:22",NA,"Investigator Island","No-take","National Park Zone","50",NA,NA,NA,NA
+"20","4","INV-BV-22","-33.9763802040893","120.933751362555","2022-11-03","2022-11-03 06:49:04","2022-11-03 14:49:04",NA,"Investigator Island","No-take","National Park Zone","47.3",NA,NA,NA,NA
+"21","5","CP1","-33.9651767099909","120.936032708779","2022-11-03","2022-11-03 06:59:10","2022-11-03 14:59:11",NA,"Investigator Island","No-take","National Park Zone","27.9",NA,NA,NA,"Showed camera INV-BV-35, lost for 2 days running"
+"22","6","CP2","-33.9661061518779","120.932628834963","2022-11-03","2022-11-03 07:01:53","2022-11-03 15:01:54",NA,"Investigator Island","No-take","National Park Zone","43.6",NA,NA,NA,"Showed camera INV-BV-55"
+"23","7","CP3","-33.9699427200281","120.900495136052","2022-11-03","2022-11-03 07:15:41","2022-11-03 15:15:42",NA,"Investigator Island","No-take","National Park Zone","49.8",NA,NA,NA,NA
+"24","8","CP4","-33.9775015149252","120.915097811544","2022-11-03","2022-11-03 07:25:02","2022-11-03 15:25:03",NA,"Investigator Island","No-take","National Park Zone","46.7",NA,NA,NA,NA
+"25","1","INV-BV-35","-33.9513701966578","120.973072389527","2022-11-04","2022-11-04 01:42:33","2022-11-04 09:42:33",NA,"Investigator Island","No-take","National Park Zone","44.8",NA,NA,NA,NA
+"26","2","INV-BV-55","-33.9462500001538","120.953749999668","2022-11-04","2022-11-04 01:49:02","2022-11-04 09:49:02",NA,"Investigator Island","No-take","National Park Zone","41",NA,NA,NA,NA
+"27","3","INV-BV-26","-33.9438414000385","120.971351663007","2022-11-04","2022-11-04 01:56:20","2022-11-04 09:56:21",NA,"Investigator Island","No-take","National Park Zone","45.5",NA,NA,NA,NA
+"28","4","INV-BV-09","-33.9362499997116","120.983750000353","2022-11-04","2022-11-04 02:03:39","2022-11-04 10:03:40",NA,"Investigator Island","No-take","National Park Zone","41.3",NA,NA,NA,NA
+"29","6","INV-BV-66","-33.9290486575365","120.98386570426","2022-11-04","2022-11-04 02:08:59","2022-11-04 10:08:59",NA,"Investigator Island","No-take","National Park Zone","36.8",NA,NA,NA,NA
+"30","7","INV-BV-51","-33.9262207461289","120.998878378034","2022-11-04","2022-11-04 02:15:43","2022-11-04 10:15:43",NA,"Investigator Island","No-take","National Park Zone","44.2",NA,NA,NA,NA
+"31","8","INV-BV-24","-33.9286681578266","121.031228169381","2022-11-04","2022-11-04 02:27:34","2022-11-04 10:27:35",NA,"Investigator Island","No-take","National Park Zone","46.3",NA,NA,NA,NA
+"32","1","INV-BV-40","-33.9237921884446","121.041481498711","2022-11-04","2022-11-04 03:55:52","2022-11-04 11:55:52",NA,"Investigator Island","No-take","National Park Zone","45.1",NA,NA,NA,NA
+"33","2","INV-BV-02","-33.9237500000244","121.058750000268","2022-11-04","2022-11-04 04:01:52","2022-11-04 12:01:53",NA,"Investigator Island","No-take","National Park Zone","38.4",NA,NA,NA,NA
+"34","3","INV-BV-48","-33.9362499997116","121.061250000025","2022-11-04","2022-11-04 04:08:34","2022-11-04 12:08:35",NA,"Investigator Island","No-take","National Park Zone","39.7",NA,NA,NA,NA
+"35","4","INV-BV-29","-33.9537500000613","121.046249999683","2022-11-04","2022-11-04 04:17:14","2022-11-04 12:17:15",NA,"Investigator Island","No-take","National Park Zone","57.7",NA,NA,NA,NA
+"36","6","INV-BV-42","-33.9486914008131","121.026182951369","2022-11-04","2022-11-04 04:25:05","2022-11-04 12:25:06",NA,"Investigator Island","No-take","National Park Zone","58.6",NA,NA,NA,NA
+"37","7","INV-BV-57","-33.9562500001851","121.023750000068","2022-11-04","2022-11-04 04:29:19","2022-11-04 12:29:20",NA,"Investigator Island","No-take","National Park Zone","60.2",NA,NA,NA,NA
+"38","8","INV-BV-69","-33.9537689788353","121.016382196872","2022-11-04","2022-11-04 04:34:17","2022-11-04 12:34:18",NA,"Investigator Island","No-take","National Park Zone","57.4",NA,NA,NA,NA
+"39","Mini bruv 1","TER-BV-01","-34.468977","121.998998","1667952000",NA,"1667982060","NA","Termination Island","Fished",NA,"45.2",NA,NA,NA,NA
+"40","Mini bruv 2","TER-BV-02","-34.467101","121.994577","1667952000",NA,"1667982540","NA","Termination Island","Fished",NA,"42.4",NA,NA,NA,NA
+"41","3","TER-BV-03","-34.464871","121.993369","1667952000",NA,"1667982960","NA","Termination Island","Fished",NA,"63.7",NA,NA,NA,NA
+"42","6","TER-BV-04","-34.463139","121.998804","1667952000",NA,"1667983320","NA","Termination Island","Fished",NA,"20.7",NA,NA,NA,NA
+"43","7","TER-BV-05","-34.458571","121.986333","1667952000",NA,"1667983740","NA","Termination Island","Fished",NA,"47.5",NA,NA,NA,NA
+"44","8","TER-BV-06","-34.453882","121.985755","1667952000",NA,"1667984100","NA","Termination Island","Fished",NA,"33.1",NA,NA,NA,NA
+"45","Mini bruv 1","TER-BV-07","-34.451632","121.990242","1667952000",NA,"1667990280","NA","Termination Island","Fished",NA,"65.6",NA,NA,NA,NA
+"46","Mini bruv 2","TER-BV-08","-34.454154","121.992648","1667952000",NA,"1667990640","NA","Termination Island","Fished",NA,"27.5",NA,NA,NA,"Sand hole in rocks"
+"47","3","TER-BV-09","-34.454636","121.995952","1667952000",NA,"1667990940","NA","Termination Island","Fished",NA,"50.1",NA,NA,NA,"Structure - forgot sync"
+"48","6","TER-BV-10","-34.458449","121.994688","1667952000",NA,"1667991240","NA","Termination Island","Fished",NA,"42",NA,NA,NA,"Forgot sync"
+"49","7","TER-BV-11","-34.443549","121.987593","1667952000",NA,"1667991660","NA","Termination Island","Fished",NA,"74.7",NA,NA,NA,"Bommie, no lights"
+"50","8","TER-BV-12","-34.441999","121.988828","1667952000",NA,"1667992080","NA","Termination Island","Fished",NA,"72.8",NA,NA,NA,NA
+"51","Mini bruv 1","TER-BV-13","-34.465952","121.984818","1667952000",NA,"1667998080","NA","Termination Island","Fished",NA,"35.5",NA,NA,NA,NA
+"52","Mini bruv 2","TER-BV-14","-34.469539","121.982543","1667952000",NA,"1667998320","NA","Termination Island","Fished",NA,"65.1",NA,NA,NA,NA
+"53","3","TER-BV-15","-34.472812","121.982705","1667952000",NA,"1667998620","NA","Termination Island","Fished",NA,"36",NA,NA,NA,"Cliff top drops to 90m"
+"54","6","TER-BV-16","-34.476524","121.987053","1667952000",NA,"1667998920","NA","Termination Island","Fished",NA,"68.9",NA,NA,NA,"Bait bag gone"
+"55","7","TER-BV-17","-34.477294","121.994045","1667952000",NA,"1667999220","NA","Termination Island","Fished",NA,"60",NA,NA,NA,"Briefly snagged,  back cam off on retrieve"
+"56","8","TER-BV-18","-34.473929","121.999577","1667952000",NA,"1667999580","NA","Termination Island","Fished",NA,"75.6",NA,NA,NA,"Bait bag gone"
+"57","Mini 1","TER-BV-19","-34.4704182176101","121.84456527104","2022-11-10","2022-11-10 00:41:45","2022-11-10 08:41:45",NA,"Termination Island","Fished",NA,"34.6",NA,NA,NA,NA
+"58","Mini 2","TER-BV-20","-34.4733683330641","121.844376667052","2022-11-10","2022-11-10 00:46:45","2022-11-10 08:46:45",NA,"Termination Island","Fished",NA,"27.7",NA,NA,NA,NA
+"59","3","TER-BV-21","-34.4772349998193","121.846661666724","2022-11-10","2022-11-10 00:55:22","2022-11-10 08:55:22",NA,"Termination Island","Fished",NA,"52.2",NA,NA,NA,"No light facing backwards"
+"60","6","TER-BV-22","-34.4768199999078","121.85102333328","2022-11-10","2022-11-10 01:02:34","2022-11-10 09:02:34",NA,"Termination Island","Fished",NA,"46.1",NA,NA,NA,NA
+"61","7","TER-BV-23","-34.4731224751467","121.85152584007","2022-11-10","2022-11-10 01:10:40","2022-11-10 09:10:41",NA,"Termination Island","Fished",NA,"79.3",NA,NA,NA,"At bottom of 50m wall"
+"62","8","TER-BV-24","-34.4665133336488","121.844546666931","2022-11-10","2022-11-10 01:26:26","2022-11-10 09:26:27",NA,"Termination Island","Fished",NA,"69.9",NA,NA,NA,NA
+"63","Mini 1","TER-BV-25","-34.431944999781","121.985718333168","2022-11-10","2022-11-10 03:22:23","2022-11-10 11:22:23",NA,"Termination Island","Fished",NA,"44.2",NA,NA,NA,NA
+"64","Mini 2","TER-BV-26","-34.4276850000328","121.98281499973","2022-11-10","2022-11-10 03:27:59","2022-11-10 11:28:00",NA,"Termination Island","Fished",NA,"48.1",NA,NA,NA,NA
+"65","3","TER-BV-27","-34.4236816668146","121.981644999768","2022-11-10","2022-11-10 03:36:24","2022-11-10 11:36:24",NA,"Termination Island","Fished",NA,"67.2",NA,NA,NA,"No backwards light, check for shearwater on pull up"
+"66","6","TER-BV-28","-34.4195483334718","121.98484833368","2022-11-10","2022-11-10 03:42:53","2022-11-10 11:42:53",NA,"Termination Island","Fished",NA,"49",NA,NA,NA,NA
+"67","7","TER-BV-29","-34.416208333456","121.985885000298","2022-11-10","2022-11-10 03:54:32","2022-11-10 11:54:32",NA,"Termination Island","Fished",NA,"72.6",NA,NA,NA,NA
+"68","8","TER-BV-30","-34.4124416666309","121.987529999738","2022-11-10","2022-11-10 03:58:24","2022-11-10 11:58:25",NA,"Termination Island","Fished",NA,"69.6",NA,NA,NA,"Showed back camera and camera 42 the wrong drop info first, real info in the next video"
+"69","7","C01","-33.9194216670304","121.915056666968","2022-11-16","2022-11-16 02:47:51","2022-11-16 10:47:51",NA,"Cull Island","Fished",NA,"43.3",NA,NA,NA,"Demo day, big bruv"
+"70","8","C02","-33.9271933331734","121.909295000297","2022-11-16","2022-11-16 02:56:05","2022-11-16 10:56:05",NA,"Cull Island","Fished",NA,"44.7",NA,NA,NA,"Cull island demo drop 2"
+"71","Small bruv 2","C03","-33.9276733330939","121.907935000364","2022-11-16","2022-11-16 02:59:35","2022-11-16 10:59:36",NA,"Cull Island","Fished",NA,"29.8",NA,NA,NA,"Demo drop at cull 1205 and 1207"
+"72","Small bruv 1","C04","-33.9277666668637","121.90445999974","2022-11-16","2022-11-16 03:04:31","2022-11-16 11:04:32",NA,"Cull Island","Fished",NA,"45.4",NA,NA,NA,"Cull island demo day drop 4. Small bruv"
+"73","1","SAL-BV-091","-34.3601365903924","123.522543568182","2022-11-21","2022-11-21 00:47:31","2022-11-21 08:47:31",NA,"Salisbury Island","Fished",NA,"51.7",NA,NA,NA,"CAM RECORDED 056 BUT CHANGED PLAN TO 091"
+"74","7","SAL-BV-059","-34.3532273025241","123.535963805639","2022-11-21","2022-11-21 01:01:52","2022-11-21 09:01:52",NA,"Salisbury Island","Fished",NA,"35.5",NA,NA,NA,"CAM RECORDED 002 BUT PLAN CHANGED TO 059. Skipper said this was site 059 but my map says 039. Cam not on when pulled up (battery pack wasn’t on)"
+"75","8","SAL-BV-047","-34.3172135793988","123.481436684137","2022-11-21","2022-11-21 02:20:22","2022-11-21 10:20:23",NA,"Salisbury Island","Fished","Special Purpose Zone","83",NA,NA,NA,"CAM RECORDED 042 BUT PLAN CHANGED TO 047"
+"76","2","SAL-BV-022","-34.3219127209384","123.510089892818","2022-11-21","2022-11-21 02:32:15","2022-11-21 10:32:16",NA,"Salisbury Island","Fished",NA,"81.8",NA,NA,NA,NA
+"77","4","SAL-BV-C01","-34.3191285150937","123.518249014761","2022-11-21","2022-11-21 02:43:27","2022-11-21 10:43:28",NA,"Salisbury Island","Fished",NA,"79.5",NA,NA,NA,"Fish on sounder. Didn't drop at the opcode recorded on cam"
+"78","5","SAL-BV-C02","-34.3160411651869","123.539408454885","2022-11-21","2022-11-21 02:56:33","2022-11-21 10:56:33",NA,"Salisbury Island","Fished",NA,"72.5",NA,NA,NA,"Didn't drop at the opcode recorded on cam"
+"79","6","SAL-BV-C03","-34.3088324619547","123.519117168212","2022-11-21","2022-11-21 03:07:03","2022-11-21 11:07:04",NA,"Salisbury Island","Fished",NA,"77.6",NA,NA,NA,"No karate chop. Didn't drop at the opcode recorded on cam"
+"80","3","SAL-BV-056","-34.301907282637","123.492644910038","2022-11-21","2022-11-21 03:18:09","2022-11-21 11:18:09",NA,"Salisbury Island","Fished","Special Purpose Zone","80.4",NA,NA,NA,"Bruv dropped. Tangle in rope. Pulled up to untangle. Bruv dropped again"
+"81","5","SAL-BV-063","-34.3927357424284","123.525530890507","2022-11-21","2022-11-21 06:02:52","2022-11-21 14:02:53",NA,"Salisbury Island","Fished",NA,"83.5",NA,NA,NA,NA
+"82","4","SAL-BV-C04","-34.3978854380102","123.524392129459","2022-11-21","2022-11-21 06:10:11","2022-11-21 14:10:11",NA,"Salisbury Island","Fished",NA,"81.4",NA,NA,NA,"Didn't drop at the opcode recorded on cam"
+"83","6","SAL-BV-C05","-34.4037650817965","123.517164389786","2022-11-21","2022-11-21 06:17:54","2022-11-21 14:17:55",NA,"Salisbury Island","Fished",NA,"83.5",NA,NA,NA,"Cam recorded 027 but dropped at C05"
+"84","3","SAL-BV-C07","-34.4066269766057","123.522267401809","2022-11-21","2022-11-21 06:27:43","2022-11-21 14:27:43",NA,"Salisbury Island","Fished",NA,"66.3",NA,NA,NA,"Opcode recorded on cam maybe wrong"
+"85","2","SAL-BV-027","-34.4124665639436","123.539571255665","2022-11-21","2022-11-21 06:36:59","2022-11-21 14:37:00",NA,"Salisbury Island","Fished",NA,"86.1",NA,NA,NA,"Recorded opcode changed from 079"
+"86","8","SAL-BV-032","-34.4276466157234","123.561023175567","2022-11-21","2022-11-21 06:51:24","2022-11-21 14:51:25",NA,"Salisbury Island","Fished","Special Purpose Zone","90.4",NA,NA,NA,NA
+"87","7","SAL-BV-C06","-34.429745343834","123.538246315181","2022-11-21","2022-11-21 07:05:20","2022-11-21 15:05:20",NA,"Salisbury Island","Fished","Special Purpose Zone","90.8",NA,NA,NA,NA
+"88","1","SAL-BV-043","-34.4374799902025","123.508156272763","2022-11-21","2022-11-21 07:19:03","2022-11-21 15:19:04",NA,"Salisbury Island","Fished","Special Purpose Zone","91.6",NA,NA,NA,NA
+"89","7","SAL-BV-057","-34.455754081613","123.661877452028","2022-11-22","2022-11-21 23:57:39","2022-11-22 07:57:40",NA,"Salisbury Island","Fished","Special Purpose Zone","84.6",NA,NA,NA,NA
+"90","1","SAL-BV-080","-34.4631625254949","123.648197139721","2022-11-22","2022-11-22 00:08:45","2022-11-22 08:08:45",NA,"Salisbury Island","Fished","Special Purpose Zone","85.9",NA,NA,NA,NA
+"91","3","SAL-BV-001","-34.4667046073115","123.62830589081","2022-11-22","2022-11-22 00:19:11","2022-11-22 08:19:12",NA,"Salisbury Island","Fished","Special Purpose Zone","47.8",NA,NA,NA,NA
+"92","6","SAL-BV-C08","-34.4698407830454","123.622657773885","2022-11-22","2022-11-22 00:24:36","2022-11-22 08:24:37",NA,"Salisbury Island","Fished","Special Purpose Zone","84.1",NA,NA,NA,NA
+"93","2","SAL-BV-C09","-34.4724784510204","123.597658916271","2022-11-22","2022-11-22 00:34:09","2022-11-22 08:34:09",NA,"Salisbury Island","Fished","Special Purpose Zone","86.4",NA,NA,NA,NA
+"94","5","SAL-BV-054","-34.4709496357682","123.566219433616","2022-11-22","2022-11-22 00:45:43","2022-11-22 08:45:43",NA,"Salisbury Island","Fished","Special Purpose Zone","86.4",NA,NA,NA,NA
+"95","4","SAL-BV-C10","-34.4601940982206","123.569923502841","2022-11-22","2022-11-22 00:57:27","2022-11-22 08:57:28",NA,"Salisbury Island","Fished","Special Purpose Zone","82.3",NA,NA,NA,NA
+"96","8","SAL-BV-083","-34.438994834371","123.611674218433","2022-11-22","2022-11-22 01:15:03","2022-11-22 09:15:03",NA,"Salisbury Island","Fished","Special Purpose Zone","81",NA,NA,NA,NA
+"97","6","SAL-BV-068","-34.4109564275457","123.594945625024","2022-11-22","2022-11-22 03:11:59","2022-11-22 11:12:00",NA,"Salisbury Island","Fished","Special Purpose Zone","88.8",NA,NA,NA,NA
+"98","5","SAL-BV-013","-34.4050030864203","123.624557044161","2022-11-22","2022-11-22 03:23:14","2022-11-22 11:23:14",NA,"Salisbury Island","Fished","Special Purpose Zone","83.4",NA,NA,NA,NA
+"99","3","SAL-BV-049","-34.3843533338533","123.636309907839","2022-11-22","2022-11-22 03:35:34","2022-11-22 11:35:35",NA,"Salisbury Island","Fished","Special Purpose Zone","82.4",NA,NA,NA,NA
+"100","2","SAL-BV-C11","-34.3708379438341","123.643165036214","2022-11-22","2022-11-22 03:44:06","2022-11-22 11:44:06",NA,"Salisbury Island","Fished","Special Purpose Zone","80.9",NA,NA,NA,NA
+"101","8","SAL-BV-026","-34.3530720926399","123.6522622194","2022-11-22","2022-11-22 03:53:27","2022-11-22 11:53:28",NA,"Salisbury Island","Fished","Special Purpose Zone","79.4",NA,NA,NA,NA
+"102","7","SAL-BV-035","-34.3459365870988","123.662964680322","2022-11-22","2022-11-22 04:01:24","2022-11-22 12:01:24",NA,"Salisbury Island","Fished","Special Purpose Zone","78.9",NA,NA,NA,NA
+"103","1","SAL-BV-C12","-34.3471943944751","123.653058148302","2022-11-22","2022-11-22 04:08:07","2022-11-22 12:08:08",NA,"Salisbury Island","Fished","Special Purpose Zone","80.4",NA,NA,NA,"Sounder looks good"
+"104","4","SAL-BV-C13","-34.3466203971058","123.62960977119","2022-11-22","2022-11-22 04:17:56","2022-11-22 12:17:56",NA,"Salisbury Island","Fished","Special Purpose Zone","78.2",NA,NA,NA,NA
+"105","8","SAL-BV-D01","-34.3728175912321","123.571580950236","2022-11-22","2022-11-22 06:11:31","2022-11-22 14:11:31",NA,"Salisbury Island","Fished",NA,"80.2",NA,NA,NA,"D = Doc's choice"
+"106","1","SAL-BV-D02","-34.369212287087","123.559842679689","2022-11-22","2022-11-22 06:18:51","2022-11-22 14:18:51",NA,"Salisbury Island","Fished",NA,"71.9",NA,NA,NA,NA
+"107","2","SAL-BV-D03","-34.3663338045171","123.557598193138","2022-11-22","2022-11-22 06:23:56","2022-11-22 14:23:56",NA,"Salisbury Island","Fished",NA,"55.1",NA,NA,NA,"Depth and location may be slightly off"
+"108","7","SAL-BV-D04","-34.3638406516188","123.559047197251","2022-11-22","2022-11-22 06:28:53","2022-11-22 14:28:54",NA,"Salisbury Island","Fished",NA,"39.2",NA,NA,NA,NA
+"109","4","SAL-BV-D05","-34.3587444900386","123.56369542728","2022-11-22","2022-11-22 06:30:21","2022-11-22 14:30:21",NA,"Salisbury Island","Fished",NA,"49.1",NA,NA,NA,NA
+"110","6","SAL-BV-D06","-34.3549386110731","123.566151494929","2022-11-22","2022-11-22 06:36:37","2022-11-22 14:36:38",NA,"Salisbury Island","Fished",NA,"41.6",NA,NA,NA,NA
+"111","5","SAL-BV-D07","-34.3497440681049","123.561938637893","2022-11-22","2022-11-22 06:47:12","2022-11-22 14:47:12",NA,"Salisbury Island","Fished",NA,"32.3",NA,NA,NA,NA
+"112","3","SAL-BV-D08","-34.3462440076565","123.561841022463","2022-11-22","2022-11-22 06:52:33","2022-11-22 14:52:33",NA,"Salisbury Island","Fished",NA,"33.7",NA,NA,NA,NA

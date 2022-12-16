@@ -97,9 +97,47 @@ bruv.metadata <- read.csv("data/metadata/BRUV_metadata_template_0.csv") %>%
   dplyr::mutate(date = substr(.$local.time, 1, 10)) %>%
   left_join(bruv.cameras) %>%
   add_column(!!!metadata.names[!names(metadata.names) %in% names(.)]) %>%
-  dplyr::select(system.number, sample, latitude, longitude, date, time, local.time, site, location, status, depth, observer, successful.count, successful.length, video.notes, left.camera, right.camera, rear.camera) %>%
+  dplyr::select(system.number, sample, latitude, longitude, date, time, local.time, site, location, depth, observer, successful.count, successful.length, video.notes, left.camera, right.camera, rear.camera) %>%
   dplyr::mutate(local.time = as.character(local.time)) %>%
   glimpse()
+
+# metadata as sf
+bruv.metadata.sf <- st_as_sf(bruv.metadata, coords = c("longitude", "latitude"), crs = wgscrs)
+
+bruv.online <- read_sheet(url, sheet = "2022-11_Esperance_stereo-BRUVs") %>% ga.clean.names() %>%
+  as.data.frame()
+
+bruv.metadata.sf <- st_as_sf(bruv.online, coords = c("longitude", "latitude"), crs = wgscrs)
+
+bruv.metadata.commonwealth <- bruv.metadata.sf %>%
+  st_intersection(aumpa %>% dplyr::select(geometry, ZoneName)) %>%
+  as.data.frame() %>%
+  dplyr::select(-c(geometry)) %>%
+  dplyr::mutate(status = ifelse(ZoneName %in% "National Park Zone", "No-take", "Fished")) %>%
+  dplyr::rename(zone = ZoneName) %>%
+  mutate(across(everything(), as.character)) %>%
+  glimpse()
+
+bruv.metadata.state <- bruv.metadata.sf %>%
+  st_intersection(wampa %>% dplyr::select(geometry, waname)) %>%
+  as.data.frame() %>%
+  dplyr::select(-c(geometry)) %>%
+  dplyr::mutate(status = ifelse(waname %in% "Sanctuary Zone", "No-take", "Fished")) %>%
+  dplyr::rename(zone = waname) %>%
+  mutate(across(everything(), as.character)) %>%
+  glimpse()
+
+bruv.metadata.zones <- #bruv.metadata %>%
+  bruv.online %>% dplyr::select(-c(status)) %>%
+  mutate(across(everything(), as.character)) %>%
+  full_join(bruv.metadata.commonwealth) %>%
+  # full_join(bruv.metadata.state) %>%
+  dplyr::mutate(status = if_else(status %in% c(NA, NULL), "Fished", status)) %>%
+  add_column(!!!metadata.names[!names(metadata.names) %in% names(.)]) %>%
+  dplyr::select(system.number, sample, latitude, longitude, date, time, local.time, site, location, status, zone, depth, observer, successful.count, successful.length, video.notes) %>%
+  glimpse()
+
+write.csv(bruv.metadata.zones, "test data.csv")
 
 # add to labsheet on google drive
 # url <- "https://docs.google.com/spreadsheets/d/1ZfW-XJKP0BmY2UXPNquTxnO5-iHnG9Kw3UuJbALCcrs/edit#gid=830769099"
@@ -181,7 +219,7 @@ boss.metadata.zones <- boss.metadata %>%
   mutate(across(everything(), as.character)) %>%
   full_join(boss.metadata.commonwealth) %>%
   full_join(boss.metadata.state) %>%
-  dplyr::mutate(status = ifelse(status %in% NA, "Fished", "No-take")) %>%
+  dplyr::mutate(status = if_else(status %in% c(NA, NULL), "Fished", status)) %>%
   add_column(!!!metadata.names[!names(metadata.names) %in% names(.)]) %>%
   dplyr::select(system.number, sample, latitude, longitude, date, time, local.time, site, location, status, zone, depth, observer, successful.count, successful.length, video.notes) %>%
   glimpse()
