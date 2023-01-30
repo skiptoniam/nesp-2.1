@@ -23,6 +23,7 @@ library(GlobalArchive)
 library(tidyverse)
 library(viridis)
 library(geosphere)
+library(stars)
 
 # Set CRS for transformations
 wgscrs <- "+proj=longlat +datum=WGS84" 
@@ -32,6 +33,13 @@ aus    <- st_read("data/spatial/shapefiles/cstauscd_r.mif")   %>%
   dplyr::filter(!FEAT_CODE %in% c("sea"))                                                         
 aumpa  <- st_read("data/spatial/shapefiles/AustraliaNetworkMarineParks.shp")    # All aus mpas
 brem_mp <- aumpa[aumpa$ResName%in%c("Bremer"),]
+brem_test <- brem_mp %>%
+  dplyr::mutate(value = ifelse(ZoneName %in% "National Park Zone", 1, 0))
+# npz <- brem_mp %>%
+#   dplyr::filter(ZoneName %in% "National Park Zone")
+npz.rast <- st_rasterize(brem_test %>% dplyr::select(value, geometry))
+write_stars(npz.rast, "data/spatial/rasters/bremer-marine-park-raster.tif")
+
 e <- ext(119.3, 120.5, -35.4, -33.9)
 brem_mp <- st_crop(brem_mp, e)
 st_crs(aus) <- st_crs(aumpa)
