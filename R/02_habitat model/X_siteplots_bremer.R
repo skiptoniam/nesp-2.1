@@ -33,12 +33,18 @@ aus    <- st_read("data/spatial/shapefiles/cstauscd_r.mif")   %>%
   dplyr::filter(!FEAT_CODE %in% c("sea"))                                                         
 aumpa  <- st_read("data/spatial/shapefiles/AustraliaNetworkMarineParks.shp")    # All aus mpas
 brem_mp <- aumpa[aumpa$ResName%in%c("Bremer"),]
-brem_test <- brem_mp %>%
+brem_test <- aumpa %>%
+  dplyr::filter(ResName %in% c('South-west Corner', "Bremer", "Eastern Recherche")) %>%
   dplyr::mutate(value = ifelse(ZoneName %in% "National Park Zone", 1, 0))
 # npz <- brem_mp %>%
 #   dplyr::filter(ZoneName %in% "National Park Zone")
 npz.rast <- st_rasterize(brem_test %>% dplyr::select(value, geometry))
-write_stars(npz.rast, "data/spatial/rasters/bremer-marine-park-raster.tif")
+plot(npz.rast)
+npz.rast <- rast(npz.rast) %>%
+  disagg(fact = 10, method = "")
+plot(npz.rast)
+
+# write_stars(npz.rast, "data/spatial/rasters/bremer-marine-park-raster.tif")
 
 e <- ext(119.3, 120.5, -35.4, -33.9)
 brem_mp <- st_crop(brem_mp, e)
