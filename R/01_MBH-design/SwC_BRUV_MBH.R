@@ -106,7 +106,7 @@ samp_t <-  st_transform(samp_m, crs = wgscrs) %>%
   dplyr::mutate(lon = st_coordinates(.)[,1],
                 lat = st_coordinates(.)[,2]) %>%
   as.data.frame() %>%
-  dplyr::select(-geometry) %>%
+  dplyr::select(-c(geometry, x, y)) %>%
   glimpse()
 
-write.csv(samp_t,"data/mbh-design/SwC_BRUV_MBH_utm50.csv", row.names = F)
+write.csv(samp_t,"data/mbh-design/SwC_BRUV_MBH_wgs84.csv", row.names = F)

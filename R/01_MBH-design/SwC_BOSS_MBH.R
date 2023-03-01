@@ -107,6 +107,6 @@ samp_t <-  st_transform(samp_m, crs = wgscrs) %>%
   glimpse()
 
 ## Write out sampling file 
-write.csv(samp_t,"data/mbh-design/SwC_BOSS_MBH_utm50.csv", row.names = F) # write out the each region
+write.csv(samp_t,"data/mbh-design/SwC_BOSS_MBH_wgs84.csv", row.names = F) # write out the each region
 
 
