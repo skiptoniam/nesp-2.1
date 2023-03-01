@@ -30,7 +30,7 @@ swc.bruv <- read.csv("data/mbh-design/SwC_BRUV_MBH_wgs84.csv") %>%
 cplot.bruv.swc <- data.frame("mark" = c("mark"),
                          "PXYCSLM" = c("PXYCSLM"),
                          DDtolatlon(swc.bruv[, 5:6]),
-                         "symbol" = c("Black Star"),
+                         "symbol" = c("Blue Star"),
                          "ptcode" = swc.bruv$sample,
                          c(0))
 head(cplot.bruv.swc)
@@ -44,7 +44,7 @@ paste(min(cplot.bruv.swc$lat), min(cplot.bruv.swc$lon),
 cplot.boss.swc <- data.frame("mark" = c("mark"),
                              "PXYCSLM" = c("PXYCSLM"),
                              DDtolatlon(swc.boss[, 5:6]),
-                             "symbol" = c("Pink Star"),
+                             "symbol" = c("Black Star"),
                              "ptcode" = swc.boss$sample,
                              c(0))
 head(cplot.boss.swc)
@@ -58,7 +58,7 @@ paste(min(cplot.boss.swc$lat), min(cplot.boss.swc$lon),
 cplot.boss.aug <- data.frame("mark" = c("mark"),
                              "PXYCSLM" = c("PXYCSLM"),
                              DDtolatlon(aug.boss[, 1:2]),
-                             "symbol" = c("Blue Star"),
+                             "symbol" = c("Black Star"),
                              "ptcode" = aug.boss$sample,
                              c(0))
 head(cplot.boss.aug)
