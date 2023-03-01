@@ -1,7 +1,7 @@
 ###
 # Project: NESP 2.1
 # Data:    GA 250m Bathymetry
-# Task:    Create an Augusta sampling plan biased off roughness
+# Task:    Create an SwC sampling plan biased off roughness
 # author:  Claude Spencer
 # date:    February 2023
 ##
@@ -18,29 +18,28 @@ library(dplyr)
 library(stars)
 library(starsExtra)
 
-set.seed(22)
+set.seed(69) 
 
 wgscrs <- CRS("+proj=longlat +datum=WGS84")
+sppcrs <- CRS("+proj=utm +zone=50 +south +datum=WGS84 +units=m +no_defs")
 
-tifs  <- list.files("data/spatial/rasters/", "augusta*", full.names = TRUE)
+tifs  <- list.files("data/spatial/rasters/", "swc*", full.names = TRUE)         # From the mac-swc repo
 preds <- stack(tifs)
-
-e <- extent(114.887, 115.311, -34.7 ,-34.33)
-preds <- crop(preds, e)
 plot(preds)
+names(preds) <- c("depth", "detrended","roughness")
+crs(preds)
 
 # Make cuts
-n <- 90
+n <- 48
 
 hist(preds$roughness)
-roughness_qs <- c(0, 0.5, 0.8, 1)
+roughness_qs <- c(0, 0.85, 0.95, 1)
 roughness_cuts   <- quantile(preds$roughness, probs = roughness_qs)
 cat_roughness  <- cut(preds$roughness, breaks = roughness_cuts, na.rm = TRUE)
 plot(stack(preds$roughness, cat_roughness))
-# writeRaster(cat_roughness, "data/spatial/rasters/augusta_cat_roughness.tiff", overwrite = T)
 
 roughness_split <- data.frame(zones = unique(cat_roughness),
-                              split = c(0.30, 0.35, 0.35))
+                              split = c(0.1, 0.3, 0.6))
 roughness_split$zbruv <- roughness_split$split * n
 roughness_split
 
@@ -94,11 +93,20 @@ points( samp[,c("x","y")], pch=20, cex=1, col = "red")
 ## assign sampling order
 samp$DropC <- 1:nrow(samp)
 samp <- samp %>%
-  dplyr::mutate(sample = paste("AUG-DC", 
+  dplyr::mutate(sample = paste("SWC-BV", 
                                str_pad(row_number(), 2,                     
                                        side = "left", pad = "0") , sep = "-"))
 
 ## Write out sampling file 
-write.csv(samp,"data/mbh-design/Augusta_BOSS_MBH_wgs84.csv", row.names = F) # write out the each region
+write.csv(samp,"data/mbh-design/SwC_BRUV_MBH_utm50.csv", row.names = F) # Need to manually move some points to >250m separation
 
+# Move points manually in QGIS then run the next part
+samp_m <- st_read("data/mbh-design/SwC_BRUV_MBH_utm50.shp")                      
+samp_t <-  st_transform(samp_m, crs = wgscrs) %>%
+  dplyr::mutate(lon = st_coordinates(.)[,1],
+                lat = st_coordinates(.)[,2]) %>%
+  as.data.frame() %>%
+  dplyr::select(-geometry) %>%
+  glimpse()
 
+write.csv(samp_t,"data/mbh-design/SwC_BRUV_MBH_utm50.csv", row.names = F)

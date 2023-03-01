@@ -16,40 +16,34 @@ library(dplyr)
 library(stars)
 library(starsExtra)
 
+depth <- rast("data/spatial/rasters/raw bathymetry/multibeam_derivatives_depth.tif")
+detrended <- rast("data/spatial/rasters/raw bathymetry/multibeam_derivatives_detrended.tif")
+roughness <- rast("data/spatial/rasters/raw bathymetry/multibeam_derivatives_roughness.tif")
+
+preds <- rast(list(depth, detrended, roughness))
+names(preds) <- c("depth", "detrended", "roughness")
+
 wgscrs <- "+proj=longlat +datum=WGS84"
+sppcrs <- "+proj=utm +zone=50 +south +datum=WGS84 +units=m +no_defs"
 
-##########################################Read in bathy raster##############################
-e <- ext(114.3, 115.4, -34.8, -34.2)    
-depth <- rast("data/spatial/rasters/raw bathymetry/bath_250_good.tif") %>%
-  crop(e) %>%
-  clamp(lower = -200 ,upper = 0, values = F) %>%
-  trim()
-plot(depth)
-
-# Get bathymetry derivatives to have a play with
-# Investigator Island
-# Roughness
-rough <- terrain(depth, v = c("roughness"))
-
-# Stack em up
-preds <- rast(list(depth, rough))
-plot(preds[[2]])
-summary(preds)
-
-cwatr <- vect("data/spatial/shapefiles/amb_coastal_waters_limit_polygon.shp")
-aumpa <- vect("data/spatial/shapefiles/AustraliaNetworkMarineParks.shp")
+cwatr <- vect("data/spatial/shapefiles/amb_coastal_waters_limit_polygon.shp") %>%
+  terra::project(sppcrs)
+aumpa_sf <- st_read("data/spatial/shapefiles/AustraliaNetworkMarineParks.shp") %>%
+  dplyr::filter(ResName %in% "South-west Corner" & ZoneName %in% "National Park Zone")
+aumpa <- vect(aumpa_sf)  %>%
+  terra::project(sppcrs)
 plot(aumpa)
 preds <- mask(preds, cwatr, inverse = T)
 plot(preds[[1]])
 plot(aumpa, add = T)
-preds <- mask(preds, aumpa)
-plot(preds[[1]])
-preds[[1]] <- clamp(preds[[1]], lower = -120, value = F)
-preds[[2]] <- mask(preds[[2]], preds[[1]])                          
+preds <- mask(preds, aumpa) %>%
+  trim()
+preds[[1]] <- clamp(preds[[1]], lower = -80, value = F)
+preds[[2]] <- mask(preds[[2]], preds[[1]])  
+preds[[3]] <- mask(preds[[3]], preds[[1]]) 
+preds <- trim(preds)
 plot(preds)
 
-names(preds)[1] <- "depth"
-
 # Write out the tifs
-writeRaster(preds, paste0("data/spatial/rasters/augusta_",
+writeRaster(preds, paste0("data/spatial/rasters/swc_",
                               names(preds), ".tif"), overwrite = T)
