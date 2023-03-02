@@ -13,6 +13,7 @@ library(rgdal)
 library(gpx)
 library(sf)
 library(nngeo)
+library(GlobalArchive)
 source('R/01_MBH-design/functions.R')
 
 aug.boss <- read.csv("data/mbh-design/Augusta_BOSS_MBH_wgs84.csv") %>%
@@ -24,8 +25,50 @@ swc.boss <- read.csv("data/mbh-design/SwC_BOSS_MBH_utm50.csv") %>%
 swc.bruv <- read.csv("data/mbh-design/SwC_BRUV_MBH_wgs84.csv") %>%
   glimpse()
 
+mma <- read_csv("data/mbh-design/SI-1301 Proposed Seabed Sample Locations Cape Leeuwin_Rev1.csv") %>%
+  ga.clean.names() %>%
+  dplyr::mutate(latitude = str_replace_all(.$latitude, "\xb0 ", ".")) %>%
+  dplyr::mutate(latitude = str_replace_all(.$latitude, "' S", "")) %>%
+  dplyr::mutate(longitude = str_replace_all(.$longitude, "\xb0 ", ".")) %>%
+  dplyr::mutate(longitude = str_replace_all(.$longitude, "' E", "")) %>%
+  separate(latitude, into = c("lat.hour", "lat.min", "lat.dec"), sep = "\\.") %>%
+  dplyr::mutate(lat.dec = ifelse(str_length(.$lat.min) == 2,
+                                 signif(as.numeric(lat.dec), digits = 5) %>% str_sub(start = 1, end = 5), 
+                                 signif(as.numeric(lat.dec), digits = 6) %>% str_sub(start = 1, end = 6))) %>%
+  separate(longitude, into = c("lon.hour", "lon.min", "lon.dec"), sep = "\\.") %>%
+  dplyr::mutate(lon.dec = ifelse(str_length(.$lon.min) == 2,
+                                 signif(as.numeric(lon.dec), digits = 4) %>% str_sub(start = 1, end = 4), 
+                                 signif(as.numeric(lon.dec), digits = 5) %>% str_sub(start = 1, end = 5))) %>%
+  dplyr::mutate(latitude = paste0(paste(lat.hour, lat.min, lat.dec, sep = "."), "S"),
+                longitude = paste0(paste(lon.hour, lon.min, lon.dec, sep = "."), "E")) %>%
+  glimpse()
+
+mma.arc <- mma %>%
+  dplyr::mutate(lon.dd = (as.numeric(paste(lon.min, lon.dec, sep = "."))/60),
+                longitude = lon.dd + as.numeric(lon.hour),
+                lat.dd = (as.numeric(paste(lat.min, lat.dec, sep = "."))/60),
+                latitude = (lat.dd + as.numeric(lat.hour))*-1) %>%
+  dplyr::select(longitude, latitude, sample.no, proposed.sampling.methods, dab.no) %>%
+  glimpse()
+
+write.csv(mma.arc, "data/mbh-design/MMA_BOSS_wgs84.csv", row.names = F)
 
 # Export to txt file ready for processing into cplot .MRK file
+# MMA samples
+cplot.mma <- data.frame("mark" = c("mark"),
+                             "PXYCSLM" = c("PXYCSLM"),
+                             lon = mma$longitude,
+                             lat = mma$latitude, 
+                             "symbol" = c("Blue Star"),
+                             "ptcode" = mma$sample.no,
+                             c(0))
+head(cplot.mma)
+write.table(cplot.mma , "output/MBH-design/Augusta-SwC_2023-03/2023-03_MMA-backscatter.txt", sep = " ", 
+            col.names = FALSE, row.names = FALSE, quote = FALSE)
+
+paste(min(cplot.mma$lat), min(cplot.mma$lon),
+      max(cplot.mma$lat),max(cplot.mma$lon), sep = ",") # Add into 'Bounds' - not sure its needed or not 
+
 # SwC BRUVs
 cplot.bruv.swc <- data.frame("mark" = c("mark"),
                          "PXYCSLM" = c("PXYCSLM"),
