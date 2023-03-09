@@ -79,13 +79,6 @@ cplot.bruv.swc <- data.frame("mark" = c("mark"),
                          "ptcode" = swc.bruv$sample,
                          c(0))
 
-test <- swc.bruv %>%
-  cbind(DDtolatlon(swc.bruv[, 5:6]))
-
-measurements::conv_unit(114.9009, 
-                        from = "dec_deg", 
-                        to = "deg_dec_min")
-
 head(cplot.bruv.swc)
 write.table(cplot.bruv.swc , "output/MBH-design/Augusta-SwC_2023-03/2023-03_SwC_stereo-BRUVs.txt", sep = " ", 
             col.names = FALSE, row.names = FALSE, quote = FALSE)
@@ -108,6 +101,33 @@ paste(min(cplot.boss.swc$lat), min(cplot.boss.swc$lon),
       max(cplot.boss.swc$lat),max(cplot.boss.swc$lon), sep = ",") # Add into 'Bounds' - not sure its needed or not 
 
 # Augusta BOSS
+cplot.boss.aug.commas <- data.frame("mark" = c("mark"),
+                             "PXYCSLM" = c("PXYCSLM"),
+                             lon = measurements::conv_unit(aug.boss$x, 
+                                                           from = "dec_deg", 
+                                                           to = "deg_dec_min"),
+                             lat = measurements::conv_unit(aug.boss$y, 
+                                                           from = "dec_deg", 
+                                                           to = "deg_dec_min"),
+                             # DDtolatlon(aug.boss[,1:2]),
+                             "symbol" = c("Green Diamond"),
+                             "ptcode" = aug.boss$sample,
+                             c(0)) %>%
+  separate(lon, into = c("lon.hour", "lon.dm"), sep = " ") %>%
+  separate(lat, into = c("lat.hour", "lat.dm"), sep = " ") %>%
+  dplyr::mutate(lon.dm = as.character(signif(as.numeric(lon.dm, digits = 6))),
+                lat.dm = as.character(signif(as.numeric(lat.dm, digits = 6)))) %>%
+  separate(lon.dm, into = c("lon.min", "lon.dec"), sep = "\\.") %>%
+  separate(lat.dm, into = c("lat.min", "lat.dec"), sep = "\\.") %>%
+  dplyr::mutate(lon.dec = as.character(signif(as.numeric(lon.dec, digits = 4))),
+                lon.min = str_pad(.$lon.min, side = "left", pad = "0", width = 2)) %>%
+  dplyr::mutate(lon.dec = str_trunc(.$lon.dec, width = 4,  side = "right", ellipsis = "")) %>%
+  dplyr::mutate(lon.dec = str_pad(.$lon.dec, side = "right", pad = "0", width = 4),
+                lon = paste0(paste(lon.hour, lon.min, lon.dec, sep = "."), ",E"),
+                lat = sub('.', '',paste0(paste(lat.hour, lat.min, lat.dec, sep = "."), ",S"))) %>%
+  dplyr::select(mark, PXYCSLM, lon, lat, symbol, ptcode, c.0.) %>%
+  glimpse()
+
 cplot.boss.aug <- data.frame("mark" = c("mark"),
                              "PXYCSLM" = c("PXYCSLM"),
                              lon = measurements::conv_unit(aug.boss$x, 
@@ -116,32 +136,35 @@ cplot.boss.aug <- data.frame("mark" = c("mark"),
                              lat = measurements::conv_unit(aug.boss$y, 
                                                            from = "dec_deg", 
                                                            to = "deg_dec_min"),
-                             "symbol" = c("Black Star"),
+                             # DDtolatlon(aug.boss[,1:2]),
+                             "symbol" = c("Green Diamond"),
                              "ptcode" = aug.boss$sample,
                              c(0)) %>%
-  dplyr::mutate(lon = str_replace_all(.$lon, " ", "."),
-                lat = str_replace_all(.$lat, " ", ".")) %>%
-  dplyr::mutate(lat = str_replace_all(.$lat, "-", "")) %>%
-  dplyr::mutate(lon = paste0(lon, "E"),
-                lat = paste0(lat, "S")) %>%
+  separate(lon, into = c("lon.hour", "lon.dm"), sep = " ") %>%
+  separate(lat, into = c("lat.hour", "lat.dm"), sep = " ") %>%
+  dplyr::mutate(lon.dm = as.character(signif(as.numeric(lon.dm, digits = 6))),
+                lat.dm = as.character(signif(as.numeric(lat.dm, digits = 6)))) %>%
+  separate(lon.dm, into = c("lon.min", "lon.dec"), sep = "\\.") %>%
+  separate(lat.dm, into = c("lat.min", "lat.dec"), sep = "\\.") %>%
+  dplyr::mutate(lon.dec = as.character(signif(as.numeric(lon.dec, digits = 4))),
+                lon.min = str_pad(.$lon.min, side = "left", pad = "0", width = 2)) %>%
+  dplyr::mutate(lon.dec = str_trunc(.$lon.dec, width = 4,  side = "right", ellipsis = "")) %>%
+  dplyr::mutate(lon.dec = str_pad(.$lon.dec, side = "right", pad = "0", width = 4),
+                lon = paste0(paste(lon.hour, lon.min, lon.dec, sep = "."), "E"),
+                lat = sub('.', '',paste0(paste(lat.hour, lat.min, lat.dec, sep = "."), "S"))) %>%
+  dplyr::select(mark, PXYCSLM, lon, lat, symbol, ptcode, c.0.) %>%
   glimpse()
 
-measurements::conv_unit(115.0014, from = "dec_deg", to = "deg_dec_min")
-measurements::conv_unit(test[81,2], from = "dec_deg", to = "deg_dec_min")
+DDtolatlon(aug.boss[66,1:2])
+DDtolatlon(aug.boss[81,1:2])
 
-test <- cplot.boss.aug %>%
-  cbind(aug.boss) %>%
-  # dplyr::mutate(lon = conv_unit(lon, from = "deg_dec_min", to = "dec_deg"),
-  #               lat = conv_unit(lat, from = "deg_dec_min", to = "dec_deg")) %>%
-  dplyr::select(lon, x, lat, y, everything()) %>%
-  glimpse()
-
-head(cplot.boss.aug)
-write.table(cplot.boss.aug , "output/MBH-design/Augusta-SwC_2023-03/2023-03_Augusta_BOSS.txt", sep = " ", 
+write.table(cplot.boss.aug , "output/MBH-design/Augusta-SwC_2023-03/2023-03_Augusta_BOSS_20230310.txt", sep = " ", 
+            col.names = FALSE, row.names = FALSE, quote = FALSE)
+write.table(cplot.boss.aug.commas , "output/MBH-design/Augusta-SwC_2023-03/2023-03_Augusta_BOSS_20230310-commas.txt", sep = " ", 
             col.names = FALSE, row.names = FALSE, quote = FALSE)
 
-paste(min(cplot.boss.aug$y), min(cplot.boss.aug$x),
-      max(cplot.boss.aug$y), max(cplot.boss.aug$x), sep = ",") # Add into 'Bounds' - not sure its needed or not 
+paste(min(cplot.boss.aug$lat), min(cplot.boss.aug$lon),
+      max(cplot.boss.aug$lat), max(cplot.boss.aug$lon), sep = ",") # Add into 'Bounds' - not sure its needed or not 
 
 # # couldn't figure out how to get this to work with the quotation marks so I just pasted manually
 # "TMQ CPlot Chart Type 2   ",
