@@ -23,6 +23,8 @@ swc.boss <- read.csv("data/mbh-design/SwC_BOSS_MBH_utm50.csv") %>%
   glimpse()
 
 swc.bruv <- read.csv("data/mbh-design/SwC_BRUV_MBH_wgs84.csv") %>%
+  # mutate(lon = as.character(lon),
+  #        lat = as.character(lat)) %>%
   glimpse()
 
 mma <- read_csv("data/mbh-design/SI-1301 Proposed Seabed Sample Locations Cape Leeuwin_Rev1.csv") %>%
@@ -76,6 +78,14 @@ cplot.bruv.swc <- data.frame("mark" = c("mark"),
                          "symbol" = c("Blue Star"),
                          "ptcode" = swc.bruv$sample,
                          c(0))
+
+test <- swc.bruv %>%
+  cbind(DDtolatlon(swc.bruv[, 5:6]))
+
+measurements::conv_unit(114.9009, 
+                        from = "dec_deg", 
+                        to = "deg_dec_min")
+
 head(cplot.bruv.swc)
 write.table(cplot.bruv.swc , "output/MBH-design/Augusta-SwC_2023-03/2023-03_SwC_stereo-BRUVs.txt", sep = " ", 
             col.names = FALSE, row.names = FALSE, quote = FALSE)
@@ -100,10 +110,32 @@ paste(min(cplot.boss.swc$lat), min(cplot.boss.swc$lon),
 # Augusta BOSS
 cplot.boss.aug <- data.frame("mark" = c("mark"),
                              "PXYCSLM" = c("PXYCSLM"),
-                             DDtolatlon(aug.boss[, 1:2]),
+                             lon = measurements::conv_unit(aug.boss$x, 
+                                                           from = "dec_deg", 
+                                                           to = "deg_dec_min"),
+                             lat = measurements::conv_unit(aug.boss$y, 
+                                                           from = "dec_deg", 
+                                                           to = "deg_dec_min"),
                              "symbol" = c("Black Star"),
                              "ptcode" = aug.boss$sample,
-                             c(0))
+                             c(0)) %>%
+  dplyr::mutate(lon = str_replace_all(.$lon, " ", "."),
+                lat = str_replace_all(.$lat, " ", ".")) %>%
+  dplyr::mutate(lat = str_replace_all(.$lat, "-", "")) %>%
+  dplyr::mutate(lon = paste0(lon, "E"),
+                lat = paste0(lat, "S")) %>%
+  glimpse()
+
+measurements::conv_unit(115.0014, from = "dec_deg", to = "deg_dec_min")
+measurements::conv_unit(test[81,2], from = "dec_deg", to = "deg_dec_min")
+
+test <- cplot.boss.aug %>%
+  cbind(aug.boss) %>%
+  # dplyr::mutate(lon = conv_unit(lon, from = "deg_dec_min", to = "dec_deg"),
+  #               lat = conv_unit(lat, from = "deg_dec_min", to = "dec_deg")) %>%
+  dplyr::select(lon, x, lat, y, everything()) %>%
+  glimpse()
+
 head(cplot.boss.aug)
 write.table(cplot.boss.aug , "output/MBH-design/Augusta-SwC_2023-03/2023-03_Augusta_BOSS.txt", sep = " ", 
             col.names = FALSE, row.names = FALSE, quote = FALSE)
