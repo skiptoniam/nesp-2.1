@@ -1,13 +1,3 @@
-TMQ CPlot Chart Type 2   
-Description: Esperance BOSS     
-Bounds: "34.3.09009S,114.45.9002E,34.8.09243S,114.55.7538E"      
-Format: NM3      
-Rev. Date: 071122/133554     
-Scale: 1:00      
-Mag. Variation: 0     
-Cautions:       
-       
-<EOH>
 mark PXYCSLM 114.46.7366E 34.5.60889S Blue Star SWC-BV-01 0
 mark PXYCSLM 114.54.0518E 34.6.72001S Blue Star SWC-BV-02 0
 mark PXYCSLM 114.54.9457E 34.6.44527S Blue Star SWC-BV-03 0
