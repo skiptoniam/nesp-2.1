@@ -42,4 +42,31 @@ write.csv(JB_MBH, file = "data/mbh-design/Jurien_MBH_wgs84.csv",
           row.names = F)
 
 
+# Checking design against detrended bathymetry
+library(stars)
+library(starsExtra)
+library(terra)
 
+bathy <- rast("data/spatial/rasters/raw bathymetry/bath_250_good.tif") %>%
+  terra::clamp(upper = 0, values = NA) %>%
+  crop(ext(114.85, 115.85, -31.85, -31.5))
+plot(bathy)
+zstar <- st_as_stars(bathy)                                                     # Convert to a stars object
+detre <- detrend(zstar, parallel = 8)                                           # Detrend bathymetry - This usually runs quite slow!
+detre <- as(object = detre, Class = "SpatRaster")                               # Convert it to a terra raster
+names(detre) <- c("detrended", "lineartrend")
+plot(detre)
+detre <- detre[[1]]
+plot(detre)
+
+writeRaster(detre, filename = "data/spatial/rasters/two-rocks_detrended.tiff")
+
+tr.vec <- terra::vect(TR_MBH, geom = c("x", "y"), crs = "epsg:4326")
+
+
+detre.crop <- crop(detre, tr.vec)
+plot(detre.crop)
+plot(tr.vec, add = T)
+test <- terra::extract(detre.crop, TR_MBH %>% dplyr::select(x, y))
+summary(test$detrended)
+summary(detre.crop)
