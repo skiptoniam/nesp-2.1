@@ -26,6 +26,7 @@ library(ggplot2)
 library(metR)
 library(stringr)
 library(patchwork)
+library(raster)
 library(terra)
 library(ggnewscale)
 library(GlobalArchive)
@@ -252,7 +253,7 @@ cbathy      <- lapply(cbaths,                                                   
 cbathy      <- do.call("rbind", lapply(cbathy, as.data.frame))                  # Turns the list into a data frame
 bath_r      <- terra::rast(cbathy)                                              # Convert to a raster
 crs(bath_r) <- wgscrs                                                           # Set the CRS
-bath_r <- crop(bath_r, ext(114.600000000177, 115.5, -30.7166666670415, -30.1741099998549))
+# bath_r <- crop(bath_r, ext(114.600000000177, 115.5, -30.7166666670415, -30.1741099998549))
 plot(bath_r)
 
 bath_all <- as.data.frame(bath_r, xy = T)
@@ -283,29 +284,56 @@ p5
 dev.off()
 
 # Two rocks
-bathx_tr <- bath_all %>%
-  dplyr::mutate(y = round(y, digits = 4),
-                x = round(x, digits = 4)) %>%
-  dplyr::filter(y %in% -31.7237, x > 115.2 & x < 115.8) %>%
-  dplyr::mutate(distance.from.coast = (distHaversine(cbind(.$x, .$y),
-                                                     c(115.7062, -31.7237)))/1000) %>% # Coastline distance
-  dplyr::mutate(distance.from.coast = ifelse(Z <= 0, distance.from.coast*-1, distance.from.coast))
+sf_use_s2(T)
+points <- data.frame(x = c(114.9741, 115.7935), 
+                     y = c(-31.6035, -31.6035), id = 1)
 
-# bath_all[which.min(abs(-31.71-bath_all$y)),] # Closest to 0m sea level - ie coastline
-# 
-# test <- bath_all %>% dplyr::filter(y %in% -31.72375)
+tran <- sfheaders::sf_linestring(obj = points,
+                                 x = "x", 
+                                 y = "y",
+                                 linestring_id = "id")
+st_crs(tran) <- wgscrs
+
+tranv <- vect(tran)
+dep <- rast(bath_all)
+
+bathy <- terra::extract(dep, tranv, xy = T, ID = F)
+
+bath_cross <- st_as_sf(x = bathy, coords = c("x", "y"), crs = wgscrs)
+
+aus <- st_read("data/spatial/shapefiles/cstauscd_r.mif")
+st_crs(aus) <- st_crs(aumpa)
+aus <- st_transform(aus, wgscrs)
+aus <- aus[aus$FEAT_CODE %in% "mainland", ]
+aus <- st_union(aus)
+plot(aus)
+ausout <- st_cast(aus, "MULTILINESTRING")
+plot(ausout)
+
+bath_sf <- bath_cross %>%
+  dplyr::mutate(land = lengths(st_intersects(bath_cross, aus)) > 0) %>%
+  bind_cols(st_coordinates(.)) %>%
+  glimpse()
+
+bath_df1 <- as.data.frame(bath_sf) %>%
+  dplyr::select(-geometry) %>%
+  dplyr::rename(depth = "Z") %>%
+  dplyr::mutate(distance.from.coast = as.numeric((distHaversine(cbind(.$X, .$Y),
+                                                                c(115.6488,-31.60375)))/1000)) %>%
+  dplyr::mutate(distance.from.coast = ifelse(land %in% "FALSE", distance.from.coast*-1, distance.from.coast)) %>%
+  dplyr::filter(depth > -250) %>%
+  glimpse()
 
 p6 <- ggplot() +
-  geom_rect(aes(xmin = min(bathx_tr$distance.from.coast), xmax = 5, ymin =-Inf, ymax = 0), fill = "#12a5db", alpha = 0.5) +
-  geom_line(data = bathx_tr, aes(y = Z, x = distance.from.coast))+
-  geom_ribbon(data = bathx_tr, aes(ymin = -Inf, ymax = Z, x = distance.from.coast), fill = "tan") +
+  geom_rect(aes(xmin = min(bath_df1$distance.from.coast), xmax = 5, ymin =-Inf, ymax = 0), fill = "#12a5db", alpha = 0.5) +
+  geom_segment(aes(x = -5.556, xend = -5.556, y =-21, yend = 0), color = "red") +
+  geom_line(data = bath_df1, aes(y = depth, x = distance.from.coast))+
+  geom_ribbon(data = bath_df1, aes(ymin = -Inf, ymax = depth, x = distance.from.coast), fill = "tan") +
   theme_classic() +
   scale_x_continuous(expand = c(0,0)) +
   # scale_y_continuous(breaks = c(150, 0, -150, -300, -450, -600),expand = c(0,0), limits = c(-700, 240)) +
-  labs(x = "Distance from coast (km)", y = "Elevation (m)") + 
-  # annotate("text", x = 3, y = 200, label = "Boranup") +
-  geom_segment(aes(x = -5.556, xend = -5.556, y =-15, yend = 0), color = "red") +
-  geom_segment(aes(x = -13.2562708, xend = -13.2562708, y = -34, yend =  0), color = "green")
+  labs(x = "Distance from coast (km)", y = "Elevation (m)") 
+  
 
 png(filename = "plots/tworocks-cross-section.png", width = 8, height = 4,
     units = "in", res = 200)
