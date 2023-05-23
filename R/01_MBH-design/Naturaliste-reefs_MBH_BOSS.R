@@ -27,6 +27,7 @@ tifs  <- list.files("data/spatial/rasters/", "naturaliste*", full.names = TRUE) 
 preds <- stack(tifs)
 plot(preds)
 names(preds) <- c("depth", "roughness")
+test <- as.data.frame(preds[[2]])
 
 e <- extent(114.9347, 115.1329, -33.3489, -33.1741)
 preds <- crop(preds, e)
