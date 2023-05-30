@@ -29,12 +29,12 @@ plot(preds)
 names(preds) <- c("depth", "roughness")
 test <- as.data.frame(preds[[2]])
 
-e <- extent(114.9347, 115.1329, -33.3489, -33.1741)
+e <- extent(114.97, 115.08, -33.26, -33.1741)
 preds <- crop(preds, e)
 plot(preds)
 
 # Make cuts
-n <- 90
+n <- 50
 
 hist(preds$roughness)
 roughness_qs <- c(0, 0.55, 0.9, 1)
@@ -97,9 +97,9 @@ points( samp[,c("x","y")], pch=20, cex=1, col = "red")
 ## assign sampling order
 samp$DropC <- 1:nrow(samp)
 samp <- samp %>%
-  dplyr::mutate(sample = paste("NAT-DC", 
+  dplyr::mutate(sample = paste("DC", 
                                str_pad(row_number(), 2,                     
-                                       side = "left", pad = "0") , sep = "-"))
+                                       side = "left", pad = "0") , sep = ""))
 
 # samp_m <- st_as_sf(samp, coords = c("x", "y"))
 # st_crs(samp_m) <- sppcrs

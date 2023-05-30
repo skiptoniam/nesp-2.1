@@ -6,9 +6,6 @@
 # date:    March 2023
 ##
 
-
-
-
 # Clear memory
 rm(list=ls()) 
 
@@ -31,12 +28,12 @@ preds <- stack(tifs)
 plot(preds)
 names(preds) <- c("depth", "roughness")
 
-e <- extent(114.9347, 115.07, -33.3489, -33.2)
+e <- extent(114.955, 115.01, -33.34, -33.28)
 preds <- crop(preds, e)
 plot(preds)
 
 # Make cuts
-n <- 12
+n <- 6
 
 hist(preds$roughness)
 roughness_qs <- c(0, 0.55, 0.9, 1)
@@ -99,9 +96,9 @@ points( samp[,c("x","y")], pch=20, cex=1, col = "red")
 ## assign sampling order
 samp$DropC <- 1:nrow(samp)
 samp <- samp %>%
-  dplyr::mutate(sample = paste("NAT-DC", 
+  dplyr::mutate(sample = paste("ST", 
                                str_pad(row_number(), 2,                     
-                                       side = "left", pad = "0") , sep = "-"))
+                                       side = "left", pad = "0") , sep = ""))
 
 # samp_m <- st_as_sf(samp, coords = c("x", "y"))
 # st_crs(samp_m) <- sppcrs
@@ -113,6 +110,6 @@ samp <- samp %>%
 #   glimpse()
 
 ## Write out sampling file 
-write.csv(samp,"data/mbh-design/NATREEF_LONGBOSS_MBH_wgs84.csv", row.names = F) # write out the each region
+write.csv(samp,"data/mbh-design/NATREEF_SOUNDTRAP-BOSS_MBH_wgs84.csv", row.names = F) # write out the each region
 
 
