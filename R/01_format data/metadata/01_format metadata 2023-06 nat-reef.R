@@ -1,9 +1,9 @@
 ###
-# Project: NESP 2.1 - Two Rocks 2023-05
+# Project: NESP 2.1 - Naturaliste Reefs 2023-06
 # Data:    BRUVS, BOSS
 # Task:    Add metadata to meg labsheets from marks added to iPads using collector 
 # author:  Brooke Gibbons & Claude
-# date:    March 2023
+# date:    June 2023
 ##
 
 rm(list = ls())
@@ -70,12 +70,12 @@ boss.metadata.names <- c(system.number = NA_real_,
                          video.notes = NA_real_)
 
 # Check files in data folder 
-dir("data/metadata/2023-05_Two-rocks/") # BOSS
+dir("data/metadata/2023-06_Nat-reef/") # BOSS
 
-# BOSS two rocks
 sampling.never.starts.after <- "12:00:00"
 
-boss.cameras <- read.csv("data/metadata/2023-05_Two-rocks/2023_05_TwoRocks_BOSS_cameras.csv") %>%
+# BOSS regular spec
+boss.cameras <- read.csv("data/metadata/2023-06_Nat-reef/2023-06_Naturaliste-Reefs_BOSS_cameras.csv") %>%
   ga.clean.names() %>%
   dplyr::rename(system.number = system.)%>%
   dplyr::mutate(time = mdy_hms(creationdate, tz = "UTC"))  %>%
@@ -103,10 +103,10 @@ boss.cameras <- read.csv("data/metadata/2023-05_Two-rocks/2023_05_TwoRocks_BOSS_
 names(boss.cameras)
 
 # add to labsheet on google drive
-sheet_append(url, boss.cameras, sheet = "2023-05_Two-Rocks_BOSS_cameras")
+sheet_append(url, boss.cameras, sheet = "2023-06_Naturaliste-Reefs_stereo-BOSS_cameras")
 
 # this is the only one that goes to the metadata!!
-boss.metadata <- read.csv("data/metadata/2023-05_Two-rocks/2023_05_TwoRocks_BOSS_metadata.csv") %>%
+boss.metadata <- read.csv("data/metadata/2023-06_Nat-reef/2023-06_Naturaliste-Reefs_BOSS_metadata.csv") %>%
   ga.clean.names() %>%
   dplyr::rename(system.number = system., depth = depth.m., longitude = x, latitude = y, video.notes = notes) %>%
   dplyr::mutate(depth = conv_unit(depth, "fathom", "m")) %>%
@@ -153,4 +153,85 @@ boss.metadata.zones <- boss.metadata %>%
 
 
 # add to labsheet on google drive
-sheet_append(url, boss.metadata.zones, sheet = "2023-05_Two-Rocks_BOSS")
+sheet_append(url, boss.metadata.zones, sheet = "2023-06_Naturaliste-Reefs_stereo-BOSS")
+
+# BOSS soundtrap spec
+boss.cameras <- read.csv("data/metadata/2023-06_Nat-reef/2023-06_Naturaliste-Reefs_Soundtrap-BOSS_cameras.csv") %>%
+  ga.clean.names() %>%
+  dplyr::rename(system.number = system.)%>%
+  dplyr::mutate(time = mdy_hms(creationdate, tz = "UTC"))  %>%
+  dplyr::mutate(local.time = with_tz(time, tz = "Australia/Perth")) %>%
+  dplyr::mutate(date = substr(.$local.time, 1, 10)) %>%
+  dplyr::mutate(noon = paste(date, sampling.never.starts.after)) %>% 
+  dplyr::mutate(noon = ymd_hms(noon, tz = "Australia/Perth"))  %>%
+  dplyr::mutate(date = ymd(date)) %>%
+  dplyr::mutate(date = if_else(noon < local.time, (date + days(1)), date)) %>%
+  dplyr::select(date, system.number, 
+                north.top.camera, north.bottom.camera,
+                east.top.camera, east.bottom.camera,
+                south.top.camera, south.bottom.camera,
+                west.top.camera, west.bottom.camera,
+                downwards.camera) %>%
+  mutate(across(everything(), as.character)) %>%
+  pivot_longer(!c(date, system.number), names_to = "position", values_to = "camera.number") %>%
+  separate(position, into = c("face", "position"), sep = "[^[:alnum:]]+", extra = "merge") %>%
+  dplyr::mutate(position = if_else(face %in% "downwards", "top.camera", position)) %>%
+  distinct() %>%
+  pivot_wider(names_from = position, values_from = camera.number) %>%
+  dplyr::select(system.number, everything()) %>%
+  glimpse()
+
+names(boss.cameras)
+
+# add to labsheet on google drive
+sheet_append(url, boss.cameras, sheet = "2023-06_Naturaliste-Reefs_3-hour_stereo-BOSS_cams")
+
+# this is the only one that goes to the metadata!!
+boss.metadata <- read.csv("data/metadata/2023-06_Nat-reef/2023-06_Naturaliste-Reefs_Soundtrap-BOSS_metadata.csv") %>%
+  ga.clean.names() %>%
+  dplyr::rename(system.number = system., depth = depth.m., longitude = x, latitude = y, video.notes = notes) %>%
+  dplyr::mutate(depth = conv_unit(depth, "fathom", "m")) %>%
+  dplyr::mutate(time = mdy_hms(creationdate, tz = "UTC")) %>%
+  dplyr::mutate(local.time = with_tz(time, tz = "Australia/Perth")) %>%
+  dplyr::select(system.number, sample, depth, video.notes, latitude, longitude, time, local.time) %>%
+  dplyr::mutate(date = substr(.$local.time, 1, 10)) %>%
+  # left_join(bruv.cameras) %>% # don't need to do this for BOSS as two sep sheets
+  dplyr::mutate(local.time = as.character(local.time)) %>%
+  glimpse()
+
+# metadata as sf
+boss.metadata.sf <- st_as_sf(boss.metadata, coords = c("longitude", "latitude"), crs = wgscrs)
+
+boss.metadata.commonwealth <- boss.metadata.sf %>%
+  st_intersection(aumpa %>% dplyr::select(geometry, ZoneName)) %>%
+  as.data.frame() %>%
+  dplyr::select(-c(geometry)) %>%
+  dplyr::mutate(status = ifelse(ZoneName %in% "National Park Zone", "No-take", "Fished")) %>%
+  dplyr::rename(zone = ZoneName) %>%
+  mutate(across(everything(), as.character)) %>%
+  glimpse()
+
+boss.metadata.state <- boss.metadata.sf %>%
+  st_intersection(wampa %>% dplyr::select(geometry, waname)) %>%
+  as.data.frame() %>%
+  dplyr::select(-c(geometry)) %>%
+  dplyr::mutate(status = ifelse(waname %in% "Sanctuary Zone", "No-take", "Fished")) %>%
+  dplyr::rename(zone = waname) %>%
+  mutate(across(everything(), as.character)) %>%
+  glimpse()
+
+boss.metadata.zones <- boss.metadata %>%
+  mutate(across(everything(), as.character)) %>%
+  full_join(boss.metadata.commonwealth) %>%
+  full_join(boss.metadata.state) %>%
+  dplyr::mutate(status = if_else(status %in% c(NA, NULL), "Fished", status)) %>%
+  add_column(!!!boss.metadata.names[!names(boss.metadata.names) %in% names(.)]) %>%
+  dplyr::select(system.number, sample, latitude, longitude, date, time, local.time, 
+                site, location, status, depth, successful.count, successful.length, 
+                successful.habitat.panoramic, successful.habitat.downward, observer.count,
+                observer.length, observer.habitat.panoramic, observer.habitat.downward, video.notes) %>%
+  glimpse()
+
+
+# add to labsheet on google drive
+sheet_append(url, boss.metadata.zones, sheet = "2023-06_Naturaliste-Reefs_3-hour_stereo-BOSS")
