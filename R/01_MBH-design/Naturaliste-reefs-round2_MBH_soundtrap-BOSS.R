@@ -13,7 +13,7 @@ library(tidyverse)
 
 round1 <- read.csv("data/metadata/2023-06_Nat-reef/2023-06_Naturaliste-Reefs_BOSS_metadata.csv") %>%
   dplyr::select(x, y, Sample) %>%
-  dplyr::filter(Sample %in% c("DC03", "DC07", "DC31", "DCC01", "DCC04", "DCC11")) %>%
+  dplyr::filter(Sample %in% c("DC03", "DC07", "DC31", "DCC01", "DCC07", "DCC11")) %>%
   dplyr::rename(old.sample = Sample) %>%
   glimpse()
 
