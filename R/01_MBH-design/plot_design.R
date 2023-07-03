@@ -43,7 +43,9 @@ p1 <- ggplot() +
 inset <- ggplot() +
   geom_sf(data = aus, fill = "seashell2", colour = "grey80", size = 5) +
   annotate(geom = "rect", xmin = 114, xmax = 116.5, ymin = -34, ymax = -32.5,
-           colour = "grey25", fill = "white", alpha = 1/5, size = 0.2)+
+           colour = "grey25", fill = "white", alpha = 1/5, size = 0.2) +
+  # annotate(geom = "rect", xmin = 114, xmax = 116.5, ymin = -35, ymax = -32.5,
+  #          colour = "grey25", fill = "white", alpha = 1/5, size = 0.2)+       # Added this one for Tim's AMSA sea level film
   theme_bw() +
   theme(axis.text = element_blank(), 
         axis.ticks = element_blank(),
@@ -58,6 +60,11 @@ p1_inset <- p1 + inset_element(inset, left = 0.72, bottom = 0, right = 1, top = 
 png(filename = "plots/geographe-mbh-exerpt.png", height = 4.5, width = 8,
       units = "in", res = 300)
 p1_inset
+dev.off()
+
+png(filename = "plots/aus-inset.png", height = 4, width = 5,
+    res = 300, units = "in")
+inset
 dev.off()
 
 
