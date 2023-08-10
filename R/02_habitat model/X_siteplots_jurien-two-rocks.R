@@ -99,7 +99,7 @@ bath_jb <- bath_df[bath_df$y > -31.0,]
 # Jurien Bay
 # build basic plot elements
 p1 <- ggplot() +
-  geom_tile(data = hill,aes(x = x, y = y, fill = lyr1), alpha = 1) +
+  geom_tile(data = hill,aes(x = x, y = y, fill = hillshade), alpha = 1) +
   scale_fill_gradient(low = "white", high = "black", guide = "none") +
   new_scale_fill() +
   geom_tile(data = bath_jb, aes(x = x, y = y, fill = Z), alpha = 0.7) +
@@ -123,7 +123,7 @@ dev.off()
 
 # Two Rocks
 p2 <- ggplot() +
-  geom_tile(data = hill,aes(x = x, y = y, fill = lyr1), alpha = 1) +
+  geom_tile(data = hill,aes(x = x, y = y, fill = hillshade), alpha = 1) +
   scale_fill_gradient(low = "white", high = "black", guide = "none") +
   new_scale_fill() +
   geom_tile(data = bath_tr, aes(x = x, y = y, fill = Z), alpha = 0.7) +
@@ -326,7 +326,10 @@ bath_df1 <- as.data.frame(bath_sf) %>%
 
 p6 <- ggplot() +
   geom_rect(aes(xmin = min(bath_df1$distance.from.coast), xmax = 5, ymin =-Inf, ymax = 0), fill = "#12a5db", alpha = 0.5) +
+  geom_rect(aes(xmin = -5.555, xmax = -13, ymin = -35, ymax = 0), fill = "#7bbc63", alpha = 0.6) +
   geom_segment(aes(x = -5.556, xend = -5.556, y =-21, yend = 0), color = "red") +
+  # geom_segment(aes(x = -5.65, xend = -5.65, y =-21, yend = 0), color = "#7bbc63") +
+  # geom_segment(aes(x = -13, xend = -13, y =-30, yend = 0), color = "#7bbc63") +
   geom_line(data = bath_df1, aes(y = depth, x = distance.from.coast))+
   geom_ribbon(data = bath_df1, aes(ymin = -Inf, ymax = depth, x = distance.from.coast), fill = "tan") +
   theme_classic() +
