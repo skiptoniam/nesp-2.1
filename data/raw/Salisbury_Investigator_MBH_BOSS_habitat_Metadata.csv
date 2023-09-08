@@ -1,4 +1,4 @@
-Sample,Date,Time,Time.out,Depth,Location,Site,Status,Latitude,Longitude,Exclude,Deployment.notes,Waypoint,Left.mem.card,Right.mem.card,Left.cam,Right.cam,Field.notes,Raw.hdd.number,Con.hdd.number,Observer,Maxn.complete.yyyymmdd,Maxn.checker,Successful.count,Length.analyst,Length.complete.date.yyyymmdd,Successful.length,Habitat.image.forward,Analysis.notes
+Sample,Date,Time,Time.out,Depth,Location,Site,Status,Longitude,Latitude,Exclude,Deployment.notes,Waypoint,Left.mem.card,Right.mem.card,Left.cam,Right.cam,Field.notes,Raw.hdd.number,Con.hdd.number,Observer,Maxn.complete.yyyymmdd,Maxn.checker,Successful.count,Length.analyst,Length.complete.date.yyyymmdd,Successful.length,Habitat.image.forward,Analysis.notes
 INV-DC_101,25/11/2022,459,506,47,Investigator MBH,,,121.1817837,-33.9068775,,"wait for second clapper sync, the wait for 3 clapper for drop number, not in qgis map",1,,,,,,,,,,,,,,,,
 INV-DC-071,25/11/2022,518,525,56,Investigator MBH,,,121.1584054,-33.9164978,,wrong clapper after this one,2,,,,,,,,,,,,,,,,
 INV-DC-013,25/11/2022,544,550,52,Investigator MBH,,,121.1206892,-33.90787547,,wrong clapper number after,3,,,,,,,,,,,,,,,,

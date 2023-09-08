@@ -1,522 +1,588 @@
-"campaignid","sample","latitude","longitude","date","site","location","successful.count","depth","broad.ascidians","broad.bryozoa","broad.consolidated","broad.hydroids","broad.invertebrate.complex","broad.macroalgae","broad.octocoral.black","broad.sea.stars","broad.seagrasses","broad.sponges","broad.stony.corals","broad.unconsolidated","broad.total.points.annotated"
-"2022-11_Investigator_stereo-BRUVs","INV-BV-70","-34.06644167","120.9385767","2022-11-03","Investigator Island","South-west Corner",NA,"64.4",0,1,0,2,10,4,8,0,0,5,0,3,33
-"2022-11_Investigator_stereo-BRUVs","INV-BV-36","-34.06377339","120.9386308","2022-11-03","Investigator Island","South-west Corner",NA,"49.7",0,0,1,0,0,30,0,0,0,0,0,0,31
-"2022-11_Investigator_stereo-BRUVs","INV-BV-62","-34.05634538","120.9663105","2022-11-03","Investigator Island","South-west Corner",NA,"66.4",0,0,0,0,0,0,0,0,0,0,0,34,34
-"2022-11_Investigator_stereo-BRUVs","INV-BV-58","-34.04880504","120.9512688","2022-11-03","Investigator Island","South-west Corner",NA,"60.3",0,0,0,0,0,0,0,0,0,0,0,32,32
-"2022-11_Investigator_stereo-BRUVs","INV-BV-07","-34.04886","120.94125","2022-11-03","Investigator Island","South-west Corner",NA,"57.7",0,10,0,0,2,5,0,0,0,3,0,13,33
-"2022-11_Investigator_stereo-BRUVs","INV-BV-14","-34.043595","120.9337917","2022-11-03","Investigator Island","South-west Corner",NA,"53.8",0,1,0,0,0,4,0,0,0,0,0,28,33
-"2022-11_Investigator_stereo-BRUVs","INV-BV-20","-34.04372603","120.9536963","2022-11-03","Investigator Island","South-west Corner",NA,"57.9",0,0,0,0,0,0,0,0,0,0,0,33,33
-"2022-11_Investigator_stereo-BRUVs","INV-BV-11","-34.03604","120.9485867","2022-11-03","Investigator Island","South-west Corner",NA,"45.5",0,0,0,0,3,12,2,0,0,13,0,0,30
-"2022-11_Investigator_stereo-BRUVs","INV-BV-05","-34.03111308","120.9263512","2022-11-03","Investigator Island","South-west Corner",NA,"58.9",0,1,0,0,0,1,0,0,0,0,0,27,29
-"2022-11_Investigator_stereo-BRUVs","INV-BV-28","-34.01881825","120.9464186","2022-11-03","Investigator Island","South-west Corner",NA,"51.4",0,0,0,0,0,0,0,0,0,0,0,30,30
-"2022-11_Investigator_stereo-BRUVs","INV-BV-03","-34.02375","120.95625","2022-11-03","Investigator Island","South-west Corner",NA,"60.7",0,6,0,0,5,0,1,0,0,7,0,7,26
-"2022-11_Investigator_stereo-BRUVs","INV-BV-60","-34.00636381","120.9662883","2022-11-03","Investigator Island","South-west Corner",NA,"59.1",0,7,0,0,0,0,0,0,0,4,0,17,28
-"2022-11_Investigator_stereo-BRUVs","INV-BV-27","-34.00131032","120.9309073","2022-11-03","Investigator Island","South-west Corner",NA,"48.8",0,3,1,0,0,12,0,0,0,0,0,16,32
-"2022-11_Investigator_stereo-BRUVs","INV-BV-53","-33.99632242","120.9440016","2022-11-03","Investigator Island","South-west Corner",NA,"51.7",0,3,0,0,0,3,0,0,0,0,0,22,28
-"2022-11_Investigator_stereo-BRUVs","INV-BV-44","-33.99618368","120.9237852","2022-11-03","Investigator Island","South-west Corner",NA,"50.2",0,1,0,0,2,10,0,0,0,2,0,15,30
-"2022-11_Investigator_stereo-BRUVs","INV-BV-17","-33.99125","120.90875","2022-11-03","Investigator Island","South-west Corner",NA,"50",0,1,0,0,0,6,0,0,0,1,0,27,35
-"2022-11_Investigator_stereo-BRUVs","INV-BV-22","-33.9763802","120.9337514","2022-11-03","Investigator Island","South-west Corner",NA,"47.3",0,2,1,0,0,19,0,0,0,0,0,9,31
-"2022-11_Investigator_stereo-BRUVs","CP2","-33.96610615","120.9326288","2022-11-03","Investigator Island","South-west Corner",NA,"43.6",0,3,0,0,0,6,0,0,0,3,0,20,32
-"2022-11_Investigator_stereo-BRUVs","CP3","-33.96994272","120.9004951","2022-11-03","Investigator Island","South-west Corner",NA,"49.8",0,0,0,0,0,3,0,0,0,0,0,28,31
-"2022-11_Investigator_stereo-BRUVs","CP4","-33.97750151","120.9150978","2022-11-03","Investigator Island","South-west Corner",NA,"46.7",0,0,0,0,0,0,0,0,0,0,0,33,33
-"2022-11_Investigator_stereo-BRUVs","INV-BV-35","-33.9513702","120.9730724","2022-11-04","Investigator Island","South-west Corner",NA,"44.8",0,0,0,0,2,9,0,0,0,0,0,19,30
-"2022-11_Investigator_stereo-BRUVs","INV-BV-55","-33.94625","120.95375","2022-11-04","Investigator Island","South-west Corner",NA,"41",1,0,0,0,0,15,0,0,0,0,0,14,30
-"2022-11_Investigator_stereo-BRUVs","INV-BV-26","-33.9438414","120.9713517","2022-11-04","Investigator Island","South-west Corner",NA,"45.5",0,0,0,0,0,16,0,0,0,0,0,20,36
-"2022-11_Investigator_stereo-BRUVs","INV-BV-66","-33.92904866","120.9838657","2022-11-04","Investigator Island","South-west Corner","No","36.8",0,0,0,0,0,6,0,0,0,0,0,12,18
-"2022-11_Investigator_stereo-BRUVs","INV-BV-51","-33.92622075","120.9988784","2022-11-04","Investigator Island","South-west Corner",NA,"44.2",0,0,0,0,0,26,0,0,0,1,0,2,29
-"2022-11_Investigator_stereo-BRUVs","INV-BV-24","-33.92866816","121.0312282","2022-11-04","Investigator Island","South-west Corner",NA,"46.3",0,0,1,0,10,3,0,0,0,2,0,19,35
-"2022-11_Investigator_stereo-BRUVs","INV-BV-02","-33.92375","121.05875","2022-11-04","Investigator Island","South-west Corner",NA,"38.4",0,0,0,0,0,15,0,0,0,0,0,20,35
-"2022-11_Investigator_stereo-BRUVs","INV-BV-48","-33.93625","121.06125","2022-11-04","Investigator Island","South-west Corner",NA,"39.7",0,0,0,1,4,23,0,0,0,3,0,0,31
-"2022-11_Investigator_stereo-BRUVs","INV-BV-29","-33.95375","121.04625","2022-11-04","Investigator Island","South-west Corner",NA,"57.7",0,0,0,0,0,0,0,0,0,0,0,35,35
-"2022-11_Investigator_stereo-BRUVs","INV-BV-42","-33.9486914","121.026183","2022-11-04","Investigator Island","South-west Corner",NA,"58.6",0,1,0,0,0,0,0,0,0,0,0,31,32
-"2022-11_Investigator_stereo-BRUVs","INV-BV-57","-33.95625","121.02375","2022-11-04","Investigator Island","South-west Corner",NA,"60.2",0,0,1,0,1,5,0,0,0,1,0,22,30
-"2022-11_Investigator_stereo-BRUVs","INV-BV-69","-33.95376898","121.0163822","2022-11-04","Investigator Island","Eastern Recherche",NA,"57.4",0,5,0,0,7,3,1,0,0,6,0,12,34
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-091","-34.36013659","123.5225436","2022-11-21","Salisbury Island","Eastern Recherche",NA,"51.7",0,0,2,0,0,28,0,0,0,0,0,0,30
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-059","-34.3532273","123.5359638","2022-11-21","Salisbury Island","Eastern Recherche",NA,"35.5",0,0,0,0,0,0,0,0,0,0,0,19,19
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-047","-34.31721358","123.4814367","2022-11-21","Salisbury Island","Eastern Recherche",NA,"83",0,4,0,0,5,0,0,0,0,10,0,16,35
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-022","-34.32191272","123.5100899","2022-11-21","Salisbury Island","Eastern Recherche",NA,"81.8",0,1,0,0,1,0,0,0,0,3,0,28,33
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C01","-34.31912852","123.518249","2022-11-21","Salisbury Island","Eastern Recherche",NA,"79.5",0,2,0,0,2,0,0,0,0,4,0,26,34
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C02","-34.31604117","123.5394085","2022-11-21","Salisbury Island","Eastern Recherche",NA,"72.5",0,2,0,0,0,0,0,0,0,0,0,33,35
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C03","-34.30883246","123.5191172","2022-11-21","Salisbury Island","Eastern Recherche",NA,"77.6",0,0,0,0,0,0,0,0,0,0,0,29,29
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-056","-34.30190728","123.4926449","2022-11-21","Salisbury Island","Eastern Recherche",NA,"80.4",0,0,0,0,1,0,0,0,0,0,0,30,31
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-063","-34.39273574","123.5255309","2022-11-21","Salisbury Island","Eastern Recherche",NA,"83.5",0,1,0,0,6,0,1,0,0,3,0,23,34
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C04","-34.39788544","123.5243921","2022-11-21","Salisbury Island","Eastern Recherche",NA,"81.4",0,1,0,0,4,0,0,0,0,0,0,29,34
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C05","-34.40376508","123.5171644","2022-11-21","Salisbury Island","Eastern Recherche",NA,"83.5",0,0,1,0,0,0,0,0,0,2,0,22,25
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C07","-34.40662698","123.5222674","2022-11-21","Salisbury Island","Eastern Recherche",NA,"66.3",0,0,0,5,15,0,6,0,0,9,0,0,35
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-027","-34.41246656","123.5395713","2022-11-21","Salisbury Island","Eastern Recherche",NA,"86.1",0,0,0,0,5,0,2,0,0,1,0,22,30
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-032","-34.42764662","123.5610232","2022-11-21","Salisbury Island","Eastern Recherche",NA,"90.4",0,0,0,0,7,0,0,0,0,4,0,24,35
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C06","-34.42974534","123.5382463","2022-11-21","Salisbury Island","Eastern Recherche",NA,"90.8",0,0,0,0,0,0,0,0,0,0,0,23,23
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-043","-34.43747999","123.5081563","2022-11-21","Salisbury Island","Eastern Recherche",NA,"91.6",0,0,0,0,5,0,1,0,0,9,0,19,34
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-057","-34.45575408","123.6618775","2022-11-22","Salisbury Island","Eastern Recherche",NA,"84.6",0,0,0,0,0,0,0,0,0,0,0,28,28
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-080","-34.46316253","123.6481971","2022-11-22","Salisbury Island","Eastern Recherche",NA,"85.9",0,0,0,0,0,0,0,0,0,0,0,34,34
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-001","-34.46670461","123.6283059","2022-11-22","Salisbury Island","Eastern Recherche",NA,"47.8",0,0,3,0,0,31,0,0,0,0,0,0,34
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C08","-34.46984078","123.6226578","2022-11-22","Salisbury Island","Eastern Recherche",NA,"84.1",0,3,0,0,6,0,0,0,0,9,0,19,37
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C09","-34.47247845","123.5976589","2022-11-22","Salisbury Island","Eastern Recherche",NA,"86.4",0,2,0,0,6,0,0,0,0,6,0,21,35
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-054","-34.47094964","123.5662194","2022-11-22","Salisbury Island","Eastern Recherche",NA,"86.4",0,0,0,0,6,0,0,0,0,6,0,26,38
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C10","-34.4601941","123.5699235","2022-11-22","Salisbury Island","Eastern Recherche",NA,"82.3",0,0,2,1,21,0,0,0,0,3,0,9,36
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-083","-34.43899483","123.6116742","2022-11-22","Salisbury Island","Eastern Recherche",NA,"81",0,0,0,0,0,0,0,0,0,1,0,33,34
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-068","-34.41095643","123.5949456","2022-11-22","Salisbury Island","Eastern Recherche",NA,"88.8",0,0,1,4,7,0,0,1,0,4,0,22,39
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-013","-34.40500309","123.624557","2022-11-22","Salisbury Island","Eastern Recherche",NA,"83.4",0,2,0,3,5,0,0,0,0,12,0,14,36
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-049","-34.38435333","123.6363099","2022-11-22","Salisbury Island","Eastern Recherche",NA,"82.4",0,4,0,0,1,0,1,0,0,1,0,21,28
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C11","-34.37083794","123.643165","2022-11-22","Salisbury Island","Eastern Recherche","No","80.9",0,1,0,0,2,0,1,0,0,2,0,14,20
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-026","-34.35307209","123.6522622","2022-11-22","Salisbury Island","Eastern Recherche",NA,"79.4",0,1,0,1,7,0,0,0,0,3,0,24,36
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-035","-34.34593659","123.6629647","2022-11-22","Salisbury Island","Eastern Recherche",NA,"78.9",0,0,0,1,0,0,1,0,0,7,0,19,28
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C12","-34.34719439","123.6530581","2022-11-22","Salisbury Island","Eastern Recherche",NA,"80.4",0,1,0,0,9,0,0,0,0,2,0,20,32
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C13","-34.3466204","123.6296098","2022-11-22","Salisbury Island","Eastern Recherche",NA,"78.2",0,0,0,0,1,0,0,0,0,6,0,28,35
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D01","-34.37281759","123.571581","2022-11-22","Salisbury Island","Eastern Recherche",NA,"80.2",0,0,0,0,0,0,0,0,0,0,0,26,26
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D02","-34.36921229","123.5598427","2022-11-22","Salisbury Island","Eastern Recherche",NA,"71.9",0,0,0,0,0,0,0,0,0,0,0,27,27
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D03","-34.3663338","123.5575982","2022-11-22","Salisbury Island","Eastern Recherche",NA,"55.1",0,3,1,4,15,0,3,0,0,10,0,0,36
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D04","-34.36384065","123.5590472","2022-11-22","Salisbury Island","Eastern Recherche",NA,"39.2",0,0,0,0,0,38,0,0,0,0,0,0,38
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D05","-34.35874449","123.5636954","2022-11-22","Salisbury Island","Eastern Recherche",NA,"49.1",0,5,1,0,0,7,0,0,0,0,0,17,30
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D06","-34.35493861","123.5661515","2022-11-22","Salisbury Island","Eastern Recherche",NA,"41.6",0,0,1,0,0,32,0,0,0,0,0,0,33
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D07","-34.34974407","123.5619386","2022-11-22","Salisbury Island","Eastern Recherche",NA,"32.3",0,0,1,0,0,28,0,0,0,1,0,0,30
-"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D08","-34.34624401","123.561841","2022-11-22","Salisbury Island","Eastern Recherche",NA,"33.7",0,0,0,0,0,27,0,0,0,0,0,11,38
-"2022-12_Bremer_stereo-BOSS","Br103","-34.3329624028696","119.817516137129","2022-12-08","Bremer","South-west Corner",NA,"62",0,7,0,0,0,1,0,0,0,5,0,68,81
-"2022-12_Bremer_stereo-BOSS","Br167","-34.3388287573362","119.800987310174","2022-12-08","Bremer","South-west Corner",NA,"63",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br29","-34.3465343030579","119.767815843312","2022-12-08","Bremer","South-west Corner",NA,"63",0,5,0,0,0,0,0,0,0,0,0,76,81
-"2022-12_Bremer_stereo-BOSS","Br158","-34.3378428001911","119.729944835549","2022-12-08","Bremer","South-west Corner",NA,"64",0,4,0,0,0,0,0,0,0,2,0,73,79
-"2022-12_Bremer_stereo-BOSS","Br94","-34.3476744436718","119.690210194575","2022-12-08","Bremer","South-west Corner",NA,"62",0,5,0,0,0,0,0,0,0,4,0,71,80
-"2022-12_Bremer_stereo-BOSS","Br72","-34.3251449708359","119.741017574844","2022-12-09","Bremer","South-west Corner",NA,"60",0,0,0,0,0,54,0,0,0,7,0,19,80
-"2022-12_Bremer_stereo-BOSS","Br10","-34.313884114864","119.70424255305","2022-12-09","Bremer","South-west Corner",NA,"58",0,31,0,0,1,4,0,0,0,0,0,44,80
-"2022-12_Bremer_stereo-BOSS","Br136","-34.310604427639","119.730348360571","2022-12-09","Bremer","South-west Corner",NA,"60",0,19,0,0,0,2,0,0,0,0,0,59,80
-"2022-12_Bremer_stereo-BOSS","Br106","-34.3022179671584","119.722070329532","2022-12-09","Bremer","South-west Corner",NA,"59",0,16,0,0,0,3,0,0,0,0,0,61,80
-"2022-12_Bremer_stereo-BOSS","Br60","-34.293258164326","119.681422591497","2022-12-09","Bremer","South-west Corner",NA,"55",0,1,0,0,0,0,0,0,0,0,0,79,80
-"2022-12_Bremer_stereo-BOSS","Br22","-34.2621875313049","119.734458306608","2022-12-09","Bremer","South-west Corner",NA,"58",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Brc1","-34.2594983347289","119.724040955686","2022-12-09","Bremer","South-west Corner",NA,"57",0,0,0,0,0,1,0,0,0,0,0,79,80
-"2022-12_Bremer_stereo-BOSS","Br151","-34.2533402803146","119.696057388048","2022-12-09","Bremer","South-west Corner",NA,"55",0,0,0,0,0,1,0,0,0,0,0,79,80
-"2022-12_Bremer_stereo-BOSS","Br65","-34.2444787836157","119.710235659874","2022-12-09","Bremer","South-west Corner",NA,"55",0,5,0,0,0,0,0,0,0,1,0,74,80
-"2022-12_Bremer_stereo-BOSS","Br56","-34.2199823986591","119.706746176611","2022-12-09","Bremer","South-west Corner",NA,"55",0,0,0,0,0,1,0,0,0,0,0,79,80
-"2022-12_Bremer_stereo-BOSS","Br134","-34.2070935859023","119.692908857656","2022-12-09","Bremer","South-west Corner",NA,"50",0,2,0,0,0,0,0,0,0,0,0,78,80
-"2022-12_Bremer_stereo-BOSS","Br184","-34.2059333331138","119.732121666383","2022-12-09","Bremer","South-west Corner",NA,"56",0,0,0,0,0,39,0,0,0,0,0,38,77
-"2022-12_Bremer_stereo-BOSS","Br32","-34.1981086941825","119.761497730509","2022-12-09","Bremer","South-west Corner",NA,"55",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br13","-34.1676429934377","119.729724108703","2022-12-09","Bremer","South-west Corner",NA,"53",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br50","-34.17183333","119.6983333","2022-12-09","Bremer","South-west Corner",NA,"50",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Brc2","-34.1715","119.7012","2022-12-09","Bremer","South-west Corner",NA,"41",0,0,0,0,1,61,0,0,0,1,8,8,79
-"2022-12_Bremer_stereo-BOSS","Br141","-34.1329","119.7227667","2022-12-09","Bremer","South-west Corner",NA,"45",0,0,0,0,0,36,0,0,0,0,0,42,78
-"2022-12_Bremer_stereo-BOSS","Br191","-34.11723333","119.7101167","2022-12-09","Bremer","South-west Corner",NA,"40",0,0,0,0,0,33,0,0,0,0,0,47,80
-"2022-12_Bremer_stereo-BOSS","Br175","-34.11728333","119.7628167","2022-12-09","Bremer","South-west Corner",NA,"50",0,0,0,0,20,30,0,0,0,6,0,0,56
-"2022-12_Bremer_stereo-BOSS","Br59","-34.09998333","119.8070167","2022-12-09","Bremer","South-west Corner",NA,"52",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Brc3","-34.0974962087614","119.799694815042","2022-12-09","Bremer","South-west Corner",NA,"48",0,0,0,0,0,78,0,0,0,2,0,0,80
-"2022-12_Bremer_stereo-BOSS","Br145","-34.13331667","119.817549580508","2022-12-09","Bremer","South-west Corner",NA,"55",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br76","-34.13333333","119.782","2022-12-09","Bremer","South-west Corner",NA,"54",0,0,0,0,0,55,0,0,0,0,0,25,80
-"2022-12_Bremer_stereo-BOSS","Br171","-34.15","119.797","2022-12-09","Bremer","South-west Corner",NA,"55",0,17,0,0,0,8,0,0,0,1,0,55,81
-"2022-12_Bremer_stereo-BOSS","Br4","-34.17711667","119.8010167","2022-12-09","Bremer","South-west Corner",NA,"56",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br160","-34.1836","119.783","2022-12-09","Bremer","South-west Corner",NA,"56",0,1,0,0,0,1,0,0,0,0,0,78,80
-"2022-12_Bremer_stereo-BOSS","Br128","-34.1982734838003","119.823821649263","2022-12-09","Bremer","South-west Corner",NA,"57",0,1,0,0,0,0,0,0,0,0,0,79,80
-"2022-12_Bremer_stereo-BOSS","Br87","-34.2182626094823","119.800388881278","2022-12-09","Bremer","South-west Corner",NA,"57",0,0,0,0,0,34,0,0,0,1,0,45,80
-"2022-12_Bremer_stereo-BOSS","Br2","-34.2392497845077","119.77250961613","2022-12-09","Bremer","South-west Corner",NA,"58",0,0,0,0,2,7,0,0,0,0,0,71,80
-"2022-12_Bremer_stereo-BOSS","Br55","-34.2616253795019","119.811793319","2022-12-09","Bremer","South-west Corner",NA,"59",0,1,0,0,0,0,0,0,0,0,0,79,80
-"2022-12_Bremer_stereo-BOSS","Br85","-34.2766751470128","119.767215006032","2022-12-09","Bremer","South-west Corner",NA,"59",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br169","-34.2890866578203","119.758901762831","2022-12-09","Bremer","South-west Corner",NA,"60",0,3,0,0,0,10,0,0,0,0,0,67,80
-"2022-12_Bremer_stereo-BOSS","Br140","-34.2970299999112","119.812877464275","2022-12-09","Bremer","South-west Corner",NA,"60",0,0,0,0,0,10,0,0,0,3,0,69,82
-"2022-12_Bremer_stereo-BOSS","Br12","-34.3082607531674","119.788432771072","2022-12-09","Bremer","South-west Corner",NA,"62",0,0,0,2,7,12,0,0,0,0,0,59,80
-"2022-12_Bremer_stereo-BOSS","Br39","-34.3188459447849","119.783933961417","2022-12-09","Bremer","South-west Corner",NA,"63",0,7,0,0,0,0,0,0,0,6,0,67,80
-"2022-12_Bremer_stereo-BOSS","Br199","-34.3223348144971","119.763147246678","2022-12-09","Bremer","South-west Corner",NA,"63",0,1,0,0,15,5,0,0,0,4,0,55,80
-"2022-12_Bremer_stereo-BOSS","Br180","-34.3634072367835","119.691441449758","2022-12-10","Bremer","South-west Corner",NA,"65",0,15,0,0,5,0,1,0,0,6,0,53,80
-"2022-12_Bremer_stereo-BOSS","Br52","-34.3705098996842","119.706311899562","2022-12-10","Bremer","South-west Corner",NA,"66",0,13,0,0,14,0,0,0,0,2,0,51,80
-"2022-12_Bremer_stereo-BOSS","Br124","-34.355870718939","119.779111557036","2022-12-10","Bremer","South-west Corner",NA,"65",0,14,0,0,0,0,0,0,0,0,0,66,80
-"2022-12_Bremer_stereo-BOSS","Br83","-34.37449288551","119.809105159021","2022-12-10","Bremer","South-west Corner",NA,"63",0,3,0,0,0,0,0,0,0,0,0,77,80
-"2022-12_Bremer_stereo-BOSS","Br19","-34.3908982418555","119.820608756377","2022-12-10","Bremer","South-west Corner",NA,"64",0,3,0,0,0,0,0,0,0,0,0,77,80
-"2022-12_Bremer_stereo-BOSS","Br44","-34.4020743930788","119.811915371301","2022-12-10","Bremer","South-west Corner",NA,"64",0,4,0,0,3,0,0,0,0,2,0,71,80
-"2022-12_Bremer_stereo-BOSS","Br109","-34.4103168087618","119.785205540176","2022-12-10","Bremer","South-west Corner",NA,"63",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br68","-34.4261359561592","119.780015756286","2022-12-10","Bremer","South-west Corner",NA,"69",0,7,0,0,0,0,1,0,0,0,0,72,80
-"2022-12_Bremer_stereo-BOSS","Br173","-34.4231728560822","119.835276354013","2022-12-10","Bremer","South-west Corner",NA,"66",0,6,0,0,3,0,0,0,0,0,0,71,80
-"2022-12_Bremer_stereo-BOSS","Br130","-34.4372450042485","119.81749310702","2022-12-10","Bremer","South-west Corner",NA,"67",0,8,0,0,4,0,2,0,0,6,0,60,80
-"2022-12_Bremer_stereo-BOSS","Br195","-34.4461991569242","119.796362416579","2022-12-10","Bremer","South-west Corner",NA,"68",0,5,0,0,2,0,0,0,0,2,0,71,80
-"2022-12_Bremer_stereo-BOSS","Br6","-34.4466360211501","119.82446059128","2022-12-10","Bremer","South-west Corner",NA,"70",0,5,0,0,2,0,0,0,0,1,0,72,80
-"2022-12_Bremer_stereo-BOSS","Br89","-34.4584521465066","119.8400603635","2022-12-10","Bremer","South-west Corner",NA,"71",0,5,0,0,0,0,0,0,0,0,0,75,80
-"2022-12_Bremer_stereo-BOSS","Br49","-34.4833511538368","119.846116947079","2022-12-10","Bremer","South-west Corner",NA,"76",0,6,0,0,0,0,0,0,0,0,0,74,80
-"2022-12_Bremer_stereo-BOSS","Br138","-34.4888140615886","119.848884375297","2022-12-10","Bremer","South-west Corner",NA,"75",0,1,0,0,9,0,0,0,0,3,0,67,80
-"2022-12_Bremer_stereo-BOSS","Br179","-34.5010567190076","119.834008301142","2022-12-10","Bremer","South-west Corner",NA,"77",0,6,0,0,0,0,0,0,0,11,0,63,80
-"2022-12_Bremer_stereo-BOSS","Br95","-34.5332807903815","119.859110969866","2022-12-10","Bremer","South-west Corner",NA,"80",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br181","-34.5452829206164","119.874011409027","2022-12-10","Bremer","South-west Corner",NA,"79",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br116","-34.562510730436","119.887676283787","2022-12-10","Bremer","South-west Corner",NA,"78",0,1,0,0,0,0,0,0,0,0,0,79,80
-"2022-12_Bremer_stereo-BOSS","Br146","-34.5724448949401","119.88030273856","2022-12-10","Bremer","South-west Corner",NA,"76",0,3,0,1,14,0,2,0,0,9,0,51,80
-"2022-12_Bremer_stereo-BOSS","Br16","-34.5883441187449","119.906803811095","2022-12-10","Bremer","South-west Corner",NA,"84",0,3,1,0,26,0,5,0,0,3,0,41,79
-"2022-12_Bremer_stereo-BOSS","Brc4","-34.5990264894648","119.891537884275","2022-12-10","Bremer","South-west Corner",NA,"92",0,2,0,0,7,0,0,0,0,0,0,71,80
-"2022-12_Bremer_stereo-BOSS","Br36","-34.6110674075239","119.851773068892","2022-12-10","Bremer","South-west Corner",NA,"101",0,0,1,0,1,0,0,0,0,0,0,78,80
-"2022-12_Bremer_stereo-BOSS","Br164","-34.5964365589966","119.843863518698","2022-12-10","Bremer","South-west Corner",NA,"81",0,5,2,0,23,0,9,0,0,9,0,27,75
-"2022-12_Bremer_stereo-BOSS","Br80","-34.5921017180098","119.828194044398","2022-12-10","Bremer","South-west Corner",NA,"79",0,1,0,0,3,0,0,0,0,1,0,75,80
-"2022-12_Bremer_stereo-BOSS","Br119","-34.569525912201","119.817887259919","2022-12-10","Bremer","South-west Corner",NA,"80",0,3,0,0,5,0,4,0,0,0,0,69,81
-"2022-12_Bremer_stereo-BOSS","Br93","-34.5580582088666","119.810141849893","2022-12-10","Bremer","South-west Corner",NA,"79",0,3,0,0,0,0,0,0,0,0,0,77,80
-"2022-12_Bremer_stereo-BOSS","Br53","-34.5481493151156","119.847112190583","2022-12-10","Bremer","South-west Corner",NA,"80",0,2,0,0,3,0,1,0,0,2,0,72,80
-"2022-12_Bremer_stereo-BOSS","Br9","-34.521441438227","119.82494045244","2022-12-10","Bremer","South-west Corner",NA,"80",0,1,0,0,0,0,0,0,0,0,0,79,80
-"2022-12_Bremer_stereo-BOSS","Br51","-34.5041555069812","119.810971524907","2022-12-10","Bremer","South-west Corner",NA,"75",0,9,0,0,0,0,0,0,0,0,0,71,80
-"2022-12_Bremer_stereo-BOSS","Br113","-34.4851831304876","119.783636358546","2022-12-10","Bremer","South-west Corner",NA,"73",0,7,0,0,0,0,0,0,0,3,0,71,81
-"2022-12_Bremer_stereo-BOSS","Br25","-34.4698655729071","119.789992040691","2022-12-10","Bremer","South-west Corner",NA,"72",0,6,0,0,9,0,4,0,0,4,0,57,80
-"2022-12_Bremer_stereo-BOSS","Br154","-34.4587829523475","119.759204539997","2022-12-10","Bremer","South-west Corner",NA,"70",0,7,0,0,1,0,0,0,0,0,0,72,80
-"2022-12_Bremer_stereo-BOSS","Br15","-34.405732444186","119.736855238161","2022-12-10","Bremer","South-west Corner",NA,"61",0,4,0,0,0,0,0,0,0,0,0,76,80
-"2022-12_Bremer_stereo-BOSS","Br144","-34.3938417076597","119.758577049703","2022-12-10","Bremer","South-west Corner",NA,"61",0,2,0,0,0,0,0,0,0,0,0,78,80
-"2022-12_Bremer_stereo-BOSS","Br114","-34.3857559263699","119.74889797291","2022-12-10","Bremer","South-west Corner",NA,"59",0,8,0,0,0,0,0,0,0,1,0,68,77
-"2022-12_Bremer_stereo-BOSS","Br115","-34.4176194959879","119.669247956216","2022-12-11","Bremer","South-west Corner",NA,"62",0,0,0,1,2,8,0,0,0,5,0,65,81
-"2022-12_Bremer_stereo-BOSS","Br163","-34.4124600993139","119.694286227413","2022-12-11","Bremer","South-west Corner",NA,"63",0,2,0,0,0,1,0,0,0,0,0,77,80
-"2022-12_Bremer_stereo-BOSS","Br79","-34.4112596749505","119.710138309447","2022-12-11","Bremer","South-west Corner",NA,"62",0,6,0,0,0,0,0,0,0,0,0,74,80
-"2022-12_Bremer_stereo-BOSS","Br100","-34.4418680807842","119.718920569346","2022-12-11","Bremer","South-west Corner",NA,"66",0,6,0,0,0,0,0,0,0,0,0,74,80
-"2022-12_Bremer_stereo-BOSS","Br186","-34.4479563955466","119.728149617132","2022-12-11","Bremer","South-west Corner",NA,"67",0,3,0,0,0,0,0,0,0,0,0,77,80
-"2022-12_Bremer_stereo-BOSS","Br58","-34.4620898261965","119.732018471516","2022-12-11","Bremer","South-west Corner",NA,"70",0,18,0,0,1,1,4,0,0,2,0,54,80
-"2022-12_Bremer_stereo-BOSS","Br18","-34.4733422638115","119.707848849639","2022-12-11","Bremer","South-west Corner",NA,"70",0,9,0,0,0,0,0,0,0,0,0,71,80
-"2022-12_Bremer_stereo-BOSS","Br82","-34.4801024120405","119.694311729686","2022-12-11","Bremer","South-west Corner",NA,"72",0,15,0,0,0,0,0,0,0,0,0,65,80
-"2022-12_Bremer_stereo-BOSS","Br148","-34.4942249858408","119.731314373793","2022-12-11","Bremer","South-west Corner",NA,"74",0,23,0,0,0,0,0,0,0,0,0,57,80
-"2022-12_Bremer_stereo-BOSS","Br102","-34.5093765542567","119.719146343825","2022-12-11","Bremer","South-west Corner",NA,"77",0,25,0,0,0,0,0,0,0,0,0,55,80
-"2022-12_Bremer_stereo-BOSS","Br198","-34.5220409762542","119.770604736773","2022-12-11","Bremer","South-west Corner",NA,"78",0,3,0,0,0,0,0,0,0,0,0,77,80
-"2022-12_Bremer_stereo-BOSS","Br71","-34.5251043938072","119.746131861622","2022-12-11","Bremer","South-west Corner",NA,"79",0,25,0,0,0,0,0,0,0,0,0,55,80
-"2022-12_Bremer_stereo-BOSS","Br157","-34.5374261036544","119.76090489632","2022-12-11","Bremer","South-west Corner",NA,"78",0,1,0,3,10,7,2,0,0,9,0,48,80
-"2022-12_Bremer_stereo-BOSS","Br28","-34.544250484408","119.776433102456","2022-12-11","Bremer","South-west Corner",NA,"79",0,1,0,0,2,1,0,0,0,0,0,76,80
-"2022-12_Bremer_stereo-BOSS","Br88","-34.5716048332579","119.724212373107","2022-12-11","Bremer","South-west Corner",NA,"79",0,0,0,0,1,1,0,0,0,3,0,75,80
-"2022-12_Bremer_stereo-BOSS","Br185","-34.5734026501147","119.742756915354","2022-12-11","Bremer","South-west Corner",NA,"78",0,0,1,0,3,2,1,0,0,3,0,70,80
-"2022-12_Bremer_stereo-BOSS","Br57","-34.5821674197005","119.781022039185","2022-12-11","Bremer","South-west Corner",NA,"79",0,0,0,0,8,7,3,0,0,2,0,60,80
-"2022-12_Bremer_stereo-BOSS","Br143","-34.5913994066554","119.76348563396","2022-12-11","Bremer","South-west Corner",NA,"79",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br14","-34.5953233043522","119.746079326348","2022-12-11","Bremer","South-west Corner",NA,"79",0,0,1,1,3,7,2,0,0,0,0,66,80
-"2022-12_Bremer_stereo-BOSS","Br78","-34.6093227879582","119.78416910712","2022-12-11","Bremer","South-west Corner",NA,"83",0,9,0,0,7,0,0,0,0,8,0,56,80
-"2022-12_Bremer_stereo-BOSS","Br162","-34.6215541290454","119.797715026072","2022-12-11","Bremer","South-west Corner",NA,"95",0,2,1,0,0,2,0,0,0,0,0,75,80
-"2022-12_Bremer_stereo-BOSS","Br34","-34.6271261136249","119.803776623149","2022-12-11","Bremer","South-west Corner",NA,"113",0,0,1,0,2,9,0,0,0,0,0,68,80
-"2022-12_Bremer_stereo-BOSS","Br99","-34.6327559686241","119.745178415831","2022-12-11","Bremer","South-west Corner",NA,"91",0,4,0,0,42,0,0,0,0,34,0,0,80
-"2022-12_Bremer_stereo-BOSS","Br5","-34.6337327878055","119.72788966535","2022-12-11","Bremer","South-west Corner",NA,"85",0,5,1,0,2,0,3,0,0,0,0,69,80
-"2022-12_Bremer_stereo-BOSS","Br31","-34.6400464745522","119.707930290005","2022-12-11","Bremer","South-west Corner",NA,"84",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br54","-34.6664022910651","119.675172640163","2022-12-11","Bremer","South-west Corner",NA,"97",0,0,0,1,52,0,3,0,0,10,0,11,77
-"2022-12_Bremer_stereo-BOSS","Brc5","-34.6680916657296","119.674065695645","2022-12-11","Bremer","South-west Corner",NA,"125",0,0,0,0,3,3,0,0,0,0,0,74,80
-"2022-12_Bremer_stereo-BOSS","Br182","-34.6821025168636","119.639435757325","2022-12-11","Bremer","South-west Corner",NA,"153",0,0,0,0,0,0,0,0,0,2,0,78,80
-"2022-12_Bremer_stereo-BOSS","Br132","-34.6742975390397","119.605830358366","2022-12-11","Bremer","South-west Corner",NA,"84",0,13,0,0,10,0,1,0,0,7,0,49,80
-"2022-12_Bremer_stereo-BOSS","Br7","-34.6555846390663","119.620914820108","2022-12-11","Bremer","South-west Corner",NA,"80",0,0,0,0,8,9,1,0,0,11,0,48,77
-"2022-12_Bremer_stereo-BOSS","Br96","-34.6461940521404","119.661652652878","2022-12-11","Bremer","South-west Corner",NA,"80",0,0,1,0,16,9,8,0,0,7,0,39,80
-"2022-12_Bremer_stereo-BOSS","Br194","-34.6311589072168","119.673354644962","2022-12-11","Bremer","South-west Corner",NA,"81",0,7,0,1,11,0,3,0,0,2,0,56,80
-"2022-12_Bremer_stereo-BOSS","Br129","-34.6248916504173","119.690124933675","2022-12-11","Bremer","South-west Corner",NA,"81",0,15,0,0,10,0,2,0,0,5,0,48,80
-"2022-12_Bremer_stereo-BOSS","Br108","-34.5976647133409","119.687750954975","2022-12-11","Bremer","South-west Corner",NA,"80",0,0,1,0,3,3,0,0,0,2,0,71,80
-"2022-12_Bremer_stereo-BOSS","Br43","-34.5882775231648","119.705014886802","2022-12-11","Bremer","South-west Corner",NA,"81",0,6,0,0,0,0,0,0,0,0,0,74,80
-"2022-12_Bremer_stereo-BOSS","Br24","-34.5590542324286","119.676617236242","2022-12-11","Bremer","South-west Corner",NA,"80",0,3,0,0,0,0,0,0,0,0,0,77,80
-"2022-12_Bremer_stereo-BOSS","Br188","-34.5456325578168","119.707330064478","2022-12-11","Bremer","South-west Corner",NA,"79",0,0,1,0,8,3,0,0,0,3,0,65,80
-"2022-12_Bremer_stereo-BOSS","Br35","-34.429394539555","119.675254264683","2022-12-12","Bremer","South-west Corner",NA,"66",0,8,0,0,0,0,0,0,0,0,0,72,80
-"2022-12_Bremer_stereo-BOSS","Br137","-34.4416517445583","119.605887179503","2022-12-12","Bremer","South-west Corner",NA,"63",0,13,0,0,1,0,0,0,0,2,0,64,80
-"2022-12_Bremer_stereo-BOSS","Br161","-34.4654408581226","119.628053109139","2022-12-12","Bremer","South-west Corner",NA,"65",0,1,0,0,0,0,0,0,0,0,0,79,80
-"2022-12_Bremer_stereo-BOSS","Br200","-34.454552772313","119.65221738604","2022-12-12","Bremer","South-west Corner",NA,"67",0,14,0,2,0,0,0,0,0,0,0,64,80
-"2022-12_Bremer_stereo-BOSS","Br120","-34.4652668760977","119.68285623891","2022-12-12","Bremer","South-west Corner",NA,"68",0,15,0,0,0,0,0,0,0,0,0,65,80
-"2022-12_Bremer_stereo-BOSS","Br33","-34.4815512741786","119.655410013831","2022-12-12","Bremer","South-west Corner",NA,"67",0,4,0,0,1,0,1,0,0,1,0,74,81
-"2022-12_Bremer_stereo-BOSS","Br38","-34.4940839380882","119.676528646186","2022-12-12","Bremer","South-west Corner",NA,"73",0,6,0,0,0,0,0,0,0,0,0,74,80
-"2022-12_Bremer_stereo-BOSS","Br166","-34.5172198368688","119.69252826842","2022-12-12","Bremer","South-west Corner",NA,"75",0,21,0,0,0,0,0,0,0,0,0,59,80
-"2022-12_Bremer_stereo-BOSS","Br118","-34.5172664203332","119.637858398331","2022-12-12","Bremer","South-west Corner",NA,"74",0,3,0,0,3,0,0,0,0,2,0,72,80
-"2022-12_Bremer_stereo-BOSS","Br123","-34.5328838864651","119.657107317678","2022-12-12","Bremer","South-west Corner",NA,"77",0,7,0,0,0,0,0,0,0,0,0,73,80
-"2022-12_Bremer_stereo-BOSS","Br77","-34.5357931821558","119.630707008271","2022-12-12","Bremer","South-west Corner",NA,"74",0,11,0,0,7,0,0,0,0,4,0,58,80
-"2022-12_Bremer_stereo-BOSS","Br142","-34.5440230290106","119.603935669498","2022-12-12","Bremer","South-west Corner",NA,"74",0,6,0,0,2,0,0,0,0,14,0,58,80
-"2022-12_Bremer_stereo-BOSS","Br104","-34.5681684363543","119.610963631937","2022-12-12","Bremer","South-west Corner",NA,"79",0,15,0,0,0,0,0,0,0,0,0,65,80
-"2022-12_Bremer_stereo-BOSS","Br189","-34.5804088090696","119.621291620251","2022-12-12","Bremer","South-west Corner",NA,"78",0,11,0,0,0,0,0,0,0,0,0,69,80
-"2022-12_Bremer_stereo-BOSS","Br63","-34.5873660228758","119.637229134763","2022-12-12","Bremer","South-west Corner",NA,"79",0,18,0,0,0,0,0,0,0,0,0,62,80
-"2022-12_Bremer_stereo-BOSS","Br153","-34.5736000714817","119.662306800678","2022-12-12","Bremer","South-west Corner",NA,"80",0,17,0,0,0,0,0,0,0,0,0,63,80
-"2022-12_Bremer_stereo-BOSS","Br67","-34.6105114963673","119.652694634899","2022-12-12","Bremer","South-west Corner",NA,"80",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Bremer_stereo-BOSS","Br20","-34.6068619903565","119.614955281529","2022-12-12","Bremer","South-west Corner",NA,"78",0,17,0,1,9,0,4,0,0,8,0,41,80
-"2022-12_Bremer_stereo-BOSS","Br149","-34.6245131097376","119.631851711674","2022-12-12","Bremer","South-west Corner",NA,"81",0,8,0,0,0,0,0,0,0,0,0,72,80
-"2022-12_Bremer_stereo-BOSS","Br176","-34.6347257786644","119.624184639233","2022-12-12","Bremer","South-west Corner",NA,"81",0,3,0,0,0,0,0,0,0,0,0,77,80
-"2022-12_Bremer_stereo-BOSS","Br47","-34.6387527017683","119.607247996903","2022-12-12","Bremer","South-west Corner",NA,"79",0,3,0,0,0,0,7,0,0,0,0,70,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-018","-34.0846816668688","123.999923333588","2022-12-03","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,0,0,0,0,0,1,0,60,61
-"2022-12_Daw_stereo-BOSS","DAW-DC-029","-34.0582452152374","124.051373025454","2022-12-03","Daw Island","Eastern Recherche",NA,"74",0,0,0,0,0,0,0,0,0,0,0,81,81
-"2022-12_Daw_stereo-BOSS","DAW-DC-062","-34.0594731384459","124.098459674545","2022-12-03","Daw Island","Eastern Recherche",NA,"75",0,0,1,0,0,17,0,0,0,0,0,59,77
-"2022-12_Daw_stereo-BOSS","DAW-DC-061","-34.0659669971915","124.123556367677","2022-12-03","Daw Island","Eastern Recherche",NA,"71",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-032","-34.0326716670003","124.172026666648","2022-12-03","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-091","-34.0170983334505","124.205191666538","2022-12-03","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,1,0,0,0,0,0,79,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-C01","-34.0167933336117","124.265698332999","2022-12-03","Daw Island","Eastern Recherche",NA,"72",0,0,0,0,0,1,0,0,0,1,0,78,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-077","-34.0160895577636","124.275568826407","2022-12-03","Daw Island","Eastern Recherche",NA,"70",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-C02","-34.0090949999084","124.265086666529","2022-12-03","Daw Island","Eastern Recherche",NA,"64",0,0,0,0,9,4,8,0,0,3,0,56,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-046","-34.0000907235716","124.24896606009","2022-12-03","Daw Island","Eastern Recherche",NA,"70",0,0,0,0,0,0,0,0,0,0,0,79,79
-"2022-12_Daw_stereo-BOSS","DAW-DC-006","-33.9957127855054","124.25627645555","2022-12-03","Daw Island","Eastern Recherche",NA,"70",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-051","-33.9866683186781","124.198629905478","2022-12-03","Daw Island","Eastern Recherche",NA,"74",0,0,0,0,0,0,0,0,0,0,0,75,75
-"2022-12_Daw_stereo-BOSS","DAW-DC-002","-33.9997836131183","124.167551679415","2022-12-03","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-057","-34.0166216667573","124.083529999714","2022-12-03","Daw Island","Eastern Recherche",NA,"72",0,0,0,0,0,1,0,0,0,0,0,79,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-C03","-34.0258374592273","124.060791900734","2022-12-03","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,4,0,0,0,0,0,76,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-087","-34.0330666663356","124.033160000174","2022-12-03","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-013","-33.99012101919","123.999951132853","2022-12-03","Daw Island","Eastern Recherche",NA,"67",0,0,0,0,0,0,0,0,0,0,0,79,79
-"2022-12_Daw_stereo-BOSS","DAW-DC-063","-33.9644693437808","123.997533276842","2022-12-03","Daw Island","Eastern Recherche",NA,"63",0,0,0,0,0,1,0,0,0,0,0,80,81
-"2022-12_Daw_stereo-BOSS","DAW-DC-034","-33.9374777937779","124.016249417071","2022-12-03","Daw Island","Eastern Recherche",NA,"63",0,0,0,0,14,5,0,0,0,1,0,60,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-093","-33.921049999799","124.000205000346","2022-12-03","Daw Island","Eastern Recherche",NA,"65",0,0,0,0,0,0,0,0,0,0,0,78,78
-"2022-12_Daw_stereo-BOSS","DAW-DC-007","-33.8914426292059","124.049905654387","2022-12-03","Daw Island","Eastern Recherche",NA,"62",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-CO4","-33.8507033333538","124.131671667105","2022-12-05","Daw Island","Eastern Recherche",NA,"18.4",0,0,0,0,0,19,0,0,61,0,0,0,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-026","-33.8266615129175","124.13368233746","2022-12-05","Daw Island","Eastern Recherche",NA,"42",0,0,0,0,0,77,0,0,0,0,0,3,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-084","-33.7729377834703","124.117584417076","2022-12-05","Daw Island","Eastern Recherche",NA,"49",0,0,0,0,0,4,0,0,0,0,0,75,79
-"2022-12_Daw_stereo-BOSS","DAW-DC-088","-33.7536498536582","124.172659183016","2022-12-05","Daw Island","Eastern Recherche",NA,"44",0,0,0,0,0,78,0,0,0,0,0,0,78
-"2022-12_Daw_stereo-BOSS","DAW-DC-CO5","-33.7484771112153","124.15781398755","2022-12-05","Daw Island","Eastern Recherche",NA,"43",0,0,0,0,0,2,0,0,0,0,0,78,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-048","-33.7450516408913","124.150246761056","2022-12-05","Daw Island","Eastern Recherche",NA,"45",0,0,0,0,0,4,0,0,0,0,0,76,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-CO6","-33.7299129444181","124.103093113814","2022-12-05","Daw Island","Eastern Recherche",NA,"21",0,0,0,0,0,42,0,0,30,0,0,3,75
-"2022-12_Daw_stereo-BOSS","DAW-DC-055","-33.7432269100767","124.083887395348","2022-12-05","Daw Island","Eastern Recherche",NA,"38",0,0,0,0,0,0,0,0,0,0,0,77,77
-"2022-12_Daw_stereo-BOSS","DAW-DC-100","-33.7622791955509","124.050548666671","2022-12-05","Daw Island","Eastern Recherche",NA,"32",0,0,0,0,0,6,0,0,0,0,0,74,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-009","-33.7493183330646","124.015799999816","2022-12-05","Daw Island","Eastern Recherche",NA,"42",0,0,0,0,0,26,0,0,0,0,0,54,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-059","-33.726266449664","124.034091898975","2022-12-05","Daw Island","Eastern Recherche",NA,"38",0,0,0,0,0,31,0,0,0,0,0,48,79
-"2022-12_Daw_stereo-BOSS","DAW-DC-075","-33.6894610698313","124.083877782476","2022-12-05","Daw Island","Eastern Recherche",NA,"25",0,0,0,0,0,53,0,0,0,0,0,15,68
-"2022-12_Daw_stereo-BOSS","DAW-DC-089","-33.6792438865999","124.016423301266","2022-12-05","Daw Island","Eastern Recherche",NA,"32",0,0,0,0,0,69,0,0,0,0,0,11,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-049","-33.639536987713","124.00063529696","2022-12-05","Daw Island","Eastern Recherche",NA,"28",0,0,0,0,5,28,0,0,0,0,0,32,65
-"2022-12_Daw_stereo-BOSS","DAW-DC-021","-33.6103920616743","124.066309343328","2022-12-05","Daw Island","Eastern Recherche",NA,"22",0,0,0,0,0,33,0,0,41,0,0,0,74
-"2022-12_Daw_stereo-BOSS","DAW-DC-C07","-33.8447549659906","124.117945724873","2022-12-05","Daw Island","Eastern Recherche",NA,"44",0,0,0,0,5,47,0,0,0,8,0,0,60
-"2022-12_Daw_stereo-BOSS","DAW-DC-C08","-33.8534624308096","124.113047288884","2022-12-05","Daw Island","Eastern Recherche",NA,"45",0,0,0,0,10,47,0,0,0,2,0,0,59
-"2022-12_Daw_stereo-BOSS","DAW-DC-C09","-33.8640995436347","124.117211688098","2022-12-05","Daw Island","Eastern Recherche",NA,"50",0,0,0,0,33,3,0,0,0,24,0,0,60
-"2022-12_Daw_stereo-BOSS","DAW-DC-C10","-33.8418790411114","124.109553543114","2022-12-05","Daw Island","Eastern Recherche",NA,"51",0,0,0,0,0,0,0,0,0,0,0,59,59
-"2022-12_Daw_stereo-BOSS","DAW-DC-C11","-33.8345010382751","124.131219101255","2022-12-05","Daw Island","Eastern Recherche",NA,"38",0,0,0,0,0,56,0,0,0,1,0,0,57
-"2022-12_Daw_stereo-BOSS","DAW-DC-071","-33.8496644211383","124.202288272014","2022-12-05","Daw Island","Eastern Recherche",NA,"62",0,0,0,0,24,0,0,0,0,7,0,18,49
-"2022-12_Daw_stereo-BOSS","DAW-DC-058","-33.8281436847517","124.200777295825","2022-12-05","Daw Island","Eastern Recherche",NA,"58",0,0,0,0,2,0,0,0,0,0,0,58,60
-"2022-12_Daw_stereo-BOSS","DAW-DC-030","-33.7975787326009","124.180921261771","2022-12-06","Daw Island","Eastern Recherche",NA,"48",0,0,0,0,0,9,0,0,0,0,0,71,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-014","-33.8099230672025","124.253918159638","2022-12-06","Daw Island","Eastern Recherche",NA,"62",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-C12","-33.8356505695766","124.247475433437","2022-12-06","Daw Island","Eastern Recherche",NA,"50",0,0,0,0,16,47,0,0,0,15,0,0,78
-"2022-12_Daw_stereo-BOSS","DAW-DC-011","-33.8734406909784","124.229485492181","2022-12-06","Daw Island","Eastern Recherche",NA,"68",0,0,0,0,0,5,0,0,0,2,0,73,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-086","-33.8994315431662","124.268776787613","2022-12-06","Daw Island","Eastern Recherche",NA,"72",0,0,0,0,0,4,0,0,0,0,0,76,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-037","-33.9244208424777","124.275965294264","2022-12-06","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,1,0,0,0,0,0,79,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-068","-33.9492182461536","124.244136786293","2022-12-06","Daw Island","Eastern Recherche",NA,"74",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-082","-33.9391741144698","124.174325272203","2022-12-06","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-C13","-33.9192247431668","124.162603783085","2022-12-06","Daw Island","Eastern Recherche",NA,"59",0,0,0,0,13,0,0,0,0,9,0,49,71
-"2022-12_Daw_stereo-BOSS","DAW-DC-042","-33.8957199997123","124.149933333463","2022-12-06","Daw Island","Eastern Recherche",NA,"63",0,0,0,0,0,7,0,0,0,0,0,73,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-069","-33.8773029680771","124.083251325244","2022-12-06","Daw Island","Eastern Recherche",NA,"64",0,0,0,0,0,0,0,0,0,0,0,79,79
-"2022-12_Daw_stereo-BOSS","DAW-DC-098","-33.9026359248549","124.10003246381","2022-12-06","Daw Island","Eastern Recherche",NA,"62",0,0,0,0,0,0,0,0,0,0,0,79,79
-"2022-12_Daw_stereo-BOSS","DAW-DC-023","-33.9558465231965","124.133444888476","2022-12-06","Daw Island","Eastern Recherche",NA,"76",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-019","-33.9742260732266","124.083356822493","2022-12-06","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,1,0,0,0,0,0,79,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-005","-34.083508574582","124.133629999815","2022-12-06","Daw Island","Eastern Recherche",NA,"74",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-097","-34.0830066663841","124.195848333286","2022-12-06","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,4,0,0,0,0,0,0,76,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-050","-34.1060977043246","124.255190903512","2022-12-06","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,5,1,1,0,0,9,0,64,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-081","-34.1169085343576","124.253311635125","2022-12-06","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,10,0,0,0,0,5,0,65,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-022","-34.1459236099535","124.273256162217","2022-12-06","Daw Island","Eastern Recherche",NA,"77",0,0,0,0,4,11,1,0,0,1,0,63,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-060","-34.1934492782384","124.282734121489","2022-12-06","Daw Island","Eastern Recherche",NA,"83",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-C14","-34.1894000002509","124.267756667064","2022-12-06","Daw Island","Eastern Recherche",NA,"84",0,0,0,0,3,3,8,0,0,2,0,60,76
-"2022-12_Daw_stereo-BOSS","DAW-DC-C15","-34.178560655586","124.222144920515","2022-12-06","Daw Island","Eastern Recherche",NA,"78",0,0,0,0,16,1,0,0,0,12,0,51,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-016","-34.1597166597715","124.168496573245","2022-12-06","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,0,0,0,0,0,0,0,80,80
-"2022-12_Daw_stereo-BOSS","DAW-DC-067","-34.1300654178246","124.107476713636","2022-12-06","Daw Island","Eastern Recherche",NA,"72",0,0,0,0,0,2,0,0,0,0,0,78,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-071","121.1584054","-33.9164978","25/11/2022",NA,"Investigator MBH",NA,"56",0,0,0,0,0,0,0,0,0,0,0,75,75
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-013","121.1206892","-33.90787547","25/11/2022",NA,"Investigator MBH",NA,"52",0,0,0,0,41,0,0,0,0,3,0,32,76
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-102","121.1163692","-33.9101194","25/11/2022",NA,"Investigator MBH",NA,"28",0,0,0,0,0,19,0,0,0,0,0,0,19
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-089","121.1042357","-33.9166428","25/11/2022",NA,"Investigator MBH",NA,"54",0,0,0,4,33,0,0,0,0,6,0,30,73
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-047","121.1100205","-33.9419878","25/11/2022",NA,"Investigator MBH",NA,"59",0,0,0,0,0,0,0,0,0,0,0,76,76
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-073","121.0715378","-33.96561855","25/11/2022",NA,"Investigator MBH",NA,"62",0,0,0,0,7,1,3,0,0,3,0,64,78
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-103","121.0903359","-33.9742675","25/11/2022",NA,"Investigator MBH",NA,"49",6,1,0,0,47,0,1,0,0,15,0,0,70
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-023","121.0884194","-33.98592532","25/11/2022",NA,"Investigator MBH",NA,"70",0,0,0,0,0,0,0,0,0,0,0,77,77
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-104","121.1152255","-33.9826518","25/11/2022",NA,"Investigator MBH",NA,"72",0,0,0,0,0,0,0,0,0,0,0,69,69
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-097","121.1386333","-33.9983176","25/11/2022",NA,"Investigator MBH",NA,"72",0,0,0,0,0,0,0,0,0,0,0,73,73
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-003","121.1405197","-34.00924946","25/11/2022",NA,"Investigator MBH",NA,"70",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-039","121.1523403","-34.01834259","25/11/2022",NA,"Investigator MBH",NA,"71",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-105","121.1449533","-34.0371121","25/11/2022",NA,"Investigator MBH",NA,"73",0,0,0,0,0,0,0,0,0,0,0,77,77
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-079","121.1054529","-34.05741768","25/11/2022",NA,"Investigator MBH",NA,"73",0,0,0,0,5,0,0,0,0,2,0,73,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-106","121.094686","-34.0697036","25/11/2022",NA,"Investigator MBH",NA,"72",0,0,0,0,0,0,0,0,0,0,0,71,71
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-031","121.1220371","-34.08038455","25/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-087","121.161447","-34.07567421","25/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,0,0,0,0,0,0,0,71,71
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-043","121.1065876","-34.10060758","25/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,0,0,0,0,0,0,72,72
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-098","121.1603834","-34.11059585","25/11/2022",NA,"Investigator MBH",NA,"85",0,0,0,0,0,0,0,0,0,0,0,71,71
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-048","121.1230808","-34.15048791","25/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-032","121.1549674","-34.20706117","25/11/2022",NA,"Investigator MBH",NA,"76.5",0,0,0,0,0,0,0,0,0,0,0,75,75
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-074","121.1058788","-34.21094501","25/11/2022",NA,"Investigator MBH",NA,"79",0,0,0,0,5,0,2,0,0,2,0,67,76
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-055","121.1584159","-34.23158778","25/11/2022",NA,"Investigator MBH",NA,"73",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-080","121.1198374","-34.25521472","25/11/2022",NA,"Investigator MBH",NA,"75",0,0,0,0,0,0,0,0,0,0,0,70,70
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-107","121.1201451","-34.2609627","25/11/2022",NA,"Investigator MBH",NA,"74",0,0,0,0,13,0,2,0,0,4,0,59,78
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-008","121.0997343","-34.31271875","25/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,1,11,0,0,0,0,2,0,53,67
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-064","121.1218716","-34.31730042","25/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,0,0,0,0,0,1,0,74,75
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-014","121.1160166","-34.33833408","25/11/2022",NA,"Investigator MBH",NA,"85",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-090","121.1567735","-34.34987885","25/11/2022",NA,"Investigator MBH",NA,"83",0,0,0,0,0,0,0,0,0,0,0,46,46
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-100","121.1380763","-34.36981862","25/11/2022",NA,"Investigator MBH",NA,"88",0,0,0,0,3,0,6,0,0,1,0,70,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-075","121.1289313","-34.4174767","25/11/2022",NA,"Investigator MBH",NA,"85",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-036","121.1388142","-34.44253888","25/11/2022",NA,"Investigator MBH",NA,"81",0,0,0,2,12,0,0,0,0,4,0,60,78
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-084","121.1640328","-34.5011782","25/11/2022",NA,"Investigator MBH",NA,"111",0,4,0,0,56,0,8,0,0,6,0,1,75
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-059","121.0998108","-34.46881248","26/11/2022",NA,"Investigator MBH",NA,"87",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-052","121.076094","-34.45064638","26/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,10,0,1,0,0,2,0,66,79
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-108","121.0517939","-34.46514341","26/11/2022",NA,"Investigator MBH",NA,"86",0,2,0,1,37,0,1,0,0,8,0,26,75
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-002","121.0445043","-34.46946471","26/11/2022",NA,"Investigator MBH",NA,"88",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-076","121.0142383","-34.47762825","26/11/2022",NA,"Investigator MBH",NA,"95",0,1,0,2,59,0,0,0,0,16,0,0,78
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-028","121.00903","-34.49333059","26/11/2022",NA,"Investigator MBH",NA,"121",0,3,0,0,27,0,1,0,0,3,0,39,73
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-065","120.9528272","-34.47503507","26/11/2022",NA,"Investigator MBH",NA,"94.5",0,0,0,0,3,0,0,0,0,2,0,64,69
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-041","120.9433202","-34.44730727","26/11/2022",NA,"Investigator MBH",NA,"81.5",0,0,0,2,12,0,2,0,0,1,0,63,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-015","120.9788061","-34.42345126","26/11/2022",NA,"Investigator MBH",NA,"81",0,0,0,1,10,0,1,0,0,2,0,66,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-095","121.0122651","-34.41556549","26/11/2022",NA,"Investigator MBH",NA,"83",0,0,0,0,0,0,0,0,0,1,0,68,69
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-020","121.0710897","-34.41253876","26/11/2022",NA,"Investigator MBH",NA,"85.5",0,0,0,0,0,0,0,0,0,0,0,70,70
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-070","121.0512598","-34.38931001","26/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,0,1,0,0,0,0,75,76
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-045","121.0481626","-34.36213401","26/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,9,0,0,0,0,1,0,70,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-026","121.1005277","-34.35854397","26/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,4,0,0,0,0,1,0,75,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-109","121.0682658","-34.3443624","26/11/2022",NA,"Investigator MBH",NA,"83",0,0,0,1,23,0,1,2,0,9,0,44,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-035","121.0354274","-34.33412856","26/11/2022",NA,"Investigator MBH",NA,"80",0,0,0,0,0,0,0,0,0,1,0,78,79
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-072","121.0110763","-34.32126755","26/11/2022",NA,"Investigator MBH",NA,"80",0,0,0,0,9,0,0,0,0,2,0,61,72
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-083","121.0243622","-34.29280059","26/11/2022",NA,"Investigator MBH",NA,"75.5",0,0,0,1,4,0,0,0,0,6,0,69,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-058","121.0726111","-34.27001709","26/11/2022",NA,"Investigator MBH",NA,"75",0,0,0,0,26,0,1,0,0,4,0,35,66
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-025","121.0643031","-34.25853604","26/11/2022",NA,"Investigator MBH",NA,"75",0,0,0,0,0,0,0,0,0,0,0,60,60
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-099","121.0544652","-34.23346771","26/11/2022",NA,"Investigator MBH",NA,"76",0,0,0,0,0,0,0,0,0,0,0,60,60
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-040","121.0115542","-34.21361701","26/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-088","120.9850355","-34.19248241","26/11/2022",NA,"Investigator MBH",NA,"75",0,0,0,0,0,0,0,0,0,0,0,69,69
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-053","121.0050499","-34.16189503","26/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,0,0,0,0,0,0,0,61,61
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-017","121.0335668","-34.16704746","26/11/2022",NA,"Investigator MBH",NA,"81",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-049","121.0453937","-34.17614114","26/11/2022",NA,"Investigator MBH",NA,"78",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-093","121.0804212","-34.1549204","26/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,2,0,0,0,0,0,0,76,78
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-067","121.0709106","-34.12717005","26/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,0,0,0,0,0,0,58,58
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-004","121.0312528","-34.10760428","26/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,1,0,0,0,0,1,0,68,70
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-044","121.0055322","-34.05421252","26/11/2022",NA,"Investigator MBH",NA,"68",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-110","121.0013753","-34.0483616","26/11/2022",NA,"Investigator MBH",NA,"57",3,0,0,1,37,0,5,0,0,12,0,0,58
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-111","121.0190587","-34.04350539","26/11/2022",NA,"Investigator MBH",NA,"61",0,0,0,0,6,0,0,0,0,0,0,72,78
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-005","121.0587494","-34.04263849","26/11/2022",NA,"Investigator MBH",NA,"71",0,0,0,0,5,0,0,0,0,5,0,50,60
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-112","121.064489","-34.037526","26/11/2022",NA,"Investigator MBH",NA,"70",0,0,0,0,0,0,0,0,0,0,0,59,59
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-054","121.0767415","-34.02802291","27/11/2022",NA,"Investigator MBH",NA,"68",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-113","121.041568","-34.0269168","27/11/2022",NA,"Investigator MBH",NA,"57",0,0,0,0,43,0,0,0,0,9,0,21,73
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-018","121.0027893","-34.02434635","27/11/2022",NA,"Investigator MBH",NA,"65",0,0,0,0,1,0,0,0,0,0,0,79,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-094","121.0399854","-34.01138875","27/11/2022",NA,"Investigator MBH",NA,"61",0,0,0,0,18,0,0,0,0,3,0,58,79
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-060","121.0313805","-34.00256742","27/11/2022",NA,"Investigator MBH",NA,"63",0,0,0,0,0,0,0,0,0,0,0,77,77
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-010","121.0319367","-33.94604429","27/11/2022",NA,"Investigator MBH",NA,"57",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-114","121.021221","-33.9375807","27/11/2022",NA,"Investigator MBH",NA,"49",0,0,0,2,18,30,0,0,0,3,0,1,54
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-085","121.0051473","-33.92756021","27/11/2022",NA,"Investigator MBH",NA,"42",0,2,0,0,0,0,0,0,0,0,0,75,77
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-050","120.9965415","-33.91873425","27/11/2022",NA,"Investigator MBH",NA,"42",0,0,0,0,0,70,0,0,0,2,0,8,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-115","120.9902234","-33.9189464","27/11/2022",NA,"Investigator MBH",NA,"34.5",0,0,0,0,0,71,0,0,0,0,0,6,77
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-116","120.9327249","-33.9245911","27/11/2022",NA,"Investigator MBH",NA,"32",0,0,0,0,0,60,0,0,0,0,0,0,60
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-034","120.8886944","-33.92821939","27/01/2022",NA,"Investigator MBH",NA,"39",0,0,0,0,9,6,0,0,0,0,0,65,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-021","120.871881","-33.9590869","27/11/2022",NA,"Investigator MBH",NA,"48",0,0,0,0,69,0,0,0,0,1,0,10,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-057","120.9457826","-33.96282819","27/11/2022",NA,"Investigator MBH",NA,"47",0,0,0,0,50,1,0,0,0,6,0,23,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-037","120.9675057","-33.97010676","27/11/2022",NA,"Investigator MBH",NA,"48.5",0,0,0,0,0,0,0,0,0,0,0,73,73
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-007","120.9405837","-33.97854582","27/11/2022",NA,"Investigator MBH",NA,"44",0,0,0,0,2,40,0,0,0,0,0,0,42
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-082","120.9136584","-33.98698256","27/11/2022",NA,"Investigator MBH",NA,"49",0,0,0,0,41,5,1,0,0,1,0,32,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-117","120.9142033","-33.9969215","27/11/2022",NA,"Investigator MBH",NA,"47",3,0,0,0,39,18,0,0,0,11,0,0,71
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-042","120.9205806","-34.00913873","27/11/2022",NA,"Investigator MBH",NA,"56",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-118","120.9094888","-34.0386029","27/11/2022",NA,"Investigator MBH",NA,"42",0,0,0,0,13,46,0,0,0,5,0,0,64
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-066","120.8845532","-34.03832101","27/11/2022",NA,"Investigator MBH",NA,"49",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-016","120.9081529","-34.0565451","27/11/2022",NA,"Investigator MBH",NA,"64",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-119","120.9147703","-34.06382477","27/11/2022",NA,"Investigator MBH",NA,"49",0,0,0,0,34,20,0,0,0,5,0,0,59
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-027","120.8952008","-34.08235111","27/11/2022",NA,"Investigator MBH",NA,"73.5",0,0,0,0,1,0,0,0,0,0,0,79,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-120","120.9288978","-34.0849936","27/11/2022",NA,"Investigator MBH",NA,"49",1,0,0,0,55,2,0,0,0,2,0,0,60
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-121","120.9556618","-34.08103335","27/11/2022",NA,"Investigator MBH",NA,"61",0,0,0,0,60,0,1,0,0,14,0,0,75
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-068","120.9669846","-34.07781042","27/11/2022",NA,"Investigator MBH",NA,"71",0,2,0,0,10,2,0,0,0,4,0,59,77
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-092","120.9420332","-34.07026452","27/11/2022",NA,"Investigator MBH",NA,"65",0,0,0,0,20,0,0,0,0,13,0,44,77
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-051","120.9210145","-34.10884137","27/11/2022",NA,"Investigator MBH",NA,"75.5",0,1,0,0,7,1,0,0,0,5,0,66,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-077","120.9501703","-34.10867588","27/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-029","120.9766716","-34.12982174","27/11/2022",NA,"Investigator MBH",NA,"80",0,0,0,0,1,0,0,0,0,1,0,78,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-122","120.9345655","-34.134505","27/11/2022",NA,"Investigator MBH",NA,"82",0,2,0,0,4,0,0,0,0,3,0,62,71
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-001","120.9335453","-34.16379179","27/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-038","120.9261355","-34.17122988","27/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,2,0,0,0,0,1,0,72,75
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-011","120.947565","-34.18116466","27/11/2002",NA,"Investigator MBH",NA,"79",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-061","120.8907245","-34.19507919","27/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,76,76
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-086","120.8934507","-34.22493625","27/11/2022",NA,"Investigator MBH",NA,"79.5",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-123","120.9178449","-34.2282316","27/11/2022",NA,"Investigator MBH",NA,"77",0,2,0,1,16,0,0,0,0,1,0,60,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-124","120.96773","-34.2385683","28/11/2022",NA,"Investigator MBH",NA,"75",0,0,0,0,11,0,0,0,0,1,0,68,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-062","120.9726152","-34.2398735","28/11/2022",NA,"Investigator MBH",NA,"73.5",0,0,0,0,0,0,0,0,0,0,0,76,76
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-022","120.9824437","-34.26495671","28/11/2022",NA,"Investigator MBH",NA,"71",0,0,0,0,0,0,0,0,0,0,0,79,79
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-096","120.9557765","-34.27072766","28/11/2022",NA,"Investigator MBH",NA,"71",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-046","120.9441468","-34.28588025","28/11/2022",NA,"Investigator MBH",NA,"73.5",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-069","120.9255708","-34.27888211","28/11/2022",NA,"Investigator MBH",NA,"74",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-019","120.8845684","-34.32109521","28/11/2022",NA,"Investigator MBH",NA,"76",0,0,0,0,2,0,0,0,0,0,0,78,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-030","120.8898268","-34.35654251","28/11/2022",NA,"Investigator MBH",NA,"83",0,0,0,0,1,0,0,0,0,1,0,78,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-006","120.9467489","-34.34263406","28/11/2022",NA,"Investigator MBH",NA,"76",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-081","120.9906895","-34.35449932","28/11/2022",NA,"Investigator MBH",NA,"83",0,0,0,0,12,0,2,0,0,1,0,65,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-033","120.9723049","-34.37175417","28/11/2022",NA,"Investigator MBH",NA,"80",0,0,0,0,2,0,0,0,0,0,0,78,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-125","120.9399332","-34.388613","28/11/2022",NA,"Investigator MBH",NA,"83",0,1,0,1,9,0,0,0,0,1,0,68,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-056","120.9239978","-34.39450099","28/11/2022",NA,"Investigator MBH",NA,"80",0,0,0,0,8,0,0,0,0,1,0,71,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-078","120.8962861","-34.40824506","28/11/2022",NA,"Investigator MBH",NA,"79",0,1,0,0,23,0,3,0,0,7,0,45,79
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-091","120.9292734","-34.42994055","28/11/2022",NA,"Investigator MBH",NA,"80",1,0,0,0,20,0,2,0,0,8,0,48,79
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-063","120.8702701","-34.45981666","28/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,20,0,2,0,0,3,0,55,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-126","120.8272604","-34.4930589","28/11/2022",NA,"Investigator MBH",NA,"138",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-127","120.8252078","-34.49264089","28/11/2022",NA,"Investigator MBH",NA,"135",0,4,0,0,29,0,0,0,0,11,0,36,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-128","120.8085238","-34.49652837","28/11/2022",NA,"Investigator MBH",NA,"197",0,1,0,0,65,0,0,0,0,7,0,1,74
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-129","120.8071386","-34.49322779","28/11/2022",NA,"Investigator MBH",NA,"149",0,2,0,0,53,0,1,0,0,13,0,0,69
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-012","120.8839851","-34.47984394","28/11/2022",NA,"Investigator MBH",NA,NA,0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-024","120.9173298","-34.49887388","28/11/2022",NA,"Investigator MBH",NA,"181",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-130","121.0608244","-34.4989931","28/11/2022",NA,"Investigator MBH",NA,"121",0,0,0,4,74,0,1,0,0,1,0,0,80
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-131","121.0718611","-34.4989374","28/11/2022",NA,"Investigator MBH",NA,"119",0,0,0,0,0,0,0,0,0,0,0,68,68
-"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-132","121.180394","-34.4965795","28/11/2022",NA,"Investigator MBH",NA,"103",0,0,0,0,24,0,0,0,0,2,0,54,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-039","123.5360009","-34.35324071","21/11/2022",NA,"Salisbury MBH",NA,"33.5",0,0,0,0,17,0,0,0,0,0,0,42,59
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-008","123.4783475","-34.37879031","21/11/2022",NA,"Salisbury MBH",NA,"85.5",0,0,0,0,0,0,0,0,0,1,0,67,68
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-063","123.5255369","-34.39281228","21/11/2022",NA,"Salisbury MBH",NA,"81",0,0,0,0,16,0,0,0,0,6,0,37,59
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-079","123.493609","-34.42014595","21/11/2022",NA,"Salisbury MBH",NA,"88",0,0,0,0,1,0,0,0,0,0,0,79,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-043","123.5080867","-34.43726343","21/11/2022",NA,"Salisbury MBH",NA,"91",0,0,0,0,4,0,0,0,0,1,0,74,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-014","123.5153216","-34.4619418","21/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,28,0,0,0,0,9,0,43,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-069","123.4981428","-34.47149493","21/11/2022",NA,"Salisbury MBH",NA,"85",0,0,0,0,35,0,0,0,0,15,0,30,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-033","123.4801492","-34.48904493","21/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,13,0,2,0,0,7,0,57,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-004","123.4919345","-34.53283339","21/11/2022",NA,"Salisbury MBH",NA,"88",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-075","123.4913759","-34.57038734","21/11/2022",NA,"Salisbury MBH",NA,"90",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-092","123.5080188","-34.59839663","21/11/2022",NA,"Salisbury MBH",NA,"102",0,0,0,4,20,0,0,0,0,0,0,48,72
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-028","123.5682127","-34.61328039","21/11/2022",NA,"Salisbury MBH",NA,"172",0,0,0,0,0,0,0,0,0,0,0,44,44
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-009","123.6259746","-34.58771137","21/11/2022",NA,"Salisbury MBH",NA,"106",0,0,0,0,0,0,0,0,0,0,0,24,24
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-018","123.6385784","-34.55904026","21/11/2022",NA,"Salisbury MBH",NA,"91",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-044","123.6141254","-34.54394722","21/11/2022",NA,"Salisbury MBH",NA,"90",0,0,0,0,31,0,3,0,0,6,0,36,76
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-098","123.5840488","-34.55262395","21/11/2022",NA,"Salisbury MBH",NA,"88.5",0,0,0,0,4,0,0,0,0,2,0,74,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-064","123.5502064","-34.56640123","21/11/2022",NA,"Salisbury MBH",NA,"89",0,0,0,0,0,0,0,0,0,1,0,79,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-023","123.5182425","-34.56150648","21/11/2022",NA,"Salisbury MBH",NA,"91",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-058","123.529527","-34.54617895","21/11/2022",NA,"Salisbury MBH",NA,"88",0,0,0,0,10,0,4,0,0,2,0,53,69
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-102","123.552923","-34.549492","21/11/2022",NA,"Salisbury MBH",NA,"64",0,0,0,0,46,0,4,0,0,7,0,0,57
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-084","123.5273883","-34.5030623","21/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,20,0,5,0,0,21,0,33,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-050","123.5418842","-34.5201731","21/11/2022",NA,"Salisbury MBH",NA,"87",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-089","123.5802814","-34.5255068","21/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,3,0,2,0,0,1,0,74,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-038","123.5974627","-34.51594573","21/11/2022",NA,"Salisbury MBH",NA,"86",0,1,0,0,13,0,0,0,0,7,0,57,78
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-010","123.6517067","-34.52503626","21/11/2022",NA,"Salisbury MBH",NA,"89",0,0,0,0,16,0,0,0,0,2,0,62,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-078","123.5746051","-34.35590778","22/11/2022",NA,"Salisbury MBH",NA,"71",0,0,0,0,0,1,0,0,0,0,0,77,78
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-049","123.6365547","-34.38434649","22/11/2022",NA,"Salisbury MBH",NA,"80",0,1,0,0,7,0,0,0,0,3,0,69,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-013","123.6247713","-34.40501948","22/11/2022",NA,"Salisbury MBH",NA,"82",0,0,0,0,33,0,1,0,0,4,0,42,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-068","123.5950011","-34.4110402","22/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,40,0,0,0,0,1,0,39,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-083","123.6116484","-34.43904032","22/11/2022",NA,"Salisbury MBH",NA,"79",0,0,0,0,12,0,1,0,0,9,0,58,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-001","123.6283029","-34.46703924","22/11/2022",NA,"Salisbury MBH",NA,"43",0,0,0,0,1,76,0,0,0,0,0,0,77
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-080","123.6481585","-34.46302861","22/11/2022",NA,"Salisbury MBH",NA,"84",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-057","123.6618366","-34.45590834","22/11/2022",NA,"Salisbury MBH",NA,"82",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-045","123.6696776","-34.50746751","22/11/2022",NA,"Salisbury MBH",NA,"87",0,1,0,0,16,0,0,0,0,0,0,63,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-073","123.6345038","-34.50237668","22/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,1,21,0,1,0,0,7,0,48,78
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-020","123.5934245","-34.49150499","22/11/2022",NA,"Salisbury MBH",NA,"86",1,0,0,2,26,0,6,0,0,11,0,32,78
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-054","123.5663101","-34.47084101","22/11/2022",NA,"Salisbury MBH",NA,"84",0,0,0,0,5,0,1,0,0,4,0,70,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-103","123.5929579","-34.4635287","22/11/2022",NA,"Salisbury MBH",NA,"67",0,0,0,0,69,0,1,0,0,6,0,2,78
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-104","123.588885","-34.4553524","22/11/2022",NA,"Salisbury MBH",NA,"61",0,0,0,0,69,0,0,0,0,10,0,0,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-097","123.5520865","-34.4510517","22/11/2022",NA,"Salisbury MBH",NA,"87",1,0,0,0,27,0,1,0,0,7,0,44,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-032","123.5609389","-34.42749477","22/11/2022",NA,"Salisbury MBH",NA,"86.5",0,0,0,0,4,0,1,0,0,3,0,72,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-027","123.5397473","-34.41259783","22/11/2022",NA,"Salisbury MBH",NA,"84",0,0,0,1,9,0,0,0,0,2,0,67,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-105","123.541977","-34.37902644","22/11/2022",NA,"Salisbury MBH",NA,"53",0,0,0,0,30,27,0,0,0,4,0,1,62
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-091","123.5223277","-34.36035143","22/11/2022",NA,"Salisbury MBH",NA,"52",0,0,0,0,14,58,0,0,0,3,0,0,75
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-022","123.5100103","-34.32188658","22/11/2022",NA,"Salisbury MBH",NA,"77.5",0,2,0,0,7,0,0,0,0,7,0,64,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-047","123.4813385","-34.31720427","22/11/2022",NA,"Salisbury MBH",NA,"79.5",0,0,0,0,24,0,1,0,0,11,0,43,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-056","123.492602","-34.30187022","22/11/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,1,0,0,0,0,0,0,79,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-048","123.5046702","-34.27852252","22/11/2022",NA,"Salisbury MBH",NA,"77",0,0,0,0,6,0,0,0,0,0,0,74,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-031","123.5427114","-34.25429338","22/11/2022",NA,"Salisbury MBH",NA,"74.5",0,2,0,0,6,0,1,0,0,0,0,70,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-082","123.5154006","-34.2362704","22/11/2022",NA,"Salisbury MBH",NA,"77",0,0,0,0,1,0,0,0,0,0,0,73,74
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-012","123.526114","-34.22626414","22/11/2022",NA,"Salisbury MBH",NA,"76",0,0,0,0,2,0,0,0,0,4,0,74,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-003","123.4648006","-34.22468779","22/11/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,1,0,1,0,0,3,0,75,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-040","123.4760563","-34.20935073","22/11/2022",NA,"Salisbury MBH",NA,"79",0,0,0,0,6,0,1,0,0,1,0,72,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-015","123.4953481","-34.17844146","22/11/2022",NA,"Salisbury MBH",NA,"79",0,0,0,0,2,0,0,0,0,0,0,78,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-094","123.5119432","-34.17421584","22/11/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,0,0,0,0,0,1,0,79,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-025","123.5057885","-34.17110671","22/11/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,1,0,0,0,0,0,0,79,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-051","123.4686043","-34.15507271","22/11/2022",NA,"Salisbury MBH",NA,"80",0,0,0,0,1,0,0,0,0,0,0,79,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-085","123.4897521","-34.13773359","22/11/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,1,0,0,0,0,0,0,79,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-106","123.5348022","-34.392713","2/12/2022",NA,"Salisbury MBH",NA,"43",0,4,0,0,35,11,3,0,0,12,0,0,65
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-107","123.5476847","-34.3719576","2/12/2022",NA,"Salisbury MBH",NA,"50",0,0,0,0,0,64,0,0,0,0,0,6,70
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-108","123.560732","-34.3628227","2/12/2022",NA,"Salisbury MBH",NA,"46",0,0,0,0,2,62,0,0,0,0,0,0,64
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-026","123.6526135","-34.35320967","2/12/2022",NA,"Salisbury MBH",NA,"77",0,3,0,0,11,0,0,0,0,6,0,59,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-035","123.6630612","-34.34585814","2/12/2022",NA,"Salisbury MBH",NA,"77",0,1,0,0,13,0,0,0,0,4,0,59,77
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-062","123.6287394","-34.33276995","2/12/2022",NA,"Salisbury MBH",NA,"73",0,0,0,0,9,0,0,0,0,0,0,71,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-007","123.590945","-34.32210782","2/12/2022",NA,"Salisbury MBH",NA,"68",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-109","123.580362","-34.3122238","2/12/2022",NA,"Salisbury MBH",NA,"62",0,0,0,0,0,0,0,0,0,0,0,78,78
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-002","123.5705732","-34.29920918","2/12/2022",NA,"Salisbury MBH",NA,"52",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-110","123.5718288","-34.3014923","2/12/2022",NA,"Salisbury MBH",NA,"40",0,0,0,0,0,75,0,0,0,1,0,0,76
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-042","123.5962958","-34.30097845","2/12/2022",NA,"Salisbury MBH",NA,"63",0,2,0,0,0,0,0,0,0,0,0,78,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-096","123.6466819","-34.31518656","2/12/2022",NA,"Salisbury MBH",NA,"66",0,0,0,0,0,0,0,0,0,0,0,80,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-087","123.6584508","-34.29450732","2/12/2022",NA,"Salisbury MBH",NA,"71.5",0,0,0,0,2,0,0,0,0,0,0,77,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-036","123.614503","-34.28074464","2/12/2022",NA,"Salisbury MBH",NA,"66",0,0,0,0,36,0,0,0,0,3,0,38,77
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-111","123.6146265","-34.2770411","2/12/2022",NA,"Salisbury MBH",NA,"63",0,0,0,0,19,0,0,0,0,4,0,36,59
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-017","123.6431438","-34.25314682","2/12/2022",NA,"Salisbury MBH",NA,"70",0,0,0,0,38,0,2,0,0,14,0,26,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-071","123.5973484","-34.25806724","2/12/2022",NA,"Salisbury MBH",NA,"71.5",0,0,0,0,12,0,1,0,0,1,0,66,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-052","123.6321485","-34.23358398","2/12/2022",NA,"Salisbury MBH",NA,"66",0,0,0,0,44,0,0,0,0,13,0,23,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-112","123.6192162","-34.2270268","2/12/2022",NA,"Salisbury MBH",NA,"43",0,0,0,0,15,27,0,0,0,0,0,10,52
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-113","123.6224769","-34.21886773","2/12/2022",NA,"Salisbury MBH",NA,"22",0,0,0,0,0,58,0,0,0,0,0,0,58
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-067","123.579125","-34.21381288","2/12/2022",NA,"Salisbury MBH",NA,"71.5",0,0,0,0,2,0,0,0,0,2,0,74,78
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-041","123.5705561","-34.20247075","2/12/2022",NA,"Salisbury MBH",NA,"72",0,0,0,0,3,0,0,0,0,1,0,71,75
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-081","123.6256971","-34.20090104","2/12/2022",NA,"Salisbury MBH",NA,"49.5",0,0,0,0,57,0,0,0,0,0,0,23,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-114","123.6314284","-34.2007449","2/12/2022",NA,"Salisbury MBH",NA,"44",0,0,0,0,3,74,0,0,0,0,0,3,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-030","123.6396091","-34.19110675","2/12/2022",NA,"Salisbury MBH",NA,"60",0,0,0,0,16,0,1,0,0,9,0,52,78
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-066","123.6572602","-34.17618778","2/12/2022",NA,"Salisbury MBH",NA,"63",0,0,0,0,12,0,0,0,0,5,0,63,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-011","123.6133624","-34.16242084","2/12/2022",NA,"Salisbury MBH",NA,"68",0,1,0,0,3,0,2,0,0,0,0,74,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-077","123.5435232","-34.14953371","2/12/2022",NA,"Salisbury MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,79,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-006","123.5598437","-34.14797696","2/12/2022",NA,"Salisbury MBH",NA,"75",0,0,0,0,40,0,0,0,0,22,0,18,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-046","123.5956942","-34.1450805","2/12/2022",NA,"Salisbury MBH",NA,"71",0,0,0,0,6,0,0,0,0,1,0,73,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-100","123.6390246","-34.13193189","2/12/2022",NA,"Salisbury MBH",NA,"68",0,0,0,0,22,0,0,0,0,2,0,52,76
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-076","123.6529262","-34.12213477","2/12/2022",NA,"Salisbury MBH",NA,"68",0,0,0,0,16,0,0,0,0,3,0,61,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-005","123.6403232","-34.08633016","2/12/2022",NA,"Salisbury MBH",NA,"69",0,0,0,0,8,0,0,0,0,1,0,71,80
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-059","123.6234824","-34.09323455","2/12/2022",NA,"Salisbury MBH",NA,"75",0,0,0,0,28,0,4,0,0,6,0,39,77
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-024","123.6058405","-34.10815252","2/12/2022",NA,"Salisbury MBH",NA,"72",0,0,0,0,10,0,0,0,0,2,0,63,75
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-019","123.5852419","-34.08790621","2/12/2022",NA,"Salisbury MBH",NA,"73",0,1,0,0,4,0,0,0,0,1,0,73,79
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-088","123.5745483","-34.09791996","2/12/2022",NA,"Salisbury MBH",NA,"75",0,0,0,0,11,0,0,0,0,0,0,64,75
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-060","123.5432583","-34.11994877","2/12/2022",NA,"Salisbury MBH",NA,"77",0,0,0,0,8,0,0,0,0,0,0,58,66
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-037","123.5312228","-34.11105107","2/12/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,0,0,0,0,0,0,0,43,43
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-065","123.4993991","-34.10614691","3/12/2022",NA,"Salisbury MBH",NA,"74",0,0,0,0,8,0,0,0,0,1,0,59,68
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-099","123.4820287","-34.08611899","3/12/2022",NA,"Salisbury MBH",NA,"73",0,2,0,0,37,0,0,0,0,15,0,18,72
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-072","123.513053","-34.06677325","3/12/2022",NA,"Salisbury MBH",NA,"73.5",0,0,0,0,1,0,1,0,0,0,0,72,74
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-115","123.5130451","-34.0658677","3/12/2022",NA,"Salisbury MBH",NA,"67",9,8,0,0,38,0,0,0,0,15,0,0,70
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-116","123.498351","-34.060939","3/12/2022",NA,"Salisbury MBH",NA,"67",0,6,0,0,27,0,2,0,0,13,0,0,48
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-029","123.4697584","-34.04762559","3/12/2022",NA,"Salisbury MBH",NA,"61",0,0,0,0,5,0,2,0,0,12,0,56,75
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-061","123.4943596","-34.02783331","3/12/2022",NA,"Salisbury MBH",NA,"63",0,0,0,0,0,0,0,0,0,0,0,75,75
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-117","123.5030731","-34.0269754","3/12/2022",NA,"Salisbury MBH",NA,"39",3,5,0,0,15,17,0,0,0,6,0,0,46
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-053","123.5769403","-34.04163523","3/12/2022",NA,"Salisbury MBH",NA,"62.5",0,3,0,0,33,0,0,0,0,16,0,18,70
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-093","123.5988611","-34.04852312","3/12/2022",NA,"Salisbury MBH",NA,"64",0,0,0,1,33,0,1,0,0,9,0,28,72
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-021","123.6036637","-34.03272783","3/12/2022",NA,"Salisbury MBH",NA,"61",0,0,0,0,10,0,0,0,0,6,0,40,56
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-086","123.5980483","-34.02427639","3/12/2022",NA,"Salisbury MBH",NA,"60",0,0,0,0,6,0,0,0,0,4,0,27,37
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-034","123.5478089","-34.01004227","3/12/2022",NA,"Salisbury MBH",NA,"43",0,0,0,0,0,0,0,0,0,0,0,70,70
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-070","123.5333836","-33.99290194","3/12/2022",NA,"Salisbury MBH",NA,"36",0,0,0,0,0,37,0,0,0,2,0,33,72
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-095","123.4826309","-33.98399057","3/12/2022",NA,"Salisbury MBH",NA,"51",0,0,0,0,15,1,3,0,0,11,0,37,67
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-016","123.5889487","-33.98599958","3/12/2022",NA,"Salisbury MBH",NA,"47",0,0,0,0,0,0,0,0,0,0,0,68,68
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-118","123.6068165","-33.981951","3/12/2022",NA,"Salisbury MBH",NA,"43",0,2,0,1,50,16,0,0,0,5,0,0,74
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-090","123.6255378","-33.97508823","3/12/2022",NA,"Salisbury MBH",NA,"52",0,0,0,0,0,0,0,0,0,0,0,76,76
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-055","123.6399767","-33.99221142","3/12/2022",NA,"Salisbury MBH",NA,"55",0,0,0,0,12,0,0,0,0,1,0,27,40
-"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-074","123.6501533","-34.01980299","3/12/2022",NA,"Salisbury MBH",NA,"60.5",0,0,0,0,9,0,2,0,0,0,0,65,76
+"campaignid","sample","latitude","longitude","date","site","location","successful.count","depth","broad.ascidians","broad.bryozoa","broad.colonial.anemones","broad.consolidated","broad.hydrocoral","broad.hydroids","broad.invertebrate.complex","broad.macroalgae","broad.octocoral.black","broad.sea.stars","broad.seagrasses","broad.sponges","broad.stony.corals","broad.unconsolidated","broad.zoanthids","broad.total.points.annotated"
+"2022-11_Investigator_stereo-BRUVs","INV-BV-70","-34.06644167","120.9385767","2022-11-03","Investigator Island","South-west Corner",NA,"64.4",0,1,0,0,0,2,10,4,8,0,0,5,0,3,0,33
+"2022-11_Investigator_stereo-BRUVs","INV-BV-36","-34.06377339","120.9386308","2022-11-03","Investigator Island","South-west Corner",NA,"49.7",0,0,0,1,0,0,0,30,0,0,0,0,0,0,0,31
+"2022-11_Investigator_stereo-BRUVs","INV-BV-62","-34.05634538","120.9663105","2022-11-03","Investigator Island","South-west Corner",NA,"66.4",0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,34
+"2022-11_Investigator_stereo-BRUVs","INV-BV-58","-34.04880504","120.9512688","2022-11-03","Investigator Island","South-west Corner",NA,"60.3",0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,32
+"2022-11_Investigator_stereo-BRUVs","INV-BV-07","-34.04886","120.94125","2022-11-03","Investigator Island","South-west Corner",NA,"57.7",0,10,0,0,0,0,2,5,0,0,0,3,0,13,0,33
+"2022-11_Investigator_stereo-BRUVs","INV-BV-14","-34.043595","120.9337917","2022-11-03","Investigator Island","South-west Corner",NA,"53.8",0,1,0,0,0,0,0,4,0,0,0,0,0,28,0,33
+"2022-11_Investigator_stereo-BRUVs","INV-BV-20","-34.04372603","120.9536963","2022-11-03","Investigator Island","South-west Corner",NA,"57.9",0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,33
+"2022-11_Investigator_stereo-BRUVs","INV-BV-11","-34.03604","120.9485867","2022-11-03","Investigator Island","South-west Corner",NA,"45.5",0,0,0,0,0,0,3,12,2,0,0,13,0,0,0,30
+"2022-11_Investigator_stereo-BRUVs","INV-BV-05","-34.03111308","120.9263512","2022-11-03","Investigator Island","South-west Corner",NA,"58.9",0,1,0,0,0,0,0,1,0,0,0,0,0,27,0,29
+"2022-11_Investigator_stereo-BRUVs","INV-BV-28","-34.01881825","120.9464186","2022-11-03","Investigator Island","South-west Corner",NA,"51.4",0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,30
+"2022-11_Investigator_stereo-BRUVs","INV-BV-03","-34.02375","120.95625","2022-11-03","Investigator Island","South-west Corner",NA,"60.7",0,6,0,0,0,0,5,0,1,0,0,7,0,7,0,26
+"2022-11_Investigator_stereo-BRUVs","INV-BV-60","-34.00636381","120.9662883","2022-11-03","Investigator Island","South-west Corner",NA,"59.1",0,7,0,0,0,0,0,0,0,0,0,4,0,17,0,28
+"2022-11_Investigator_stereo-BRUVs","INV-BV-27","-34.00131032","120.9309073","2022-11-03","Investigator Island","South-west Corner",NA,"48.8",0,3,0,1,0,0,0,12,0,0,0,0,0,16,0,32
+"2022-11_Investigator_stereo-BRUVs","INV-BV-53","-33.99632242","120.9440016","2022-11-03","Investigator Island","South-west Corner",NA,"51.7",0,3,0,0,0,0,0,3,0,0,0,0,0,22,0,28
+"2022-11_Investigator_stereo-BRUVs","INV-BV-44","-33.99618368","120.9237852","2022-11-03","Investigator Island","South-west Corner",NA,"50.2",0,1,0,0,0,0,2,10,0,0,0,2,0,15,0,30
+"2022-11_Investigator_stereo-BRUVs","INV-BV-17","-33.99125","120.90875","2022-11-03","Investigator Island","South-west Corner",NA,"50",0,1,0,0,0,0,0,6,0,0,0,1,0,27,0,35
+"2022-11_Investigator_stereo-BRUVs","INV-BV-22","-33.9763802","120.9337514","2022-11-03","Investigator Island","South-west Corner",NA,"47.3",0,2,0,1,0,0,0,19,0,0,0,0,0,9,0,31
+"2022-11_Investigator_stereo-BRUVs","CP2","-33.96610615","120.9326288","2022-11-03","Investigator Island","South-west Corner",NA,"43.6",0,3,0,0,0,0,0,6,0,0,0,3,0,20,0,32
+"2022-11_Investigator_stereo-BRUVs","CP3","-33.96994272","120.9004951","2022-11-03","Investigator Island","South-west Corner",NA,"49.8",0,0,0,0,0,0,0,3,0,0,0,0,0,28,0,31
+"2022-11_Investigator_stereo-BRUVs","CP4","-33.97750151","120.9150978","2022-11-03","Investigator Island","South-west Corner",NA,"46.7",0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,33
+"2022-11_Investigator_stereo-BRUVs","INV-BV-35","-33.9513702","120.9730724","2022-11-04","Investigator Island","South-west Corner",NA,"44.8",0,0,0,0,0,0,2,9,0,0,0,0,0,19,0,30
+"2022-11_Investigator_stereo-BRUVs","INV-BV-55","-33.94625","120.95375","2022-11-04","Investigator Island","South-west Corner",NA,"41",1,0,0,0,0,0,0,15,0,0,0,0,0,14,0,30
+"2022-11_Investigator_stereo-BRUVs","INV-BV-26","-33.9438414","120.9713517","2022-11-04","Investigator Island","South-west Corner",NA,"45.5",0,0,0,0,0,0,0,16,0,0,0,0,0,20,0,36
+"2022-11_Investigator_stereo-BRUVs","INV-BV-66","-33.92904866","120.9838657","2022-11-04","Investigator Island","South-west Corner","No","36.8",0,0,0,0,0,0,0,6,0,0,0,0,0,12,0,18
+"2022-11_Investigator_stereo-BRUVs","INV-BV-51","-33.92622075","120.9988784","2022-11-04","Investigator Island","South-west Corner",NA,"44.2",0,0,0,0,0,0,0,26,0,0,0,1,0,2,0,29
+"2022-11_Investigator_stereo-BRUVs","INV-BV-24","-33.92866816","121.0312282","2022-11-04","Investigator Island","South-west Corner",NA,"46.3",0,0,0,1,0,0,10,3,0,0,0,2,0,19,0,35
+"2022-11_Investigator_stereo-BRUVs","INV-BV-02","-33.92375","121.05875","2022-11-04","Investigator Island","South-west Corner",NA,"38.4",0,0,0,0,0,0,0,15,0,0,0,0,0,20,0,35
+"2022-11_Investigator_stereo-BRUVs","INV-BV-48","-33.93625","121.06125","2022-11-04","Investigator Island","South-west Corner",NA,"39.7",0,0,0,0,0,1,4,23,0,0,0,3,0,0,0,31
+"2022-11_Investigator_stereo-BRUVs","INV-BV-29","-33.95375","121.04625","2022-11-04","Investigator Island","South-west Corner",NA,"57.7",0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,35
+"2022-11_Investigator_stereo-BRUVs","INV-BV-42","-33.9486914","121.026183","2022-11-04","Investigator Island","South-west Corner",NA,"58.6",0,1,0,0,0,0,0,0,0,0,0,0,0,31,0,32
+"2022-11_Investigator_stereo-BRUVs","INV-BV-57","-33.95625","121.02375","2022-11-04","Investigator Island","South-west Corner",NA,"60.2",0,0,0,1,0,0,1,5,0,0,0,1,0,22,0,30
+"2022-11_Investigator_stereo-BRUVs","INV-BV-69","-33.95376898","121.0163822","2022-11-04","Investigator Island","Eastern Recherche",NA,"57.4",0,5,0,0,0,0,7,3,1,0,0,6,0,12,0,34
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-091","-34.36013659","123.5225436","2022-11-21","Salisbury Island","Eastern Recherche",NA,"51.7",0,0,0,2,0,0,0,28,0,0,0,0,0,0,0,30
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-059","-34.3532273","123.5359638","2022-11-21","Salisbury Island","Eastern Recherche",NA,"35.5",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,19
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-047","-34.31721358","123.4814367","2022-11-21","Salisbury Island","Eastern Recherche",NA,"83",0,4,0,0,0,0,5,0,0,0,0,10,0,16,0,35
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-022","-34.32191272","123.5100899","2022-11-21","Salisbury Island","Eastern Recherche",NA,"81.8",0,1,0,0,0,0,1,0,0,0,0,3,0,28,0,33
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C01","-34.31912852","123.518249","2022-11-21","Salisbury Island","Eastern Recherche",NA,"79.5",0,2,0,0,0,0,2,0,0,0,0,4,0,26,0,34
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C02","-34.31604117","123.5394085","2022-11-21","Salisbury Island","Eastern Recherche",NA,"72.5",0,2,0,0,0,0,0,0,0,0,0,0,0,33,0,35
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C03","-34.30883246","123.5191172","2022-11-21","Salisbury Island","Eastern Recherche",NA,"77.6",0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,29
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-056","-34.30190728","123.4926449","2022-11-21","Salisbury Island","Eastern Recherche",NA,"80.4",0,0,0,0,0,0,1,0,0,0,0,0,0,30,0,31
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-063","-34.39273574","123.5255309","2022-11-21","Salisbury Island","Eastern Recherche",NA,"83.5",0,1,0,0,0,0,6,0,1,0,0,3,0,23,0,34
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C04","-34.39788544","123.5243921","2022-11-21","Salisbury Island","Eastern Recherche",NA,"81.4",0,1,0,0,0,0,4,0,0,0,0,0,0,29,0,34
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C05","-34.40376508","123.5171644","2022-11-21","Salisbury Island","Eastern Recherche",NA,"83.5",0,0,0,1,0,0,0,0,0,0,0,2,0,22,0,25
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C07","-34.40662698","123.5222674","2022-11-21","Salisbury Island","Eastern Recherche",NA,"66.3",0,0,0,0,0,5,15,0,6,0,0,9,0,0,0,35
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-027","-34.41246656","123.5395713","2022-11-21","Salisbury Island","Eastern Recherche",NA,"86.1",0,0,0,0,0,0,5,0,2,0,0,1,0,22,0,30
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-032","-34.42764662","123.5610232","2022-11-21","Salisbury Island","Eastern Recherche",NA,"90.4",0,0,0,0,0,0,7,0,0,0,0,4,0,24,0,35
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C06","-34.42974534","123.5382463","2022-11-21","Salisbury Island","Eastern Recherche",NA,"90.8",0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,23
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-043","-34.43747999","123.5081563","2022-11-21","Salisbury Island","Eastern Recherche",NA,"91.6",0,0,0,0,0,0,5,0,1,0,0,9,0,19,0,34
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-057","-34.45575408","123.6618775","2022-11-22","Salisbury Island","Eastern Recherche",NA,"84.6",0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,28
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-080","-34.46316253","123.6481971","2022-11-22","Salisbury Island","Eastern Recherche",NA,"85.9",0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,34
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-001","-34.46670461","123.6283059","2022-11-22","Salisbury Island","Eastern Recherche",NA,"47.8",0,0,0,3,0,0,0,31,0,0,0,0,0,0,0,34
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C08","-34.46984078","123.6226578","2022-11-22","Salisbury Island","Eastern Recherche",NA,"84.1",0,3,0,0,0,0,6,0,0,0,0,9,0,19,0,37
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C09","-34.47247845","123.5976589","2022-11-22","Salisbury Island","Eastern Recherche",NA,"86.4",0,2,0,0,0,0,6,0,0,0,0,6,0,21,0,35
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-054","-34.47094964","123.5662194","2022-11-22","Salisbury Island","Eastern Recherche",NA,"86.4",0,0,0,0,0,0,6,0,0,0,0,6,0,26,0,38
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C10","-34.4601941","123.5699235","2022-11-22","Salisbury Island","Eastern Recherche",NA,"82.3",0,0,0,2,0,1,21,0,0,0,0,3,0,9,0,36
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-083","-34.43899483","123.6116742","2022-11-22","Salisbury Island","Eastern Recherche",NA,"81",0,0,0,0,0,0,0,0,0,0,0,1,0,33,0,34
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-068","-34.41095643","123.5949456","2022-11-22","Salisbury Island","Eastern Recherche",NA,"88.8",0,0,0,1,0,4,7,0,0,1,0,4,0,22,0,39
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-013","-34.40500309","123.624557","2022-11-22","Salisbury Island","Eastern Recherche",NA,"83.4",0,2,0,0,0,3,5,0,0,0,0,12,0,14,0,36
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-049","-34.38435333","123.6363099","2022-11-22","Salisbury Island","Eastern Recherche",NA,"82.4",0,4,0,0,0,0,1,0,1,0,0,1,0,21,0,28
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C11","-34.37083794","123.643165","2022-11-22","Salisbury Island","Eastern Recherche","No","80.9",0,1,0,0,0,0,2,0,1,0,0,2,0,14,0,20
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-026","-34.35307209","123.6522622","2022-11-22","Salisbury Island","Eastern Recherche",NA,"79.4",0,1,0,0,0,1,7,0,0,0,0,3,0,24,0,36
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-035","-34.34593659","123.6629647","2022-11-22","Salisbury Island","Eastern Recherche",NA,"78.9",0,0,0,0,0,1,0,0,1,0,0,7,0,19,0,28
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C12","-34.34719439","123.6530581","2022-11-22","Salisbury Island","Eastern Recherche",NA,"80.4",0,1,0,0,0,0,9,0,0,0,0,2,0,20,0,32
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-C13","-34.3466204","123.6296098","2022-11-22","Salisbury Island","Eastern Recherche",NA,"78.2",0,0,0,0,0,0,1,0,0,0,0,6,0,28,0,35
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D01","-34.37281759","123.571581","2022-11-22","Salisbury Island","Eastern Recherche",NA,"80.2",0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,26
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D02","-34.36921229","123.5598427","2022-11-22","Salisbury Island","Eastern Recherche",NA,"71.9",0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,27
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D03","-34.3663338","123.5575982","2022-11-22","Salisbury Island","Eastern Recherche",NA,"55.1",0,3,0,1,0,4,15,0,3,0,0,10,0,0,0,36
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D04","-34.36384065","123.5590472","2022-11-22","Salisbury Island","Eastern Recherche",NA,"39.2",0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,38
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D05","-34.35874449","123.5636954","2022-11-22","Salisbury Island","Eastern Recherche",NA,"49.1",0,5,0,1,0,0,0,7,0,0,0,0,0,17,0,30
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D06","-34.35493861","123.5661515","2022-11-22","Salisbury Island","Eastern Recherche",NA,"41.6",0,0,0,1,0,0,0,32,0,0,0,0,0,0,0,33
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D07","-34.34974407","123.5619386","2022-11-22","Salisbury Island","Eastern Recherche",NA,"32.3",0,0,0,1,0,0,0,28,0,0,0,1,0,0,0,30
+"2022-11_Salisbury_stereo-BRUVs","SAL-BV-D08","-34.34624401","123.561841","2022-11-22","Salisbury Island","Eastern Recherche",NA,"33.7",0,0,0,0,0,0,0,27,0,0,0,0,0,11,0,38
+"2022-11_Termination_stereo-BOSS","TER-DC-001","-34.4675750002212","121.994305000186","2022-11-09","Termination Island","Eastern Recherche",NA,"33.3",0,0,0,0,0,0,0,75,0,0,0,0,0,4,0,79
+"2022-11_Termination_stereo-BOSS","TER-DC-002","-34.4688799997124","121.997825000118","2022-11-09","Termination Island","Eastern Recherche",NA,"17.3",0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,77
+"2022-11_Termination_stereo-BOSS","TER-DC-003","-34.4726283332595","121.99977333368","2022-11-09","Termination Island","Eastern Recherche",NA,"32.2",0,0,0,6,0,0,2,65,0,0,0,2,0,2,0,77
+"2022-11_Termination_stereo-BOSS","TER-DC-004","-34.4581933335768","121.994075000032","2022-11-09","Termination Island","Eastern Recherche",NA,"29.7",0,0,0,1,0,0,0,79,0,0,0,0,0,0,0,80
+"2022-11_Termination_stereo-BOSS","TER-DC-005","-34.444369999716","121.987073333078","2022-11-09","Termination Island","Eastern Recherche",NA,"83.4",0,0,0,3,0,0,1,0,0,0,0,0,0,76,0,80
+"2022-11_Termination_stereo-BOSS","TER-DC-006","-34.4462833335404","121.982979999586","2022-11-09","Termination Island","Eastern Recherche",NA,"70.3",0,6,0,0,0,0,25,0,0,0,0,16,0,0,0,47
+"2022-11_Termination_stereo-BOSS","TER-DC-007","-34.4347783331053","121.989441666765","2022-11-09","Termination Island","Eastern Recherche",NA,"67.1",0,3,0,0,0,0,22,0,0,0,0,10,0,1,0,36
+"2022-11_Termination_stereo-BOSS","TER-DC-008","-34.4280116664417","121.983368333199","2022-11-09","Termination Island","Eastern Recherche",NA,"41.4",0,0,0,0,0,0,10,56,0,0,0,10,0,0,0,76
+"2022-11_Termination_stereo-BOSS","TER-DC-009","-34.4750666663705","121.984840000009","2022-11-09","Termination Island","Eastern Recherche",NA,"53.7",0,7,0,0,0,0,16,0,6,0,0,12,0,2,0,43
+"2022-11_Termination_stereo-BOSS","TER-DC-010","-34.4768416663592","121.991176666616","2022-11-09","Termination Island","Eastern Recherche",NA,"68.4",0,2,0,3,0,0,50,0,5,1,0,16,0,1,0,78
+"2022-11_Termination_stereo-BOSS","TER-DC-011","-34.4782600002488","121.994525000294","2022-11-09","Termination Island","Eastern Recherche",NA,"83.9",0,5,0,2,1,0,30,0,7,0,0,11,0,3,0,59
+"2022-11_Termination_stereo-BOSS","TER-DC-012","-34.4721616666447","122.001116666271","2022-11-09","Termination Island","Eastern Recherche",NA,"82.1",0,0,0,0,0,0,5,2,0,0,0,0,0,61,0,68
+"2022-11_Termination_stereo-BOSS","TER-DC-013","-34.4651233330627","122.001498333485","2022-11-09","Termination Island","Eastern Recherche",NA,"77.5",0,0,0,0,0,0,0,1,0,0,0,2,0,77,0,80
+"2022-11_Termination_stereo-BOSS","TER-DC-014","-34.4700599997299","121.995423333544","2022-11-09","Termination Island","Eastern Recherche",NA,"17.2",0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,73
+"2022-11_Termination_stereo-BOSS","TER-DC-015","-34.4668516663101","121.992884999979","2022-11-09","Termination Island","Eastern Recherche",NA,"20.8",0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,51
+"2022-11_Termination_stereo-BOSS","TER-DC-016","-34.4643333335073","121.990244999581","2022-11-09","Termination Island","Eastern Recherche",NA,"33.1",0,0,0,2,0,0,1,43,0,0,0,1,0,0,0,47
+"2022-11_Termination_stereo-BOSS","TER-DC-017","-34.465614999761","121.988711667019","2022-11-09","Termination Island","Eastern Recherche",NA,"11.1",0,0,0,0,0,0,0,50,0,0,0,19,0,0,0,69
+"2022-11_Termination_stereo-BOSS","TER-DC-018","-34.468183333063","121.983424999825","2022-11-09","Termination Island","Eastern Recherche",NA,"30.6",0,2,0,0,0,0,0,70,3,0,0,0,0,0,0,75
+"2022-11_Termination_stereo-BOSS","TER-DC-019","-34.4601733332972","121.987549999829","2022-11-09","Termination Island","Eastern Recherche",NA,"40.3",2,2,0,0,0,0,34,17,0,0,0,24,0,0,0,79
+"2022-11_Termination_stereo-BOSS","TER-DC-020","-34.4558216669048","121.987070000329","2022-11-09","Termination Island","Eastern Recherche",NA,"22.3",0,0,0,1,0,0,0,65,0,0,0,0,0,0,0,66
+"2022-11_Termination_stereo-BOSS","TER-DC-022","-34.452883333563","121.992609999619","2022-11-09","Termination Island","Eastern Recherche",NA,"32.5",0,0,0,0,0,0,0,63,0,0,0,0,0,13,0,76
+"2022-11_Termination_stereo-BOSS","TER-DC-023","-34.4731316670235","122.000795000229","2022-11-09","Termination Island","Eastern Recherche",NA,"85.2",0,0,0,0,0,0,29,0,0,0,0,1,0,47,0,77
+"2022-11_Termination_stereo-BOSS","TER-DC-024","-34.4774316665946","121.996675000247","2022-11-09","Termination Island","Eastern Recherche",NA,"85.5",0,0,0,0,0,0,30,0,0,0,0,7,0,15,0,52
+"2022-11_Termination_stereo-BOSS","TER-DC-025","-34.5105133329874","121.968378332902","2022-11-10","Termination Island","Eastern Recherche",NA,"89.1",0,0,0,0,0,0,44,0,2,0,0,31,0,0,0,77
+"2022-11_Termination_stereo-BOSS","TER-DC-026","-34.5096166669075","121.968338333617","2022-11-10","Termination Island","Eastern Recherche",NA,"95",0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,75
+"2022-11_Termination_stereo-BOSS","TER-DC-027","-34.564424999813","121.900255000268","2022-11-10","Termination Island","Eastern Recherche",NA,"115",0,4,0,0,0,0,11,0,1,0,0,5,0,59,0,80
+"2022-11_Termination_stereo-BOSS","TER-DC-028","-34.5695166666004","121.89697999966","2022-11-10","Termination Island","Eastern Recherche",NA,"145",0,0,0,0,0,0,4,0,0,0,0,1,0,74,0,79
+"2022-11_Termination_stereo-BOSS","TER-DC-029","-34.5721000001046","121.893988333083","2022-11-10","Termination Island","Eastern Recherche",NA,"202",0,0,0,0,0,0,0,0,0,0,0,4,0,46,0,50
+"2022-11_Termination_stereo-BOSS","TER-DC-030","-34.5699566669901","121.880271666854","2022-11-10","Termination Island","Eastern Recherche",NA,"139",0,9,0,0,0,1,7,0,0,0,0,2,0,61,0,80
+"2022-11_Termination_stereo-BOSS","TER-DC-031","-34.5741033331901","121.870293333391","2022-11-10","Termination Island","Eastern Recherche",NA,"243",0,0,0,0,0,0,0,0,0,0,0,0,0,57,0,57
+"2022-11_Termination_stereo-BOSS","TER-DC-032","-34.5793066669507","121.888999999988","2022-11-10","Termination Island","Eastern Recherche",NA,"358",0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,53
+"2022-11_Termination_stereo-BOSS","TER-DC-033","-34.5778200001134","121.867196666334","2022-11-10","Termination Island","Eastern Recherche",NA,"354",0,0,0,1,0,0,0,0,0,0,0,0,0,53,0,54
+"2022-11_Termination_stereo-BOSS","TER-DC-034","-34.5754433332201","121.862186666773","2022-11-10","Termination Island","Eastern Recherche",NA,"268",0,0,0,0,0,0,3,0,0,0,0,0,0,36,0,39
+"2022-11_Termination_stereo-BOSS","TER-DC-035","-34.57124499982","121.853898332956","2022-11-10","Termination Island","Eastern Recherche",NA,"137",0,5,0,0,0,0,0,0,1,0,0,0,0,72,0,78
+"2022-11_Termination_stereo-BOSS","TER-DC-036","-34.5781450003082","121.833095000283","2022-11-10","Termination Island","Eastern Recherche",NA,"192",0,0,0,0,0,0,45,0,0,0,0,8,0,4,0,57
+"2022-11_Termination_stereo-BOSS","TER-DC-037","-34.579465000247","121.828740000125","2022-11-10","Termination Island","Eastern Recherche",NA,"192",0,1,0,0,0,0,25,0,0,0,0,5,0,18,0,49
+"2022-11_Termination_stereo-BRUVs","TER-BV-01","-34.468977","121.998998","2022-11-09","Termination Island","Eastern Recherche",NA,"45.2",0,0,0,1,0,0,0,19,0,0,0,0,0,0,0,20
+"2022-11_Termination_stereo-BRUVs","TER-BV-02","-34.467101","121.994577","2022-11-09","Termination Island","Eastern Recherche",NA,"42.4",0,0,0,1,0,0,2,14,0,0,0,2,0,0,0,19
+"2022-11_Termination_stereo-BRUVs","TER-BV-03","-34.464871","121.993369","2022-11-09","Termination Island","Eastern Recherche",NA,"63.7",0,2,0,0,0,0,3,1,0,0,0,0,0,25,0,31
+"2022-11_Termination_stereo-BRUVs","TER-BV-04","-34.463139","121.998804","2022-11-09","Termination Island","Eastern Recherche",NA,"20.7",0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,37
+"2022-11_Termination_stereo-BRUVs","TER-BV-05","-34.458571","121.986333","2022-11-09","Termination Island","Eastern Recherche",NA,"47.5",0,0,0,0,0,0,20,4,1,0,0,4,0,0,0,29
+"2022-11_Termination_stereo-BRUVs","TER-BV-06","-34.453882","121.985755","2022-11-09","Termination Island","Eastern Recherche",NA,"33.1",0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,40
+"2022-11_Termination_stereo-BRUVs","TER-BV-07","-34.451632","121.990242","2022-11-09","Termination Island","Eastern Recherche",NA,"65.6",0,0,1,0,0,0,5,0,0,0,0,2,0,12,0,20
+"2022-11_Termination_stereo-BRUVs","TER-BV-08","-34.454154","121.992648","2022-11-09","Termination Island","Eastern Recherche",NA,"27.5",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,19
+"2022-11_Termination_stereo-BRUVs","TER-BV-09","-34.454636","121.995952","2022-11-09","Termination Island","Eastern Recherche",NA,"50.1",0,0,0,0,0,0,0,1,0,0,0,0,0,32,0,33
+"2022-11_Termination_stereo-BRUVs","TER-BV-10","-34.458449","121.994688","2022-11-09","Termination Island","Eastern Recherche",NA,"42",0,0,0,0,0,0,0,4,0,0,0,0,0,32,0,36
+"2022-11_Termination_stereo-BRUVs","TER-BV-11","-34.443549","121.987593","2022-11-09","Termination Island","Eastern Recherche",NA,"74.7",0,0,0,0,0,0,4,0,0,0,0,0,0,31,0,35
+"2022-11_Termination_stereo-BRUVs","TER-BV-12","-34.441999","121.988828","2022-11-09","Termination Island","Eastern Recherche",NA,"72.8",0,0,0,1,0,0,21,0,2,0,0,5,0,0,0,29
+"2022-11_Termination_stereo-BRUVs","TER-BV-13","-34.465952","121.984818","2022-11-09","Termination Island","Eastern Recherche",NA,"35.5",0,0,0,0,0,0,5,13,0,0,0,2,0,0,0,20
+"2022-11_Termination_stereo-BRUVs","TER-BV-14","-34.469539","121.982543","2022-11-09","Termination Island","Eastern Recherche",NA,"65.1",0,0,0,2,0,0,5,0,0,0,0,2,0,10,0,19
+"2022-11_Termination_stereo-BRUVs","TER-BV-15","-34.472812","121.982705","2022-11-09","Termination Island","Eastern Recherche",NA,"36",0,0,0,1,0,0,0,25,0,0,0,0,0,0,0,26
+"2022-11_Termination_stereo-BRUVs","TER-BV-16","-34.476524","121.987053","2022-11-09","Termination Island","Eastern Recherche",NA,"68.9",0,0,0,0,0,0,13,0,3,0,0,19,0,0,0,35
+"2022-11_Termination_stereo-BRUVs","TER-BV-17","-34.477294","121.994045","2022-11-09","Termination Island","Eastern Recherche",NA,"60",0,0,0,0,0,0,14,0,1,0,0,2,0,0,0,17
+"2022-11_Termination_stereo-BRUVs","TER-BV-18","-34.473929","121.999577","2022-11-09","Termination Island","Eastern Recherche",NA,"75.6",0,0,0,11,0,0,6,0,0,0,0,10,0,10,0,37
+"2022-11_Termination_stereo-BRUVs","TER-BV-19","-34.47041822","121.8445653","2022-11-10","Termination Island","Eastern Recherche",NA,"34.6",0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,20
+"2022-11_Termination_stereo-BRUVs","TER-BV-20","-34.47336833","121.8443767","2022-11-10","Termination Island","Eastern Recherche",NA,"27.7",0,0,0,1,0,0,0,18,0,0,0,0,0,0,0,19
+"2022-11_Termination_stereo-BRUVs","TER-BV-21","-34.477235","121.8466617","2022-11-10","Termination Island","Eastern Recherche",NA,"52.2",0,1,0,3,0,0,7,0,0,0,0,8,0,1,0,20
+"2022-11_Termination_stereo-BRUVs","TER-BV-22","-34.47682","121.8510233","2022-11-10","Termination Island","Eastern Recherche",NA,"46.1",0,2,0,0,0,0,11,0,5,0,0,18,0,0,0,36
+"2022-11_Termination_stereo-BRUVs","TER-BV-23","-34.47312248","121.8515258","2022-11-10","Termination Island","Eastern Recherche",NA,"79.3",1,1,0,2,0,1,18,3,0,0,0,1,0,0,0,27
+"2022-11_Termination_stereo-BRUVs","TER-BV-24","-34.46651333","121.8445467","2022-11-10","Termination Island","Eastern Recherche",NA,"69.9",1,1,0,1,0,0,8,0,0,0,0,8,0,1,0,20
+"2022-11_Termination_stereo-BRUVs","TER-BV-25","-34.431945","121.9857183","2022-11-10","Termination Island","Eastern Recherche",NA,"44.2",0,0,0,0,0,0,9,1,3,0,0,5,0,0,0,18
+"2022-11_Termination_stereo-BRUVs","TER-BV-26","-34.427685","121.982815","2022-11-10","Termination Island","Eastern Recherche",NA,"48.1",0,1,0,0,0,0,6,0,2,0,0,0,0,6,0,15
+"2022-11_Termination_stereo-BRUVs","TER-BV-27","-34.42368167","121.981645","2022-11-10","Termination Island","Eastern Recherche",NA,"67.2",0,5,0,0,0,0,18,0,0,0,0,6,0,1,5,35
+"2022-11_Termination_stereo-BRUVs","TER-BV-28","-34.41954833","121.9848483","2022-11-10","Termination Island","Eastern Recherche",NA,"49",0,2,0,0,0,0,11,9,0,0,0,0,0,16,0,38
+"2022-11_Termination_stereo-BRUVs","TER-BV-29","-34.41620833","121.985885","2022-11-10","Termination Island","Eastern Recherche",NA,"72.6",0,0,0,0,0,1,11,0,5,0,0,15,0,4,0,36
+"2022-11_Termination_stereo-BRUVs","TER-BV-30","-34.41244167","121.98753","2022-11-10","Termination Island","Eastern Recherche",NA,"69.6",0,0,0,0,0,0,1,4,0,0,0,2,0,32,0,39
+"2022-12_Bremer_stereo-BOSS","Br103","-34.3329624028696","119.817516137129","2022-12-08","Bremer","South-west Corner",NA,"62",0,7,0,0,0,0,0,1,0,0,0,5,0,68,0,81
+"2022-12_Bremer_stereo-BOSS","Br167","-34.3388287573362","119.800987310174","2022-12-08","Bremer","South-west Corner",NA,"63",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br29","-34.3465343030579","119.767815843312","2022-12-08","Bremer","South-west Corner",NA,"63",0,5,0,0,0,0,0,0,0,0,0,0,0,76,0,81
+"2022-12_Bremer_stereo-BOSS","Br158","-34.3378428001911","119.729944835549","2022-12-08","Bremer","South-west Corner",NA,"64",0,4,0,0,0,0,0,0,0,0,0,2,0,73,0,79
+"2022-12_Bremer_stereo-BOSS","Br94","-34.3476744436718","119.690210194575","2022-12-08","Bremer","South-west Corner",NA,"62",0,5,0,0,0,0,0,0,0,0,0,4,0,71,0,80
+"2022-12_Bremer_stereo-BOSS","Br72","-34.3251449708359","119.741017574844","2022-12-09","Bremer","South-west Corner",NA,"60",0,0,0,0,0,0,0,54,0,0,0,7,0,19,0,80
+"2022-12_Bremer_stereo-BOSS","Br10","-34.313884114864","119.70424255305","2022-12-09","Bremer","South-west Corner",NA,"58",0,31,0,0,0,0,1,4,0,0,0,0,0,44,0,80
+"2022-12_Bremer_stereo-BOSS","Br136","-34.310604427639","119.730348360571","2022-12-09","Bremer","South-west Corner",NA,"60",0,19,0,0,0,0,0,2,0,0,0,0,0,59,0,80
+"2022-12_Bremer_stereo-BOSS","Br106","-34.3022179671584","119.722070329532","2022-12-09","Bremer","South-west Corner",NA,"59",0,16,0,0,0,0,0,3,0,0,0,0,0,61,0,80
+"2022-12_Bremer_stereo-BOSS","Br60","-34.293258164326","119.681422591497","2022-12-09","Bremer","South-west Corner",NA,"55",0,1,0,0,0,0,0,0,0,0,0,0,0,79,0,80
+"2022-12_Bremer_stereo-BOSS","Br22","-34.2621875313049","119.734458306608","2022-12-09","Bremer","South-west Corner",NA,"58",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Brc1","-34.2594983347289","119.724040955686","2022-12-09","Bremer","South-west Corner",NA,"57",0,0,0,0,0,0,0,1,0,0,0,0,0,79,0,80
+"2022-12_Bremer_stereo-BOSS","Br151","-34.2533402803146","119.696057388048","2022-12-09","Bremer","South-west Corner",NA,"55",0,0,0,0,0,0,0,1,0,0,0,0,0,79,0,80
+"2022-12_Bremer_stereo-BOSS","Br65","-34.2444787836157","119.710235659874","2022-12-09","Bremer","South-west Corner",NA,"55",0,5,0,0,0,0,0,0,0,0,0,1,0,74,0,80
+"2022-12_Bremer_stereo-BOSS","Br56","-34.2199823986591","119.706746176611","2022-12-09","Bremer","South-west Corner",NA,"55",0,0,0,0,0,0,0,1,0,0,0,0,0,79,0,80
+"2022-12_Bremer_stereo-BOSS","Br134","-34.2070935859023","119.692908857656","2022-12-09","Bremer","South-west Corner",NA,"50",0,2,0,0,0,0,0,0,0,0,0,0,0,78,0,80
+"2022-12_Bremer_stereo-BOSS","Br184","-34.2059333331138","119.732121666383","2022-12-09","Bremer","South-west Corner",NA,"56",0,0,0,0,0,0,0,39,0,0,0,0,0,38,0,77
+"2022-12_Bremer_stereo-BOSS","Br32","-34.1981086941825","119.761497730509","2022-12-09","Bremer","South-west Corner",NA,"55",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br13","-34.1676429934377","119.729724108703","2022-12-09","Bremer","South-west Corner",NA,"53",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br50","-34.17183333","119.6983333","2022-12-09","Bremer","South-west Corner",NA,"50",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Brc2","-34.1715","119.7012","2022-12-09","Bremer","South-west Corner",NA,"41",0,0,0,0,0,0,1,61,0,0,0,1,8,8,0,79
+"2022-12_Bremer_stereo-BOSS","Br141","-34.1329","119.7227667","2022-12-09","Bremer","South-west Corner",NA,"45",0,0,0,0,0,0,0,36,0,0,0,0,0,42,0,78
+"2022-12_Bremer_stereo-BOSS","Br191","-34.11723333","119.7101167","2022-12-09","Bremer","South-west Corner",NA,"40",0,0,0,0,0,0,0,33,0,0,0,0,0,47,0,80
+"2022-12_Bremer_stereo-BOSS","Br175","-34.11728333","119.7628167","2022-12-09","Bremer","South-west Corner",NA,"50",0,0,0,0,0,0,20,30,0,0,0,6,0,0,0,56
+"2022-12_Bremer_stereo-BOSS","Br59","-34.09998333","119.8070167","2022-12-09","Bremer","South-west Corner",NA,"52",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Brc3","-34.0974962087614","119.799694815042","2022-12-09","Bremer","South-west Corner",NA,"48",0,0,0,0,0,0,0,78,0,0,0,2,0,0,0,80
+"2022-12_Bremer_stereo-BOSS","Br145","-34.13331667","119.817549580508","2022-12-09","Bremer","South-west Corner",NA,"55",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br76","-34.13333333","119.782","2022-12-09","Bremer","South-west Corner",NA,"54",0,0,0,0,0,0,0,55,0,0,0,0,0,25,0,80
+"2022-12_Bremer_stereo-BOSS","Br171","-34.15","119.797","2022-12-09","Bremer","South-west Corner",NA,"55",0,17,0,0,0,0,0,8,0,0,0,1,0,55,0,81
+"2022-12_Bremer_stereo-BOSS","Br4","-34.17711667","119.8010167","2022-12-09","Bremer","South-west Corner",NA,"56",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br160","-34.1836","119.783","2022-12-09","Bremer","South-west Corner",NA,"56",0,1,0,0,0,0,0,1,0,0,0,0,0,78,0,80
+"2022-12_Bremer_stereo-BOSS","Br128","-34.1982734838003","119.823821649263","2022-12-09","Bremer","South-west Corner",NA,"57",0,1,0,0,0,0,0,0,0,0,0,0,0,79,0,80
+"2022-12_Bremer_stereo-BOSS","Br87","-34.2182626094823","119.800388881278","2022-12-09","Bremer","South-west Corner",NA,"57",0,0,0,0,0,0,0,34,0,0,0,1,0,45,0,80
+"2022-12_Bremer_stereo-BOSS","Br2","-34.2392497845077","119.77250961613","2022-12-09","Bremer","South-west Corner",NA,"58",0,0,0,0,0,0,2,7,0,0,0,0,0,71,0,80
+"2022-12_Bremer_stereo-BOSS","Br55","-34.2616253795019","119.811793319","2022-12-09","Bremer","South-west Corner",NA,"59",0,1,0,0,0,0,0,0,0,0,0,0,0,79,0,80
+"2022-12_Bremer_stereo-BOSS","Br85","-34.2766751470128","119.767215006032","2022-12-09","Bremer","South-west Corner",NA,"59",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br169","-34.2890866578203","119.758901762831","2022-12-09","Bremer","South-west Corner",NA,"60",0,3,0,0,0,0,0,10,0,0,0,0,0,67,0,80
+"2022-12_Bremer_stereo-BOSS","Br140","-34.2970299999112","119.812877464275","2022-12-09","Bremer","South-west Corner",NA,"60",0,0,0,0,0,0,0,10,0,0,0,3,0,69,0,82
+"2022-12_Bremer_stereo-BOSS","Br12","-34.3082607531674","119.788432771072","2022-12-09","Bremer","South-west Corner",NA,"62",0,0,0,0,0,2,7,12,0,0,0,0,0,59,0,80
+"2022-12_Bremer_stereo-BOSS","Br39","-34.3188459447849","119.783933961417","2022-12-09","Bremer","South-west Corner",NA,"63",0,7,0,0,0,0,0,0,0,0,0,6,0,67,0,80
+"2022-12_Bremer_stereo-BOSS","Br199","-34.3223348144971","119.763147246678","2022-12-09","Bremer","South-west Corner",NA,"63",0,1,0,0,0,0,15,5,0,0,0,4,0,55,0,80
+"2022-12_Bremer_stereo-BOSS","Br180","-34.3634072367835","119.691441449758","2022-12-10","Bremer","South-west Corner",NA,"65",0,15,0,0,0,0,5,0,1,0,0,6,0,53,0,80
+"2022-12_Bremer_stereo-BOSS","Br52","-34.3705098996842","119.706311899562","2022-12-10","Bremer","South-west Corner",NA,"66",0,13,0,0,0,0,14,0,0,0,0,2,0,51,0,80
+"2022-12_Bremer_stereo-BOSS","Br124","-34.355870718939","119.779111557036","2022-12-10","Bremer","South-west Corner",NA,"65",0,14,0,0,0,0,0,0,0,0,0,0,0,66,0,80
+"2022-12_Bremer_stereo-BOSS","Br83","-34.37449288551","119.809105159021","2022-12-10","Bremer","South-west Corner",NA,"63",0,3,0,0,0,0,0,0,0,0,0,0,0,77,0,80
+"2022-12_Bremer_stereo-BOSS","Br19","-34.3908982418555","119.820608756377","2022-12-10","Bremer","South-west Corner",NA,"64",0,3,0,0,0,0,0,0,0,0,0,0,0,77,0,80
+"2022-12_Bremer_stereo-BOSS","Br44","-34.4020743930788","119.811915371301","2022-12-10","Bremer","South-west Corner",NA,"64",0,4,0,0,0,0,3,0,0,0,0,2,0,71,0,80
+"2022-12_Bremer_stereo-BOSS","Br109","-34.4103168087618","119.785205540176","2022-12-10","Bremer","South-west Corner",NA,"63",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br68","-34.4261359561592","119.780015756286","2022-12-10","Bremer","South-west Corner",NA,"69",0,7,0,0,0,0,0,0,1,0,0,0,0,72,0,80
+"2022-12_Bremer_stereo-BOSS","Br173","-34.4231728560822","119.835276354013","2022-12-10","Bremer","South-west Corner",NA,"66",0,6,0,0,0,0,3,0,0,0,0,0,0,71,0,80
+"2022-12_Bremer_stereo-BOSS","Br130","-34.4372450042485","119.81749310702","2022-12-10","Bremer","South-west Corner",NA,"67",0,8,0,0,0,0,4,0,2,0,0,6,0,60,0,80
+"2022-12_Bremer_stereo-BOSS","Br195","-34.4461991569242","119.796362416579","2022-12-10","Bremer","South-west Corner",NA,"68",0,5,0,0,0,0,2,0,0,0,0,2,0,71,0,80
+"2022-12_Bremer_stereo-BOSS","Br6","-34.4466360211501","119.82446059128","2022-12-10","Bremer","South-west Corner",NA,"70",0,5,0,0,0,0,2,0,0,0,0,1,0,72,0,80
+"2022-12_Bremer_stereo-BOSS","Br89","-34.4584521465066","119.8400603635","2022-12-10","Bremer","South-west Corner",NA,"71",0,5,0,0,0,0,0,0,0,0,0,0,0,75,0,80
+"2022-12_Bremer_stereo-BOSS","Br49","-34.4833511538368","119.846116947079","2022-12-10","Bremer","South-west Corner",NA,"76",0,6,0,0,0,0,0,0,0,0,0,0,0,74,0,80
+"2022-12_Bremer_stereo-BOSS","Br138","-34.4888140615886","119.848884375297","2022-12-10","Bremer","South-west Corner",NA,"75",0,1,0,0,0,0,9,0,0,0,0,3,0,67,0,80
+"2022-12_Bremer_stereo-BOSS","Br179","-34.5010567190076","119.834008301142","2022-12-10","Bremer","South-west Corner",NA,"77",0,6,0,0,0,0,0,0,0,0,0,11,0,63,0,80
+"2022-12_Bremer_stereo-BOSS","Br95","-34.5332807903815","119.859110969866","2022-12-10","Bremer","South-west Corner",NA,"80",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br181","-34.5452829206164","119.874011409027","2022-12-10","Bremer","South-west Corner",NA,"79",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br116","-34.562510730436","119.887676283787","2022-12-10","Bremer","South-west Corner",NA,"78",0,1,0,0,0,0,0,0,0,0,0,0,0,79,0,80
+"2022-12_Bremer_stereo-BOSS","Br146","-34.5724448949401","119.88030273856","2022-12-10","Bremer","South-west Corner",NA,"76",0,3,0,0,0,1,14,0,2,0,0,9,0,51,0,80
+"2022-12_Bremer_stereo-BOSS","Br16","-34.5883441187449","119.906803811095","2022-12-10","Bremer","South-west Corner",NA,"84",0,3,0,1,0,0,26,0,5,0,0,3,0,41,0,79
+"2022-12_Bremer_stereo-BOSS","Brc4","-34.5990264894648","119.891537884275","2022-12-10","Bremer","South-west Corner",NA,"92",0,2,0,0,0,0,7,0,0,0,0,0,0,71,0,80
+"2022-12_Bremer_stereo-BOSS","Br36","-34.6110674075239","119.851773068892","2022-12-10","Bremer","South-west Corner",NA,"101",0,0,0,1,0,0,1,0,0,0,0,0,0,78,0,80
+"2022-12_Bremer_stereo-BOSS","Br164","-34.5964365589966","119.843863518698","2022-12-10","Bremer","South-west Corner",NA,"81",0,5,0,2,0,0,23,0,9,0,0,9,0,27,0,75
+"2022-12_Bremer_stereo-BOSS","Br80","-34.5921017180098","119.828194044398","2022-12-10","Bremer","South-west Corner",NA,"79",0,1,0,0,0,0,3,0,0,0,0,1,0,75,0,80
+"2022-12_Bremer_stereo-BOSS","Br119","-34.569525912201","119.817887259919","2022-12-10","Bremer","South-west Corner",NA,"80",0,3,0,0,0,0,5,0,4,0,0,0,0,69,0,81
+"2022-12_Bremer_stereo-BOSS","Br93","-34.5580582088666","119.810141849893","2022-12-10","Bremer","South-west Corner",NA,"79",0,3,0,0,0,0,0,0,0,0,0,0,0,77,0,80
+"2022-12_Bremer_stereo-BOSS","Br53","-34.5481493151156","119.847112190583","2022-12-10","Bremer","South-west Corner",NA,"80",0,2,0,0,0,0,3,0,1,0,0,2,0,72,0,80
+"2022-12_Bremer_stereo-BOSS","Br9","-34.521441438227","119.82494045244","2022-12-10","Bremer","South-west Corner",NA,"80",0,1,0,0,0,0,0,0,0,0,0,0,0,79,0,80
+"2022-12_Bremer_stereo-BOSS","Br51","-34.5041555069812","119.810971524907","2022-12-10","Bremer","South-west Corner",NA,"75",0,9,0,0,0,0,0,0,0,0,0,0,0,71,0,80
+"2022-12_Bremer_stereo-BOSS","Br113","-34.4851831304876","119.783636358546","2022-12-10","Bremer","South-west Corner",NA,"73",0,7,0,0,0,0,0,0,0,0,0,3,0,71,0,81
+"2022-12_Bremer_stereo-BOSS","Br25","-34.4698655729071","119.789992040691","2022-12-10","Bremer","South-west Corner",NA,"72",0,6,0,0,0,0,9,0,4,0,0,4,0,57,0,80
+"2022-12_Bremer_stereo-BOSS","Br154","-34.4587829523475","119.759204539997","2022-12-10","Bremer","South-west Corner",NA,"70",0,7,0,0,0,0,1,0,0,0,0,0,0,72,0,80
+"2022-12_Bremer_stereo-BOSS","Br15","-34.405732444186","119.736855238161","2022-12-10","Bremer","South-west Corner",NA,"61",0,4,0,0,0,0,0,0,0,0,0,0,0,76,0,80
+"2022-12_Bremer_stereo-BOSS","Br144","-34.3938417076597","119.758577049703","2022-12-10","Bremer","South-west Corner",NA,"61",0,2,0,0,0,0,0,0,0,0,0,0,0,78,0,80
+"2022-12_Bremer_stereo-BOSS","Br114","-34.3857559263699","119.74889797291","2022-12-10","Bremer","South-west Corner",NA,"59",0,8,0,0,0,0,0,0,0,0,0,1,0,68,0,77
+"2022-12_Bremer_stereo-BOSS","Br115","-34.4176194959879","119.669247956216","2022-12-11","Bremer","South-west Corner",NA,"62",0,0,0,0,0,1,2,8,0,0,0,5,0,65,0,81
+"2022-12_Bremer_stereo-BOSS","Br163","-34.4124600993139","119.694286227413","2022-12-11","Bremer","South-west Corner",NA,"63",0,2,0,0,0,0,0,1,0,0,0,0,0,77,0,80
+"2022-12_Bremer_stereo-BOSS","Br79","-34.4112596749505","119.710138309447","2022-12-11","Bremer","South-west Corner",NA,"62",0,6,0,0,0,0,0,0,0,0,0,0,0,74,0,80
+"2022-12_Bremer_stereo-BOSS","Br100","-34.4418680807842","119.718920569346","2022-12-11","Bremer","South-west Corner",NA,"66",0,6,0,0,0,0,0,0,0,0,0,0,0,74,0,80
+"2022-12_Bremer_stereo-BOSS","Br186","-34.4479563955466","119.728149617132","2022-12-11","Bremer","South-west Corner",NA,"67",0,3,0,0,0,0,0,0,0,0,0,0,0,77,0,80
+"2022-12_Bremer_stereo-BOSS","Br58","-34.4620898261965","119.732018471516","2022-12-11","Bremer","South-west Corner",NA,"70",0,18,0,0,0,0,1,1,4,0,0,2,0,54,0,80
+"2022-12_Bremer_stereo-BOSS","Br18","-34.4733422638115","119.707848849639","2022-12-11","Bremer","South-west Corner",NA,"70",0,9,0,0,0,0,0,0,0,0,0,0,0,71,0,80
+"2022-12_Bremer_stereo-BOSS","Br82","-34.4801024120405","119.694311729686","2022-12-11","Bremer","South-west Corner",NA,"72",0,15,0,0,0,0,0,0,0,0,0,0,0,65,0,80
+"2022-12_Bremer_stereo-BOSS","Br148","-34.4942249858408","119.731314373793","2022-12-11","Bremer","South-west Corner",NA,"74",0,23,0,0,0,0,0,0,0,0,0,0,0,57,0,80
+"2022-12_Bremer_stereo-BOSS","Br102","-34.5093765542567","119.719146343825","2022-12-11","Bremer","South-west Corner",NA,"77",0,25,0,0,0,0,0,0,0,0,0,0,0,55,0,80
+"2022-12_Bremer_stereo-BOSS","Br198","-34.5220409762542","119.770604736773","2022-12-11","Bremer","South-west Corner",NA,"78",0,3,0,0,0,0,0,0,0,0,0,0,0,77,0,80
+"2022-12_Bremer_stereo-BOSS","Br71","-34.5251043938072","119.746131861622","2022-12-11","Bremer","South-west Corner",NA,"79",0,25,0,0,0,0,0,0,0,0,0,0,0,55,0,80
+"2022-12_Bremer_stereo-BOSS","Br157","-34.5374261036544","119.76090489632","2022-12-11","Bremer","South-west Corner",NA,"78",0,1,0,0,0,3,10,7,2,0,0,9,0,48,0,80
+"2022-12_Bremer_stereo-BOSS","Br28","-34.544250484408","119.776433102456","2022-12-11","Bremer","South-west Corner",NA,"79",0,1,0,0,0,0,2,1,0,0,0,0,0,76,0,80
+"2022-12_Bremer_stereo-BOSS","Br88","-34.5716048332579","119.724212373107","2022-12-11","Bremer","South-west Corner",NA,"79",0,0,0,0,0,0,1,1,0,0,0,3,0,75,0,80
+"2022-12_Bremer_stereo-BOSS","Br185","-34.5734026501147","119.742756915354","2022-12-11","Bremer","South-west Corner",NA,"78",0,0,0,1,0,0,3,2,1,0,0,3,0,70,0,80
+"2022-12_Bremer_stereo-BOSS","Br57","-34.5821674197005","119.781022039185","2022-12-11","Bremer","South-west Corner",NA,"79",0,0,0,0,0,0,8,7,3,0,0,2,0,60,0,80
+"2022-12_Bremer_stereo-BOSS","Br143","-34.5913994066554","119.76348563396","2022-12-11","Bremer","South-west Corner",NA,"79",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br14","-34.5953233043522","119.746079326348","2022-12-11","Bremer","South-west Corner",NA,"79",0,0,0,1,0,1,3,7,2,0,0,0,0,66,0,80
+"2022-12_Bremer_stereo-BOSS","Br78","-34.6093227879582","119.78416910712","2022-12-11","Bremer","South-west Corner",NA,"83",0,9,0,0,0,0,7,0,0,0,0,8,0,56,0,80
+"2022-12_Bremer_stereo-BOSS","Br162","-34.6215541290454","119.797715026072","2022-12-11","Bremer","South-west Corner",NA,"95",0,2,0,1,0,0,0,2,0,0,0,0,0,75,0,80
+"2022-12_Bremer_stereo-BOSS","Br34","-34.6271261136249","119.803776623149","2022-12-11","Bremer","South-west Corner",NA,"113",0,0,0,1,0,0,2,9,0,0,0,0,0,68,0,80
+"2022-12_Bremer_stereo-BOSS","Br99","-34.6327559686241","119.745178415831","2022-12-11","Bremer","South-west Corner",NA,"91",0,4,0,0,0,0,42,0,0,0,0,34,0,0,0,80
+"2022-12_Bremer_stereo-BOSS","Br5","-34.6337327878055","119.72788966535","2022-12-11","Bremer","South-west Corner",NA,"85",0,5,0,1,0,0,2,0,3,0,0,0,0,69,0,80
+"2022-12_Bremer_stereo-BOSS","Br31","-34.6400464745522","119.707930290005","2022-12-11","Bremer","South-west Corner",NA,"84",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br54","-34.6664022910651","119.675172640163","2022-12-11","Bremer","South-west Corner",NA,"97",0,0,0,0,0,1,52,0,3,0,0,10,0,11,0,77
+"2022-12_Bremer_stereo-BOSS","Brc5","-34.6680916657296","119.674065695645","2022-12-11","Bremer","South-west Corner",NA,"125",0,0,0,0,0,0,3,3,0,0,0,0,0,74,0,80
+"2022-12_Bremer_stereo-BOSS","Br182","-34.6821025168636","119.639435757325","2022-12-11","Bremer","South-west Corner",NA,"153",0,0,0,0,0,0,0,0,0,0,0,2,0,78,0,80
+"2022-12_Bremer_stereo-BOSS","Br132","-34.6742975390397","119.605830358366","2022-12-11","Bremer","South-west Corner",NA,"84",0,13,0,0,0,0,10,0,1,0,0,7,0,49,0,80
+"2022-12_Bremer_stereo-BOSS","Br7","-34.6555846390663","119.620914820108","2022-12-11","Bremer","South-west Corner",NA,"80",0,0,0,0,0,0,8,9,1,0,0,11,0,48,0,77
+"2022-12_Bremer_stereo-BOSS","Br96","-34.6461940521404","119.661652652878","2022-12-11","Bremer","South-west Corner",NA,"80",0,0,0,1,0,0,16,9,8,0,0,7,0,39,0,80
+"2022-12_Bremer_stereo-BOSS","Br194","-34.6311589072168","119.673354644962","2022-12-11","Bremer","South-west Corner",NA,"81",0,7,0,0,0,1,11,0,3,0,0,2,0,56,0,80
+"2022-12_Bremer_stereo-BOSS","Br129","-34.6248916504173","119.690124933675","2022-12-11","Bremer","South-west Corner",NA,"81",0,15,0,0,0,0,10,0,2,0,0,5,0,48,0,80
+"2022-12_Bremer_stereo-BOSS","Br108","-34.5976647133409","119.687750954975","2022-12-11","Bremer","South-west Corner",NA,"80",0,0,0,1,0,0,3,3,0,0,0,2,0,71,0,80
+"2022-12_Bremer_stereo-BOSS","Br43","-34.5882775231648","119.705014886802","2022-12-11","Bremer","South-west Corner",NA,"81",0,6,0,0,0,0,0,0,0,0,0,0,0,74,0,80
+"2022-12_Bremer_stereo-BOSS","Br24","-34.5590542324286","119.676617236242","2022-12-11","Bremer","South-west Corner",NA,"80",0,3,0,0,0,0,0,0,0,0,0,0,0,77,0,80
+"2022-12_Bremer_stereo-BOSS","Br188","-34.5456325578168","119.707330064478","2022-12-11","Bremer","South-west Corner",NA,"79",0,0,0,1,0,0,8,3,0,0,0,3,0,65,0,80
+"2022-12_Bremer_stereo-BOSS","Br35","-34.429394539555","119.675254264683","2022-12-12","Bremer","South-west Corner",NA,"66",0,8,0,0,0,0,0,0,0,0,0,0,0,72,0,80
+"2022-12_Bremer_stereo-BOSS","Br137","-34.4416517445583","119.605887179503","2022-12-12","Bremer","South-west Corner",NA,"63",0,13,0,0,0,0,1,0,0,0,0,2,0,64,0,80
+"2022-12_Bremer_stereo-BOSS","Br161","-34.4654408581226","119.628053109139","2022-12-12","Bremer","South-west Corner",NA,"65",0,1,0,0,0,0,0,0,0,0,0,0,0,79,0,80
+"2022-12_Bremer_stereo-BOSS","Br200","-34.454552772313","119.65221738604","2022-12-12","Bremer","South-west Corner",NA,"67",0,14,0,0,0,2,0,0,0,0,0,0,0,64,0,80
+"2022-12_Bremer_stereo-BOSS","Br120","-34.4652668760977","119.68285623891","2022-12-12","Bremer","South-west Corner",NA,"68",0,15,0,0,0,0,0,0,0,0,0,0,0,65,0,80
+"2022-12_Bremer_stereo-BOSS","Br33","-34.4815512741786","119.655410013831","2022-12-12","Bremer","South-west Corner",NA,"67",0,4,0,0,0,0,1,0,1,0,0,1,0,74,0,81
+"2022-12_Bremer_stereo-BOSS","Br38","-34.4940839380882","119.676528646186","2022-12-12","Bremer","South-west Corner",NA,"73",0,6,0,0,0,0,0,0,0,0,0,0,0,74,0,80
+"2022-12_Bremer_stereo-BOSS","Br166","-34.5172198368688","119.69252826842","2022-12-12","Bremer","South-west Corner",NA,"75",0,21,0,0,0,0,0,0,0,0,0,0,0,59,0,80
+"2022-12_Bremer_stereo-BOSS","Br118","-34.5172664203332","119.637858398331","2022-12-12","Bremer","South-west Corner",NA,"74",0,3,0,0,0,0,3,0,0,0,0,2,0,72,0,80
+"2022-12_Bremer_stereo-BOSS","Br123","-34.5328838864651","119.657107317678","2022-12-12","Bremer","South-west Corner",NA,"77",0,7,0,0,0,0,0,0,0,0,0,0,0,73,0,80
+"2022-12_Bremer_stereo-BOSS","Br77","-34.5357931821558","119.630707008271","2022-12-12","Bremer","South-west Corner",NA,"74",0,11,0,0,0,0,7,0,0,0,0,4,0,58,0,80
+"2022-12_Bremer_stereo-BOSS","Br142","-34.5440230290106","119.603935669498","2022-12-12","Bremer","South-west Corner",NA,"74",0,6,0,0,0,0,2,0,0,0,0,14,0,58,0,80
+"2022-12_Bremer_stereo-BOSS","Br104","-34.5681684363543","119.610963631937","2022-12-12","Bremer","South-west Corner",NA,"79",0,15,0,0,0,0,0,0,0,0,0,0,0,65,0,80
+"2022-12_Bremer_stereo-BOSS","Br189","-34.5804088090696","119.621291620251","2022-12-12","Bremer","South-west Corner",NA,"78",0,11,0,0,0,0,0,0,0,0,0,0,0,69,0,80
+"2022-12_Bremer_stereo-BOSS","Br63","-34.5873660228758","119.637229134763","2022-12-12","Bremer","South-west Corner",NA,"79",0,18,0,0,0,0,0,0,0,0,0,0,0,62,0,80
+"2022-12_Bremer_stereo-BOSS","Br153","-34.5736000714817","119.662306800678","2022-12-12","Bremer","South-west Corner",NA,"80",0,17,0,0,0,0,0,0,0,0,0,0,0,63,0,80
+"2022-12_Bremer_stereo-BOSS","Br67","-34.6105114963673","119.652694634899","2022-12-12","Bremer","South-west Corner",NA,"80",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Bremer_stereo-BOSS","Br20","-34.6068619903565","119.614955281529","2022-12-12","Bremer","South-west Corner",NA,"78",0,17,0,0,0,1,9,0,4,0,0,8,0,41,0,80
+"2022-12_Bremer_stereo-BOSS","Br149","-34.6245131097376","119.631851711674","2022-12-12","Bremer","South-west Corner",NA,"81",0,8,0,0,0,0,0,0,0,0,0,0,0,72,0,80
+"2022-12_Bremer_stereo-BOSS","Br176","-34.6347257786644","119.624184639233","2022-12-12","Bremer","South-west Corner",NA,"81",0,3,0,0,0,0,0,0,0,0,0,0,0,77,0,80
+"2022-12_Bremer_stereo-BOSS","Br47","-34.6387527017683","119.607247996903","2022-12-12","Bremer","South-west Corner",NA,"79",0,3,0,0,0,0,0,0,7,0,0,0,0,70,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-018","-34.0846816668688","123.999923333588","2022-12-03","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,0,0,0,0,0,0,0,1,0,60,0,61
+"2022-12_Daw_stereo-BOSS","DAW-DC-029","-34.0582452152374","124.051373025454","2022-12-03","Daw Island","Eastern Recherche",NA,"74",0,0,0,0,0,0,0,0,0,0,0,0,0,81,0,81
+"2022-12_Daw_stereo-BOSS","DAW-DC-062","-34.0594731384459","124.098459674545","2022-12-03","Daw Island","Eastern Recherche",NA,"75",0,0,0,1,0,0,0,17,0,0,0,0,0,59,0,77
+"2022-12_Daw_stereo-BOSS","DAW-DC-061","-34.0659669971915","124.123556367677","2022-12-03","Daw Island","Eastern Recherche",NA,"71",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-032","-34.0326716670003","124.172026666648","2022-12-03","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-091","-34.0170983334505","124.205191666538","2022-12-03","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,0,0,1,0,0,0,0,0,79,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-C01","-34.0167933336117","124.265698332999","2022-12-03","Daw Island","Eastern Recherche",NA,"72",0,0,0,0,0,0,0,1,0,0,0,1,0,78,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-077","-34.0160895577636","124.275568826407","2022-12-03","Daw Island","Eastern Recherche",NA,"70",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-C02","-34.0090949999084","124.265086666529","2022-12-03","Daw Island","Eastern Recherche",NA,"64",0,0,0,0,0,0,9,4,8,0,0,3,0,56,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-046","-34.0000907235716","124.24896606009","2022-12-03","Daw Island","Eastern Recherche",NA,"70",0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,79
+"2022-12_Daw_stereo-BOSS","DAW-DC-006","-33.9957127855054","124.25627645555","2022-12-03","Daw Island","Eastern Recherche",NA,"70",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-051","-33.9866683186781","124.198629905478","2022-12-03","Daw Island","Eastern Recherche",NA,"74",0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,75
+"2022-12_Daw_stereo-BOSS","DAW-DC-002","-33.9997836131183","124.167551679415","2022-12-03","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-057","-34.0166216667573","124.083529999714","2022-12-03","Daw Island","Eastern Recherche",NA,"72",0,0,0,0,0,0,0,1,0,0,0,0,0,79,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-C03","-34.0258374592273","124.060791900734","2022-12-03","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,0,0,4,0,0,0,0,0,76,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-087","-34.0330666663356","124.033160000174","2022-12-03","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-013","-33.99012101919","123.999951132853","2022-12-03","Daw Island","Eastern Recherche",NA,"67",0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,79
+"2022-12_Daw_stereo-BOSS","DAW-DC-063","-33.9644693437808","123.997533276842","2022-12-03","Daw Island","Eastern Recherche",NA,"63",0,0,0,0,0,0,0,1,0,0,0,0,0,80,0,81
+"2022-12_Daw_stereo-BOSS","DAW-DC-034","-33.9374777937779","124.016249417071","2022-12-03","Daw Island","Eastern Recherche",NA,"63",0,0,0,0,0,0,14,5,0,0,0,1,0,60,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-093","-33.921049999799","124.000205000346","2022-12-03","Daw Island","Eastern Recherche",NA,"65",0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,78
+"2022-12_Daw_stereo-BOSS","DAW-DC-007","-33.8914426292059","124.049905654387","2022-12-03","Daw Island","Eastern Recherche",NA,"62",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-CO4","-33.8507033333538","124.131671667105","2022-12-05","Daw Island","Eastern Recherche",NA,"18.4",0,0,0,0,0,0,0,19,0,0,61,0,0,0,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-026","-33.8266615129175","124.13368233746","2022-12-05","Daw Island","Eastern Recherche",NA,"42",0,0,0,0,0,0,0,77,0,0,0,0,0,3,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-084","-33.7729377834703","124.117584417076","2022-12-05","Daw Island","Eastern Recherche",NA,"49",0,0,0,0,0,0,0,4,0,0,0,0,0,75,0,79
+"2022-12_Daw_stereo-BOSS","DAW-DC-088","-33.7536498536582","124.172659183016","2022-12-05","Daw Island","Eastern Recherche",NA,"44",0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,78
+"2022-12_Daw_stereo-BOSS","DAW-DC-CO5","-33.7484771112153","124.15781398755","2022-12-05","Daw Island","Eastern Recherche",NA,"43",0,0,0,0,0,0,0,2,0,0,0,0,0,78,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-048","-33.7450516408913","124.150246761056","2022-12-05","Daw Island","Eastern Recherche",NA,"45",0,0,0,0,0,0,0,4,0,0,0,0,0,76,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-CO6","-33.7299129444181","124.103093113814","2022-12-05","Daw Island","Eastern Recherche",NA,"21",0,0,0,0,0,0,0,42,0,0,30,0,0,3,0,75
+"2022-12_Daw_stereo-BOSS","DAW-DC-055","-33.7432269100767","124.083887395348","2022-12-05","Daw Island","Eastern Recherche",NA,"38",0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,77
+"2022-12_Daw_stereo-BOSS","DAW-DC-100","-33.7622791955509","124.050548666671","2022-12-05","Daw Island","Eastern Recherche",NA,"32",0,0,0,0,0,0,0,6,0,0,0,0,0,74,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-009","-33.7493183330646","124.015799999816","2022-12-05","Daw Island","Eastern Recherche",NA,"42",0,0,0,0,0,0,0,26,0,0,0,0,0,54,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-059","-33.726266449664","124.034091898975","2022-12-05","Daw Island","Eastern Recherche",NA,"38",0,0,0,0,0,0,0,31,0,0,0,0,0,48,0,79
+"2022-12_Daw_stereo-BOSS","DAW-DC-075","-33.6894610698313","124.083877782476","2022-12-05","Daw Island","Eastern Recherche",NA,"25",0,0,0,0,0,0,0,53,0,0,0,0,0,15,0,68
+"2022-12_Daw_stereo-BOSS","DAW-DC-089","-33.6792438865999","124.016423301266","2022-12-05","Daw Island","Eastern Recherche",NA,"32",0,0,0,0,0,0,0,69,0,0,0,0,0,11,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-049","-33.639536987713","124.00063529696","2022-12-05","Daw Island","Eastern Recherche",NA,"28",0,0,0,0,0,0,5,28,0,0,0,0,0,32,0,65
+"2022-12_Daw_stereo-BOSS","DAW-DC-021","-33.6103920616743","124.066309343328","2022-12-05","Daw Island","Eastern Recherche",NA,"22",0,0,0,0,0,0,0,33,0,0,41,0,0,0,0,74
+"2022-12_Daw_stereo-BOSS","DAW-DC-C07","-33.8447549659906","124.117945724873","2022-12-05","Daw Island","Eastern Recherche",NA,"44",0,0,0,0,0,0,5,47,0,0,0,8,0,0,0,60
+"2022-12_Daw_stereo-BOSS","DAW-DC-C08","-33.8534624308096","124.113047288884","2022-12-05","Daw Island","Eastern Recherche",NA,"45",0,0,0,0,0,0,10,47,0,0,0,2,0,0,0,59
+"2022-12_Daw_stereo-BOSS","DAW-DC-C09","-33.8640995436347","124.117211688098","2022-12-05","Daw Island","Eastern Recherche",NA,"50",0,0,0,0,0,0,33,3,0,0,0,24,0,0,0,60
+"2022-12_Daw_stereo-BOSS","DAW-DC-C10","-33.8418790411114","124.109553543114","2022-12-05","Daw Island","Eastern Recherche",NA,"51",0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,59
+"2022-12_Daw_stereo-BOSS","DAW-DC-C11","-33.8345010382751","124.131219101255","2022-12-05","Daw Island","Eastern Recherche",NA,"38",0,0,0,0,0,0,0,56,0,0,0,1,0,0,0,57
+"2022-12_Daw_stereo-BOSS","DAW-DC-071","-33.8496644211383","124.202288272014","2022-12-05","Daw Island","Eastern Recherche",NA,"62",0,0,0,0,0,0,24,0,0,0,0,7,0,18,0,49
+"2022-12_Daw_stereo-BOSS","DAW-DC-058","-33.8281436847517","124.200777295825","2022-12-05","Daw Island","Eastern Recherche",NA,"58",0,0,0,0,0,0,2,0,0,0,0,0,0,58,0,60
+"2022-12_Daw_stereo-BOSS","DAW-DC-030","-33.7975787326009","124.180921261771","2022-12-06","Daw Island","Eastern Recherche",NA,"48",0,0,0,0,0,0,0,9,0,0,0,0,0,71,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-014","-33.8099230672025","124.253918159638","2022-12-06","Daw Island","Eastern Recherche",NA,"62",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-C12","-33.8356505695766","124.247475433437","2022-12-06","Daw Island","Eastern Recherche",NA,"50",0,0,0,0,0,0,16,47,0,0,0,15,0,0,0,78
+"2022-12_Daw_stereo-BOSS","DAW-DC-011","-33.8734406909784","124.229485492181","2022-12-06","Daw Island","Eastern Recherche",NA,"68",0,0,0,0,0,0,0,5,0,0,0,2,0,73,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-086","-33.8994315431662","124.268776787613","2022-12-06","Daw Island","Eastern Recherche",NA,"72",0,0,0,0,0,0,0,4,0,0,0,0,0,76,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-037","-33.9244208424777","124.275965294264","2022-12-06","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,0,0,1,0,0,0,0,0,79,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-068","-33.9492182461536","124.244136786293","2022-12-06","Daw Island","Eastern Recherche",NA,"74",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-082","-33.9391741144698","124.174325272203","2022-12-06","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-C13","-33.9192247431668","124.162603783085","2022-12-06","Daw Island","Eastern Recherche",NA,"59",0,0,0,0,0,0,13,0,0,0,0,9,0,49,0,71
+"2022-12_Daw_stereo-BOSS","DAW-DC-042","-33.8957199997123","124.149933333463","2022-12-06","Daw Island","Eastern Recherche",NA,"63",0,0,0,0,0,0,0,7,0,0,0,0,0,73,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-069","-33.8773029680771","124.083251325244","2022-12-06","Daw Island","Eastern Recherche",NA,"64",0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,79
+"2022-12_Daw_stereo-BOSS","DAW-DC-098","-33.9026359248549","124.10003246381","2022-12-06","Daw Island","Eastern Recherche",NA,"62",0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,79
+"2022-12_Daw_stereo-BOSS","DAW-DC-023","-33.9558465231965","124.133444888476","2022-12-06","Daw Island","Eastern Recherche",NA,"76",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-019","-33.9742260732266","124.083356822493","2022-12-06","Daw Island","Eastern Recherche",NA,"73",0,0,0,0,0,0,0,1,0,0,0,0,0,79,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-005","-34.083508574582","124.133629999815","2022-12-06","Daw Island","Eastern Recherche",NA,"74",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-097","-34.0830066663841","124.195848333286","2022-12-06","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,0,0,4,0,0,0,0,0,0,76,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-050","-34.1060977043246","124.255190903512","2022-12-06","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,0,0,5,1,1,0,0,9,0,64,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-081","-34.1169085343576","124.253311635125","2022-12-06","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,0,0,10,0,0,0,0,5,0,65,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-022","-34.1459236099535","124.273256162217","2022-12-06","Daw Island","Eastern Recherche",NA,"77",0,0,0,0,0,0,4,11,1,0,0,1,0,63,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-060","-34.1934492782384","124.282734121489","2022-12-06","Daw Island","Eastern Recherche",NA,"83",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-C14","-34.1894000002509","124.267756667064","2022-12-06","Daw Island","Eastern Recherche",NA,"84",0,0,0,0,0,0,3,3,8,0,0,2,0,60,0,76
+"2022-12_Daw_stereo-BOSS","DAW-DC-C15","-34.178560655586","124.222144920515","2022-12-06","Daw Island","Eastern Recherche",NA,"78",0,0,0,0,0,0,16,1,0,0,0,12,0,51,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-016","-34.1597166597715","124.168496573245","2022-12-06","Daw Island","Eastern Recherche",NA,"75",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"2022-12_Daw_stereo-BOSS","DAW-DC-067","-34.1300654178246","124.107476713636","2022-12-06","Daw Island","Eastern Recherche",NA,"72",0,0,0,0,0,0,0,2,0,0,0,0,0,78,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-071","-33.9164978","121.1584054","25/11/2022",NA,"Investigator MBH",NA,"56",0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-013","-33.90787547","121.1206892","25/11/2022",NA,"Investigator MBH",NA,"52",0,0,0,0,0,0,41,0,0,0,0,3,0,32,0,76
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-102","-33.9101194","121.1163692","25/11/2022",NA,"Investigator MBH",NA,"28",0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,19
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-089","-33.9166428","121.1042357","25/11/2022",NA,"Investigator MBH",NA,"54",0,0,0,0,0,4,33,0,0,0,0,6,0,30,0,73
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-047","-33.9419878","121.1100205","25/11/2022",NA,"Investigator MBH",NA,"59",0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,76
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-073","-33.96561855","121.0715378","25/11/2022",NA,"Investigator MBH",NA,"62",0,0,0,0,0,0,7,1,3,0,0,3,0,64,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-103","-33.9742675","121.0903359","25/11/2022",NA,"Investigator MBH",NA,"49",6,1,0,0,0,0,47,0,1,0,0,15,0,0,0,70
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-023","-33.98592532","121.0884194","25/11/2022",NA,"Investigator MBH",NA,"70",0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-104","-33.9826518","121.1152255","25/11/2022",NA,"Investigator MBH",NA,"72",0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,69
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-097","-33.9983176","121.1386333","25/11/2022",NA,"Investigator MBH",NA,"72",0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,73
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-003","-34.00924946","121.1405197","25/11/2022",NA,"Investigator MBH",NA,"70",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-039","-34.01834259","121.1523403","25/11/2022",NA,"Investigator MBH",NA,"71",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-105","-34.0371121","121.1449533","25/11/2022",NA,"Investigator MBH",NA,"73",0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-079","-34.05741768","121.1054529","25/11/2022",NA,"Investigator MBH",NA,"73",0,0,0,0,0,0,5,0,0,0,0,2,0,73,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-106","-34.0697036","121.094686","25/11/2022",NA,"Investigator MBH",NA,"72",0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,71
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-031","-34.08038455","121.1220371","25/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-087","-34.07567421","121.161447","25/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,71
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-043","-34.10060758","121.1065876","25/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,72
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-098","-34.11059585","121.1603834","25/11/2022",NA,"Investigator MBH",NA,"85",0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,71
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-048","-34.15048791","121.1230808","25/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-032","-34.20706117","121.1549674","25/11/2022",NA,"Investigator MBH",NA,"76.5",0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-074","-34.21094501","121.1058788","25/11/2022",NA,"Investigator MBH",NA,"79",0,0,0,0,0,0,5,0,2,0,0,2,0,67,0,76
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-055","-34.23158778","121.1584159","25/11/2022",NA,"Investigator MBH",NA,"73",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-080","-34.25521472","121.1198374","25/11/2022",NA,"Investigator MBH",NA,"75",0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,70
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-107","-34.2609627","121.1201451","25/11/2022",NA,"Investigator MBH",NA,"74",0,0,0,0,0,0,13,0,2,0,0,4,0,59,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-008","-34.31271875","121.0997343","25/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,1,11,0,0,0,0,2,0,53,0,67
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-064","-34.31730042","121.1218716","25/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,0,0,0,0,0,0,0,1,0,74,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-014","-34.33833408","121.1160166","25/11/2022",NA,"Investigator MBH",NA,"85",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-090","-34.34987885","121.1567735","25/11/2022",NA,"Investigator MBH",NA,"83",0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,46
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-100","-34.36981862","121.1380763","25/11/2022",NA,"Investigator MBH",NA,"88",0,0,0,0,0,0,3,0,6,0,0,1,0,70,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-075","-34.4174767","121.1289313","25/11/2022",NA,"Investigator MBH",NA,"85",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-036","-34.44253888","121.1388142","25/11/2022",NA,"Investigator MBH",NA,"81",0,0,0,0,0,2,12,0,0,0,0,4,0,60,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-084","-34.5011782","121.1640328","25/11/2022",NA,"Investigator MBH",NA,"111",0,4,0,0,0,0,56,0,8,0,0,6,0,1,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-059","-34.46881248","121.0998108","26/11/2022",NA,"Investigator MBH",NA,"87",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-052","-34.45064638","121.076094","26/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,0,10,0,1,0,0,2,0,66,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-108","-34.46514341","121.0517939","26/11/2022",NA,"Investigator MBH",NA,"86",0,2,0,0,0,1,37,0,1,0,0,8,0,26,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-002","-34.46946471","121.0445043","26/11/2022",NA,"Investigator MBH",NA,"88",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-076","-34.47762825","121.0142383","26/11/2022",NA,"Investigator MBH",NA,"95",0,1,0,0,0,2,59,0,0,0,0,16,0,0,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-028","-34.49333059","121.00903","26/11/2022",NA,"Investigator MBH",NA,"121",0,3,0,0,0,0,27,0,1,0,0,3,0,39,0,73
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-065","-34.47503507","120.9528272","26/11/2022",NA,"Investigator MBH",NA,"94.5",0,0,0,0,0,0,3,0,0,0,0,2,0,64,0,69
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-041","-34.44730727","120.9433202","26/11/2022",NA,"Investigator MBH",NA,"81.5",0,0,0,0,0,2,12,0,2,0,0,1,0,63,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-015","-34.42345126","120.9788061","26/11/2022",NA,"Investigator MBH",NA,"81",0,0,0,0,0,1,10,0,1,0,0,2,0,66,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-095","-34.41556549","121.0122651","26/11/2022",NA,"Investigator MBH",NA,"83",0,0,0,0,0,0,0,0,0,0,0,1,0,68,0,69
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-020","-34.41253876","121.0710897","26/11/2022",NA,"Investigator MBH",NA,"85.5",0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,70
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-070","-34.38931001","121.0512598","26/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,0,0,0,1,0,0,0,0,75,0,76
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-045","-34.36213401","121.0481626","26/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,0,0,9,0,0,0,0,1,0,70,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-026","-34.35854397","121.1005277","26/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,0,4,0,0,0,0,1,0,75,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-109","-34.3443624","121.0682658","26/11/2022",NA,"Investigator MBH",NA,"83",0,0,0,0,0,1,23,0,1,2,0,9,0,44,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-035","-34.33412856","121.0354274","26/11/2022",NA,"Investigator MBH",NA,"80",0,0,0,0,0,0,0,0,0,0,0,1,0,78,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-072","-34.32126755","121.0110763","26/11/2022",NA,"Investigator MBH",NA,"80",0,0,0,0,0,0,9,0,0,0,0,2,0,61,0,72
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-083","-34.29280059","121.0243622","26/11/2022",NA,"Investigator MBH",NA,"75.5",0,0,0,0,0,1,4,0,0,0,0,6,0,69,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-058","-34.27001709","121.0726111","26/11/2022",NA,"Investigator MBH",NA,"75",0,0,0,0,0,0,26,0,1,0,0,4,0,35,0,66
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-025","-34.25853604","121.0643031","26/11/2022",NA,"Investigator MBH",NA,"75",0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,60
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-099","-34.23346771","121.0544652","26/11/2022",NA,"Investigator MBH",NA,"76",0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,60
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-040","-34.21361701","121.0115542","26/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-088","-34.19248241","120.9850355","26/11/2022",NA,"Investigator MBH",NA,"75",0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,69
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-053","-34.16189503","121.0050499","26/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,61
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-017","-34.16704746","121.0335668","26/11/2022",NA,"Investigator MBH",NA,"81",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-049","-34.17614114","121.0453937","26/11/2022",NA,"Investigator MBH",NA,"78",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-093","-34.1549204","121.0804212","26/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,0,2,0,0,0,0,0,0,76,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-067","-34.12717005","121.0709106","26/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,58
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-004","-34.10760428","121.0312528","26/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,1,0,0,0,0,1,0,68,0,70
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-044","-34.05421252","121.0055322","26/11/2022",NA,"Investigator MBH",NA,"68",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-110","-34.0483616","121.0013753","26/11/2022",NA,"Investigator MBH",NA,"57",3,0,0,0,0,1,37,0,5,0,0,12,0,0,0,58
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-111","-34.04350539","121.0190587","26/11/2022",NA,"Investigator MBH",NA,"61",0,0,0,0,0,0,6,0,0,0,0,0,0,72,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-005","-34.04263849","121.0587494","26/11/2022",NA,"Investigator MBH",NA,"71",0,0,0,0,0,0,5,0,0,0,0,5,0,50,0,60
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-112","-34.037526","121.064489","26/11/2022",NA,"Investigator MBH",NA,"70",0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,59
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-054","-34.02802291","121.0767415","27/11/2022",NA,"Investigator MBH",NA,"68",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-113","-34.0269168","121.041568","27/11/2022",NA,"Investigator MBH",NA,"57",0,0,0,0,0,0,43,0,0,0,0,9,0,21,0,73
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-018","-34.02434635","121.0027893","27/11/2022",NA,"Investigator MBH",NA,"65",0,0,0,0,0,0,1,0,0,0,0,0,0,79,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-094","-34.01138875","121.0399854","27/11/2022",NA,"Investigator MBH",NA,"61",0,0,0,0,0,0,18,0,0,0,0,3,0,58,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-060","-34.00256742","121.0313805","27/11/2022",NA,"Investigator MBH",NA,"63",0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-010","-33.94604429","121.0319367","27/11/2022",NA,"Investigator MBH",NA,"57",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-114","-33.9375807","121.021221","27/11/2022",NA,"Investigator MBH",NA,"49",0,0,0,0,0,2,18,30,0,0,0,3,0,1,0,54
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-085","-33.92756021","121.0051473","27/11/2022",NA,"Investigator MBH",NA,"42",0,2,0,0,0,0,0,0,0,0,0,0,0,75,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-050","-33.91873425","120.9965415","27/11/2022",NA,"Investigator MBH",NA,"42",0,0,0,0,0,0,0,70,0,0,0,2,0,8,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-115","-33.9189464","120.9902234","27/11/2022",NA,"Investigator MBH",NA,"34.5",0,0,0,0,0,0,0,71,0,0,0,0,0,6,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-116","-33.9245911","120.9327249","27/11/2022",NA,"Investigator MBH",NA,"32",0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,60
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-034","-33.92821939","120.8886944","27/01/2022",NA,"Investigator MBH",NA,"39",0,0,0,0,0,0,9,6,0,0,0,0,0,65,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-021","-33.9590869","120.871881","27/11/2022",NA,"Investigator MBH",NA,"48",0,0,0,0,0,0,69,0,0,0,0,1,0,10,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-057","-33.96282819","120.9457826","27/11/2022",NA,"Investigator MBH",NA,"47",0,0,0,0,0,0,50,1,0,0,0,6,0,23,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-037","-33.97010676","120.9675057","27/11/2022",NA,"Investigator MBH",NA,"48.5",0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,73
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-007","-33.97854582","120.9405837","27/11/2022",NA,"Investigator MBH",NA,"44",0,0,0,0,0,0,2,40,0,0,0,0,0,0,0,42
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-082","-33.98698256","120.9136584","27/11/2022",NA,"Investigator MBH",NA,"49",0,0,0,0,0,0,41,5,1,0,0,1,0,32,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-117","-33.9969215","120.9142033","27/11/2022",NA,"Investigator MBH",NA,"47",3,0,0,0,0,0,39,18,0,0,0,11,0,0,0,71
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-042","-34.00913873","120.9205806","27/11/2022",NA,"Investigator MBH",NA,"56",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-118","-34.0386029","120.9094888","27/11/2022",NA,"Investigator MBH",NA,"42",0,0,0,0,0,0,13,46,0,0,0,5,0,0,0,64
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-066","-34.03832101","120.8845532","27/11/2022",NA,"Investigator MBH",NA,"49",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-016","-34.0565451","120.9081529","27/11/2022",NA,"Investigator MBH",NA,"64",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-119","-34.06382477","120.9147703","27/11/2022",NA,"Investigator MBH",NA,"49",0,0,0,0,0,0,34,20,0,0,0,5,0,0,0,59
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-027","-34.08235111","120.8952008","27/11/2022",NA,"Investigator MBH",NA,"73.5",0,0,0,0,0,0,1,0,0,0,0,0,0,79,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-120","-34.0849936","120.9288978","27/11/2022",NA,"Investigator MBH",NA,"49",1,0,0,0,0,0,55,2,0,0,0,2,0,0,0,60
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-121","-34.08103335","120.9556618","27/11/2022",NA,"Investigator MBH",NA,"61",0,0,0,0,0,0,60,0,1,0,0,14,0,0,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-068","-34.07781042","120.9669846","27/11/2022",NA,"Investigator MBH",NA,"71",0,2,0,0,0,0,10,2,0,0,0,4,0,59,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-092","-34.07026452","120.9420332","27/11/2022",NA,"Investigator MBH",NA,"65",0,0,0,0,0,0,20,0,0,0,0,13,0,44,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-051","-34.10884137","120.9210145","27/11/2022",NA,"Investigator MBH",NA,"75.5",0,1,0,0,0,0,7,1,0,0,0,5,0,66,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-077","-34.10867588","120.9501703","27/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-029","-34.12982174","120.9766716","27/11/2022",NA,"Investigator MBH",NA,"80",0,0,0,0,0,0,1,0,0,0,0,1,0,78,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-122","-34.134505","120.9345655","27/11/2022",NA,"Investigator MBH",NA,"82",0,2,0,0,0,0,4,0,0,0,0,3,0,62,0,71
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-001","-34.16379179","120.9335453","27/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-038","-34.17122988","120.9261355","27/11/2022",NA,"Investigator MBH",NA,"82",0,0,0,0,0,0,2,0,0,0,0,1,0,72,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-011","-34.18116466","120.947565","27/11/2002",NA,"Investigator MBH",NA,"79",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-061","-34.19507919","120.8907245","27/11/2022",NA,"Investigator MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,76
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-086","-34.22493625","120.8934507","27/11/2022",NA,"Investigator MBH",NA,"79.5",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-123","-34.2282316","120.9178449","27/11/2022",NA,"Investigator MBH",NA,"77",0,2,0,0,0,1,16,0,0,0,0,1,0,60,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-124","-34.2385683","120.96773","28/11/2022",NA,"Investigator MBH",NA,"75",0,0,0,0,0,0,11,0,0,0,0,1,0,68,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-062","-34.2398735","120.9726152","28/11/2022",NA,"Investigator MBH",NA,"73.5",0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,76
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-022","-34.26495671","120.9824437","28/11/2022",NA,"Investigator MBH",NA,"71",0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-096","-34.27072766","120.9557765","28/11/2022",NA,"Investigator MBH",NA,"71",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-046","-34.28588025","120.9441468","28/11/2022",NA,"Investigator MBH",NA,"73.5",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-069","-34.27888211","120.9255708","28/11/2022",NA,"Investigator MBH",NA,"74",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-019","-34.32109521","120.8845684","28/11/2022",NA,"Investigator MBH",NA,"76",0,0,0,0,0,0,2,0,0,0,0,0,0,78,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-030","-34.35654251","120.8898268","28/11/2022",NA,"Investigator MBH",NA,"83",0,0,0,0,0,0,1,0,0,0,0,1,0,78,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-006","-34.34263406","120.9467489","28/11/2022",NA,"Investigator MBH",NA,"76",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-081","-34.35449932","120.9906895","28/11/2022",NA,"Investigator MBH",NA,"83",0,0,0,0,0,0,12,0,2,0,0,1,0,65,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-033","-34.37175417","120.9723049","28/11/2022",NA,"Investigator MBH",NA,"80",0,0,0,0,0,0,2,0,0,0,0,0,0,78,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-125","-34.388613","120.9399332","28/11/2022",NA,"Investigator MBH",NA,"83",0,1,0,0,0,1,9,0,0,0,0,1,0,68,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-056","-34.39450099","120.9239978","28/11/2022",NA,"Investigator MBH",NA,"80",0,0,0,0,0,0,8,0,0,0,0,1,0,71,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-078","-34.40824506","120.8962861","28/11/2022",NA,"Investigator MBH",NA,"79",0,1,0,0,0,0,23,0,3,0,0,7,0,45,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-091","-34.42994055","120.9292734","28/11/2022",NA,"Investigator MBH",NA,"80",1,0,0,0,0,0,20,0,2,0,0,8,0,48,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-063","-34.45981666","120.8702701","28/11/2022",NA,"Investigator MBH",NA,"84",0,0,0,0,0,0,20,0,2,0,0,3,0,55,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-126","-34.4930589","120.8272604","28/11/2022",NA,"Investigator MBH",NA,"138",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-127","-34.49264089","120.8252078","28/11/2022",NA,"Investigator MBH",NA,"135",0,4,0,0,0,0,29,0,0,0,0,11,0,36,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-128","-34.49652837","120.8085238","28/11/2022",NA,"Investigator MBH",NA,"197",0,1,0,0,0,0,65,0,0,0,0,7,0,1,0,74
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-129","-34.49322779","120.8071386","28/11/2022",NA,"Investigator MBH",NA,"149",0,2,0,0,0,0,53,0,1,0,0,13,0,0,0,69
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-012","-34.47984394","120.8839851","28/11/2022",NA,"Investigator MBH",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-024","-34.49887388","120.9173298","28/11/2022",NA,"Investigator MBH",NA,"181",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-130","-34.4989931","121.0608244","28/11/2022",NA,"Investigator MBH",NA,"121",0,0,0,0,0,4,74,0,1,0,0,1,0,0,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-131","-34.4989374","121.0718611","28/11/2022",NA,"Investigator MBH",NA,"119",0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,68
+"Salisbury_Investigator_MBH_BOSS_habitat","INV-DC-132","-34.4965795","121.180394","28/11/2022",NA,"Investigator MBH",NA,"103",0,0,0,0,0,0,24,0,0,0,0,2,0,54,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-039","-34.35324071","123.5360009","21/11/2022",NA,"Salisbury MBH",NA,"33.5",0,0,0,0,0,0,17,0,0,0,0,0,0,42,0,59
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-008","-34.37879031","123.4783475","21/11/2022",NA,"Salisbury MBH",NA,"85.5",0,0,0,0,0,0,0,0,0,0,0,1,0,67,0,68
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-063","-34.39281228","123.5255369","21/11/2022",NA,"Salisbury MBH",NA,"81",0,0,0,0,0,0,16,0,0,0,0,6,0,37,0,59
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-079","-34.42014595","123.493609","21/11/2022",NA,"Salisbury MBH",NA,"88",0,0,0,0,0,0,1,0,0,0,0,0,0,79,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-043","-34.43726343","123.5080867","21/11/2022",NA,"Salisbury MBH",NA,"91",0,0,0,0,0,0,4,0,0,0,0,1,0,74,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-014","-34.4619418","123.5153216","21/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,0,0,28,0,0,0,0,9,0,43,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-069","-34.47149493","123.4981428","21/11/2022",NA,"Salisbury MBH",NA,"85",0,0,0,0,0,0,35,0,0,0,0,15,0,30,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-033","-34.48904493","123.4801492","21/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,0,0,13,0,2,0,0,7,0,57,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-004","-34.53283339","123.4919345","21/11/2022",NA,"Salisbury MBH",NA,"88",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-075","-34.57038734","123.4913759","21/11/2022",NA,"Salisbury MBH",NA,"90",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-092","-34.59839663","123.5080188","21/11/2022",NA,"Salisbury MBH",NA,"102",0,0,0,0,0,4,20,0,0,0,0,0,0,48,0,72
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-028","-34.61328039","123.5682127","21/11/2022",NA,"Salisbury MBH",NA,"172",0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,44
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-009","-34.58771137","123.6259746","21/11/2022",NA,"Salisbury MBH",NA,"106",0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,24
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-018","-34.55904026","123.6385784","21/11/2022",NA,"Salisbury MBH",NA,"91",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-044","-34.54394722","123.6141254","21/11/2022",NA,"Salisbury MBH",NA,"90",0,0,0,0,0,0,31,0,3,0,0,6,0,36,0,76
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-098","-34.55262395","123.5840488","21/11/2022",NA,"Salisbury MBH",NA,"88.5",0,0,0,0,0,0,4,0,0,0,0,2,0,74,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-064","-34.56640123","123.5502064","21/11/2022",NA,"Salisbury MBH",NA,"89",0,0,0,0,0,0,0,0,0,0,0,1,0,79,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-023","-34.56150648","123.5182425","21/11/2022",NA,"Salisbury MBH",NA,"91",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-058","-34.54617895","123.529527","21/11/2022",NA,"Salisbury MBH",NA,"88",0,0,0,0,0,0,10,0,4,0,0,2,0,53,0,69
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-102","-34.549492","123.552923","21/11/2022",NA,"Salisbury MBH",NA,"64",0,0,0,0,0,0,46,0,4,0,0,7,0,0,0,57
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-084","-34.5030623","123.5273883","21/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,0,0,20,0,5,0,0,21,0,33,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-050","-34.5201731","123.5418842","21/11/2022",NA,"Salisbury MBH",NA,"87",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-089","-34.5255068","123.5802814","21/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,0,0,3,0,2,0,0,1,0,74,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-038","-34.51594573","123.5974627","21/11/2022",NA,"Salisbury MBH",NA,"86",0,1,0,0,0,0,13,0,0,0,0,7,0,57,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-010","-34.52503626","123.6517067","21/11/2022",NA,"Salisbury MBH",NA,"89",0,0,0,0,0,0,16,0,0,0,0,2,0,62,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-078","-34.35590778","123.5746051","22/11/2022",NA,"Salisbury MBH",NA,"71",0,0,0,0,0,0,0,1,0,0,0,0,0,77,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-049","-34.38434649","123.6365547","22/11/2022",NA,"Salisbury MBH",NA,"80",0,1,0,0,0,0,7,0,0,0,0,3,0,69,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-013","-34.40501948","123.6247713","22/11/2022",NA,"Salisbury MBH",NA,"82",0,0,0,0,0,0,33,0,1,0,0,4,0,42,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-068","-34.4110402","123.5950011","22/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,0,0,40,0,0,0,0,1,0,39,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-083","-34.43904032","123.6116484","22/11/2022",NA,"Salisbury MBH",NA,"79",0,0,0,0,0,0,12,0,1,0,0,9,0,58,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-001","-34.46703924","123.6283029","22/11/2022",NA,"Salisbury MBH",NA,"43",0,0,0,0,0,0,1,76,0,0,0,0,0,0,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-080","-34.46302861","123.6481585","22/11/2022",NA,"Salisbury MBH",NA,"84",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-057","-34.45590834","123.6618366","22/11/2022",NA,"Salisbury MBH",NA,"82",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-045","-34.50746751","123.6696776","22/11/2022",NA,"Salisbury MBH",NA,"87",0,1,0,0,0,0,16,0,0,0,0,0,0,63,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-073","-34.50237668","123.6345038","22/11/2022",NA,"Salisbury MBH",NA,"86",0,0,0,0,0,1,21,0,1,0,0,7,0,48,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-020","-34.49150499","123.5934245","22/11/2022",NA,"Salisbury MBH",NA,"86",1,0,0,0,0,2,26,0,6,0,0,11,0,32,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-054","-34.47084101","123.5663101","22/11/2022",NA,"Salisbury MBH",NA,"84",0,0,0,0,0,0,5,0,1,0,0,4,0,70,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-103","-34.4635287","123.5929579","22/11/2022",NA,"Salisbury MBH",NA,"67",0,0,0,0,0,0,69,0,1,0,0,6,0,2,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-104","-34.4553524","123.588885","22/11/2022",NA,"Salisbury MBH",NA,"61",0,0,0,0,0,0,69,0,0,0,0,10,0,0,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-097","-34.4510517","123.5520865","22/11/2022",NA,"Salisbury MBH",NA,"87",1,0,0,0,0,0,27,0,1,0,0,7,0,44,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-032","-34.42749477","123.5609389","22/11/2022",NA,"Salisbury MBH",NA,"86.5",0,0,0,0,0,0,4,0,1,0,0,3,0,72,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-027","-34.41259783","123.5397473","22/11/2022",NA,"Salisbury MBH",NA,"84",0,0,0,0,0,1,9,0,0,0,0,2,0,67,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-105","-34.37902644","123.541977","22/11/2022",NA,"Salisbury MBH",NA,"53",0,0,0,0,0,0,30,27,0,0,0,4,0,1,0,62
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-091","-34.36035143","123.5223277","22/11/2022",NA,"Salisbury MBH",NA,"52",0,0,0,0,0,0,14,58,0,0,0,3,0,0,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-022","-34.32188658","123.5100103","22/11/2022",NA,"Salisbury MBH",NA,"77.5",0,2,0,0,0,0,7,0,0,0,0,7,0,64,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-047","-34.31720427","123.4813385","22/11/2022",NA,"Salisbury MBH",NA,"79.5",0,0,0,0,0,0,24,0,1,0,0,11,0,43,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-056","-34.30187022","123.492602","22/11/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,0,0,1,0,0,0,0,0,0,79,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-048","-34.27852252","123.5046702","22/11/2022",NA,"Salisbury MBH",NA,"77",0,0,0,0,0,0,6,0,0,0,0,0,0,74,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-031","-34.25429338","123.5427114","22/11/2022",NA,"Salisbury MBH",NA,"74.5",0,2,0,0,0,0,6,0,1,0,0,0,0,70,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-082","-34.2362704","123.5154006","22/11/2022",NA,"Salisbury MBH",NA,"77",0,0,0,0,0,0,1,0,0,0,0,0,0,73,0,74
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-012","-34.22626414","123.526114","22/11/2022",NA,"Salisbury MBH",NA,"76",0,0,0,0,0,0,2,0,0,0,0,4,0,74,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-003","-34.22468779","123.4648006","22/11/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,0,0,1,0,1,0,0,3,0,75,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-040","-34.20935073","123.4760563","22/11/2022",NA,"Salisbury MBH",NA,"79",0,0,0,0,0,0,6,0,1,0,0,1,0,72,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-015","-34.17844146","123.4953481","22/11/2022",NA,"Salisbury MBH",NA,"79",0,0,0,0,0,0,2,0,0,0,0,0,0,78,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-094","-34.17421584","123.5119432","22/11/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,0,0,0,0,0,0,0,1,0,79,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-025","-34.17110671","123.5057885","22/11/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,0,0,1,0,0,0,0,0,0,79,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-051","-34.15507271","123.4686043","22/11/2022",NA,"Salisbury MBH",NA,"80",0,0,0,0,0,0,1,0,0,0,0,0,0,79,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-085","-34.13773359","123.4897521","22/11/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,0,0,1,0,0,0,0,0,0,79,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-106","-34.392713","123.5348022","2/12/2022",NA,"Salisbury MBH",NA,"43",0,4,0,0,0,0,35,11,3,0,0,12,0,0,0,65
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-107","-34.3719576","123.5476847","2/12/2022",NA,"Salisbury MBH",NA,"50",0,0,0,0,0,0,0,64,0,0,0,0,0,6,0,70
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-108","-34.3628227","123.560732","2/12/2022",NA,"Salisbury MBH",NA,"46",0,0,0,0,0,0,2,62,0,0,0,0,0,0,0,64
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-026","-34.35320967","123.6526135","2/12/2022",NA,"Salisbury MBH",NA,"77",0,3,0,0,0,0,11,0,0,0,0,6,0,59,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-035","-34.34585814","123.6630612","2/12/2022",NA,"Salisbury MBH",NA,"77",0,1,0,0,0,0,13,0,0,0,0,4,0,59,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-062","-34.33276995","123.6287394","2/12/2022",NA,"Salisbury MBH",NA,"73",0,0,0,0,0,0,9,0,0,0,0,0,0,71,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-007","-34.32210782","123.590945","2/12/2022",NA,"Salisbury MBH",NA,"68",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-109","-34.3122238","123.580362","2/12/2022",NA,"Salisbury MBH",NA,"62",0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-002","-34.29920918","123.5705732","2/12/2022",NA,"Salisbury MBH",NA,"52",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-110","-34.3014923","123.5718288","2/12/2022",NA,"Salisbury MBH",NA,"40",0,0,0,0,0,0,0,75,0,0,0,1,0,0,0,76
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-042","-34.30097845","123.5962958","2/12/2022",NA,"Salisbury MBH",NA,"63",0,2,0,0,0,0,0,0,0,0,0,0,0,78,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-096","-34.31518656","123.6466819","2/12/2022",NA,"Salisbury MBH",NA,"66",0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-087","-34.29450732","123.6584508","2/12/2022",NA,"Salisbury MBH",NA,"71.5",0,0,0,0,0,0,2,0,0,0,0,0,0,77,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-036","-34.28074464","123.614503","2/12/2022",NA,"Salisbury MBH",NA,"66",0,0,0,0,0,0,36,0,0,0,0,3,0,38,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-111","-34.2770411","123.6146265","2/12/2022",NA,"Salisbury MBH",NA,"63",0,0,0,0,0,0,19,0,0,0,0,4,0,36,0,59
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-017","-34.25314682","123.6431438","2/12/2022",NA,"Salisbury MBH",NA,"70",0,0,0,0,0,0,38,0,2,0,0,14,0,26,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-071","-34.25806724","123.5973484","2/12/2022",NA,"Salisbury MBH",NA,"71.5",0,0,0,0,0,0,12,0,1,0,0,1,0,66,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-052","-34.23358398","123.6321485","2/12/2022",NA,"Salisbury MBH",NA,"66",0,0,0,0,0,0,44,0,0,0,0,13,0,23,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-112","-34.2270268","123.6192162","2/12/2022",NA,"Salisbury MBH",NA,"43",0,0,0,0,0,0,15,27,0,0,0,0,0,10,0,52
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-113","-34.21886773","123.6224769","2/12/2022",NA,"Salisbury MBH",NA,"22",0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,58
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-067","-34.21381288","123.579125","2/12/2022",NA,"Salisbury MBH",NA,"71.5",0,0,0,0,0,0,2,0,0,0,0,2,0,74,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-041","-34.20247075","123.5705561","2/12/2022",NA,"Salisbury MBH",NA,"72",0,0,0,0,0,0,3,0,0,0,0,1,0,71,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-081","-34.20090104","123.6256971","2/12/2022",NA,"Salisbury MBH",NA,"49.5",0,0,0,0,0,0,57,0,0,0,0,0,0,23,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-114","-34.2007449","123.6314284","2/12/2022",NA,"Salisbury MBH",NA,"44",0,0,0,0,0,0,3,74,0,0,0,0,0,3,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-030","-34.19110675","123.6396091","2/12/2022",NA,"Salisbury MBH",NA,"60",0,0,0,0,0,0,16,0,1,0,0,9,0,52,0,78
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-066","-34.17618778","123.6572602","2/12/2022",NA,"Salisbury MBH",NA,"63",0,0,0,0,0,0,12,0,0,0,0,5,0,63,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-011","-34.16242084","123.6133624","2/12/2022",NA,"Salisbury MBH",NA,"68",0,1,0,0,0,0,3,0,2,0,0,0,0,74,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-077","-34.14953371","123.5435232","2/12/2022",NA,"Salisbury MBH",NA,"77",0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-006","-34.14797696","123.5598437","2/12/2022",NA,"Salisbury MBH",NA,"75",0,0,0,0,0,0,40,0,0,0,0,22,0,18,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-046","-34.1450805","123.5956942","2/12/2022",NA,"Salisbury MBH",NA,"71",0,0,0,0,0,0,6,0,0,0,0,1,0,73,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-100","-34.13193189","123.6390246","2/12/2022",NA,"Salisbury MBH",NA,"68",0,0,0,0,0,0,22,0,0,0,0,2,0,52,0,76
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-076","-34.12213477","123.6529262","2/12/2022",NA,"Salisbury MBH",NA,"68",0,0,0,0,0,0,16,0,0,0,0,3,0,61,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-005","-34.08633016","123.6403232","2/12/2022",NA,"Salisbury MBH",NA,"69",0,0,0,0,0,0,8,0,0,0,0,1,0,71,0,80
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-059","-34.09323455","123.6234824","2/12/2022",NA,"Salisbury MBH",NA,"75",0,0,0,0,0,0,28,0,4,0,0,6,0,39,0,77
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-024","-34.10815252","123.6058405","2/12/2022",NA,"Salisbury MBH",NA,"72",0,0,0,0,0,0,10,0,0,0,0,2,0,63,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-019","-34.08790621","123.5852419","2/12/2022",NA,"Salisbury MBH",NA,"73",0,1,0,0,0,0,4,0,0,0,0,1,0,73,0,79
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-088","-34.09791996","123.5745483","2/12/2022",NA,"Salisbury MBH",NA,"75",0,0,0,0,0,0,11,0,0,0,0,0,0,64,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-060","-34.11994877","123.5432583","2/12/2022",NA,"Salisbury MBH",NA,"77",0,0,0,0,0,0,8,0,0,0,0,0,0,58,0,66
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-037","-34.11105107","123.5312228","2/12/2022",NA,"Salisbury MBH",NA,"78",0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,43
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-065","-34.10614691","123.4993991","3/12/2022",NA,"Salisbury MBH",NA,"74",0,0,0,0,0,0,8,0,0,0,0,1,0,59,0,68
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-099","-34.08611899","123.4820287","3/12/2022",NA,"Salisbury MBH",NA,"73",0,2,0,0,0,0,37,0,0,0,0,15,0,18,0,72
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-072","-34.06677325","123.513053","3/12/2022",NA,"Salisbury MBH",NA,"73.5",0,0,0,0,0,0,1,0,1,0,0,0,0,72,0,74
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-115","-34.0658677","123.5130451","3/12/2022",NA,"Salisbury MBH",NA,"67",9,8,0,0,0,0,38,0,0,0,0,15,0,0,0,70
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-116","-34.060939","123.498351","3/12/2022",NA,"Salisbury MBH",NA,"67",0,6,0,0,0,0,27,0,2,0,0,13,0,0,0,48
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-029","-34.04762559","123.4697584","3/12/2022",NA,"Salisbury MBH",NA,"61",0,0,0,0,0,0,5,0,2,0,0,12,0,56,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-061","-34.02783331","123.4943596","3/12/2022",NA,"Salisbury MBH",NA,"63",0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,75
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-117","-34.0269754","123.5030731","3/12/2022",NA,"Salisbury MBH",NA,"39",3,5,0,0,0,0,15,17,0,0,0,6,0,0,0,46
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-053","-34.04163523","123.5769403","3/12/2022",NA,"Salisbury MBH",NA,"62.5",0,3,0,0,0,0,33,0,0,0,0,16,0,18,0,70
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-093","-34.04852312","123.5988611","3/12/2022",NA,"Salisbury MBH",NA,"64",0,0,0,0,0,1,33,0,1,0,0,9,0,28,0,72
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-021","-34.03272783","123.6036637","3/12/2022",NA,"Salisbury MBH",NA,"61",0,0,0,0,0,0,10,0,0,0,0,6,0,40,0,56
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-086","-34.02427639","123.5980483","3/12/2022",NA,"Salisbury MBH",NA,"60",0,0,0,0,0,0,6,0,0,0,0,4,0,27,0,37
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-034","-34.01004227","123.5478089","3/12/2022",NA,"Salisbury MBH",NA,"43",0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,70
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-070","-33.99290194","123.5333836","3/12/2022",NA,"Salisbury MBH",NA,"36",0,0,0,0,0,0,0,37,0,0,0,2,0,33,0,72
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-095","-33.98399057","123.4826309","3/12/2022",NA,"Salisbury MBH",NA,"51",0,0,0,0,0,0,15,1,3,0,0,11,0,37,0,67
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-016","-33.98599958","123.5889487","3/12/2022",NA,"Salisbury MBH",NA,"47",0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,68
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-118","-33.981951","123.6068165","3/12/2022",NA,"Salisbury MBH",NA,"43",0,2,0,0,0,1,50,16,0,0,0,5,0,0,0,74
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-090","-33.97508823","123.6255378","3/12/2022",NA,"Salisbury MBH",NA,"52",0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,76
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-055","-33.99221142","123.6399767","3/12/2022",NA,"Salisbury MBH",NA,"55",0,0,0,0,0,0,12,0,0,0,0,1,0,27,0,40
+"Salisbury_Investigator_MBH_BOSS_habitat","SAL-DC-074","-34.01980299","123.6501533","3/12/2022",NA,"Salisbury MBH",NA,"60.5",0,0,0,0,0,0,9,0,2,0,0,0,0,65,0,76

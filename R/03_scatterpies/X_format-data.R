@@ -98,9 +98,11 @@ no.annotations <- habitat %>%
 
 # Check that the image names match the metadata samples -----
 missing.metadata <- anti_join(habitat,metadata, 
-                              by = c("campaignid","sample"))                    # None
+                              by = c("campaignid","sample"))                  
 missing.habitat <- anti_join(metadata,habitat, 
-                             by = c("campaignid","sample"))                     # Quite a few but data is not finished - review once annotation complete
+                             by = c("campaignid","sample"))
+unique(missing.habitat$sample)
+unique(missing.metadata$sample)
 
 # CREATE broad classifications
 con <- read.csv("data/raw/CATAMI-UWA_conversion.csv") %>%
