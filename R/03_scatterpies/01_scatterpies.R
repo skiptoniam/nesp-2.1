@@ -18,15 +18,11 @@ library(scatterpie)
 library(sf)
 library(ggnewscale)
 
-# Set the study name ----
-name <- '2021-2022_SwC_BOSS'
-
-# Load metadata ----
-metadata <- read.csv(paste0("data/tidy/", name, "_Metadata.csv")) %>%
-  glimpse()
+# Study name ----
+study <- "2022-11_Esperance" 
 
 # Load habitat data and join with metadata ----
-tidy.habitat <- read.csv(paste0("data/tidy/", name, "_Habitat.csv")) %>%
+tidy.habitat <- read.csv(paste0("data/tidy/",study,"_random-points_broad.habitat.csv")) %>%
   left_join(metadata) %>%
   dplyr::filter(!level_2 %in% "Unscorable") %>%
   # Make broad habitat levels for plotting

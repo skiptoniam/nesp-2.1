@@ -1,8 +1,8 @@
 Dot Point Measurements
 
-Generated: Friday 08 September 2023 11:34:28
+Generated: Friday 08 September 2023 11:47:40
 
-Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	Frame info 1	Frame info 2	Frame info 3	Frame info 4	Frame info 5	Frame info 6	level_2	level_3	level_4	level_5	scientific	qualifiers	CAAB_code		Radius %
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	Frame info 1	Frame info 2	Frame info 3	Frame info 4	Frame info 5	Frame info 6	CATAMI_L2_L3	CATAMI_L4	CATAMI_L5	Relief					Radius %
 INC_DC_092.jpg	      0		920	1294																											50.8
 INC_DC_092.jpg	      0		833	1755																											100.0
 INC_DC_092.jpg	      0		686	1365																											59.4

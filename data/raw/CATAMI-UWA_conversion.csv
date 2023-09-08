@@ -1,0 +1,186 @@
+CATAMI_L2_L3,CATAMI_L4,CATAMI_L5,Broad
+Ascidians,,,Ascidians
+Ascidians > Stalked,,,Ascidians
+Ascidians > Stalked,Solitary,,Ascidians
+Ascidians > Stalked,Colonial,,Ascidians
+Ascidians > Unstalked,,,Ascidians
+Ascidians > Unstalked,Solitary,,Ascidians
+Ascidians > Unstalked,Colonial,,Ascidians
+Bacterial mats > Cyanobacteria,,,Bacterial mats
+Bacterial mats > Other,,,Bacterial mats
+Bacterial mats,,,Bacterial mats
+Bryozoa > Hard,Branching,,Bryozoa
+Bryozoa > Hard,Encrusting,,Bryozoa
+Bryozoa > Hard,Fenestrate,,Bryozoa
+Bryozoa > Hard,Massive,,Bryozoa
+Bryozoa > Hard,,,Bryozoa
+Bryozoa > Soft,Dendroid,,Bryozoa
+Bryozoa > Soft,Foliaceous,,Bryozoa
+Bryozoa > Soft,,,Bryozoa
+Bryozoa,,,Bryozoa
+Cnidaria > Colonial anemones,Corallimorphs,,Colonial anemones
+Cnidaria > Colonial anemones,Zoanthids,,Zoanthids
+Cnidaria > Colonial anemones,,,Colonial anemones
+Cnidaria > Corals,Black & Octocorals,Branching (3D),Octocoral/Black
+Cnidaria > Corals,Black & Octocorals,Encrusting,Octocoral/Black
+Cnidaria > Corals,Black & Octocorals,Fan (2D),Octocoral/Black
+Cnidaria > Corals,Black & Octocorals,Massive soft corals,Octocoral/Black
+Cnidaria > Corals,Black & Octocorals,Organ pipe coral (Tubipora),Octocoral/Black
+Cnidaria > Corals,Black & Octocorals,Quill (seapen),Octocoral/Black
+Cnidaria > Corals,Black & Octocorals,Whip,Octocoral/Black
+Cnidaria > Corals,Black & Octocorals,,Octocoral/Black
+Cnidaria > Corals,Stony corals,Bottlebrush,Stony corals
+Cnidaria > Corals,Stony corals,Branching,Stony corals
+Cnidaria > Corals,Stony corals,Colonial,Stony corals
+Cnidaria > Corals,Stony corals,Columnar,Stony corals
+Cnidaria > Corals,Stony corals,Corymbose,Stony corals
+Cnidaria > Corals,Stony corals,Digitate,Stony corals
+Cnidaria > Corals,Stony corals,Encrusting,Stony corals
+Cnidaria > Corals,Stony corals,Foliose / plate,Stony corals
+Cnidaria > Corals,Stony corals,Massive,Stony corals
+Cnidaria > Corals,Stony corals,Solitary,Stony corals
+Cnidaria > Corals,Stony corals,Staghorn,Stony corals
+Cnidaria > Corals,Stony corals,Sub-massive,Stony corals
+Cnidaria > Corals,Stony corals,Tabulate,Stony corals
+Cnidaria > Corals,Stony corals,,Stony corals
+Cnidaria > Corals,,,Stony corals
+Cnidaria > Hydrocorals,Branching,,Hydrocoral
+Cnidaria > Hydrocorals,Submassive / encrusting,,Hydrocoral
+Cnidaria > Hydrocorals,,,Hydrocoral
+Cnidaria > Hydroids,,,Hydroids
+Cnidaria > True anemones,Flytrap,,True anemones
+Cnidaria > True anemones,Fourlobed,,True anemones
+Cnidaria > True anemones,Other anemones,Colonial,True anemones
+Cnidaria > True anemones,Other anemones,Solitary,True anemones
+Cnidaria > True anemones,Other anemones,,True anemones
+Cnidaria > True anemones,,,True anemones
+Cnidaria > Tube anemones,,,Tube anemones
+Cnidaria,,,
+Echinoderms > Feather stars,Stalked crinoids,,Crinoids
+Echinoderms > Feather stars,Unstalked crinoids,,Crinoids
+Echinoderms > Feather stars,,,Crinoids
+Echinoderms > Ophiuroids,Basket stars,,Ophiuroids
+Echinoderms > Ophiuroids,Brittle / snake stars,,Ophiuroids
+Echinoderms > Ophiuroids,,,Ophiuroids
+Echinoderms > Sea cucumbers,Benthic,,Sea cucumbers
+Echinoderms > Sea cucumbers,Pelagic / swimming,,Sea cucumbers
+Echinoderms > Sea cucumbers,,,Sea cucumbers
+Echinoderms > Sea stars,,,Sea stars
+Echinoderms > Sea urchins,Irregular urchins,,Sea urchins
+Echinoderms > Sea urchins,Regular urchins,,Sea urchins
+Echinoderms > Sea urchins,,,Sea urchins
+Echinoderms,,,
+General Unknown Biology,,,Unknown
+Macroalgae > Articulated calcareous,Green,Articulated Calcareous Green,Macroalgae
+Macroalgae > Articulated calcareous,Green,,Macroalgae
+Macroalgae > Articulated calcareous,Red,Articulated Calcareous Red,Macroalgae
+Macroalgae > Articulated calcareous,Red,Corallina (Erect),Macroalgae
+Macroalgae > Articulated calcareous,Red,,Macroalgae
+Macroalgae > Articulated calcareous,,,Macroalgae
+Macroalgae > Drift Algae,,,Macroalgae
+Macroalgae > Encrusting,Brown,,Macroalgae
+Macroalgae > Encrusting,Green,Codium spp,Macroalgae
+Macroalgae > Encrusting,Green,,Macroalgae
+Macroalgae > Encrusting,Red,Calcareous,Macroalgae
+Macroalgae > Encrusting,Red,Non-calcareous,Macroalgae
+Macroalgae > Encrusting,Red,,Macroalgae
+Macroalgae > Encrusting,,,Macroalgae
+Macroalgae > Erect coarse branching,Brown,Drift,Macroalgae
+Macroalgae > Erect coarse branching,Brown,,Macroalgae
+Macroalgae > Erect coarse branching,Green,,Macroalgae
+Macroalgae > Erect coarse branching,Red,Foliose,Macroalgae
+Macroalgae > Erect coarse branching,Red,,Macroalgae
+Macroalgae > Erect coarse branching,,,Macroalgae
+Macroalgae > Erect fine branching,Brown,Brown Understory Algae,Macroalgae
+Macroalgae > Erect fine branching,Brown,,Macroalgae
+Macroalgae > Erect fine branching,Green,,Macroalgae
+Macroalgae > Erect fine branching,Red,Foliose,Macroalgae
+Macroalgae > Erect fine branching,Red,,Macroalgae
+Macroalgae > Erect fine branching,,,Macroalgae
+Macroalgae > Filamentous / filiform,Brown,,Macroalgae
+Macroalgae > Filamentous / filiform,Dark Red,,Macroalgae
+Macroalgae > Filamentous / filiform,Green,,Macroalgae
+Macroalgae > Filamentous / filiform,Mat algae,,Macroalgae
+Macroalgae > Filamentous / filiform,Red,,Macroalgae
+Macroalgae > Filamentous / filiform,Turfing Algae,Green turf,Macroalgae
+Macroalgae > Filamentous / filiform,Turfing Algae,Red turf,Macroalgae
+Macroalgae > Filamentous / filiform,Turfing Algae,,Macroalgae
+Macroalgae > Filamentous / filiform,,,Macroalgae
+Macroalgae > Globose / saccate,Brown,,Macroalgae
+Macroalgae > Globose / saccate,Green,,Macroalgae
+Macroalgae > Globose / saccate,Red,,Macroalgae
+Macroalgae > Globose / saccate,,,Macroalgae
+Macroalgae > Laminate,Brown,,Macroalgae
+Macroalgae > Laminate,Green,,Macroalgae
+Macroalgae > Laminate,Red,,Macroalgae
+Macroalgae > Laminate,,,Macroalgae
+Macroalgae > Large canopy-forming,Brown,Unidentifiable,Macroalgae
+Macroalgae > Large canopy-forming,Brown,Carpoglossum confluens,Macroalgae
+Macroalgae > Large canopy-forming,Brown,Durvillaea potatorum,Macroalgae
+Macroalgae > Large canopy-forming,Brown,Ecklonia radiata,Macroalgae
+Macroalgae > Large canopy-forming,Brown,Lessonia corrugata,Macroalgae
+Macroalgae > Large canopy-forming,Brown,Phyllospora comosa,Macroalgae
+Macroalgae > Large canopy-forming,Brown,Scytothalia dorycarpa,Macroalgae
+Macroalgae > Large canopy-forming,,Unidentifiable,Macroalgae
+Macroalgae > Sheet-like / membraneous,Brown,,Macroalgae
+Macroalgae > Sheet-like / membraneous,Green,,Macroalgae
+Macroalgae > Sheet-like / membraneous,Red,Foliose,Macroalgae
+Macroalgae > Sheet-like / membraneous,Red,,Macroalgae
+Macroalgae > Sheet-like / membraneous,,,Macroalgae
+Macroalgae ,,,Macroalgae
+Matrix > Bryozoa / Cnidaria / Creeping Sponge Matrix,,,Invertebrate complex
+Matrix > Bryozoa / Cnidaria / Encrusting Sponge Matrix,,,Invertebrate complex
+Matrix > Bryozoa / Cnidaria / Sponge Matrix,,,Invertebrate complex
+Matrix > Bryozoa / Cnidaria Matrix,,,Invertebrate complex
+Matrix > Encrusting/Turfing Algal Matrix,,,Invertebrate complex
+Matrix > Mixed Sessile Invertebrate,,,Invertebrate complex
+Matrix > Turf/Sediment/Silt matrix,,,Macroalgae
+Matrix,,,
+Seagrasses > Elliptical leaves,Halophila spp,,Seagrasses
+Seagrasses > Elliptical leaves,Unidentifiable,,Seagrasses
+Seagrasses > Strap-like leaves,Amphibolis sp. (Caab 63600903) ,,Seagrasses
+Seagrasses > Strap-like leaves,Thalassodendron sp. (CAAB 63618905)  ,,Seagrasses
+Seagrasses > Strap-like leaves,Posidonia sp. (Caab 63600903) ,,Seagrasses
+Seagrasses > Strap-like leaves,Zostera sp. (Caab 63600903),,Seagrasses
+Seagrasses > Strap-like leaves,Rupia sp. (Caab 63600903),,Seagrasses
+Seagrasses > Strap-like leaves,Unidentifiable,,Seagrasses
+Seagrasses > ,,,Seagrasses
+Sponges > Crusts,Creeping / ramose,,Sponges
+Sponges > Crusts,Encrusting,,Sponges
+Sponges > Crusts,Endolithic / bioeroding,,Sponges
+Sponges > Crusts,,,Sponges
+Sponges > Cup-likes,Barrels,,Sponges
+Sponges > Cup-likes,Cups,Cup / goblet,Sponges
+Sponges > Cup-likes,Cups,Incomplete cup / curled fan,Sponges
+Sponges > Cup-likes,Cups,Tables / discs,Sponges
+Sponges > Cup-likes,Cups,,Sponges
+Sponges > Cup-likes,Tubes and chimneys,,Sponges
+Sponges > Cup-likes,,,Sponges
+Sponges > Erect forms,Branching,,Sponges
+Sponges > Erect forms,Laminar,,Sponges
+Sponges > Erect forms,Palmate,,Sponges
+Sponges > Erect forms,Simple,,Sponges
+Sponges > Erect forms,Stalked,,Sponges
+Sponges > Erect forms,,,Sponges
+Sponges > Massive forms,Balls,,Sponges
+Sponges > Massive forms,Cryptic,,Sponges
+Sponges > Massive forms,Simple,,Sponges
+Sponges > Massive forms,,,Sponges
+Sponges,,,Sponges
+Substrate > Consolidated (hard),Boulders,,Consolidated
+Substrate > Consolidated (hard),Cobbles,,Consolidated
+Substrate > Consolidated (hard),Rock,,Consolidated
+Substrate > Consolidated (hard),,,Consolidated
+Substrate > Unconsolidated (soft),Pebble / gravel,Biologenic,Unconsolidated
+Substrate > Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),Unconsolidated
+Substrate > Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),Unconsolidated
+Substrate > Unconsolidated (soft),Pebble / gravel,,Unconsolidated
+Substrate > Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),Unconsolidated
+Substrate > Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),Unconsolidated
+Substrate > Unconsolidated (soft),Sand / mud (<2mm),Mud / silt (<64um),Unconsolidated
+Substrate > Unconsolidated (soft),Sand / mud (<2mm),,Unconsolidated
+Substrate > Unconsolidated (soft),,,Unconsolidated
+Substrate,,,
+Anthropogenic Debris,,,Unknown
+Biota,,,Unknown
+Unscorable,,,Unknown
