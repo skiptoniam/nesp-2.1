@@ -1,3 +1,5 @@
+# THIS MIGHT BE BROKEN NOW THAT I HAVE FORMATTED DATA IN 01_FORMAT-DATA
+
 ###
 # Project: Wide-field view stereo-video drop-camera
 # Data:    BOSS Habitat data

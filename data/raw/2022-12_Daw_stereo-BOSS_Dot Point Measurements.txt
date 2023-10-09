@@ -1,6 +1,6 @@
 Dot Point Measurements
 
-Generated: Wednesday 12 July 2023 09:13:25
+Generated: Wednesday 04 October 2023 09:07:49
 
 Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transect	Analyst	Rugosity	Depth	Collector	Fishing status	Spare	Spare	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	CATAMI_L2_L3	CATAMI_L4	CATAMI_L5	Relief					Radius %
 20221203-1_DAW-DC-018_01_20221203_TOP_1_0002_0001.mp4_0054278.jpg	      0		1675	1615													20221203-1	DAW-DC-018					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						8.4
@@ -310,20 +310,20 @@ Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transe
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		989	2347													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.7
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		652	3475													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						82.2
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		566	3763													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						97.0
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		952	2565													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							35.4
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		952	2565													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								35.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		822	2288													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.0
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		829	3365													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						73.9
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		518	3161													20221203-2	DAW-DC-062					Unscorable								71.8
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		762	2155													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.8
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1046	2379													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.2
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		843	3802													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						94.3
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		731	3121													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							64.7
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		647	3137													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							67.4
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		731	3121													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								64.7
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		647	3137													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								67.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1070	2079													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						14.3
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1070	2454													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						27.8
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		825	3546													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						82.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		680	2605													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						45.4
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		681	3061													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							63.3
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		681	3061													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								63.3
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		885	2038													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.5
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		782	448													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						79.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1000	606													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						68.8
@@ -336,24 +336,24 @@ Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transe
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		939	961													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						52.9
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		760	1166													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.2
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		652	1155													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						52.0
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		970	253													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							86.1
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		970	253													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								86.1
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		754	1694													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.3
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		799	1488													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.1
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		647	643													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							73.2
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		647	643													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								73.2
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		923	1001													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1039	679													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						64.8
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		720	1430													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.9
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		647	1415													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						43.1
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		701	904													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						60.6
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2132	2601													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.8
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1625	2853													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							46.6
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1625	2853													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.6
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1604	3665													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						85.5
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1994	2143													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						34.0
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1930	2534													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							41.1
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1930	2534													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								41.1
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1600	2149													20221203-2	DAW-DC-062					Unscorable								16.3
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1610	3683													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						86.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2019	3720													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						93.5
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1836	2698													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							44.3
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1836	2698													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								44.3
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1632	2178													20221203-2	DAW-DC-062					Unscorable								18.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2027	2902													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.0
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1798	3379													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.0
@@ -362,29 +362,29 @@ Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transe
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1712	2661													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.5
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1857	2823													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.1
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2140	3302													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						77.6
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1987	2869													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							55.5
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1987	2869													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								55.5
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1702	2864													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.4
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1643	2822													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							45.4
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1643	2822													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								45.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1677	1576													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1763	1560													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.0
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1737	1159													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							44.2
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1633	963													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							51.3
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1737	1159													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								44.2
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1633	963													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								51.3
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2004	335													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						86.8
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2108	96													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							99.7
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2108	96													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								99.7
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2118	1878													20221203-2	DAW-DC-062					Substrate > Consolidated (hard)	Rock							39.1
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1617	1531													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1800	368													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						81.9
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1749	1148													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							45.0
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1749	1148													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								45.0
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2124	1324													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.1
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1945	1302													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						44.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1859	1738													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						28.2
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1670	1378													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						33.1
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1936	1735													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.8
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1835	1387													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							37.6
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1835	1387													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								37.6
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2055	825													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						66.4
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		2042	1332													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.8
 20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1926	409													20221203-2	DAW-DC-062					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						81.9
-20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1762	1230													20221203-2	DAW-DC-062					Macroalgae > Erect fine branching	Red							41.8
+20221203-2_DAW-DC-062_01_20221203_TOP_2_0002_0001.mp4_0046122.jpg	      0		1762	1230													20221203-2	DAW-DC-062					Matrix > Mixed Sessile Invertebrate								41.8
 20221203-2_DAW-DC-077_01_20221203_TOP_2_0008_0001.mp4_0001893.jpg	      0		611	2282													20221203-2	DAW-DC-077					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						38.2
 20221203-2_DAW-DC-077_01_20221203_TOP_2_0008_0001.mp4_0001893.jpg	      0		535	2657													20221203-2	DAW-DC-077					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.4
 20221203-2_DAW-DC-077_01_20221203_TOP_2_0008_0001.mp4_0001893.jpg	      0		752	2653													20221203-2	DAW-DC-077					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						43.8
@@ -1206,10 +1206,10 @@ Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transe
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		1916	761													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						59.7
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		1905	877													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						54.5
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		925	205													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						81.2
-20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		542	53													20221203-3	DAW-DC-C02					Macroalgae > Erect fine branching	Red							94.2
+20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		542	53													20221203-3	DAW-DC-C02					Matrix > Mixed Sessile Invertebrate								94.2
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		637	969													20221203-3	DAW-DC-C02					Cnidaria > Corals	Black & Octocorals	Fan (2D)						53.2
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		786	813													20221203-3	DAW-DC-C02					Cnidaria > Corals	Black & Octocorals	Fan (2D)						55.7
-20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		770	1265													20221203-3	DAW-DC-C02					Macroalgae > Erect fine branching	Red							38.0
+20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		770	1265													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						38.0
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		902	873													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.6
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		792	1166													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.0
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		970	1776													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						16.8
@@ -1223,7 +1223,7 @@ Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transe
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		528	136													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						90.8
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		535	475													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.9
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		581	1284													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						44.4
-20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		919	394													20221203-3	DAW-DC-C02					Macroalgae > Erect fine branching	Green							72.4
+20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		919	394													20221203-3	DAW-DC-C02					Sponges > Erect forms	Simple							72.4
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		874	271													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						78.7
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		1786	2521													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						40.9
 20221203-3_DAW-DC-C02_01_20221203_TOP_3_0001_0001.mp4_0033667.jpg	      0		1791	3350													20221203-3	DAW-DC-C02					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						77.8
@@ -1287,8 +1287,8 @@ Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transe
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		1903	1396													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						40.3
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		610	769													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						70.7
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		904	1434													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.0
-20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		978	678													20221203-3	DAW-DC-C03					Macroalgae > Erect fine branching	Red							67.6
-20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		717	1434													20221203-3	DAW-DC-C03					Macroalgae > Erect fine branching	Red							41.6
+20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		978	678													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						67.6
+20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		717	1434													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.6
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		782	1383													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.0
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		666	1768													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.5
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		876	436													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						80.6
@@ -1302,7 +1302,7 @@ Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transe
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		687	1177													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.8
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		764	1820													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.1
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		625	871													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						66.0
-20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		1008	725													20221203-3	DAW-DC-C03					Macroalgae > Erect fine branching	Red							64.9
+20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		1008	725													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						64.9
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		705	1846													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.7
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		817	1317													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						42.3
 20221203-3_DAW-DC-C03_01_20221203_TOP_3_0008_0001.mp4_0048814.jpg	      0		2020	3473													20221203-3	DAW-DC-C03					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						81.9
@@ -1470,7 +1470,7 @@ Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transe
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		2126	3786													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		2131	3624													20221203-4	DAW-DC-034					Macroalgae > Erect fine branching	Red							92.9
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		2058	2164													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						38.4
-20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		2059	3023													20221203-4	DAW-DC-034					Macroalgae > Erect fine branching	Red							65.6
+20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		2059	3023													20221203-4	DAW-DC-034					Bryozoa > Soft	Foliaceous							65.6
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		1695	3778													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						93.3
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		1797	2221													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						28.1
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		1784	3718													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						91.4
@@ -1485,17 +1485,17 @@ Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transe
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		1753	2212													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.1
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		1611	2551													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						34.7
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		1642	2765													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						44.9
-20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		614	3331													20221203-4	DAW-DC-034					Macroalgae > Erect fine branching	Red							77.6
+20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		614	3331													20221203-4	DAW-DC-034					Matrix > Mixed Sessile Invertebrate								77.6
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		810	2675													20221203-4	DAW-DC-034					Matrix > Mixed Sessile Invertebrate								45.0
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		681	2062													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.0
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		567	2696													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.2
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		583	2804													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						56.7
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		932	2180													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						23.1
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		1049	3020													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						56.0
-20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		686	2433													20221203-4	DAW-DC-034					Macroalgae > Erect fine branching	Red							40.2
+20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		686	2433													20221203-4	DAW-DC-034					Matrix > Mixed Sessile Invertebrate								40.2
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		982	3299													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						70.0
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		850	2213													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						27.3
-20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		550	2668													20221203-4	DAW-DC-034					Macroalgae > Erect fine branching	Red							52.8
+20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		550	2668													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						52.8
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		904	2085													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.0
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		669	3730													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						94.6
 20221203-4_DAW-DC-034_01_20221203_TOP_4_0002_0001.mp4_0039239.jpg	      0		544	3158													20221203-4	DAW-DC-034					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						71.9
@@ -2269,7 +2269,7 @@ _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		940	217								
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		792	2197														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						34.2
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		693	2777														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.0
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		873	3697														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						95.6
-_DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		711	3628														DAW-DC-011					Macroalgae > Erect fine branching	Red							94.7
+_DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		711	3628														DAW-DC-011					Matrix > Mixed Sessile Invertebrate								94.7
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		575	3412														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						87.6
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		890	3423														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						82.6
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		757	3537														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						89.8
@@ -2294,16 +2294,16 @@ _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		2066	943							
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1812	622														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						60.1
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1967	1573														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.8
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1948	338														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.2
-_DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		2127	756														DAW-DC-011					Macroalgae > Erect fine branching	Red							61.8
+_DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		2127	756														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						61.8
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		2066	1109														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.9
-_DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		2137	8														DAW-DC-011					Macroalgae > Erect fine branching	Red							93.5
+_DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		2137	8														DAW-DC-011					Matrix > Mixed Sessile Invertebrate								93.5
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1909	530														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.9
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1762	296														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.3
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1645	1478														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						20.0
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1846	119														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						83.6
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1772	1103														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						38.2
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1920	557														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.0
-_DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1938	242														DAW-DC-011					Macroalgae > Erect fine branching	Red							79.4
+_DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1938	242														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						79.4
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		2110	301														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						80.1
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1931	1423														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.4
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1710	2457														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.7
@@ -2324,7 +2324,7 @@ _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1873	2396						
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1664	2137														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.5
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1841	2215														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.2
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		2130	2408														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.8
-_DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1997	2755														DAW-DC-011					Sponges > Massive forms	Simple							56.1
+_DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1997	2755														DAW-DC-011					Matrix > Mixed Sessile Invertebrate								56.1
 _DAW-DC-011_01_20221206_TOP_1_0006_0001.mp4_0038495.jpg	      0		1640	3428														DAW-DC-011					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						80.7
 _DAW-DC-014_01_20221206_TOP_1_0004_0001.mp4_0029779.jpg	      0		812	664														DAW-DC-014					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						68.6
 _DAW-DC-014_01_20221206_TOP_1_0004_0001.mp4_0029779.jpg	      0		770	493														DAW-DC-014					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						76.9
@@ -2646,15 +2646,15 @@ _DAW-DC-021_01_20221205_TOP_2_0008_0001.mp4_0011351.jpg	      0		1630	3600						
 _DAW-DC-021_01_20221205_TOP_2_0008_0001.mp4_0011351.jpg	      0		1887	3481														DAW-DC-021					Seagrasses > Strap-like leaves	Posidonia sp. (Caab 63600903)							82.4
 _DAW-DC-021_01_20221205_TOP_2_0008_0001.mp4_0011351.jpg	      0		1794	2528														DAW-DC-021					Seagrasses > Strap-like leaves	Posidonia sp. (Caab 63600903)							39.3
 _DAW-DC-021_01_20221205_TOP_2_0008_0001.mp4_0011351.jpg	      0		2128	3649														DAW-DC-021					Macroalgae > Filamentous / filiform	Red							94.4
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		755	1189														DAW-DC-022					Macroalgae > Filamentous / filiform								45.1
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		755	1189														DAW-DC-022					Matrix > Mixed Sessile Invertebrate								45.1
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		555	249														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						89.9
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		916	1227														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.3
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		883	1707														DAW-DC-022					Macroalgae > Filamentous / filiform								23.4
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		883	1707														DAW-DC-022					Bryozoa > Soft	Foliaceous							23.4
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		945	1232														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						38.4
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		987	1767														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.5
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		607	1140														DAW-DC-022					Macroalgae > Filamentous / filiform								51.6
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		607	1140														DAW-DC-022					Matrix > Mixed Sessile Invertebrate								51.6
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		834	1229														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.3
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		624	1179														DAW-DC-022					Macroalgae > Filamentous / filiform								49.6
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		624	1179														DAW-DC-022					Matrix > Mixed Sessile Invertebrate								49.6
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		961	882														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.9
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		740	1039														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.6
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		837	324														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						81.7
@@ -2676,7 +2676,7 @@ _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		632	3017							
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		681	2183														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.9
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		622	2276														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						37.4
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		744	2780														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						49.6
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1067	2445														DAW-DC-022					Macroalgae > Filamentous / filiform								27.7
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1067	2445														DAW-DC-022					Bryozoa > Soft	Foliaceous							27.7
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		799	3655														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						87.6
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		753	3219														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						68.3
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		550	2726														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.5
@@ -2686,8 +2686,8 @@ _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		932	2566							
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1044	2879														DAW-DC-022					Cnidaria > Corals	Black & Octocorals	Fan (2D)						47.9
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		718	2186														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.3
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		961	3252														DAW-DC-022					Sponges > Erect forms	Stalked							66.6
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1919	1774														DAW-DC-022					Macroalgae > Filamentous / filiform								30.8
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1995	0														DAW-DC-022					Macroalgae > Erect fine branching	Red							100.0
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1919	1774														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.8
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1995	0														DAW-DC-022					Matrix > Mixed Sessile Invertebrate								100.0
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1891	1378														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.2
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1852	676														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						66.8
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1988	1628														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.4
@@ -2698,12 +2698,12 @@ _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1665	383							
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1661	1352														DAW-DC-022					Matrix > Mixed Sessile Invertebrate								33.1
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		2111	445														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						82.5
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1813	1871														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.8
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1982	156														DAW-DC-022					Macroalgae > Erect fine branching	Red							92.6
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1982	156														DAW-DC-022					Matrix > Mixed Sessile Invertebrate								92.6
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1670	1555														DAW-DC-022					Matrix > Mixed Sessile Invertebrate								25.5
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1925	24														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						97.8
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1716	813														DAW-DC-022					Macroalgae > Filamentous / filiform								58.1
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1716	813														DAW-DC-022					Matrix > Mixed Sessile Invertebrate								58.1
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		2011	897														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						61.0
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1823	1111														DAW-DC-022					Macroalgae > Filamentous / filiform								47.3
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1823	1111														DAW-DC-022					Matrix > Mixed Sessile Invertebrate								47.3
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		2033	825														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						64.6
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1813	256														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						85.4
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1796	2321														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.5
@@ -2716,7 +2716,7 @@ _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		2130	3451						
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1728	2919														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						52.4
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		2127	3361														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						80.4
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1794	2776														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.5
-_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1913	3628														DAW-DC-022					Macroalgae > Filamentous / filiform								87.8
+_DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1913	3628														DAW-DC-022					Matrix > Mixed Sessile Invertebrate								87.8
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1697	3768														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						91.6
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		2060	3292														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.8
 _DAW-DC-022_01_20221206_TOP_3_0010_0001.mp4_0011733.jpg	      0		1890	1925														DAW-DC-022					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						28.4
@@ -3061,7 +3061,7 @@ _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		879	113								
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		983	1351														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.9
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		591	1588														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						42.3
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		786	1564														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.0
-_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		547	933														DAW-DC-042					Macroalgae > Erect fine branching	Red							66.1
+_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		547	933														DAW-DC-042					Matrix > Mixed Sessile Invertebrate								66.1
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		922	1171														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.3
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		880	1806														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.6
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		860	1859														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.6
@@ -3083,12 +3083,12 @@ _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1000	2969						
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		571	2645														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						49.4
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1019	3365														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						69.4
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		773	2037														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						27.9
-_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		656	2185														DAW-DC-042					Macroalgae > Erect fine branching	Red							34.8
+_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		656	2185														DAW-DC-042					Bryozoa > Soft	Foliaceous							34.8
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		696	3361														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.5
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		771	2379														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						33.6
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1742	805														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						63.1
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1914	1331														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						44.3
-_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1674	1500														DAW-DC-042					Macroalgae > Erect fine branching	Red							30.3
+_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1674	1500														DAW-DC-042					Matrix > Mixed Sessile Invertebrate								30.3
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1768	1917														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.1
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		2026	245														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						94.1
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1642	1911														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						16.1
@@ -3099,8 +3099,8 @@ _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1962	1222						
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1994	1215														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.3
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1976	1122														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						54.4
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1937	1173														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.2
-_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		2035	748														DAW-DC-042					Macroalgae > Erect fine branching	Red							71.6
-_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1821	1307														DAW-DC-042					Macroalgae > Erect fine branching	Red							42.4
+_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		2035	748														DAW-DC-042					Matrix > Mixed Sessile Invertebrate								71.6
+_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1821	1307														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						42.4
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1759	992														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						54.7
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1838	413														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						83.1
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		2130	159														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
@@ -3118,7 +3118,7 @@ _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1602	2344						
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1679	2497														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.9
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1951	3497														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						80.3
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1779	3322														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						69.1
-_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1917	3634														DAW-DC-042					Macroalgae > Erect fine branching	Red							86.0
+_DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1917	3634														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						86.0
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		2046	2937														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.3
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1842	3151														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						62.3
 _DAW-DC-042_01_20221206_TOP_2_0005_0001.mp4_0033511.jpg	      0		1869	3310														DAW-DC-042					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						70.1
@@ -3351,7 +3351,7 @@ _DAW-DC-050_01_20221206_TOP_3_0008_0001.mp4_0024996.jpg	      0		1698	3184						
 _DAW-DC-050_01_20221206_TOP_3_0008_0001.mp4_0024996.jpg	      0		1828	2565														DAW-DC-050					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						44.3
 _DAW-DC-050_01_20221206_TOP_3_0008_0001.mp4_0024996.jpg	      0		2064	3648														DAW-DC-050					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						97.7
 _DAW-DC-050_01_20221206_TOP_3_0008_0001.mp4_0024996.jpg	      0		1841	3181														DAW-DC-050					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						72.2
-_DAW-DC-050_01_20221206_TOP_3_0008_0001.mp4_0024996.jpg	      0		1805	2830														DAW-DC-050					Macroalgae > Erect fine branching	Red							55.4
+_DAW-DC-050_01_20221206_TOP_3_0008_0001.mp4_0024996.jpg	      0		1805	2830														DAW-DC-050					Matrix > Mixed Sessile Invertebrate								55.4
 _DAW-DC-050_01_20221206_TOP_3_0008_0001.mp4_0024996.jpg	      0		1660	3231														DAW-DC-050					Matrix > Mixed Sessile Invertebrate								72.1
 _DAW-DC-050_01_20221206_TOP_3_0008_0001.mp4_0024996.jpg	      0		1691	2010														DAW-DC-050					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.7
 _DAW-DC-050_01_20221206_TOP_3_0008_0001.mp4_0024996.jpg	      0		2097	3282														DAW-DC-050					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						81.8
@@ -3622,10 +3622,10 @@ _DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		772	632								
 _DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		658	630														DAW-DC-067					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						70.3
 _DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		873	1346														DAW-DC-067					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.0
 _DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		615	1489														DAW-DC-067					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						40.8
-_DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		567	632														DAW-DC-067					Macroalgae > Erect fine branching	Green							72.5
+_DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		567	632														DAW-DC-067					Matrix > Mixed Sessile Invertebrate								72.5
 _DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		898	171														DAW-DC-067					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						87.1
 _DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		789	829														DAW-DC-067					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.5
-_DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		996	795														DAW-DC-067					Macroalgae > Erect fine branching	Green							56.0
+_DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		996	795														DAW-DC-067					Matrix > Mixed Sessile Invertebrate								56.0
 _DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		807	3270														DAW-DC-067					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.3
 _DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		921	3802														DAW-DC-067					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						98.0
 _DAW-DC-067_01_20221206_TOP_4_0004_0001.mp4_0025366.jpg	      0		649	2203														DAW-DC-067					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						38.2
@@ -4889,8 +4889,8 @@ _DAW-DC-C06_01_20221205_TOP_1_0008_0001.mp4_0002786.jpg	      0		2095	3563						
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		739	214														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								89.8
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		693	514														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								76.6
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		704	741														DAW-DC-C12					Macroalgae > Erect fine branching	Green							66.1
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		647	607														DAW-DC-C12					Macroalgae > Erect fine branching	Green							73.4
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		727	1156														DAW-DC-C12					Macroalgae > Erect fine branching	Red							48.0
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		647	607														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								73.4
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		727	1156														DAW-DC-C12					Sponges > Erect forms	Stalked							48.0
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		774	781														DAW-DC-C12					Sponges > Erect forms	Branching							62.7
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		864	1793														DAW-DC-C12					Sponges > Cup-likes	Tubes and chimneys							24.4
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		953	1601														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								24.0
@@ -4899,39 +4899,39 @@ _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		830	1460							
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		889	856														DAW-DC-C12					Sponges > Erect forms	Branching							56.7
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		562	1526														DAW-DC-C12					Unscorable								43.3
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		635	1701														DAW-DC-C12					Unscorable								36.8
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1031	1092														DAW-DC-C12					Macroalgae > Erect fine branching	Green							42.8
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1031	1092														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								42.8
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1033	1672														DAW-DC-C12					Sponges > Cup-likes	Tubes and chimneys							18.6
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1054	1610														DAW-DC-C12					Macroalgae > Erect fine branching	Red							19.8
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1015	525														DAW-DC-C12					Macroalgae > Erect fine branching	Red							70.6
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1054	1610														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								19.8
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1015	525														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								70.6
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		698	267														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								88.0
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1046	20														DAW-DC-C12					Macroalgae > Erect fine branching	Green							95.6
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1046	20														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								95.6
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		685	1025														DAW-DC-C12					Sponges > Erect forms	Branching							54.6
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		617	2622														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								52.7
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		609	3551														DAW-DC-C12					Macroalgae > Erect fine branching	Green							92.8
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		609	3551														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								92.8
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		793	3551														DAW-DC-C12					Macroalgae > Erect fine branching	Green							89.5
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		962	2444														DAW-DC-C12					Sponges > Massive forms	Simple							34.5
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		747	2411														DAW-DC-C12					Macroalgae > Erect fine branching	Green							40.4
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		747	2411														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								40.4
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1066	2031														DAW-DC-C12					Sponges > Massive forms	Simple							15.8
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		580	3065														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								71.6
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		941	2903														DAW-DC-C12					Sponges > Massive forms	Simple							55.9
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		851	2697														DAW-DC-C12					Sponges > Cup-likes	Cups							48.4
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		752	2566														DAW-DC-C12					Macroalgae > Erect fine branching	Green							45.9
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		651	2098														DAW-DC-C12					Macroalgae > Erect fine branching	Green							36.6
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		651	2098														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								36.6
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		958	2079														DAW-DC-C12					Sponges > Erect forms	Laminar							21.8
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		735	2477														DAW-DC-C12					Macroalgae > Erect fine branching	Green							43.2
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		735	2477														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								43.2
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		983	2846														DAW-DC-C12					Sponges > Cup-likes	Barrels							52.4
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		678	2079														DAW-DC-C12					Macroalgae > Erect fine branching	Green							35.0
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		678	2079														DAW-DC-C12					Sponges > Massive forms	Simple							35.0
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		633	3479														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								88.9
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		569	2965														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								67.7
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		917	3743														DAW-DC-C12					Macroalgae > Erect fine branching	Green							97.2
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		682	2835														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								58.9
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		643	2440														DAW-DC-C12					Sponges > Massive forms	Simple							45.4
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1706	1368														DAW-DC-C12					Macroalgae > Erect fine branching	Green							32.0
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2012	827														DAW-DC-C12					Macroalgae > Erect fine branching	Green							63.5
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1826	25														DAW-DC-C12					Macroalgae > Erect fine branching	Green							97.4
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2012	827														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								63.5
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1826	25														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								97.4
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1882	1119														DAW-DC-C12					Macroalgae > Erect fine branching	Green							47.5
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1859	466														DAW-DC-C12					Macroalgae > Erect fine branching	Green							76.5
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1742	149														DAW-DC-C12					Macroalgae > Erect fine branching	Green							90.2
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1742	149														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								90.2
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1744	1015														DAW-DC-C12					Macroalgae > Erect fine branching	Green							48.5
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1821	1784														DAW-DC-C12					Sponges > Massive forms	Simple							25.1
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1606	1548														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								21.6
@@ -4943,29 +4943,29 @@ _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1633	1588						
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2094	456														DAW-DC-C12					Macroalgae > Erect fine branching	Green							81.9
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1651	789														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								57.6
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1703	1322														DAW-DC-C12					Macroalgae > Erect fine branching	Green							33.8
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1997	1219														DAW-DC-C12					Macroalgae > Erect fine branching	Red							47.4
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1997	1219														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								47.4
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1863	1768														DAW-DC-C12					Macroalgae > Erect fine branching	Red							27.3
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1876	416														DAW-DC-C12					Macroalgae > Erect fine branching	Green							79.2
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1910	3733														DAW-DC-C12					Macroalgae > Erect fine branching	Green							98.7
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1945	2113														DAW-DC-C12					Macroalgae > Erect fine branching	Green							33.2
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1945	2113														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								33.2
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2080	2306														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								43.6
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1851	3203														DAW-DC-C12					Macroalgae > Erect fine branching	Green							72.3
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2063	2346														DAW-DC-C12					Macroalgae > Erect fine branching	Green							43.9
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2063	2346														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								43.9
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2053	3612														DAW-DC-C12					Macroalgae > Erect fine branching	Green							95.4
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2044	2043														DAW-DC-C12					Macroalgae > Erect fine branching	Green							36.9
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2044	2043														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								36.9
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1718	3341														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								76.9
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1788	2114														DAW-DC-C12					Macroalgae > Erect fine branching	Green							25.9
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1788	2114														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								25.9
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2119	3682														DAW-DC-C12					Macroalgae > Erect fine branching	Green							100.0
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1796	2318														DAW-DC-C12					Macroalgae > Erect fine branching	Green							32.4
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2062	3216														DAW-DC-C12					Macroalgae > Erect fine branching	Red							77.4
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1698	2416														DAW-DC-C12					Macroalgae > Erect fine branching	Green							32.9
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2043	3089														DAW-DC-C12					Macroalgae > Erect fine branching	Red							71.3
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1770	2112														DAW-DC-C12					Macroalgae > Erect fine branching	Green							25.0
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1796	2318														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								32.4
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2062	3216														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								77.4
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1698	2416														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								32.9
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2043	3089														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								71.3
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1770	2112														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								25.0
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1814	3136														DAW-DC-C12					Macroalgae > Erect fine branching	Green							68.4
 _DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2004	3162														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								73.6
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1647	2128														DAW-DC-C12					Macroalgae > Erect fine branching	Green							20.3
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1815	2427														DAW-DC-C12					Macroalgae > Erect fine branching	Green							37.0
-_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2111	2898														DAW-DC-C12					Macroalgae > Erect fine branching	Red							65.1
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1647	2128														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								20.3
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		1815	2427														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								37.0
+_DAW-DC-C12_01_20221206_TOP_1_0005_0001.mp4_0027247.jpg	      0		2111	2898														DAW-DC-C12					Matrix > Mixed Sessile Invertebrate								65.1
 _DAW-DC-C13_01_20221206_TOP_2_0004_0001.mp4_0045794.jpg	      0		570	1915														DAW-DC-C13					Unscorable								38.4
 _DAW-DC-C13_01_20221206_TOP_2_0004_0001.mp4_0045794.jpg	      0		1058	911														DAW-DC-C13					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.7
 _DAW-DC-C13_01_20221206_TOP_2_0004_0001.mp4_0045794.jpg	      0		723	346														DAW-DC-C13					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						82.9
@@ -5083,7 +5083,7 @@ _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		662	3699							
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		920	2080														DAW-DC-C14					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.9
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		906	2591														DAW-DC-C14					Cnidaria > Corals	Black & Octocorals	Fan (2D)						39.2
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		826	3785														DAW-DC-C14					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						93.9
-_DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		688	2147														DAW-DC-C14					Macroalgae > Erect fine branching	Green							34.6
+_DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		688	2147														DAW-DC-C14					Bryozoa > Soft	Foliaceous							34.6
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		897	3054														DAW-DC-C14					Cnidaria > Corals	Black & Octocorals	Fan (2D)						59.2
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		930	3097														DAW-DC-C14					Cnidaria > Corals	Black & Octocorals	Fan (2D)						60.6
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		2017	523														DAW-DC-C14					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.1
@@ -5101,9 +5101,9 @@ _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		2138	1803						
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		1942	1525														DAW-DC-C14					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						34.1
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		2046	1126														DAW-DC-C14					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.0
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		1694	1826														DAW-DC-C14					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						16.6
-_DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		2055	1483														DAW-DC-C14					Macroalgae > Erect fine branching	Red							39.8
+_DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		2055	1483														DAW-DC-C14					Matrix > Mixed Sessile Invertebrate								39.8
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		2128	1347														DAW-DC-C14					Sponges > Erect forms	Branching							46.4
-_DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		1932	233														DAW-DC-C14					Macroalgae > Erect fine branching	Red							86.6
+_DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		1932	233														DAW-DC-C14					Matrix > Mixed Sessile Invertebrate								86.6
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		2086	828														DAW-DC-C14					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						63.7
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		2120	8														DAW-DC-C14					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
 _DAW-DC-C14_01_20221206_TOP_3_0012_0001.mp4_0020506.jpg	      0		1957	2434														DAW-DC-C14					Matrix > Mixed Sessile Invertebrate								37.8
