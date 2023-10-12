@@ -1,5 +1,5 @@
 Sample,Date,Time,Time.out,Depth,Location,Site,Status,Longitude,Latitude,Exclude,Deployment.notes,Waypoint,Left.mem.card,Right.mem.card,Left.cam,Right.cam,Field.notes,Raw.hdd.number,Con.hdd.number,Observer,Maxn.complete.yyyymmdd,Maxn.checker,Successful.count,Length.analyst,Length.complete.date.yyyymmdd,Successful.length,Habitat.image.forward,Analysis.notes
-INV-DC_101,25/11/2022,459,506,47,Investigator MBH,,,121.1817837,-33.9068775,,"wait for second clapper sync, the wait for 3 clapper for drop number, not in qgis map",1,,,,,,,,,,,,,,,,
+INV-DC-101,25/11/2022,459,506,47,Investigator MBH,,,121.1817837,-33.9068775,,"wait for second clapper sync, the wait for 3 clapper for drop number, not in qgis map",1,,,,,,,,,,,,,,,,
 INV-DC-071,25/11/2022,518,525,56,Investigator MBH,,,121.1584054,-33.9164978,,wrong clapper after this one,2,,,,,,,,,,,,,,,,
 INV-DC-013,25/11/2022,544,550,52,Investigator MBH,,,121.1206892,-33.90787547,,wrong clapper number after,3,,,,,,,,,,,,,,,,
 INV-DC-102,25/11/2022,557,604,28,Investigator MBH,,,121.1163692,-33.9101194,,,4,,,,,,,,,,,,,,,,
@@ -147,7 +147,7 @@ SAL-DC-009,21/11/2022,1054,1103,106,Salisbury MBH,,,123.6259746,-34.58771137,,"c
 SAL-DC-018,21/11/2022,1146,1155,91,Salisbury MBH,,,123.6385784,-34.55904026,,,14,,,,,,,,,,,,,,,,
 SAL-DC-044,21/11/2022,1207,1216,90,Salisbury MBH,,,123.6141254,-34.54394722,,,15,,,,,,,,,,,,,,,,
 SAL-DC-098,21/11/2022,1229,1238,88.5,Salisbury MBH,,,123.5840488,-34.55262395,,,16,,,,,,,,,,,,,,,,
-SAL-DC_101,21/11/2022,1250,1258,48,Salisbury MBH,,,123.56527,-34.557467,,,17,,,,,,,,,,,,,,,,
+SAL-DC-101,21/11/2022,1250,1258,48,Salisbury MBH,,,123.56527,-34.557467,,,17,,,,,,,,,,,,,,,,
 SAL-DC-064,21/11/2022,1307,1315,89,Salisbury MBH,,,123.5502064,-34.56640123,,,18,,,,,,,,,,,,,,,,
 SAL-DC-023,21/11/2022,1330,1338,91,Salisbury MBH,,,123.5182425,-34.56150648,,,19,,,,,,,,,,,,,,,,
 SAL-DC-058,21/11/2022,1346,1354,88,Salisbury MBH,,,123.529527,-34.54617895,,no cam 11,20,,,,,,,,,,,,,,,,

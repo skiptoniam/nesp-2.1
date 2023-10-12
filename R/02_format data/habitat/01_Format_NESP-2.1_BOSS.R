@@ -49,8 +49,8 @@ metadata <- list.files(path = raw.dir,
   purrr::map_dfr(~read_files_csv(.)) %>%
   dplyr::select(campaignid, sample, latitude, longitude, date, site, location, successful.count, depth) %>% # select only these columns to keep
   dplyr::mutate(sample = as.character(sample)) %>% # in this example dataset, the samples are numerical
-  dplyr::filter(!campaignid %in% c(
-                                   "Salisbury_Investigator_MBH_BOSS_habitat")) %>% # Remove utas data
+  # dplyr::filter(!campaignid %in% c(
+  #                                  "Salisbury_Investigator_MBH_BOSS_habitat")) %>% # Remove utas data
   glimpse() # preview
 
 unique(metadata$campaignid)
@@ -77,15 +77,17 @@ habitat <- list.files(path = raw.dir,
                       full.names = T) %>%
   purrr::map_dfr(~read_tm_delim(.)) %>% # read in the file
   ga.clean.names() %>% # tidy the column names using GlobalArchive function
-  mutate(sample = ifelse(str_detect(campaignid, "BRUV"), as.character(opcode), as.character(period))) %>%
+  dplyr::mutate(sample = ifelse(str_detect(campaignid, "BRUV"), as.character(opcode), as.character(period))) %>%
+  dplyr::mutate(sample = ifelse(campaignid %in% "Salisbury_Investigator_MBH_BOSS_habitat",
+                                str_replace_all(filename, c(".jpg" = "", ".png" = "", ".jpeg" = "", "_" = "-")), sample)) %>%
   separate(catami_l2_l3, into = c("catami_l2", "catami_l3"), sep = " > ") %>%
   dplyr::select(campaignid, sample,image.row,image.col,
                 catami_l2, catami_l3, catami_l4) %>%     # select only these columns to keep
   dplyr::mutate(sample = ifelse(sample %in% "DAW-DC-C04", "DAW-DC-CO4", 
                                 ifelse(sample %in% "DAW-DC-C05", "DAW-DC-CO5", 
                                        ifelse(sample %in% "DAW-DC-C06", "DAW-DC-CO6", sample)))) %>%
-  dplyr::filter(!campaignid %in% c(
-                                   "Salisbury_Investigator_MBH_BOSS_habitat")) %>% # Remove utas data
+  # dplyr::filter(!campaignid %in% c(
+  #                                  "Salisbury_Investigator_MBH_BOSS_habitat")) %>% # Remove utas data
   glimpse() # preview
 
 unique(habitat$sample)
