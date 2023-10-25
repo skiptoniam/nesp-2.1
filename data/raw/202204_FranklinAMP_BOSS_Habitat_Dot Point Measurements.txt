@@ -2,7 +2,7 @@ Dot Point Measurements
 																									
 Generated: Monday 22 August 2022 17:02:00																									
 																									
-Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare									Radius %
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	CATAMI_L2_L3	CATAMI_L4	CATAMI_L5	CATAMI_L6					Radius %
 F_1.jpg	0		727	897	202204	FranklinAMP							AB				Bedforms > 2D	Waves (>10cm height)			Unidentifiable	Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	f8f0be68-8462-452c-9150-cf1a6701ec48	61.5
 F_1.jpg	0		771	528	202204	FranklinAMP							AB				Bedforms > 2D	Waves (>10cm height)			Unidentifiable	Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	f8f0be68-8462-452c-9150-cf1a6701ec48	77.2
 F_1.jpg	0		602	1442	202204	FranklinAMP							AB				Unscorable				Unidentifiable	Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	2a00a85e-6675-4d69-ab4f-197992dcead7	46.2

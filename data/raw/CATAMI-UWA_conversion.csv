@@ -9,6 +9,13 @@ Ascidians > Unstalked,Colonial,,Ascidians
 Bacterial mats > Cyanobacteria,,,Bacterial mats
 Bacterial mats > Other,,,Bacterial mats
 Bacterial mats,,,Bacterial mats
+Bedforms > 2D,Waves (>10cm height),,Unconsolidated
+Bedforms > 3D,Ripples (<10cm height),,Unconsolidated
+Bedforms > 3D,Waves (>10cm height),,Unconsolidated
+Bedforms > 2D,Ripples (<10cm height),,Unconsolidated
+Bioturbation,,,Unconsolidated
+Bioturbation > Crawling traces,Thin trail,,Unconsolidated
+Bioturbation > Resting traces,Large depression,,Unconsolidated
 Bryozoa > Hard,Branching,,Bryozoa
 Bryozoa > Hard,Encrusting,,Bryozoa
 Bryozoa > Hard,Fenestrate,,Bryozoa
@@ -181,6 +188,8 @@ Substrate > Unconsolidated (soft),Sand / mud (<2mm),Mud / silt (<64um),Unconsoli
 Substrate > Unconsolidated (soft),Sand / mud (<2mm),,Unconsolidated
 Substrate > Unconsolidated (soft),,,Unconsolidated
 Substrate,,,
+Worms > Polychaetes,Tube worms,,Unconsolidated
+Worms,,,Unconsolidated
 Anthropogenic Debris,,,Unknown
 Biota,,,Unknown
 Unscorable,,,Unknown

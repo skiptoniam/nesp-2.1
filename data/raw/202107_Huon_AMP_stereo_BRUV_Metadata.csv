@@ -1,0 +1,182 @@
+Sample,Date,Time,Time.out,Depth,Location,Site,Status,Latitude,Longitude,Inc_prob,Deployment.notes,Waypoint,Left.mem.card,Right.mem.card,Left.cam,Right.cam,Field.notes,Raw.hdd.number,Con.hdd.number,Observer,Maxn.complete.yyyymmdd,Maxn.checker,Successful.count,Length.analyst,Length.complete.date.yyyymmdd,Successful.length,Habitat.image.forward,Extra.Vid,Analysis.notes
+1_1,21/06/2021,8:45,9:45,110,Huon AMP,1,IV,-43.67942372,147.0936608,0.000336593,,,,,1278,1279,,,,DS,,,Y,DS,,Y,Y,,Pipefish
+1_2,14/07/2021,13:17,,108,Huon AMP,1,IV,-43.67712313,147.0931289,0.000336593,,,,,1276,1277,,,,DS,,,Y,DS,,Y,Y,,"Right video cuts out at end, but no lengths needed to be taken after. Squid"
+1_3,14/07/2021,13:12,,107,Huon AMP,1,IV,-43.67770155,147.0891668,0.000336593,,,,,1280,1281,,,,DS,,,Y,DS,,Y,Y,,"Draughboard shark, and flathead"
+1_4,14/07/2021,13:23,,107,Huon AMP,1,IV,-43.67635825,147.0904858,0.000336593,,,,,1278,1279,,,,DS,,,Y,DS,,Y,Y,,"Sharks, unknown silver gurnard type fish"
+1_5,14/07/2021,13:28,,107,Huon AMP,1,IV,-43.67482038,147.0952388,0.000336593,,,,,1260,1261,,,,DS,,,Y,DS,,N ,Y,,"No right camera, no measurements"
+1_6,14/07/2021,13:36,,105,Huon AMP,1,IV,-43.6742494,147.0899542,0.0254953,58 failed for unknown reason,,,,1258,1259,,,,DS,,,Y,DS,,N,Y,,"No right camera, no measurements. Dogfish"
+2_1,14/07/2021,13:32,,69,Huon AMP,2,IV,-43.61593706,147.2297023,0.819928,,,,,1262,1263,,,,NFH,,,Y,NFH,,Y,Y,NFH,Spider crab at maxn
+2_2,23/06/2021,11:22,11:24,69,Huon AMP,2,IV,-43.61767486,147.2236384,0.819928,,,,,406,407,,,,NFH,   ,,N,NFH,,N ,Y,NFH,"Video not synced - need to be fixed, no measurements"
+2_3,23/06/2021,11:00,12:01,66,Huon AMP,2,IV,-43.61670724,147.2281216,0.819928,,,,,1260,1261,,,,NFH, ,,Y,NFH,,Y,Y,NFH,"Red swimmer Crab, Spider Crab"
+2_4,23/06/2021,11:14,12:17,64,Huon AMP,2,IV,-43.61709546,147.2257477,0.819928,,,,,1280,1281,,,,NFH,,,Y,NFH,,Y,Y,NFH,"Scored left CAM - Calamari, Scaber, Splendid and Butterfly Perch galore "
+2_5,23/06/2021,11:06,12:07,62,Huon AMP,2,IV,-43.62130399,147.2307785,0.819928,,,,,1258,1259,,,,NFH,,,Y,NFH,,Y,Y,NFH,"Scored left CAM - Calamari, Scaber, Splendid and Butterfly Perch galore "
+2_6,23/06/2021,11:32,12:35,54,Huon AMP,2,IV,-43.61556144,147.225742,0.819928,Dark light dim,,,,1276,1277,,,,NFH,,,Y,NFH,,Y,Y,NFH,Calamari Squid
+3_1,23/06/2021,11:27,12:31,85,Huon AMP,3,IV,-43.63738201,147.2448332,0.15424,,,,,1262,1263,,,,NFH,,,Y,NFH,,Y,Y,,n/a
+3_2,14/07/2021,8:36,,84,Huon AMP,3,IV,-43.63814333,147.2474765,0.15424,,,,,1276,1277,,,,NFH,,,Y,NFH,,Y,Y,,n/a
+3_3,14/07/2021,8:24,,82,Huon AMP,3,IV,-43.6362195,147.2503728,0.15424,,,,,1258,1259,,,,NFH,,,Y,NFH,,N ,Y,,"Picture Dimension Error, no measurements"
+3_4,14/07/2021,8:40,,81,Huon AMP,3,IV,-43.64140138,147.248282,0.15424,,,,,1260,1261,,,,NFH,,,Y,NFH,,Y,Y,,n/a
+3_5,14/07/2021,8:44,,80,Huon AMP,3,IV,-43.63775466,147.2498512,0.15424,,,,,1262,1263,,,,NFH,,,Y,NFH,,Y,Y,,"Smooth Stingray, draughtboard shark and flathead -- very cool video"
+3_6,14/07/2021,8:32,,76,Huon AMP,3,IV,-43.64063093,147.2498631,0.15424,one cam out of focus,,,,406,407,,,,NFH,,,Y,NFH,,Y,Y,,Beautiful reef and different species - cool video
+4_1,14/07/2021,8:28,,104,Huon AMP,4,IV,-43.66776331,147.2906555,0.0254953,one camera on tilt,,,,1280,1281,,,,NFH,,,Y,NFH,,Y,Y,,Cyttus australis and Sepioteuthis australis 
+4_2,8/07/2021,9:06,,100,Huon AMP,4,IV,-43.66680052,147.2922357,0.0254953,ok,,,,1258,1259,,,,NFH,,,Y,NFH,,Y,Y,,n/a
+4_3,8/07/2021,9:16,,99,Huon AMP,4,IV,-43.66533871,147.2905765,0.0254953,ok,,,,1280,1281,,,,NFH,,,Y,NFH,,Y,Y,,n/a
+4_4,8/07/2021,9:25,,90,Huon AMP,4,IV,-43.663937,147.2872032,0.15424,,,,,1262,1263,,,,NFH,,,Y,NFH,,Y,Y,,n/a
+4_5,8/07/2021,9:01,,89,Huon AMP,4,IV,-43.66911158,147.2882845,0.15424,ok,,,,1278,1279,,,,NFH,,,Y,NFH,,Y,Y,,n/a
+4_6,8/07/2021,15:41,,88,Huon AMP,4,IV,-43.66566341,147.2869473,0.15424,"repeat of upside down cam, Facing down after 8min BT",,,,1278,1279,,,,NFH,,,Y,NFH, ,Y,Y,,n/a
+5_1,8/07/2021,9:02,,100,Huon AMP,5,IV,-43.70132739,147.2876459,0.0254953,ok,,,,1260,1261,,,,NFH,,,Y,NFH,,Y,Y,,Jackass morwong galore
+5_2,24/06/2021,13:37,14:41,98,Huon AMP,5,IV,-43.70172537,147.2818331,0.0254953,,,,,1278,1279,,,,NFH,,,Y,NFH,,N,Y,,"No right CAM, no measurements"
+5_3,24/06/2021,13:33,14:35,98,Huon AMP,5,IV,-43.70383002,147.2836932,0.0254953,1280 Set to Narrow,,,,1280,1281,,,,NFH,,,Y,NFH,,Y,Y,,Eagle Ray (Myliobatis australis) and school of sandpaper fish. 
+5_4,24/06/2021,13:25,14:25,91,Huon AMP,5,IV,-43.70038183,147.2823554,0.0254953,Flips upside down after about 15min,,,,1258,1259,,,,NFH,,,Y,NFH,,Y,Y,,"no left camera, no measurements"
+5_5,24/06/2021,13:48,14:53,88,Huon AMP,5,IV,-43.70114226,147.285002,0.15424,1276 Stoped recording on the surface,,,,1276,1277,,,,NFH,,,Y,NFH,,Y,Y,,n/a
+5_6,24/06/2021,13:12,14:30,88,Huon AMP,5,IV,-43.69903171,147.2855206,0.15424,,,,,1260,1261,,,,NFH,,,Y,NFH,,Y,Y,,Cross-back Stringray 
+6_1,24/06/2021,13:42,14:49,67,Huon AMP,6,IV,-43.63862665,147.2610974,0.819928,Lands sideways on rock and flips upside down,,,,1262,1263,,,,NFH,,,Y,NFH, ,Y,Y,,"Interesting species on MaaxN such as calamari, sandpaper, scaber galore"
+6_2,22/06/2021,7:58,9:02,62,Huon AMP,6,IV,-43.63832178,147.2535499,0.819928,,,,,1262,1263,,,,NFH,,,Y,NFH,,Y,Y,,"Giant spider crab at maxn, crayfish feeding frenzy"
+6_3,22/06/2021,7:51,8:56,61,Huon AMP,6,IV,-43.63947405,147.2532827,0.819928,1261 set to active may have sync issues 60fps 2.7K ??,,,,1276,1277,,,,NFH,,,Y,NFH,,Y,Y,,Diff sp of beardies. 
+6_4,22/06/2021,8:08,9:10,55,Huon AMP,6,IV,-43.64033591,147.2550593,0.819928,reset no light use second drop,,,,1260,1261,,,,NFH,,,Y,NFH,,Y,Y,,crayfish and spider crab at MAXn. 
+6_5,22/06/2021,8:25,9:30,50,Huon AMP,6,IV,-43.63773708,147.2577718,0.819928,Start of 1259 May have error,,,,1258,1259,,,,NFH,,,Y,NFH,,Y,Y,,"OCTOPUS, crayfish and leatherjackets galore "
+6_6,22/06/2021,8:14,9:19,47,Huon AMP,6,IV,-43.63945865,147.2596274,0.819928,,,,,1278,1279,,,,NFH,,,Y,NFH,,N ,Y,,"RIGHT STEREO NOT WORKING, no measurements - crayfish galore"
+7_1,22/06/2021,8:19,9:25,167,Huon AMP,7,IV,-43.96704297,147.2991343,0.000336593,1280 Part 1 Corrupt: 1281 Parts 2-5 corrupt,,,,1280,1281,,,,NFH,,,Y,NFH,,Y,Y,,"Seal, bristal stars sandy habitat, bad angle for measurements"
+7_2,23/06/2021,12:51,13:56,167,Huon AMP,7,IV,-43.96993488,147.2930426,0.000336593,,,,,1276,1277,,,,NFH,,,Y,NFH,,Y,Y,,"Seal and big flathead, bristal stars sandy habitat "
+7_3,23/06/2021,13:06,14:12,167,Huon AMP,7,IV,-43.96801339,147.294626,0.000336593,,,,,1278,1279,,,,NFH,,,Y,NFH,,Y,Y,,GUMMY SHARK
+7_4,23/06/2021,12:59,14:05,167,Huon AMP,7,IV,-43.9729827,147.3007572,0.000336593,Wrong number on board has 15_6 should be 15_3,,,,1258,1259,,,,NFH,,,Y,NFH,,N ,Y,,"No left camera, no measurements - BABY GUMMY and Flathead"
+7_5,23/06/2021,13:02,14:10,167,Huon AMP,7,IV,-43.97452909,147.2959858,0.000336593,,,,,1260,1261,,,,NFH,,,Y,NFH,,Y,Y,,n/a
+7_6,23/06/2021,12:47,13:50,166,Huon AMP,7,IV,-43.97088191,147.2975606,0.000336593,,,,,1262,1263,,,,NFH,,,Y,NFH,,Y,Y,,n/a
+8_1,23/06/2021,12:55,14:01,69,Huon AMP,8,IV,-43.61576451,147.2199363,0.819928,,,,,1280,1281,,,,NFH,,,Y,NFH,,Y,Y,,Butterfly Perch and Scaber sp. galore
+8_2,11/07/2021,8:32,,64,Huon AMP,8,IV,-43.61576043,147.2220477,0.819928,,,,,1278,1279,,,,NFH,,,N,NFH,,N ,Y,NFH,DIFFERENT FRAME RATES
+8_3,11/07/2021,8:37,,56,Huon AMP,8,IV,-43.61211456,147.2233539,0.819928,,,,,1260,1261,,,,NFH,,,Y,NFH,,Y,Y,,Giant spider crab at maxn
+8_4,11/07/2021,8:27,,55,Huon AMP,8,IV,-43.61460528,147.2244188,0.819928,,,,,1276,1277,,,,NFH,,,Y,NFH,,Y,Y,,Camera were tilt halfway
+8_5,11/07/2021,8:43,,55,Huon AMP,8,IV,-43.61402586,147.226528,0.819928,,,,,1258,1259,,,,NFH,,,Y,NFH,,Y,Y,,"Butterfly Perch, leatherjackets, barbata galore"
+8_6,11/07/2021,8:48,,48,Huon AMP,8,IV,-43.61268463,147.2259951,0.819928,,,,,1262,1263,,,,NFH,,,Y,NFH,,Y,Y,,"Scored on the left CAM - rosy wrasse, butterfly perch galore"
+9_1,11/07/2021,8:22,,66,Huon AMP,9,IV,-43.6141545,147.2184647,0.819928,,,,,1280,1281,,,,NFH,,,Y,NFH,,Y,Y,,"Scored on the left CAM - splendid perch, butterfly perch and crayfish"
+9_2,11/07/2021,12:15,,63,Huon AMP,9,IV,-43.61402358,147.2205339,0.819928,,,,,1258,1259,,,,NFH,,,Y,NFH,,Y,Y,,"Cool video - Red bait crab, blue-lined goatfish, crayfish, barbata and more diff sp. "
+9_3,11/07/2021,12:01,,60,Huon AMP,9,IV,-43.61173517,147.2212412,0.819928,,,,,1280,1281,,,,NFH,,,Y,NFH,,Y,N,,n/a - camera both face a bit upright 
+9_4,11/07/2021,12:33,,56,Huon AMP,9,IV,-43.61390657,147.2234805,0.819928,,,,,1262,1263,,,,NFH,,,Y,NFH, ,Y,Y,,"Beautiful reef - cool video of diff species - Barbata , Red bait Crab, Crayfish "
+9_5,11/07/2021,12:02,,55,Huon AMP,9,IV,-43.61000477,147.22361,0.819928,screens on on retreival check settings,,,,1276,1277,,,,NFH,,,Y,NFH,,Y,Y,,Beautiful reef - cool video of diff species - Crayfish galore
+9_6,11/07/2021,12:29,,46,Huon AMP,9,IV,-43.61156634,147.2262916,0.819928,,,,,1260,1261,,,,NFH,,,Y,NFH,,Y,Y,,beautiful reef
+10_1,11/07/2021,12:25,,85,Huon AMP,10,IV,-43.62572845,147.2236682,0.15424,,,,,1278,1279,,,,Ashlee B,,,Y,Ashlee B,,Y,Y,,n.a
+10_2,21/06/2021,8:35,9:38,84,Huon AMP,10,IV,-43.62878231,147.2308071,0.15424,,,,,1280,1281,,,,Ashlee B,,,Y,Ashlee B,,Y,Y,,n.a
+10_3,21/06/2021,9:12,10:18,83,Huon AMP,10,IV,-43.62629431,147.2284218,0.15424,,,,,1262,1261,,,,Ashlee B,,,Y,Ashlee B,,N ,Y,,"DIFFERENT FRAME RATES, only scored left camera"
+10_4,21/06/2021,9:04,10:06,82,Huon AMP,10,IV,-43.62666822,147.2331748,0.15424,,,,,1261,1260,,,,Ashlee B,,,Y,Ashlee B,,Y,Y,,n.a
+10_5,21/06/2021,15:27,16:49,75,Huon AMP,10,IV,-43.62379623,147.231052,0.15424,No Light repeated; Repeat Good,,,,1260,1261,,,,Ashlee B,,,Y,Ashlee B,,Y,Y,,LIGHT FLICKERING and not well lit for most of video. good vid of scaber eating fish (marked)
+10_6,21/06/2021,8:55,9:57,72,Huon AMP,10,IV,-43.62341697,147.2289389,0.15424,,,,,1258,1259,,,,Ashlee B,,,Y,Ashlee B,,Y,Y,,na.
+11_1,8/07/2021,12:49,,99,Huon AMP,11,IV,-43.65778761,147.2924561,0.0254953,,,,,1280,1281,,,,Ashlee B,,,Y,Ashlee B,,Y,Y,,video at 37min 30 sec botttom time (of giant spider crab)
+11_2,8/07/2021,12:39,,95,Huon AMP,11,IV,-43.65664451,147.2895454,0.0254953,,,,,1276,1277,,,,Ashlee B,,,Y,Ashlee B,,Y,Y,,n.a
+11_3,8/07/2021,12:57,,95,Huon AMP,11,IV,-43.65626659,147.2924896,0.0254953,,,,,1260,1261,,,,Ashlee B,,,Y,Ashlee B,,Y,Y,,n/a
+11_4,8/07/2021,14:34,,95,Huon AMP,11,IV,-43.65452989,147.291648,0.0254953,"repeated site of one cam failure on first drop, Facing up after 25min BT",,,,1278,1279,,,,Ashlee B,,,Y,Ashlee B,,Y,Y,,n/a
+11_5,8/07/2021,12:52,,92,Huon AMP,11,IV,-43.66003296,147.2901688,0.0254953,,,,,1262,1263,,,,,,,N,,,N,N,,No footage
+11_6,8/07/2021,15:35,,89,Huon AMP,11,IV,-43.65875309,147.2898196,0.15424,"repeat of upward facing drop, Sideways scire Right Camera 1261",,,,1260,1261,,,,Ashlee B,,,Y,,,Y,Y,,"switched cameras around for scoring, camera scored does weird morphing thing. cool vid of octopus"
+12_1,21/06/2021,14:03,15:12,76,Huon AMP,12,IV,-43.64992414,147.2657623,0.000336593,,,,,1260,1261,,,,Ashlee B,,,Y,,,Y,Y,,video best at laticeps or scaber maxn
+12_2,21/06/2021,14:21,15:45,68,Huon AMP,12,IV,-43.65326121,147.2612173,0.819928,1281 recorded at 60fps,,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+12_3,21/06/2021,14:08,13:37,67,Huon AMP,12,IV,-43.65461332,147.2621236,0.819928,Flips Upside down,,,,1258,1259,,,,Ashlee B, ,,Y,,,Y,Y,,n/a
+12_4,21/06/2021,14:14,13:41,67,Huon AMP,12,IV,-43.65268342,147.2623252,0.819928,Facing up,,,,1278,1279,,,,Ashlee B,,,Y,,,Y,Y,,n.a
+12_5,21/06/2021,14:34,15:55,67,Huon AMP,12,IV,-43.64982494,147.264162,0.819928,,,,,1276,1277,,,,Ashlee B,,,Y,,,Y,Y,,switched cameras around for scoring.
+12_6,21/06/2021,13:57,15:04,66,Huon AMP,12,IV,-43.65320479,147.2604637,0.819928,,,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,,n.a
+13_1,8/07/2021,11:00,,92,Huon AMP,13,IV,-43.64952036,147.2160983,0.0254953,,,,,1278,1279,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+13_2,8/07/2021,14:44,,87,Huon AMP,13,IV,-43.64836534,147.2184708,0.15424,repeat of cam failure,,,,1276,1277,,,,Ashlee B,,,Y,,,N ,Y,,"measurements out by 2-5cm,  not sure why. only scored left camera, barbata with parasite"
+13_3,8/07/2021,11:07,,80,Huon AMP,13,IV,-43.6466345,147.2211052,0.15424,Score Right Cam 1281,,,,1280,1281,,,,Ashlee B,,,Y,,,N,Y,,only has left camera
+13_4,8/07/2021,10:55,,80,Huon AMP,13,IV,-43.64497247,147.2180852,0.15424,,,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,,leatherjacket trying to eat the camera
+13_5,8/07/2021,11:17,,74,Huon AMP,13,IV,-43.64490772,147.2216269,0.15424,Score Right 1277 Sponge in Left Cam,,,,1276,1277,,,,Ashlee B,,,Y,,,Y,Y,,n.a
+13_6,8/07/2021,11:11,,73,Huon AMP,13,IV,-43.64661274,147.2174387,0.15424,,,,,1258,1259,,,,Ashlee B,,,Y,,,N ,Y,,"1 unknown species, only scored left camera because it flips and is impossible to get measurements"
+14_1,9/07/2021,14:52,,156,Huon AMP,14,IV,-43.83160322,147.354129,0.000336593,"New location to use bruv at end of day 43 deg 39.673mins, 147 deg 15.118 mins",,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+14_2,24/06/2021,8:15,9:21,155,Huon AMP,14,IV,-43.82738897,147.3527798,0.000336593,,,,,1258,1259,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+14_3,24/06/2021,8:19,9:26,155,Huon AMP,14,IV,-43.82470702,147.3519695,0.000336593,"Can't see bottom, Bruv sitting on rock",,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+14_4,24/06/2021,8:10,9:16,154,Huon AMP,14,IV,-43.82640127,147.3620438,0.000336593,"Can't see bottom, Bruv sitting on rock",,,,1278,1279,,,,Ashlee B,,,Y,,,N,Y,,"unable to play right side video, issue with first section of video"
+14_5,24/06/2021,8:05,9:10,153,Huon AMP,14,IV,-43.82449386,147.3588542,0.000336593,,,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+14_6,24/06/2021,8:25,9:33,153,Huon AMP,14,IV,-43.82602614,147.3593931,0.000336593,,,,,1260,1261,,,,,,,N,,,N ,N,,NONE of the videos are loading into EM properly
+15_1,24/06/2021,8:00,9:06,69,Huon AMP,15,IV,-43.62148278,147.2371141,0.819928,,,,,1276,1277,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+15_2,11/07/2021,14:01,,69,Huon AMP,15,IV,-43.61727666,147.231027,0.819928,,,,,1278,1279,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+15_3,11/07/2021,14:01,,66,Huon AMP,15,IV,-43.61784709,147.2334047,0.819928,,,,,1276,1277,,,,Ashlee B,,,N,,,N,Y,,1 unknown shark DIFFERENT FRAME RATES
+15_4,11/07/2021,14:15,,66,Huon AMP,15,IV,-43.61726751,147.2355139,0.819928,,,,,1258,1259,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+15_5,11/07/2021,13:57,,65,Huon AMP,15,IV,-43.62225847,147.2328938,0.819928,,,,,1262,1263,,,,Ashlee B,,,Y,,,N,Y,,"DIFFERENT FRAME RATES, at start of each section of gopro video left camera freezez causing it to go out of sync"
+15_6,11/07/2021,14:19,,65,Huon AMP,15,IV,-43.61918828,147.2339377,0.819928,,,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+16_1,11/07/2021,14:05,,138,Huon AMP,16,IV,-43.75655693,147.0213482,0.000336593,,,,,1260,1261,,,,Ashlee B,,,Y,,,Y,Y,,"butterfly gurnard, octopus"
+16_2,22/06/2021,10:43,10:47,138,Huon AMP,16,IV,-43.75291429,147.017908,0.000336593,1281 recorded at 60fps,,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+16_3,22/06/2021,10:37,10:42,137,Huon AMP,16,IV,-43.75789859,147.0242587,0.000336593,,,,,1278,1279,,,,Ashlee B,   ,,Y,,,Y,Y,,massive group of macropterus
+16_4,22/06/2021,10:33,10:36,137,Huon AMP,16,IV,-43.7508047,147.0200236,0.000336593,,,,,1258,1259,,,,ashlee B,,,Y,,,Y,Y,,octopus slowly crawling across screen most of video
+16_5,22/06/2021,10:51,12:00,137,Huon AMP,16,IV,-43.75003693,147.0239911,0.000336593,,,,,1260,1261,,,,Ashlee B,,,Y,,,Y,Y,,"one fish that can be ID, already checked with jac/justin"
+16_6,22/06/2021,10:48,11:55,136,Huon AMP,16,IV,-43.75559719,147.0261096,0.000336593,,,,,1262,1263,,,,Ashlee B,,,Y,,,N,Y,,only right side camera
+17_1,22/06/2021,10:55,12:59,113,Huon AMP,17,IV,-43.69893561,147.0094678,0.000336593,Wrong number on board 23-4 should be 23-6,,,,1276,1277,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+17_2,9/07/2021,10:03,,111,Huon AMP,17,IV,-43.6966344,147.0115817,0.000336593,,,,,1276,1277,,,,Ashlee B,,,Y,,,Y,Y,,weird rabbit sponge 
+17_3,9/07/2021,14:01,,110,Huon AMP,17,IV,-43.69471635,147.016074,0.000336593,"repeat of cam fail, Failed cam on solid reef repeat on Mixed reef/sand",,,,1259,1258,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+17_4,9/07/2021,10:35,,108,Huon AMP,17,IV,-43.69644291,147.0086746,0.000336593,,,,,1278,1279,,,,Ashlee B,,,Y,,,Y,Y,,seahorse
+17_5,9/07/2021,10:45,,105,Huon AMP,17,IV,-43.69510045,147.0110528,0.000336593,,,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+17_6,9/07/2021,10:19,,101,Huon AMP,17,IV,-43.69490898,147.0076172,0.0254953,,,,,1258,1259,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+18_1,9/07/2021,10:04,,68,Huon AMP,18,IV,-43.60771945,147.2154208,0.819928,,,,,1280,1281,,,,Ashlee B,,,Y,,,N,Y,,DIFFERENT FRAME RATES
+18_2,10/07/2021,8:47,,68,Huon AMP,18,IV,-43.60809846,147.2177972,0.819928,,,,,1258,1259,,,,,,,N,,,N,N,,
+18_3,10/07/2021,8:35,,66,Huon AMP,18,IV,-43.61001041,147.2207071,0.819928,,,,,1278,1279,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+18_4,10/07/2021,8:03,,64,Huon AMP,18,IV,-43.60866967,147.2199105,0.819928,Claper board has 1261-1263 should be 1262-1263,,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,,best video would be at 53min 
+18_5,10/07/2021,8:42,,63,Huon AMP,18,IV,-43.60634733,147.2171063,0.819928,,,,,1260,1261,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+18_6,10/07/2021,9:02,,62,Huon AMP,18,IV,-43.60694542,147.2191125,0.819928,81 has front screen on..,,,,1260,1281,,,,Ashlee B,,,Y,,,Y,Y,,giant spider crab at maxn
+19_1,10/07/2021,8:56,,94,Huon AMP,19,IV,-43.65678543,147.2795818,0.0254953,,,,,1277,1278,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+19_2,23/06/2021,14:45,15:52,82,Huon AMP,19,IV,-43.6596713,147.2756334,0.15424,,,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,"very pretty video, funny vid at P. gigas and Laticep maxn"
+19_3,23/06/2021,14:39,15:43,81,Huon AMP,19,IV,-43.65525514,147.2785328,0.15424,,,,,1258,1259,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+19_4,23/06/2021,14:49,15:58,81,Huon AMP,19,IV,-43.65851633,147.277477,0.15424,,,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,,switched cameras around for scoring. 
+19_5,23/06/2021,14:44,15:56,78,Huon AMP,19,IV,-43.65578314,147.2815035,0.15424,,,,,1278,1279,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+19_6,23/06/2021,14:36,15:40,76,Huon AMP,19,IV,-43.65637023,147.2754134,0.15424,,,,,1260,1261,,,,Ashlee B,,,Y,,,Y,Y,,1 unknown 
+20_1,23/06/2021,14:59,15:03,90,Huon AMP,20,IV,-43.6593977,147.2610339,0.0254953,,,,,1276,1277,,,,Ashlee B,,,Y,,,Y,Y,,59min 55 sec BT
+20_2,8/07/2021,14:18,,87,Huon AMP,20,IV,-43.65844376,147.2589168,0.15424,,,,,1279,1278,,,,Ashlee B,,,Y,,,Y,Y,,stargazer in extra time
+20_3,8/07/2021,14:24,,87,Huon AMP,20,IV,-43.65902377,147.2568064,0.15424,Flips sideways as 12min BT Score Right Cam 1261,,,,1260,1261,,,,Ashlee B,,,Y,,,Y,Y,,"switched cameras for scoring, check laticeps measurement"
+20_4,8/07/2021,14:03,,82,Huon AMP,20,IV,-43.65613976,147.2602274,0.15424,upside down but ok vision,,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,,unknown leather jacket
+20_5,8/07/2021,14:39,,76,Huon AMP,20,IV,-43.65961807,147.254923,0.15424,Facing up at 6min BT,,,,1258,1259,,,,Ashlee B,,,Y,,,Y,Y,,switched cameras around for scoring. 
+20_6,8/07/2021,14:34,,68,Huon AMP,20,IV,-43.65768507,147.255216,0.819928,upside down @7min BT but ok vision,,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,n.a
+20_7,8/07/2021,14:44,,71,Huon AMP,20,IV,-43.661217,147.251967,,lights off when retrieved,,,,1276,1277,,,,Ashlee B,,,Y,,,Y,Y,,1 unknown species.
+21_1,11/07/2021,10:38,,69,Huon AMP,21,IV,-43.63811098,147.2619978,0.819928,,,,,1276,1277,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+21_2,11/07/2021,10:32,,66,Huon AMP,21,IV,-43.63619286,147.2622535,0.819928,No Data form 1279 File empty,,,,1278,1279,,,,Ashlee B,,,N,,,N ,Y,,DIFFERENT FRAME RATES
+21_3,11/07/2021,10:43,,64,Huon AMP,21,IV,-43.63790762,147.2670134,0.819928,,,,,1258,1259,,,,Ashlee B,,,Y,,,Y,Y,,very dark video 
+21_4,11/07/2021,10:28,,51,Huon AMP,21,IV,-43.63618432,147.2659497,0.819928,Facing Large Rock,,,,1260,1261,,,,Ashlee B,,,Y,,,N ,Y,,"measurements out by 2-3 cm, only scored left camera"
+21_5,11/07/2021,10:23,,48,Huon AMP,21,IV,-43.63600893,147.2588205,0.819928,,,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,, Pseudopallene ambigua 
+21_6,11/07/2021,10:48,,35,Huon AMP,21,IV,-43.63351137,147.2609218,0.819928,,,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,9 unknown species. switched cameras around for scoring. 
+22_1,10/07/2021,14:07,,108,Huon AMP,22,IV,-43.68631303,147.0411109,0.000336593,,,,,1276,1277,,,,Ashlee B,,,Y,,,Y,Y,,"2 unknown, huge school of fish"
+22_2,10/07/2021,14:01,,108,Huon AMP,22,IV,-43.68631447,147.0368831,0.000336593,some water in housing. Check,,,,1278,1279,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+22_3,10/07/2021,11:55,,107,Huon AMP,22,IV,-43.68516204,147.0424313,0.000336593,,,,,1260,1261,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+22_4,10/07/2021,11:48,,106,Huon AMP,22,IV,-43.68669555,147.0437536,0.000336593,,,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,,"1 unknown pipefish, cool vid of cuttefish trying to eat a barbata and others"
+22_5,10/07/2021,14:14,,104,Huon AMP,22,IV,-43.68305187,147.0448078,0.0254953,,,,,1258,1259,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+22_6,10/07/2021,14:22,,103,Huon AMP,22,IV,-43.68612211,147.0387327,0.0254953,,,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,n/a
+23_1,24/06/2021,11:40,12:50,157,Huon AMP,23,IV,-43.96164231,147.5263511,0.000336593,,,,,1260,1261,,,,Ashlee B,,,N,,,N ,Y,,not synced waiting for it to be fixed
+23_2,24/06/2021,11:36,12:44,157,Huon AMP,23,IV,-43.95954422,147.5239436,0.000336593,,,,,1258,1259,,,,Ashlee B,,,Y,,,Y,Y,,n.a
+23_3,24/06/2021,11:30,12:40,157,Huon AMP,23,IV,-43.95668155,147.5209987,0.000336593,1281 May be 4k @60FPS,,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,n.a
+23_4,24/06/2021,12:21,12:28,156,Huon AMP,23,IV,-43.95995792,147.5173111,0.000336593,,,,,1277,1276,,,,Ashlee B,,,Y,,,N,Y,,never across both cameras and difficult with lighting
+23_5,24/06/2021,11:26,12:35,156,Huon AMP,23,IV,-43.96071522,147.5194412,0.000336593,Wrong Cam pair on board has 1260-1261,,,,1262,1263,,,,Ashlee B,,,Y,,,Y,Y,,good video of seven gill at maxn
+23_6,24/06/2021,11:16,11:25,155,Huon AMP,23,IV,-43.96263979,147.5178653,0.000336593,,,,,1278,1279,,,,Ashlee B,,,Y,,,Y,Y,,some species couldnt be measured becuase they werent in frame enough
+24_1,9/07/2021,8:51,,118,Huon AMP,24,IV,-43.67807911,147.3188614,0.000336593,,,,,1258,1259,,,,NFH,,,Y,,,Y,Y,,n/a
+24_2,9/07/2021,14:26,,115,Huon AMP,24,IV,-43.67596913,147.3191144,0.000336593,repeated site of one cam failure on first drop,,,,1280,1281,,,,NFH,,,Y,,,Y,Y,,n/a
+24_3,9/07/2021,8:04,,106,Huon AMP,24,IV,-43.67770732,147.3146322,0.000336593,,,,,1260,1261,,,,NFH,,,Y,,,Y,Y,,n/a
+24_4,9/07/2021,8:25,,106,Huon AMP,24,IV,-43.67714435,147.310138,0.0254953,,,,,1278,1279,,,,NFH,,,Y,,,Y,Y,,n/a
+24_5,9/07/2021,14:21,,103,Huon AMP,24,IV,-43.6750192,147.3159391,0.0254953,completed after light failure before deployment on last attempt,,,,1260,1261,,,,NFH,,,Y,,,Y,Y,,Ocean perch chasing a catshark.
+24_6,9/07/2021,8:35,,101,Huon AMP,24,IV,-43.67905391,147.313054,0.0254953,,,,,1280,1281,,,,NFH,,,Y,,,Y,Y,,n/a
+25_1,9/07/2021,12:15,,169,Huon AMP,25,IV,-44.01564543,147.1445999,0.000336593,,,,,1280,1281,,,,NFH,,,Y,,,Y,Y,,"Bristal star galore , Juvenile Silver Dory with blotches"
+25_2,9/07/2021,12:30,,168,Huon AMP,25,IV,-44.01468093,147.1491143,0.000336593,Only video for 1260... 1261 had the same files/video as 1260 Deleated .,,,,1260,1261,,,,NFH,,,Y,,,Y,Y,,n/a - sandy habitat + bristal stars + amphipods
+25_3,9/07/2021,12:37,,168,Huon AMP,25,IV,-44.01659447,147.1520418,0.000336593,,,,,1258,1259,,,,NFH,,,Y,,,Y,Y,,Dogfish Shark + Gummy shark + Flat head
+25_4,9/07/2021,12:26,,168,Huon AMP,25,IV,-44.0133415,147.1469854,0.000336593,"Facing Downish, Good",,,,1279,1278,,,,NFH,,,Y,,,Y,Y,,Cool video - squid and catshark
+25_5,9/07/2021,12:20,,168,Huon AMP,25,IV,-44.02120384,147.1462077,0.000336593,On a Ledge facing down,,,,1277,1266,,,,NFH,,,Y,,,Y,Y,,School of Crested Bellowfish
+25_6,9/07/2021,12:08,,168,Huon AMP,25,IV,-44.02025084,147.1416882,0.000336593,Claper has 1262-1261 should be 1262-1263,,,,1262,1263,,,,NFH,,,Y,,,Y,Y,,A few crested bellowfish
+26_1,24/06/2021,9:44,9:47,88,Huon AMP,26,IV,-43.61865477,147.2125565,0.15424,,,,,1260,1261,,,,NFH,,,Y,,,Y,Y,,"Beautiful sponges - Banchus , Octopus!"
+26_2,24/06/2021,10:00,10:06,84,Huon AMP,26,IV,-43.62094837,147.2165239,0.15424,,,,,1276,1277,,,,NFH,,,Y,,,Y,Y,NFH,Beautiful sponges - percoides galore
+26_3,24/06/2021,9:56,11:00,79,Huon AMP,26,IV,-43.61731005,147.2138715,0.15424,,,,,1262,1263,,,,NFH,,,Y,,,Y,Y,NFH,Beautiful sponge - many diff sp. sponge blocking right camera angle
+26_4,24/06/2021,9:51,10:56,76,Huon AMP,26,IV,-43.61615706,147.215187,0.15424,,,,,1278,1279,,,,NFH,,,Y,,,Y,Y,NFH,"Beautiful sponge - Barbata galore, draughtboard shark, scaber"
+26_5,24/06/2021,9:41,10:42,75,Huon AMP,26,IV,-43.61959734,147.2214261,0.15424,,,,,1258,1259,,,,NFH,,,Y,,,Y,Y,NFH,Half banded seaperch & cuttlefish!
+26_6,24/06/2021,9:47,10:51,66,Huon AMP,26,IV,-43.61545805,147.2183123,0.819928,Facing into a hole,,,,1280,1281,,,,NFH,,,Y,,,Y,Y,NFH,"Scored left CAM - Bachus, Trumpeter, Butterfly perch, Scaber, Crayfish"
+27_1,10/07/2021,11:22,14:33,86,Huon AMP,27,IV,-43.6507122,147.2847635,0.15424,Seal,,,,1262,1263,,,,NFH,,,Y,,,Y,Y,NFH,"striped trumpeter, butterfly perch, pregnant draughtboard, bachus"
+27_2,10/07/2021,11:13,8:50,75,Huon AMP,27,IV,-43.6522376,147.2882038,0.15424,,,,,1260,1261,,,,NFH,,,Y,,,Y,Y,NFH,Scored left CAM - CAM tilting in the video
+27_3,10/07/2021,11:18,8:33,69,Huon AMP,27,IV,-43.65142911,147.2889657,0.819928,,,,,1278,1279,,,,NFH,,,Y,,,Y,Y,NFH,CAM upside down - right CAM was blocked no measurements
+27_4,10/07/2021,11:00,,67,Huon AMP,27,IV,-43.64932112,147.286454,0.819928,Only video for 1258... 1259 had the same files/video as 1258 Deleated .,,,,1258,1259,,,,DS,,,Y,,,Y,Y,,"BRUV fell backward after about 5 minutes, so most video is looking straight up"
+27_5,10/07/2021,10:53,,65,Huon AMP,27,IV,-43.64955243,147.288455,0.819928,,,,,1280,1281,,,,DS,,,Y,,,Y,Y,,"BRUV fell sideways at 4.5 min, and then upside down shortly after. rep video complete but not highlight"
+27_6,10/07/2021,11:07,8:44,63,Huon AMP,27,IV,-43.64792081,147.2850914,0.819928,,,,,1276,1277,,,,DS,,,Y,,,Y,Y,,BRUV starts getting pulled at about 4.5 min in. Looks like calibration might be a bit off
+28_1,21/06/2021,12:19,13:23,112,Huon AMP,28,IV,-43.68959178,146.9630482,0.000336593,,,,,1276,1277,,,,DS,,,Y,,,Y,Y,,Not much. Dark sand site
+28_2,21/06/2021,12:25,13:29,112,Huon AMP,28,IV,-43.69266078,146.9662175,0.000336593,,,,,1280,1281,,,,DS,,,Y,,,N ,Y,,"No right camera, no measurements. Striped trumpeter."
+28_3,21/06/2021,15:20,16:40,110,Huon AMP,28,IV,-43.68767329,146.9601427,0.000336593,Upsidedown: Reapeated - Good,,,,1262,1263,,,,DS,,,Y,,,Y,Y,,Striped trumpeter
+28_4,21/06/2021,12:31,13:35,107,Huon AMP,28,IV,-43.6913189,146.9675395,0.000336593,,,,,1278,1279,,,,DS,,,Y,,,N ,Y,,"No right camera, no measurements"
+28_5,21/06/2021,12:37,13:38,106,Huon AMP,28,IV,-43.69055255,146.9699182,0.000336593,,,,,1258,1259,,,,DS,,,Y,,,Y,Y,,Only one flathead
+28_6,21/06/2021,12:42,13:45,103,Huon AMP,28,IV,-43.68863416,146.9667482,0.0254953,,,,,1260,1261,,,,DS,,,Y,,,Y,Y,,"Lobster, stripeys"
+29_1,21/06/2021,10:58,12:01,135,Huon AMP,29,IV,-43.73664839,147.2371732,0.000336593,,,,,1276,1277,,,,Ashlee B,,,Y,,,Y,Y,,"loads of lineata, chase off macropterus and barbata"
+29_2,21/06/2021,10:52,11:56,133,Huon AMP,29,IV,-43.7385598,147.2400898,0.000336593,,,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,1 unknown
+29_3,21/06/2021,10:46,11:50,133,Huon AMP,29,IV,-43.74067235,147.2385114,0.000336593,,,,,1278,1279,,,,AShlee B,,,Y,,,Y,Y,,"point for cool vid marked, polyommata"
+29_4,21/06/2021,10:39,10:43,132,Huon AMP,29,IV,-43.74278377,147.2374619,0.000336593,,,,,1258,1259,,,,AShlee B,,,Y,,,Y,Y,,skate idd check
+29_5,21/06/2021,10:24,11:30,132,Huon AMP,29,IV,-43.73838444,147.2321552,0.000336593,,,,,1262,1263,,,,AShlee B,,,Y,,,Y,Y,,n/a
+29_6,21/06/2021,10:32,11:35,131,Huon AMP,29,IV,-43.73569943,147.2324093,0.000336593,,,,,1260,1261,,,,Ashlee B,,,Y,,,Y,Y,,BT only 58.5min
+175_1,14/07/2021,15:50,,103.612,Huon AMP,175,IV,-43.68433333,147.0435333,,"Clapper has 30_1 -NewSite: sounder targeted ledge, 43 deg 41.060min,147 deg 02.612",,,,1262,1263,,,,AShlee B,,,Y,,,Y,Y,,"check macleayi, weird tongue coming out of sponges"
+175_2,14/07/2021,15:12,,104,Huon AMP,175,IV,-43.68491667,147.0409833,,"Clapper has 30_2 -NewSite: sounder targeted ledge, 43 deg 41.095, 147 deg 02.459",,,,1278,1279,,,,Ashlee B,,,Y,,,Y,Y,,BT only 58min
+175_3,14/07/2021,15:18,,105.194,Huon AMP,175,IV,-43.68735,147.0380667,,"Clapper has 30_3 -NewSite: sounder targeted ledge, 43deg 41.241min, 147 deg 02.284min",,,,1260,1261,,,,AShlee B,,,Y,,,Y,Y,,"pipehorse id, octopus, BT 59min"
+175_4,14/07/2021,15:24,,105.961,Huon AMP,175,IV,-43.68621667,147.033,,"Clapper has 30_4 -NewSite: sounder targeted ledge, 43 deg 41.173min,147deg 01.980 min",,,,1276,1277,,,,AShlee B,,,Y,,,Y,Y,,n.a
+175_5,14/07/2021,15:30,,103.319,Huon AMP,175,IV,-43.68813333,147.0287667,,"Clapper has 30_5 -NewSite: sounder targeted ledge, 43 deg 41.288 min, 147 deg 01.726 min",,,,1258,1259,,,,DS,,,Y,,,Y,Y,,"On the cliff edge, almost smooshed a lobster when it landed. Three lobsters with eggs"
+175_6,14/07/2021,15:35,,103.281,Huon AMP,175,IV,-43.69043333,147.0245333,,"Clapper has 30_6 -NewSite: sounder targeted ledge, 43 deg 41.426 min, 147deg 01.472 min",,,,1280,1281,,,,Ashlee B,,,Y,,,Y,Y,,1 unknown
