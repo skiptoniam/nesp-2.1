@@ -110,7 +110,7 @@ missing.habitat <- anti_join(metadata,habitat,
                              by = c("campaignid","sample"))                     # I assume these ones are ok
 
 # CREATE broad classifications
-con <- read.csv("data/raw/CATAMI-UWA_conversion.csv") %>%
+con <- read.csv("data/schema/CATAMI-UWA_conversion.csv") %>%
   ga.clean.names() %>%
   separate(catami_l2_l3, into = c("catami_l2", "catami_l3"), sep = " > ") %>%
   dplyr::mutate(catami_l2 = str_trim(catami_l2)) %>%
