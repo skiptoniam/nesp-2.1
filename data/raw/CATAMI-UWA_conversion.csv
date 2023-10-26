@@ -13,9 +13,14 @@ Bedforms > 2D,Waves (>10cm height),,Unconsolidated
 Bedforms > 3D,Ripples (<10cm height),,Unconsolidated
 Bedforms > 3D,Waves (>10cm height),,Unconsolidated
 Bedforms > 2D,Ripples (<10cm height),,Unconsolidated
+Bedforms > 2D,,,Unconsolidated
+Bedforms > 3D,,,Unconsolidated
+Bedforms > Bioturbated,,,Unconsolidated
 Bioturbation,,,Unconsolidated
+Bioturbation > Unknown origin,,,Unconsolidated
 Bioturbation > Crawling traces,Thin trail,,Unconsolidated
 Bioturbation > Resting traces,Large depression,,Unconsolidated
+Bioturbation > Dwelling traces,,,Unconsolidated
 Bryozoa > Hard,Branching,,Bryozoa
 Bryozoa > Hard,Encrusting,,Bryozoa
 Bryozoa > Hard,Fenestrate,,Bryozoa
@@ -28,6 +33,9 @@ Bryozoa,,,Bryozoa
 Cnidaria > Colonial anemones,Corallimorphs,,Colonial anemones
 Cnidaria > Colonial anemones,Zoanthids,,Zoanthids
 Cnidaria > Colonial anemones,,,Colonial anemones
+Cnidaria > Corals,Fan (2D),Fern-frond > Complex,Octocoral/Black
+Cnidaria > Corals,Quill (seapen),,Octocoral/Black
+Cnidaria > Corals,Whip,Sea Whip,Octocoral/Black
 Cnidaria > Corals,Black & Octocorals,Branching (3D),Octocoral/Black
 Cnidaria > Corals,Black & Octocorals,Encrusting,Octocoral/Black
 Cnidaria > Corals,Black & Octocorals,Fan (2D),Octocoral/Black
@@ -36,6 +44,7 @@ Cnidaria > Corals,Black & Octocorals,Organ pipe coral (Tubipora),Octocoral/Black
 Cnidaria > Corals,Black & Octocorals,Quill (seapen),Octocoral/Black
 Cnidaria > Corals,Black & Octocorals,Whip,Octocoral/Black
 Cnidaria > Corals,Black & Octocorals,,Octocoral/Black
+Cnidaria > Corals,Branching (3D),Non-fleshy > Arborescent,Octocoral/Black
 Cnidaria > Corals,Stony corals,Bottlebrush,Stony corals
 Cnidaria > Corals,Stony corals,Branching,Stony corals
 Cnidaria > Corals,Stony corals,Colonial,Stony corals
@@ -163,6 +172,7 @@ Sponges > Cup-likes,Cups,Tables / discs,Sponges
 Sponges > Cup-likes,Cups,,Sponges
 Sponges > Cup-likes,Tubes and chimneys,,Sponges
 Sponges > Cup-likes,,,Sponges
+Sponges > Cup-likes,Cup / goblet,,Sponges
 Sponges > Erect forms,Branching,,Sponges
 Sponges > Erect forms,Laminar,,Sponges
 Sponges > Erect forms,Palmate,,Sponges
@@ -186,9 +196,14 @@ Substrate > Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell frag
 Substrate > Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),Unconsolidated
 Substrate > Unconsolidated (soft),Sand / mud (<2mm),Mud / silt (<64um),Unconsolidated
 Substrate > Unconsolidated (soft),Sand / mud (<2mm),,Unconsolidated
+Substrate > Unconsolidated (soft),Fine sand (no shell fragments),,Unconsolidated
 Substrate > Unconsolidated (soft),,,Unconsolidated
-Substrate,,,
+Substrate > Unconsolidated (soft),Biologenic,,Unconsolidated
+Substrate > Unconsolidated (soft),Biologenic,Coquina / shellhash,Unconsolidated
+Substrate > Unconsolidated (soft),Coarse sand (with shell fragments),,Unconsolidated
+Substrate,,,Unconsolidated
 Worms > Polychaetes,Tube worms,,Unconsolidated
+Worms > Polychaetes,,,Unconsolidated
 Worms,,,Unconsolidated
 Anthropogenic Debris,,,Unknown
 Biota,,,Unknown

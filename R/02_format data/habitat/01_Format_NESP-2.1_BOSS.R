@@ -61,6 +61,19 @@ read_tm_delim <- function(flnm) {
                                                               "_Habitat" = "")))
 }
 
+# One campaign not in text file format
+zeehan <- read.csv("data/raw/202205_ZEEHAN_AMP_BOSS_Habitat_Dot Point Measurements.csv") %>%
+  ga.clean.names() %>%
+  dplyr::mutate(sample = str_replace_all(filename, c(".jpg" = "", ".png" = "", ".jpeg" = "")),
+                campaignid = "202205_ZEEHAN_AMP_BOSS") %>%
+  separate(c1, into = c("catami_l2", "catami_l3"), sep = " > ") %>%
+  dplyr::rename(catami_l4 = c3, catami_l5 = c4) %>%
+  dplyr::select(campaignid, sample, starts_with("catami")) %>%
+  glimpse()
+
+test <- zeehan %>%
+  distinct(catami_l2, catami_l3, catami_l4, catami_l5)
+
 habitat <- list.files(path = "data/raw",
                       recursive = F,
                       pattern = "Dot Point Measurements.txt",
@@ -83,6 +96,7 @@ habitat <- list.files(path = "data/raw",
                                 str_replace_all(sample, c("_" = "-", "INC" = "INV")), sample)) %>%
   dplyr::select(campaignid, sample, broad, morphology, type, starts_with("catami")) %>%
   separate(catami_l2_l3, into = c("catami_l2", "catami_l3"), sep = " > ") %>%
+  bind_rows(zeehan) %>%
   glimpse() # preview
 
 no.annotations <- habitat %>%

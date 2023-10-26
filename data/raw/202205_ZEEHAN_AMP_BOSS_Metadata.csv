@@ -1,4 +1,4 @@
-Period,Date,Time,Location,Depth,Site,Status,IUCN,Latitude,Longitude,Camera.model,Primary.contact,Secondary.contact,Funder,Grant no. ,Observer,Successful.count,Successful.length,Ecosystem
+Period,Date,Time,Location,Depth,Sample,Status,IUCN,Latitude,Longitude,Camera.model,Primary.contact,Secondary.contact,Funder,Grant no. ,Observer,Successful.count,Successful.length,Ecosystem
 Z_1,20220510,13:46,Zeehan AMP,137,Z_1,Fished,IUCN VI,-39.806933,143.20911,GoPro Hero10,neville.barrett@utas.edu.au,jacquomo.monk@utas.edu.au,Parks Australia,DMP-MPA-2122-038,LV,Y,Y,Mixed Rariphotic shelf reefs & Shelf unvegetated sediments
 Z_2,20220512,8:21,Zeehan AMP,113,Z_2,Fished,IUCN VI,-39.851722,143.25981,GoPro Hero10,neville.barrett@utas.edu.au,jacquomo.monk@utas.edu.au,Parks Australia,DMP-MPA-2122-038,LV,Y,Y,Rariphotic shelf reefs
 Z_3,20220508,15:13,Zeehan AMP,102,Z_3,Fished,IUCN VI,-39.80112,143.50556,GoPro Hero10,neville.barrett@utas.edu.au,jacquomo.monk@utas.edu.au,Parks Australia,DMP-MPA-2122-038,LV,Y,Y,Shelf unvegetated sediments

@@ -8,37 +8,45 @@ dat <- list.files(path = "data/staging",
                   full.names = T,
                   recursive = T) %>%
   purrr::map_dfr(~read_csv(., col_types = cols(.default = "c"))) %>%
-  dplyr::mutate(planned.or.exploratory = if_else(campaignid %in% "2021-03_West-Coast_BOSS", 
-                                                 "MBH", planned.or.exploratory)) %>%
+  dplyr::mutate(ifelse(is.na(total.points.annotated), broad.total.points.annotated, total.points.annotated)) %>%
   dplyr::select(-c(broad.kelps, broad.reef, starts_with("fov"), mean.relief, sd.relief, 
-                   method, starts_with("successful"), commonwealth.zone, state.zone, status, date, time, site)) %>%   
+                   method, starts_with("successful"), commonwealth.zone, state.zone, 
+                   status, date, time, site, broad.total.points.annotated, total.points.annotated)) %>%   
   dplyr::select(campaignid, sample, location, planned.or.exploratory,longitude, 
-                latitude, depth, starts_with("broad"), 
-                total.points.annotated) %>%
-  dplyr::filter(planned.or.exploratory %in% "MBH") %>%                  
+                latitude, depth, starts_with("broad")) %>%
   dplyr::mutate(location = case_when(location %in% "NPZ6" ~ "Abrolhos",
                                      location %in% "NPZ9" ~ "Abrolhos",
                                      location %in% "South-west" ~ "South-west Corner",
                                      .default = location)) %>%
-  dplyr::mutate_at(vars(starts_with("broad"), total.points.annotated), ~replace_na(., "0")) %>%
-  dplyr::filter(broad.total.points.annotated > 0) %>%
+  dplyr::mutate_at(vars(starts_with("broad")), ~replace_na(., "0")) %>%
+  dplyr::mutate_at(vars(starts_with("broad")), as.numeric) %>%
+  dplyr::mutate(total.points.annotated = rowSums(.[,8:(ncol(.))],na.rm = TRUE )) %>%
+  dplyr::mutate(across(everything(), as.character)) %>%
+  dplyr::filter(total.points.annotated > 0) %>%
   glimpse()
+
+unique(dat$campaignid)
 
 apollo <- read.csv("data/staging/2021-06-ApolloMP_stereoBRUVs._broad.habitat_points.csv") %>%
   ga.clean.names() %>%
   dplyr::mutate(campaignid = "2021-06-ApolloMP_stereoBRUVs",
                 planned.or.exploratory = "MBH") %>%
-  dplyr::select(campaignid, sample, longitude, latitude, location, starts_with("broad")) %>%
-  dplyr::mutate(total.points.annotated = rowSums(.[,6:(ncol(.))], na.rm = TRUE )) %>%
+  dplyr::select(campaignid, sample, longitude, latitude, location,  planned.or.exploratory,starts_with("broad")) %>%
+  dplyr::mutate(total.points.annotated = rowSums(.[,7:(ncol(.))], na.rm = TRUE )) %>%
+  dplyr::mutate(across(everything(), as.character)) %>%
   glimpse()
 
 beagle <- read.csv("data/staging/Beagle_AMP_Stereo_BRUV_Habitat_NESP_Formatted.csv") %>%
   ga.clean.names() %>%
   dplyr::mutate(campaignid = "Beagle_AMP_Stereo_BRUV") %>%
   dplyr::rename(total.points.annotated = broad.total.points.annotated.minus.openwater) %>%
-  dplyr::select(campaignid, sample, longitude, latitude, location, starts_with("broad"), 
-                -c(broad.openwater, broad.total.points.annotated)) %>%
+  dplyr::mutate(broad.unconsolidated = broad.unconsolidated.sand + broad.unconsolidated.bivalves +
+                  broad.unconsolidated.screwshells + broad.unconsolidated.biogenic) %>%
+  dplyr::select(campaignid, sample, longitude, latitude, location, planned.or.exploratory, starts_with("broad"), 
+                -c(broad.openwater, broad.total.points.annotated, broad.unconsolidated.sand, 
+                   broad.unconsolidated.bivalves, broad.unconsolidated.screwshells, broad.unconsolidated.biogenic)) %>%
   dplyr::mutate_at(vars(starts_with("broad")), ~replace_na(., 0)) %>%
+  dplyr::mutate(across(everything(), as.character)) %>%
   glimpse()
 
 freycinet <- read.csv("data/staging/Freycinet_202108_Habitat.point.score.csv") %>%
@@ -56,14 +64,20 @@ freycinet <- read.csv("data/staging/Freycinet_202108_Habitat.point.score.csv") %
                   broad.sponges.erect.forms.palmate + broad.sponges.hollow.forms.cups.and.alikes +
                   broad.sponges.large.multi.form.10cm. + broad.sponges.massive.forms.simple) %>%
   dplyr::rename(broad.unconsolidated = broad.unconsolidated.pebble.gravel.biogenic.coquina.shellhash) %>%
-  dplyr::select(campaignid, sample, longitude, latitude, location, 
+  dplyr::select(campaignid, sample, longitude, latitude, location, planned.or.exploratory,
                 broad.consolidated, broad.invertebrate.complex, broad.macroalgae,
                 broad.sponges, broad.unconsolidated) %>%
-  dplyr::mutate(total.points.annotated = rowSums(.[,6:(ncol(.))], na.rm = TRUE )) %>%
+  dplyr::mutate(total.points.annotated = rowSums(.[,7:(ncol(.))], na.rm = TRUE )) %>%
+  dplyr::mutate(across(everything(), as.character)) %>%
   glimpse()
 
-unique(dat$campaignid)
-unique(dat$location)
+final.dat <- bind_rows(apollo, beagle, dat, freycinet) %>%
+  dplyr::mutate_at(vars(starts_with("broad")), ~replace_na(., "0")) %>%
+  dplyr::filter(planned.or.exploratory %in% "MBH") %>%
+  glimpse()
 
-write.csv(dat, "data/tidy/NESP-2.1_broad-habitat.csv",
+unique(final.dat$campaignid)
+unique(final.dat$location)
+
+write.csv(final.dat, "data/tidy/NESP-2.1_broad-habitat.csv",
           row.names = F)
