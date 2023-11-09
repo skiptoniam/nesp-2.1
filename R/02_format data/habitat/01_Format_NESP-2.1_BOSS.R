@@ -22,7 +22,7 @@ library(readr)
 library(ggplot2)
 
 # Study name ----
-study <- "2022-11_Esperance" 
+study <- "nesp_2.1" 
 
 # Read in metadata----
 read_files_csv <- function(flnm) {
@@ -105,7 +105,13 @@ no.annotations <- habitat %>%
 
 # Check that the image names match the metadata samples -----
 missing.metadata <- anti_join(habitat,metadata, 
-                              by = c("campaignid","sample"))                    # None
+                              by = c("campaignid","sample"))
+sa.samps <- missing.metadata %>%
+  distinct(campaignid, sample) %>%
+  glimpse()
+write.csv(sa.samps, file = "data/raw/DEW_habitat-missing-metadata.csv",
+          row.names = F)
+
 missing.habitat <- anti_join(metadata,habitat, 
                              by = c("campaignid","sample"))                     # I assume these ones are ok
 
