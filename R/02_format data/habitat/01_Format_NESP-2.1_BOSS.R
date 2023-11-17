@@ -44,8 +44,7 @@ metadata <- list.files(path = "data/raw",
                                   str_detect(sample, "WE|MU"),
                                 str_sub(sample, start = 1L, end = -6L), sample)) %>%
   # dplyr::filter(!successful.count %in% c("No", "no", "N", "n")) %>%
-  # dplyr::filter(!campaignid %in% c(
-  #                                  "Salisbury_Investigator_MBH_BOSS_habitat")) %>% # Remove utas data
+  dplyr::filter(!campaignid %in% c("201811_Comm_PearsonExpedition_StereoBRUVS")) %>% 
   glimpse() # preview
 
 unique(metadata$campaignid)
@@ -100,9 +99,14 @@ habitat <- list.files(path = "data/raw",
   dplyr::mutate(sample = ifelse(campaignid %in% "202111-202205_SA Commonwealth Marine Park Monitoring_StereoBRUVS" &
                                   str_length(sample) == 11,
                                 str_replace_all(sample, "([^_]+)_(.*)", "O"), sample)) %>%
+  dplyr::mutate(sample = ifelse(campaignid %in% "202011-202011_SA Commonwealth Marine Park Monitoring_StereoBRUVS",
+                                str_replace_all(sample, c("SW" = "CKWI", "SC" = "CKCI",
+                                                          "SE" = "CKEI", "NW" = "WKWI",
+                                                          "NE" = "WKEI", "NC" = "WKCI")), sample)) %>%
   dplyr::select(campaignid, sample, broad, morphology, type, starts_with("catami")) %>%
   separate(catami_l2_l3, into = c("catami_l2", "catami_l3"), sep = " > ") %>%
   bind_rows(zeehan) %>%
+  dplyr::filter(!campaignid %in% c("201811_Comm_PearsonExpedition_StereoBRUVS")) %>% 
   glimpse() # preview
 
 # test <- habitat %>%
