@@ -76,8 +76,26 @@ final.dat <- bind_rows(apollo, beagle, dat, freycinet) %>%
   dplyr::filter(planned.or.exploratory %in% "MBH") %>%
   glimpse()
 
-unique(final.dat$campaignid)
-unique(final.dat$location)
+subset(final.dat,select=c(broad.seagrasses,broad.seagrasses_amphibolis.sp.,broad.seagrasses_posidonia.sp.,broad.seagrasses_halophila.sp.,broad.seagrasses_rupia.sp.,broad.seagrasses_zostera.sp.))
 
-write.csv(final.dat, "data/tidy/NESP-2.1_broad-habitat.csv",
+
+final.dat2 <- final.dat %>% 
+              dplyr::mutate(broad.sessile.inverts = rowSums(apply(.[c(7,8,10,11,15,17,18,20,21,27,28,29)],2,as.numeric),na.rm = TRUE))
+ 
+                       
+broad.seagrass <- rowSums(apply(subset(final.dat2,select=c(broad.seagrasses,broad.seagrasses_amphibolis.sp.,broad.seagrasses_posidonia.sp.,broad.seagrasses_halophila.sp.,broad.seagrasses_rupia.sp.,broad.seagrasses_zostera.sp.)),2,as.numeric))
+
+final.dat2$broad.seagrass <- broad.seagrass
+
+final.dat3 <- subset(final.dat2,select=c(1:6,9,12,14,31,32))
+
+final.dat4 <- final.dat3 %>% dplyr::mutate_at(vars(starts_with("broad")),as.numeric)
+
+final.dat5 <- final.dat4 %>% dplyr::mutate(total.points.annotated = rowSums(.[,7:(ncol(.))], na.rm = TRUE ))
+
+nodata_sites <- which(final.dat5$total.points.annotated==0)
+
+final.dat6 <- final.dat5[-as.numeric(nodata_sites),]
+
+write.csv(final.dat6, "data/tidy/NESP-2.1_broad-habitat_skip_edits.csv",
           row.names = F)
